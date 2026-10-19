@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eczane Depo Pro — Canlı Güncelleme Portalı (v1.0.7)</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+</head>
+<body class="bg-slate-950 text-slate-100 min-h-screen flex flex-col justify-between p-6">
+    <div class="max-w-3xl w-full mx-auto space-y-6 my-auto">
+        <div class="p-6 rounded-3xl bg-gradient-to-br from-slate-900 via-slate-900 to-cyan-950 border border-cyan-500/30 shadow-2xl space-y-5">
+            <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-4 border-b border-slate-800 pb-5">
+                <div class="flex items-center space-x-4">
+                    <div class="w-14 h-14 rounded-2xl bg-cyan-500/20 border border-cyan-400/40 flex items-center justify-center text-2xl text-cyan-300">
+                        <i class="fa-solid fa-cloud-arrow-down"></i>
+                    </div>
+                    <div>
+                        <div class="flex items-center gap-2.5">
+                            <h1 class="text-xl font-black text-white">Eczane Depo Pro</h1>
+                            <span id="liveVerBadge" class="text-xs font-extrabold px-3 py-0.5 rounded-full bg-emerald-500/20 text-emerald-300 border border-emerald-400/30">v1.0.7 CANLI</span>
+                        </div>
+                        <p class="text-xs text-slate-400 mt-1">Merkezi GitHub Canlı Güncelleme & Dağıtım Portalı</p>
+                    </div>
+                </div>
+                <div class="text-right text-xs text-slate-400 font-mono">
+                    <div id="liveDate">Yayın: 2026-10-19 17:40:53</div>
+                    <div class="text-cyan-400 font-bold mt-0.5" id="liveSize">Boyut: 301.7 KB</div>
+                </div>
+            </div>
+
+            <div class="bg-slate-900/90 border border-slate-800 rounded-2xl p-4 space-y-2">
+                <div class="text-xs font-bold text-cyan-300 uppercase tracking-wider flex items-center gap-2">
+                    <i class="fa-solid fa-bolt"></i> Sürüm Notları & Yenilikler
+                </div>
+                <p id="liveChangelog" class="text-sm text-slate-200 whitespace-pre-line leading-relaxed">GitHub Canli Guncelleme ve Dagitim Portali (depomxxx/depo-updates) + arka planda 5 dk periyodik otomatik canli guncelleme motoru aktif edildi; Selcuk Ecza ve Nevzat Ecza sepet adet/MF ayristirma (8+2, 10+1 vb.) ve hizli siparis sonlandirma iyilestirildi.</p>
+            </div>
+
+            <div class="bg-slate-900/60 border border-slate-800/80 rounded-2xl p-4 space-y-2">
+                <div class="flex items-center justify-between">
+                    <span class="text-xs font-bold text-slate-300"><i class="fa-solid fa-link text-cyan-400 mr-1.5"></i>Canlı Manifest URL (Program Ayarları):</span>
+                    <button onclick="navigator.clipboard.writeText(document.getElementById('manifestInput').value); this.innerText='Kopyalandı ✓';" class="text-xs px-2.5 py-1 rounded-lg bg-cyan-600/30 hover:bg-cyan-600/50 text-cyan-200 border border-cyan-500/30 cursor-pointer">Kopyala</button>
+                </div>
+                <input id="manifestInput" type="text" readonly value="https://raw.githubusercontent.com/depomxxx/depo-updates/main/version.json" class="w-full text-xs font-mono p-2.5 rounded-xl bg-slate-950 border border-slate-800 text-emerald-300 select-all">
+                <div class="text-[11px] text-slate-500 font-mono truncate">SHA-256: <span id="liveSha">41c0624e5cd843f977f68e197877bb955edcfc4bc555dc4adedef76d83d1d4a9</span></div>
+            </div>
+
+            <div class="flex flex-col sm:flex-row items-center justify-between gap-3 pt-2">
+                <span class="text-xs text-slate-400"><i class="fa-solid fa-shield-halved text-emerald-400 mr-1"></i>Eczane şifreleri (.env), lisans ve veritabanı korunur.</span>
+                <div class="flex items-center gap-2.5 w-full sm:w-auto">
+                    <a id="liveDlBtn" href="https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.0.7.zip" class="flex-1 sm:flex-initial text-center px-5 py-2.5 bg-emerald-600 hover:bg-emerald-500 text-white font-bold text-xs rounded-xl shadow-lg shadow-emerald-900/40 transition">
+                        <i class="fa-solid fa-download mr-1.5"></i>Güncelleme Paketini İndir (.zip)
+                    </a>
+                    <a href="version.json" target="_blank" class="px-3.5 py-2.5 bg-slate-800 hover:bg-slate-700 text-slate-200 font-bold text-xs rounded-xl border border-slate-700 transition">
+                        JSON
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script>
+        fetch('./version.json?t=' + Date.now()).then(r => r.json()).then(d => {
+            if (d && d.version) {
+                document.getElementById('liveVerBadge').innerText = 'v' + d.version + ' CANLI';
+                document.getElementById('liveDate').innerText = 'Yayın: ' + (d.release_date || '');
+                document.getElementById('liveSize').innerText = 'Boyut: ' + (d.size_kb || '') + ' KB';
+                document.getElementById('liveChangelog').innerText = d.changelog || '';
+                document.getElementById('liveSha').innerText = d.sha256 || '';
+                if (d.download_url) document.getElementById('liveDlBtn').href = d.download_url;
+            }
+        }).catch(() => {});
+    </script>
+</body>
+</html>
