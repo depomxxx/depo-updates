@@ -1,10 +1,10 @@
 {
   "version": "1.0.8",
   "app_name": "Eczane Depo Pro",
-  "release_date": "2026-10-19 18:01:40",
+  "release_date": "2026-10-19 18:09:50",
   "mandatory": true,
   "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.0.8.zip",
-  "sha256": "11f41d5a975a03df5ed36c98928bb65b704a744e60ed7123e81745f509bd58db",
-  "size_kb": 322.5,
-  "changelog": "v1.0.8 Güncellemesi:\n- Botanik Eczane Otomasyonu için 6 Aylık Çıkış & Akıllı Toplu Sipariş Planlama sayfası eklendi (Pazaryeri Kıyaslamasının üstünde ve üst sekmede).\n- İlaçların son 6 aylık ay-ay çıkış tablosu, günlük hız ve 6 aylık ortalama analizleri eklendi.\n- Çıkış Trendi & Uyarı Sistemi: 🟢 Stabil Çıkan, 📉 Çıkışı Son Zamanlarda Azalan (Fazla stok yapmayın uyarısı), 📈 Çıkışı Artan ve ⚡ Aralıklı analizleri eklendi.\n- Günlük Tahmini Sipariş Hedefi Ayarlayıcı (1, 7, 10, 15, 21, 30, 45, 60 gün ve özel gün) ile dinamik sipariş rakamı önerisi eklendi.\n- Şu anki var olan Canlı Depo MF'lerini ve Geçmiş Fatura MF'lerini tek tabloda gösterme, MF rozetine tıklayınca sipariş rakamını otomatik MF baremine ayarlama ve toplu siparişe aktarma eklendi."
+  "sha256": "6e91de97bae451d28c8f69d8c13fed4ecf8dc438908267ae2a3d6140a683a8e8",
+  "size_kb": 323.3,
+  "changelog": "Botanik 6 Aylik Cikis & Akilli Toplu Siparis Planlama modulu (Pazaryeri ust bar + ozel sekme), MF analizi, azalan/artan/stabil trend uyarilari ve LAN + GitHub sifir gecikmeli otomatik canli guncelleme sistemi eklendi."
 }
