@@ -1,10 +1,10 @@
 {
-  "version": "1.0.9",
+  "version": "1.1.0",
   "app_name": "Eczane Depo Pro",
-  "release_date": "2026-10-19 18:32:13",
+  "release_date": "2026-10-19 18:51:55",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.0.9.zip",
-  "sha256": "8b3570875bb9fab9e7d1a2f26d57933aef81d49216dc524e66c6a11cbb424652",
-  "size_kb": 327.5,
-  "changelog": "Esdeger / Muadil ilaclarda tum aktif depolardan (Alliance, ISKOOP, Selcuk, Eczatrend vb.) anlik canli MF baremleri ve kademe maliyetleri entegre edildi; ust sekmedeki fazlalik Ayarlar butonu kaldirildi."
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.1.0.zip",
+  "sha256": "dc93f51d23c720e12e1522b536b103af66b2d4de655647d73df2c0b451b660f2",
+  "size_kb": 329.7,
+  "changelog": "Gunun Cikislarinda Tumunu Sec (tik isareti ve tumunu sec/birak) duzeltildi; Tukenenler (0) ve Eksiye Dusenler (<0) icin ozel takip panosu ve filtreler eklendi."
 }
