@@ -1,10 +1,10 @@
 {
-  "version": "1.0.7",
+  "version": "1.0.8",
   "app_name": "Eczane Depo Pro",
-  "release_date": "2026-10-19 17:40:53",
+  "release_date": "2026-10-19 18:01:40",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.0.7.zip",
-  "sha256": "41c0624e5cd843f977f68e197877bb955edcfc4bc555dc4adedef76d83d1d4a9",
-  "size_kb": 301.7,
-  "changelog": "GitHub Canli Guncelleme ve Dagitim Portali (depomxxx/depo-updates) + arka planda 5 dk periyodik otomatik canli guncelleme motoru aktif edildi; Selcuk Ecza ve Nevzat Ecza sepet adet/MF ayristirma (8+2, 10+1 vb.) ve hizli siparis sonlandirma iyilestirildi."
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.0.8.zip",
+  "sha256": "11f41d5a975a03df5ed36c98928bb65b704a744e60ed7123e81745f509bd58db",
+  "size_kb": 322.5,
+  "changelog": "v1.0.8 Güncellemesi:\n- Botanik Eczane Otomasyonu için 6 Aylık Çıkış & Akıllı Toplu Sipariş Planlama sayfası eklendi (Pazaryeri Kıyaslamasının üstünde ve üst sekmede).\n- İlaçların son 6 aylık ay-ay çıkış tablosu, günlük hız ve 6 aylık ortalama analizleri eklendi.\n- Çıkış Trendi & Uyarı Sistemi: 🟢 Stabil Çıkan, 📉 Çıkışı Son Zamanlarda Azalan (Fazla stok yapmayın uyarısı), 📈 Çıkışı Artan ve ⚡ Aralıklı analizleri eklendi.\n- Günlük Tahmini Sipariş Hedefi Ayarlayıcı (1, 7, 10, 15, 21, 30, 45, 60 gün ve özel gün) ile dinamik sipariş rakamı önerisi eklendi.\n- Şu anki var olan Canlı Depo MF'lerini ve Geçmiş Fatura MF'lerini tek tabloda gösterme, MF rozetine tıklayınca sipariş rakamını otomatik MF baremine ayarlama ve toplu siparişe aktarma eklendi."
 }
