@@ -1,10 +1,10 @@
 {
-  "version": "1.1.0",
+  "version": "1.1.1",
   "app_name": "Eczane Depo Pro",
-  "release_date": "2026-10-19 18:51:55",
+  "release_date": "2026-10-19 19:05:19",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.1.0.zip",
-  "sha256": "dc93f51d23c720e12e1522b536b103af66b2d4de655647d73df2c0b451b660f2",
-  "size_kb": 329.7,
-  "changelog": "Gunun Cikislarinda Tumunu Sec (tik isareti ve tumunu sec/birak) duzeltildi; Tukenenler (0) ve Eksiye Dusenler (<0) icin ozel takip panosu ve filtreler eklendi."
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.1.1.zip",
+  "sha256": "af17f4d27ea984bcdf5510220c8bf055ab7f958ec57d0094063326301ae0d935",
+  "size_kb": 332.0,
+  "changelog": "v1.1.1: (1) Ayarlar/Baglanti/Surum rozetinin acilmasini engelleyen JS tirnak hatasi giderildi, ust baslik Botanik EOS olarak duzenlendi. (2) 6 Aylik Cikis ve Toplu Siparis ekrani daha derli toplu hale getirildi; Manuel Rakam Belirleme Modu (Kendi Rakamim), toplu sabit adet atama (1,2,3,5,10,20) ve satir ici hizli miktar butonlari eklendi."
 }
