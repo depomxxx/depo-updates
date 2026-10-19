@@ -1,10 +1,10 @@
 {
-  "version": "1.1.1",
+  "version": "1.1.2",
   "app_name": "Eczane Depo Pro",
-  "release_date": "2026-10-19 19:05:19",
+  "release_date": "2026-10-19 19:22:18",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.1.1.zip",
-  "sha256": "af17f4d27ea984bcdf5510220c8bf055ab7f958ec57d0094063326301ae0d935",
-  "size_kb": 332.0,
-  "changelog": "v1.1.1: (1) Ayarlar/Baglanti/Surum rozetinin acilmasini engelleyen JS tirnak hatasi giderildi, ust baslik Botanik EOS olarak duzenlendi. (2) 6 Aylik Cikis ve Toplu Siparis ekrani daha derli toplu hale getirildi; Manuel Rakam Belirleme Modu (Kendi Rakamim), toplu sabit adet atama (1,2,3,5,10,20) ve satir ici hizli miktar butonlari eklendi."
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.1.2.zip",
+  "sha256": "5979d00fad2f2f4aa135884b1142accf83eb5d55741630a56d4432de34bb83c8",
+  "size_kb": 329.8,
+  "changelog": "v1.1.2: 6 Aylik Cikis sayfasi sadelestirildi, sag taraf kayma/tasma sorunu giderildi (7 sutunlu sabit tablo ve mini 6-aylik seri gorunumu), agdaki bilgisayarlarin guncellemeyi dogrudan GitHub uzerinden almasi saglandi."
 }
