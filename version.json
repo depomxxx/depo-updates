@@ -1,10 +1,10 @@
 {
-  "version": "1.1.4",
+  "version": "1.1.5",
   "app_name": "Eczane Depo Pro",
-  "release_date": "2026-10-20 10:31:36",
+  "release_date": "2026-10-20 12:12:55",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.1.4.zip",
-  "sha256": "e14149f4b254b9f53f2b26dd4853cc01c96a3076582323e9a719eb991fec9d1a",
-  "size_kb": 336.5,
-  "changelog": "v1.1.4: 6 Aylik Cikis ve Akilli Toplu Siparis Planlama modulu hem Tria (Oracle) hem de Botanik (MS SQL) otomasyonlariyla tam uyumlu hale getirildi; aktif otomasyona gore otomatik gecis, 6 aylik trend/istikrar analizi ve gecmis fatura MF hafizasi Tria uzerinde aktif edildi."
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.1.5.zip",
+  "sha256": "18fbe3907ce0b02e05da3e77d73cf3d8e870ee003a39e623da90cba5c34bd2a6",
+  "size_kb": 342.7,
+  "changelog": "v1.1.5 (FarmaRadar Pro): 1) Yeni kurumsal marka kimligi ve FarmaRadar Pro radar/kapsul vektor logosu eklendi. 2) TEBEOS PostgreSQL icin 6 Aylik Cikis & Akilli Toplu Siparis Planlama modulu (Medula/Nakit iptalleri dusulmus gercek net cikis, 6 aylik trend/istikrar analizi ve gecmis fatura MF hafizasi) aktif edildi. 3) Depo sifreleri kaydedildiginde otomatik aktiflestirme ve .env senkronizasyon iyilestirmeleri yapildi."
 }
