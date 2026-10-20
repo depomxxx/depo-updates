@@ -1,10 +1,10 @@
 {
-  "version": "1.1.3",
+  "version": "1.1.4",
   "app_name": "Eczane Depo Pro",
-  "release_date": "2026-10-19 19:54:45",
+  "release_date": "2026-10-20 10:31:36",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.1.3.zip",
-  "sha256": "eed3af4478c6c8ca6a74e74a5d2d40d69855d9be7b60220b130d9d2b0c95ad8f",
-  "size_kb": 331.5,
-  "changelog": "v1.1.3: Toplu Siparis ve 6 Aylik Cikis ekraninda siparisi sonlandirilan urunlerin Sepette kalma sorunu giderildi; tum ekranlarda ve PC lerde aninda Siparis Verildi olarak guncellenmesi ve sepet temizleme senkronizasyonu saglandi."
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.1.4.zip",
+  "sha256": "e14149f4b254b9f53f2b26dd4853cc01c96a3076582323e9a719eb991fec9d1a",
+  "size_kb": 336.5,
+  "changelog": "v1.1.4: 6 Aylik Cikis ve Akilli Toplu Siparis Planlama modulu hem Tria (Oracle) hem de Botanik (MS SQL) otomasyonlariyla tam uyumlu hale getirildi; aktif otomasyona gore otomatik gecis, 6 aylik trend/istikrar analizi ve gecmis fatura MF hafizasi Tria uzerinde aktif edildi."
 }
