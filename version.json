@@ -1,10 +1,10 @@
 {
-  "version": "1.1.6",
+  "version": "1.1.7",
   "app_name": "Eczane Depo Pro",
-  "release_date": "2026-10-20 12:51:28",
+  "release_date": "2026-10-20 13:18:39",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.1.6.zip",
-  "sha256": "c846f064eeae6245366fe629c51ad42c3508e019f5d6ab204f4f9ca38db496bd",
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.1.7.zip",
+  "sha256": "d77de70c7d5bc6b1ba8c55815f2a900d77c1900a6462d5ff12012ab242d266fc",
   "size_kb": 345.4,
-  "changelog": "v1.1.6 (FarmaRadar Pro): TEBEOS 4 Asamali Akilli Sunucu & Port Bulucu eklendi (Acik TEBEOS surecinin netstat baglantisindan, C:/TEBEOS config dosyalarindan ve 5454/5432/5433/5455 portlarindan otomatik IP, Port, Veritabani ve Sifre tespiti)."
+  "changelog": "v1.1.7 (FarmaRadar Pro): TEBEOS 6 Aylik Cikis & Akilli Toplu Siparis Planlama, 4 Asamali Otomatik TEBEOS Sunucu/Port/Veritabani Bulucu ve Otomatik GitHub Guncelleme Baglantisi."
 }
