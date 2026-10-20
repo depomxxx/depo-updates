@@ -1,10 +1,10 @@
 {
-  "version": "1.1.5",
+  "version": "1.1.6",
   "app_name": "Eczane Depo Pro",
-  "release_date": "2026-10-20 12:12:55",
+  "release_date": "2026-10-20 12:51:28",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.1.5.zip",
-  "sha256": "18fbe3907ce0b02e05da3e77d73cf3d8e870ee003a39e623da90cba5c34bd2a6",
-  "size_kb": 342.7,
-  "changelog": "v1.1.5 (FarmaRadar Pro): 1) Yeni kurumsal marka kimligi ve FarmaRadar Pro radar/kapsul vektor logosu eklendi. 2) TEBEOS PostgreSQL icin 6 Aylik Cikis & Akilli Toplu Siparis Planlama modulu (Medula/Nakit iptalleri dusulmus gercek net cikis, 6 aylik trend/istikrar analizi ve gecmis fatura MF hafizasi) aktif edildi. 3) Depo sifreleri kaydedildiginde otomatik aktiflestirme ve .env senkronizasyon iyilestirmeleri yapildi."
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.1.6.zip",
+  "sha256": "c846f064eeae6245366fe629c51ad42c3508e019f5d6ab204f4f9ca38db496bd",
+  "size_kb": 345.4,
+  "changelog": "v1.1.6 (FarmaRadar Pro): TEBEOS 4 Asamali Akilli Sunucu & Port Bulucu eklendi (Acik TEBEOS surecinin netstat baglantisindan, C:/TEBEOS config dosyalarindan ve 5454/5432/5433/5455 portlarindan otomatik IP, Port, Veritabani ve Sifre tespiti)."
 }
