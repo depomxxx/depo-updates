@@ -1,11 +1,11 @@
 {
-  "version": "1.2.0",
+  "version": "1.2.1",
   "app_name": "Eczane Depo Pro",
-  "release_date": "2026-10-21 11:25:26",
+  "release_date": "2026-10-21 11:36:13",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.2.0.zip?t=1792571127",
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.2.1.zip?t=1792571775",
   "sha256": "",
-  "package_sha256": "139122a79f3e7807aabf7a2720dceeddd30f0399e4241373bde1b7e97aed564b",
-  "size_kb": 348.3,
-  "changelog": "v1.2.0: Hizli urun/dozaj cozumleme (1gr=1000mg, tb=tablet vb.), asenkron esdeger MF taramasi, receteli ilaclarda gereksiz Farmazon sorgusunu atlama, OTC urunlerde hizli Farmazon API, paralel depo/otomasyon sorgulama ve kesintisiz otomatik guncelleme."
+  "package_sha256": "1ed9743d1cb0faa0eec0be48bb1edea3da310a0291a425e53fe540e95a377c08",
+  "size_kb": 333.8,
+  "changelog": "v1.2.1: Ecza1 ve Farmazon coklu bilgisayar oturum dusme (auto-relogin) korumasi, OTC/Takviye barkod ve isim yedekli sorgu ve hiz optimizasyonu."
 }
