@@ -1,11 +1,11 @@
 {
-  "version": "1.2.2",
+  "version": "1.2.3",
   "app_name": "Eczane Depo Pro",
-  "release_date": "2026-10-21 12:23:23",
+  "release_date": "2026-10-21 12:41:48",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.2.2.zip?t=1792574604",
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.2.3.zip?t=1792575709",
   "sha256": "",
-  "package_sha256": "351b8bd4a8f4589540483a463a4d037ed05e9093b7f404b33786bb8e391f4fa6",
-  "size_kb": 341.1,
-  "changelog": "v1.2.2: 6 Aylik Cikis ve Toplu Siparis ekraninda Tria / Tebeos / Botanik aktif entegrasyon destegi ve yedekleme (WinError 183) iyilestirmesi."
+  "package_sha256": "04dceb6902a7347d5f090885c9613c99764f8f137aebfdf00c63bbc01fbb2fca",
+  "size_kb": 342.5,
+  "changelog": "v1.2.3: ISKOOP e-Sube dogrudan barkod sorgulama hizlandirmasi (~700ms), MATNR onbellek, sepet/Vuex kararliligi ve otomatik oturum yenileme."
 }
