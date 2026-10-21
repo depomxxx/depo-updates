@@ -1,11 +1,11 @@
 {
-  "version": "1.2.1",
+  "version": "1.2.2",
   "app_name": "Eczane Depo Pro",
-  "release_date": "2026-10-21 11:36:13",
+  "release_date": "2026-10-21 12:23:23",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.2.1.zip?t=1792571775",
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.2.2.zip?t=1792574604",
   "sha256": "",
-  "package_sha256": "1ed9743d1cb0faa0eec0be48bb1edea3da310a0291a425e53fe540e95a377c08",
-  "size_kb": 333.8,
-  "changelog": "v1.2.1: Ecza1 ve Farmazon coklu bilgisayar oturum dusme (auto-relogin) korumasi, OTC/Takviye barkod ve isim yedekli sorgu ve hiz optimizasyonu."
+  "package_sha256": "351b8bd4a8f4589540483a463a4d037ed05e9093b7f404b33786bb8e391f4fa6",
+  "size_kb": 341.1,
+  "changelog": "v1.2.2: 6 Aylik Cikis ve Toplu Siparis ekraninda Tria / Tebeos / Botanik aktif entegrasyon destegi ve yedekleme (WinError 183) iyilestirmesi."
 }
