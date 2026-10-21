@@ -1,10 +1,10 @@
 {
   "version": "1.1.9",
   "app_name": "Eczane Depo Pro",
-  "release_date": "2026-10-21 11:10:49",
+  "release_date": "2026-10-21 11:16:45",
   "mandatory": true,
   "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.1.9.zip",
-  "sha256": "5f30567244b00d940805db969ffee9284affbef6477deabc3aea288c4943deaf",
+  "sha256": "1c328b2cfe3a8c8d62b13fcf6a34ed3098d70a26eb373d453bbeecaa44bf9df1",
   "size_kb": 348.3,
-  "changelog": "v1.1.9: Hizli urun/dozaj cozumleme (1gr=1000mg, tb=tablet vb.), asenkron esdeger MF taramasi, receteli ilaclarda gereksiz Farmazon sorgusunu atlama, OTC urunlerde hizli Farmazon keyword API ve paralel depo/otomasyon sorgulama."
+  "changelog": "v1.1.9: Hizli urun/dozaj cozumleme (1gr=1000mg, tb=tablet vb.), asenkron esdeger MF taramasi, receteli ilaclarda gereksiz Farmazon sorgusunu atlama, OTC urunlerde hizli Farmazon token/keyword API ve paralel depo/otomasyon sorgulama."
 }
