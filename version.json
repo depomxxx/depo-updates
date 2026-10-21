@@ -1,10 +1,10 @@
 {
   "version": "1.1.8",
   "app_name": "Eczane Depo Pro",
-  "release_date": "2026-10-21 10:40:57",
+  "release_date": "2026-10-21 10:46:28",
   "mandatory": true,
   "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.1.8.zip",
-  "sha256": "1456b6ad8c47e0b57103e7b67576937a20d643e5a7db38f7a7bd29cf78a43e40",
-  "size_kb": 347.8,
-  "changelog": "v1.1.8 (FarmaRadar Pro Hiz & Performans Guncellemesi): 1) Iki Asamali Ultra Hizli Arama Mimarisi (Ana urun depo/otomasyon sonuclari aninda ekranda, muadil canli MF taramasi arka planda asenkron), 2) Akilli Eczacilik Birim ve Kisaltma Sozlugu (1 gr <-> 1000 mg, tb <-> tablet/ftb milisaniyelik FTS5 eslesmesi), 3) Selcuk ve Farmazon Tek-Seferlik Birlesik AJAX Sorgu Motoru ve Oturum Koruma, 4) Depo ve Eczane Otomasyonu (Tria/Botanik/Tebeos) Tam Paralel Sorgulama."
+  "sha256": "a91488a978703b05277e29202ec5be6ae9d79b98577251d44b5da23c0c20f876",
+  "size_kb": 347.9,
+  "changelog": "v1.1.8: Hizli urun/dozaj cozumleme (1gr=1000mg, tb=tablet vb.), asenkron esdeger MF taramasi ve paralel depo/otomasyon sorgulama hizlandirmasi."
 }
