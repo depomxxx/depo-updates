@@ -1,10 +1,10 @@
 {
-  "version": "1.1.7",
+  "version": "1.1.8",
   "app_name": "Eczane Depo Pro",
-  "release_date": "2026-10-20 13:18:39",
+  "release_date": "2026-10-21 10:35:59",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.1.7.zip",
-  "sha256": "d77de70c7d5bc6b1ba8c55815f2a900d77c1900a6462d5ff12012ab242d266fc",
-  "size_kb": 345.4,
-  "changelog": "v1.1.7 (FarmaRadar Pro): TEBEOS 6 Aylik Cikis & Akilli Toplu Siparis Planlama, 4 Asamali Otomatik TEBEOS Sunucu/Port/Veritabani Bulucu ve Otomatik GitHub Guncelleme Baglantisi."
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.1.8.zip",
+  "sha256": "c7c476cba0ee5da556ef88c45a8859ba2bb7a6e92a19612165886a078edf67cb",
+  "size_kb": 347.6,
+  "changelog": "v1.1.8 (FarmaRadar Pro Hiz & Performans Guncellemesi): 1) Iki Asamali Ultra Hizli Arama Mimarisi (Ana urun depo/otomasyon sonuclari aninda ekranda, muadil canli MF taramasi arka planda asenkron), 2) Akilli Eczacilik Birim ve Kisaltma Sozlugu (1 gr <-> 1000 mg, tb <-> tablet/ftb milisaniyelik FTS5 eslesmesi), 3) Selcuk ve Farmazon Tek-Seferlik Birlesik AJAX Sorgu Motoru, 4) Depo ve Eczane Otomasyonu (Tria/Botanik/Tebeos) Tam Paralel Sorgulama."
 }
