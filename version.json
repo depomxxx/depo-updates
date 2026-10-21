@@ -1,10 +1,10 @@
 {
-  "version": "1.1.8",
+  "version": "1.1.9",
   "app_name": "Eczane Depo Pro",
-  "release_date": "2026-10-21 10:46:28",
+  "release_date": "2026-10-21 10:48:45",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.1.8.zip",
-  "sha256": "a91488a978703b05277e29202ec5be6ae9d79b98577251d44b5da23c0c20f876",
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.1.9.zip",
+  "sha256": "9eb71922424b42110fe96950ba9247243327c2c0114a8ecc4e8adf3c96cf04bc",
   "size_kb": 347.9,
-  "changelog": "v1.1.8: Hizli urun/dozaj cozumleme (1gr=1000mg, tb=tablet vb.), asenkron esdeger MF taramasi ve paralel depo/otomasyon sorgulama hizlandirmasi."
+  "changelog": "v1.1.9: Hizli urun/dozaj cozumleme (1gr=1000mg, tb=tablet vb.), asenkron esdeger MF taramasi, Ecza1/Farmazon/Selcuk oturum-sorgu optimizasyonu ve paralel depo/otomasyon sorgulama hizlandirmasi."
 }
