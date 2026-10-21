@@ -1,11 +1,11 @@
 {
-  "version": "1.2.3",
+  "version": "1.2.4",
   "app_name": "Eczane Depo Pro",
-  "release_date": "2026-10-21 12:41:48",
+  "release_date": "2026-10-21 17:47:17",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.2.3.zip?t=1792575709",
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.2.4.zip?t=1792594038",
   "sha256": "",
-  "package_sha256": "04dceb6902a7347d5f090885c9613c99764f8f137aebfdf00c63bbc01fbb2fca",
-  "size_kb": 342.5,
-  "changelog": "v1.2.3: ISKOOP e-Sube dogrudan barkod sorgulama hizlandirmasi (~700ms), MATNR onbellek, sepet/Vuex kararliligi ve otomatik oturum yenileme."
+  "package_sha256": "7b8a9173ca0552869e11a0310373cbc9a8fb9c4ca6dc74e552dd694019288e22",
+  "size_kb": 345.1,
+  "changelog": "Coklu Depo Siparis Sonlandirma Akisi ve Gunun Cikislarinda Secim Hafizasi Duzeltmesi (v1.2.4)"
 }
