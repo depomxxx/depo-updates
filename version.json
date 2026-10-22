@@ -1,11 +1,11 @@
 {
-  "version": "1.2.4",
+  "version": "1.2.5",
   "app_name": "Eczane Depo Pro",
-  "release_date": "2026-10-21 17:47:17",
+  "release_date": "2026-10-22 15:33:42",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.2.4.zip?t=1792594038",
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.2.5.zip?t=1792672423",
   "sha256": "",
-  "package_sha256": "7b8a9173ca0552869e11a0310373cbc9a8fb9c4ca6dc74e552dd694019288e22",
-  "size_kb": 345.1,
-  "changelog": "Coklu Depo Siparis Sonlandirma Akisi ve Gunun Cikislarinda Secim Hafizasi Duzeltmesi (v1.2.4)"
+  "package_sha256": "0ac391e3a76b6fb20b36b832bc5d28e5b0e3bf37b6410eaf2d639f1bc431f067",
+  "size_kb": 349.2,
+  "changelog": "EczaneTakas Oturum Yenileme, %100 Barkod Esleme ve Canli Acik Teklifler Ekrani (v1.2.5)"
 }
