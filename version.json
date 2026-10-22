@@ -1,11 +1,11 @@
 {
-  "version": "1.2.7",
+  "version": "1.2.8",
   "app_name": "Eczane Depo Pro",
-  "release_date": "2026-10-22 15:51:49",
+  "release_date": "2026-10-22 16:09:34",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.2.7.zip?t=1792673510",
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.2.8.zip?t=1792674575",
   "sha256": "",
-  "package_sha256": "efa59286d34b7cd049298daea3c91c6380df6942027b6c6a7a9e028f6ab6c456",
-  "size_kb": 349.2,
-  "changelog": "EczaneTakas Hizli Erisim Butonu Yalnizca Sifre Girili ve Aktifse Gosterilir (v1.2.7)"
+  "package_sha256": "7742fd5c6b7ed90986cae25864116192defe291622b7a2275e1125f55d4f9fbd",
+  "size_kb": 352.0,
+  "changelog": "Eczatrend canli ortak alim teklifleri modali, kosullu hizli erisim butonu ve otomatik oturum yenileme eklendi."
 }
