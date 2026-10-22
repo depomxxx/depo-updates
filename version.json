@@ -1,11 +1,11 @@
 {
-  "version": "1.2.5",
+  "version": "1.2.6",
   "app_name": "Eczane Depo Pro",
-  "release_date": "2026-10-22 15:33:42",
+  "release_date": "2026-10-22 15:45:51",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.2.5.zip?t=1792672423",
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.2.6.zip?t=1792673152",
   "sha256": "",
-  "package_sha256": "0ac391e3a76b6fb20b36b832bc5d28e5b0e3bf37b6410eaf2d639f1bc431f067",
-  "size_kb": 349.2,
-  "changelog": "EczaneTakas Oturum Yenileme, %100 Barkod Esleme ve Canli Acik Teklifler Ekrani (v1.2.5)"
+  "package_sha256": "06add1fa8e9bf4d10dc4976aa73a7744edc28734edde48cd67757cfd88177acb",
+  "size_kb": 349.1,
+  "changelog": "EczaneTakas Ust Sekme Kaldirildi ve Arama Alti Hizli Erisime Alindi (v1.2.6)"
 }
