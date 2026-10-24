@@ -1,11 +1,11 @@
 {
   "version": "1.3.7",
   "app_name": "Farma Radar",
-  "release_date": "2026-10-24 19:43:48",
+  "release_date": "2026-10-24 19:47:42",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.3.7.zip?t=1792860229",
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.3.7.zip?t=1792860463",
   "sha256": "",
-  "package_sha256": "97e1b450868f42d22751b13e7d9d069cd5c9fb0e6cb407e1d167df39f43590bc",
-  "size_kb": 382.4,
-  "changelog": "Coklu Depo Sepetlerim merkezi eklendi."
+  "package_sha256": "4737cd479a7a2351743d574ebf761948bc99054851960926b16a787b5a9c794c",
+  "size_kb": 382.5,
+  "changelog": "Coklu Depo Sepetlerim merkezi eklendi ve otomatik canli guncelleme zamanlayicisi aktiflestirildi."
 }
