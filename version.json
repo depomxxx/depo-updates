@@ -1,11 +1,11 @@
 {
-  "version": "1.3.6",
+  "version": "1.3.7",
   "app_name": "Farma Radar",
-  "release_date": "2026-10-24 18:57:07",
+  "release_date": "2026-10-24 19:41:27",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.3.6.zip?t=1792857428",
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.3.7.zip?t=1792860088",
   "sha256": "",
-  "package_sha256": "55fc261c86e953f68c4cfd303b7c57570ed41ac1dbd951dc478215a6ebf67c0f",
-  "size_kb": 373.5,
-  "changelog": "Guncelleme sunucusu baglanti yedegi (SSL + dogrudan GitHub bulut yedegi), kesintisiz sunucu yeniden baslatma ve sifre korumali Yonetici Paneli (1986cagri1986)."
+  "package_sha256": "86d6149df72e08a8412db2384008d3404d507ef04622f9e55cf56961289a9982",
+  "size_kb": 382.5,
+  "changelog": "Coklu Depo Sepetlerim merkezi eklendi: Tekli aramadan veya gunluk/6 aylik siparisten eklenen urunler depolara gore ayri ayri sepet olarak gosterilir, incelenip ilgili depo sepetine gidilir."
 }
