@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-24 17:38:37",
-  "count": 0,
-  "signature": "CEA3E60F1062C4260BE02200AB00F9FC",
-  "items": []
+  "updated_at": "2026-10-24 19:45:39",
+  "count": 1,
+  "signature": "7914E6A854B4DA2360EB535A8D5FDF4B",
+  "items": [
+    {
+      "id": "D0EFA284",
+      "pharmacy_name": "ARAŞTIRMA ECZANESI",
+      "gln_no": "8680001134861",
+      "plan": "PRO_YILLIK",
+      "expires_at": "2027-10-24",
+      "max_pcs": 13,
+      "hwid_lock": "ANY",
+      "status": "AKTIF",
+      "license_key": "FR-eyJlIjoiQVJBxZ5USVJNQSBFQ1pBTkVTSSIsImZuIjoiR0FNWkUgQVNMQU4iLCJ0ZWwiOiIwNTM0NDA2NDEwOCIsImN0IjoiU0FNU1VOL0FUQUtVTSIsImciOiI4NjgwMDAxMTM0ODYxIiwieCI6IjIwMjctMTAtMjQiLCJtIjoxMywiaCI6IkFOWSIsInAiOiJQUk9fWUlMTElLIn0.4BB7869B6256AD3B",
+      "updated_at": "2026-10-24 19:45:39"
+    }
+  ]
 }
