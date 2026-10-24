@@ -1,11 +1,11 @@
 {
-  "version": "1.2.9",
-  "app_name": "Eczane Depo Pro",
-  "release_date": "2026-10-22 16:24:29",
+  "version": "1.3.0",
+  "app_name": "Farma Radar",
+  "release_date": "2026-10-24 14:44:04",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.2.9.zip?t=1792675471",
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.3.0.zip?t=1792842246",
   "sha256": "",
-  "package_sha256": "ea2f4daf22d38845319d675eec349bf8f2b388fd1e94fdd92ed28cbdbcc60ea4",
-  "size_kb": 352.5,
-  "changelog": "Eczatrend tum grup tekliflerinin (675+ aktif teklif) SQL offset ile paralel cekilmesi saglandi."
+  "package_sha256": "f7922d014aa97ac665bfd235019d967d6866ef666ef1bd9eb0c39598b9752a2c",
+  "size_kb": 354.7,
+  "changelog": "Farma Radar v1.3.0: (1) Marka ve guncelleme sistemi Farma Radar olarak yenilendi. (2) Kurulum paketi (.env ve sihirbaz) kisisel depo/otomasyon kayitlarindan temizlendi, otomatik sunucu bulma eklendi. (3) Sadece aktif olan eczane otomasyonunun gosterilmesi ve baglanmasi saglandi. (4) Sepet sonlandirmada yeni eklenen urunler YESIL, onceden sepette kalan yabanci urunler KIRMIZI uyariyla ayrildi. (5) Otomatik sepet kapatildiginda kaldiginiz yerden devam etmenizi saglayan Kucuk Sepet eklendi."
 }
