@@ -1,8 +1,20 @@
 {
-  "updated_at": "2026-10-24 19:45:39",
-  "count": 1,
-  "signature": "7914E6A854B4DA2360EB535A8D5FDF4B",
+  "updated_at": "2026-10-26 15:26:12",
+  "count": 2,
+  "signature": "D36DB5EF62568157D0AC7819BD5E660A",
   "items": [
+    {
+      "id": "106A1333",
+      "pharmacy_name": "RÜYA ECZANESI",
+      "gln_no": "8680001134861",
+      "plan": "PRO_YILLIK",
+      "expires_at": "2027-10-26",
+      "max_pcs": 15,
+      "hwid_lock": "ANY",
+      "status": "AKTIF",
+      "license_key": "FR-eyJlIjoiUsOcWUEgRUNaQU5FU0kiLCJmbiI6IsOHQcSeUkkgQVNMQU4iLCJ0ZWwiOiIwNTA2NTk2MzkxOCIsImN0IjoiU8SwTk9QL1NBUkFZRMOcWsOcIiwiZyI6Ijg2ODAwMDExMzQ4NjEiLCJ4IjoiMjAyNy0xMC0yNiIsIm0iOjE1LCJoIjoiQU5ZIiwicCI6IlBST19ZSUxMSUsifQ.EAEBA263EBABCD17",
+      "updated_at": "2026-10-26 15:26:12"
+    },
     {
       "id": "D0EFA284",
       "pharmacy_name": "ARAŞTIRMA ECZANESI",
