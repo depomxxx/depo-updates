@@ -1,11 +1,11 @@
 {
   "version": "1.4.3",
   "app_name": "Farma Radar",
-  "release_date": "2026-10-26 16:02:52",
+  "release_date": "2026-10-26 16:03:43",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.4.3.zip?t=1793019773",
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.4.3.zip?t=1793019825",
   "sha256": "",
-  "package_sha256": "4d663aea16d0dccf7614f9648a321e879a21e8cdb5dcf25ee4e15b064bd69830",
+  "package_sha256": "016c263c129c1f13bb33b81f023aa06787b158a4c6b5961274e1278e97c2d933",
   "size_kb": 414.7,
-  "changelog": "v1.4.3: Botanik Günün Çıkışları barkod/isim çözümleme ve MS SQL INT taşma düzeltmesi, Alliance depo kilit önceliği hızlandırması."
+  "changelog": "v1.4.3: Botanik Gunun Cikislari barkod/isim cozumleme (idempotent WEBLISTE EAN eslestirme) ve MS SQL INT tasma duzeltmesi; Alliance depo kilit onceligi ile aninda sorgu hizlandirmasi."
 }
