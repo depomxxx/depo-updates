@@ -1,11 +1,11 @@
 {
-  "version": "1.4.1",
+  "version": "1.4.2",
   "app_name": "Farma Radar",
-  "release_date": "2026-10-26 14:36:36",
+  "release_date": "2026-10-26 15:07:37",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.4.1.zip?t=1793014598",
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.4.2.zip?t=1793016459",
   "sha256": "",
-  "package_sha256": "63d3432f419c0ed5630ae7166ec0dbb1e3734b02eea0bb8b2ec00a594a78fec5",
-  "size_kb": 400.2,
-  "changelog": "Siparis Verilmeyecek kirmizi hata duzeltmesi, Gun Sonu Depo Siparis Ozeti, Verilmeyeceklerden Depo Yok Listesi Olusturma Radari ve sabit sekme duzeni (v1.4.1)"
+  "package_sha256": "9665892740f13c722fddbbe0fd66a64ce924eeecdc7628d604ffa0d67f58dfc4",
+  "size_kb": 413.0,
+  "changelog": "JS SyntaxError ve ekran donma duzeltmesi, kaydirmasiz kompakt ust bar/Gun Sonu ekrani ve tkinter bagimsiz Profesyonel Kurulum Sihirbazi (v1.4.2)"
 }
