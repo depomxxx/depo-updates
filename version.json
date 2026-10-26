@@ -1,11 +1,11 @@
 {
-  "version": "1.4.0",
+  "version": "1.4.1",
   "app_name": "Farma Radar",
-  "release_date": "2026-10-26 14:15:47",
+  "release_date": "2026-10-26 14:36:36",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.4.0.zip?t=1793013348",
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.4.1.zip?t=1793014598",
   "sha256": "",
-  "package_sha256": "6cb3bf1def78285931e385941ec573e3e065fbb8c4dd82e1bb1a89575b4fcc52",
-  "size_kb": 390.6,
-  "changelog": "Coklu PC Siparis Verilmeyecek & Siparis Verildi anlik senkronizasyon, Botanik/Tria ortak veritabani esitlemesi ve canli arayuz otomatik yenileme (v1.4.0)"
+  "package_sha256": "63d3432f419c0ed5630ae7166ec0dbb1e3734b02eea0bb8b2ec00a594a78fec5",
+  "size_kb": 400.2,
+  "changelog": "Siparis Verilmeyecek kirmizi hata duzeltmesi, Gun Sonu Depo Siparis Ozeti, Verilmeyeceklerden Depo Yok Listesi Olusturma Radari ve sabit sekme duzeni (v1.4.1)"
 }
