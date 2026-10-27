@@ -1,11 +1,11 @@
 {
-  "version": "1.4.3",
+  "version": "1.4.4",
   "app_name": "Farma Radar",
-  "release_date": "2026-10-26 16:03:43",
+  "release_date": "2026-10-27 16:29:01",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.4.3.zip?t=1793019825",
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.4.4.zip?t=1793107742",
   "sha256": "",
-  "package_sha256": "016c263c129c1f13bb33b81f023aa06787b158a4c6b5961274e1278e97c2d933",
-  "size_kb": 414.7,
-  "changelog": "v1.4.3: Botanik Gunun Cikislari barkod/isim cozumleme (idempotent WEBLISTE EAN eslestirme) ve MS SQL INT tasma duzeltmesi; Alliance depo kilit onceligi ile aninda sorgu hizlandirmasi."
+  "package_sha256": "49628884a4f0346df4fdd38ba02d178f09dc77cbac0ad6637b724df3d6a71b3d",
+  "size_kb": 426.8,
+  "changelog": "v1.4.4: Yeni Farma Radar kurumsal logosu ve 5 asamali sadelestirme paketi: (1) Birlesik ust navigasyon bari (Unified Header) ve tekil sepet merkezi, (2) Ferah Bento Kart yapisi ve goz hizasinda Depo Karsilastirma Tablosu, (3) Gunun Cikislarinda kompakt satir (Compact Row) gorunumu ve baslangicta secimsiz acilis, (4) Toplu Siparis modul isimlendirmesi, sekmeli tek arac cubugu ve ozel hedef gun girisi."
 }
