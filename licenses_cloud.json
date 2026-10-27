@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-27 12:42:59",
+  "updated_at": "2026-10-27 12:43:07",
   "count": 3,
-  "signature": "793488F480022B9AFCA8C8E91E9D8D22",
+  "signature": "9C8100A817049597B5FCC5CCFB0BF4E9",
   "items": [
     {
       "id": "48F632F1",
@@ -11,9 +11,9 @@
       "expires_at": "2031-10-26",
       "max_pcs": 15,
       "hwid_lock": "ANY",
-      "status": "ASKIDA",
+      "status": "AKTIF",
       "license_key": "FR-eyJlIjoiRURBIEVDWkFORVNJIiwiZm4iOiJFREEgQsSwTEfEsE4iLCJ0ZWwiOiIwNTA3NzAzNDIwMCIsImN0IjoiU0FNU1VOL8SwTEtBRElNIiwiZyI6Ijg2ODAwMDExMTIyNTgiLCJ4IjoiMjAzMS0xMC0yNiIsIm0iOjE1LCJoIjoiQU5ZIiwicCI6IktVUlVNU0FMX1NJTklSU0laIn0.708DC4079BF08995",
-      "updated_at": "2026-10-27 12:42:58"
+      "updated_at": "2026-10-27 12:43:07"
     },
     {
       "id": "106A1333",
