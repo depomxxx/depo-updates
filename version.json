@@ -1,11 +1,11 @@
 {
-  "version": "1.4.8",
+  "version": "1.4.9",
   "app_name": "Farma Radar",
-  "release_date": "2026-10-30 11:11:55",
+  "release_date": "2026-10-30 11:45:22",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.4.8.zip?t=1793347916",
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.4.9.zip?t=1793349923",
   "sha256": "",
-  "package_sha256": "9f9ab6d6db5fcf87f3cdf25c98915817e4a0c5579c65331c8bfe232175a0a985",
-  "size_kb": 434.2,
-  "changelog": "v1.4.8: Depo Sorguda aranan ürünün Pazaryeri sekmesine geçildiğinde otomatik senkronize olması sağlandı. Pazaryeri üstündeki Botanik 6 Aylık Çıkış geçiş bandı kaldırıldı."
+  "package_sha256": "239464583f01aa10c4d9168afc2a363b9b692bb89c11a1d838d2d1bcbd1685aa",
+  "size_kb": 446.5,
+  "changelog": "v1.4.9: EczaneTakas ve Eczatrend ekranlarina Anlik Stok, 1 Aylik Cikis ve 3 Aylik Cikis sutunlari (TRIA, Botanik EOS ve TEBEOS tam uyumlu) ile sifre girmeden dogrudan tek tikla teklife katilma (Katil) ve 6 platform icin (ISKOOP, Selcuk, Nevzat, Hedef, Eczatrend, EczaneTakas) arka plan otomatik oturum hazirlama sistemi eklendi."
 }
