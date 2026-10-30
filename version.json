@@ -1,11 +1,11 @@
 {
-  "version": "1.4.7",
+  "version": "1.4.8",
   "app_name": "Farma Radar",
-  "release_date": "2026-10-30 10:32:04",
+  "release_date": "2026-10-30 11:11:55",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.4.7.zip?t=1793345525",
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.4.8.zip?t=1793347916",
   "sha256": "",
-  "package_sha256": "0785d5215ff32dce080e7171310a8381799813d60cfae695a74c0246097a8758",
-  "size_kb": 434.1,
-  "changelog": "v1.4.7: Sipariş sonlandırma sonrası (özellikle yok/eksik ürün varken) ürünlerin sepette kalması/yeniden eklenmesi sorunu giderildi. Günün Çıkışlarında adet veya depo değiştirildiğinde otomatik mavi tik işaretleme ve Seçili Depolara Dağıt özelliği eklendi."
+  "package_sha256": "9f9ab6d6db5fcf87f3cdf25c98915817e4a0c5579c65331c8bfe232175a0a985",
+  "size_kb": 434.2,
+  "changelog": "v1.4.8: Depo Sorguda aranan ürünün Pazaryeri sekmesine geçildiğinde otomatik senkronize olması sağlandı. Pazaryeri üstündeki Botanik 6 Aylık Çıkış geçiş bandı kaldırıldı."
 }
