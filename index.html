@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Farma Radar — Canlı Güncelleme Portalı (v1.5.0)</title>
+    <title>Farma Radar — Canlı Güncelleme Portalı (v1.5.1)</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 </head>
@@ -18,14 +18,14 @@
                     <div>
                         <div class="flex items-center gap-2.5">
                             <h1 class="text-xl font-black text-white">Farma Radar</h1>
-                            <span id="liveVerBadge" class="text-xs font-extrabold px-3 py-0.5 rounded-full bg-emerald-500/20 text-emerald-300 border border-emerald-400/30">v1.5.0 CANLI</span>
+                            <span id="liveVerBadge" class="text-xs font-extrabold px-3 py-0.5 rounded-full bg-emerald-500/20 text-emerald-300 border border-emerald-400/30">v1.5.1 CANLI</span>
                         </div>
                         <p class="text-xs text-slate-400 mt-1">Merkezi GitHub Canlı Güncelleme & Dağıtım Portalı</p>
                     </div>
                 </div>
                 <div class="text-right text-xs text-slate-400 font-mono">
-                    <div id="liveDate">Yayın: 2026-11-02 11:58:57</div>
-                    <div class="text-cyan-400 font-bold mt-0.5" id="liveSize">Boyut: 455.4 KB</div>
+                    <div id="liveDate">Yayın: 2026-11-02 12:14:47</div>
+                    <div class="text-cyan-400 font-bold mt-0.5" id="liveSize">Boyut: 455.6 KB</div>
                 </div>
             </div>
 
@@ -33,7 +33,7 @@
                 <div class="text-xs font-bold text-cyan-300 uppercase tracking-wider flex items-center gap-2">
                     <i class="fa-solid fa-bolt"></i> Sürüm Notları & Yenilikler
                 </div>
-                <p id="liveChangelog" class="text-sm text-slate-200 whitespace-pre-line leading-relaxed">v1.5.0: (1) Akilli MF & Barem Tamamlama Asistani (+N adet ekle -> MF yakala ve ekstra kar hesabi) Gunun Cikislari ve Toplu Siparis ekranlarina eklendi. (2) Yok Listesi gunler arasi kalici hale getirildi; ust sabit bar, sol cekmece sabit bolumu ve ust bar Yok Listesi rozeti eklendi. (3) Tum depolarda (Selcuk, Alliance, Iskoop, Nevzat) siparis onaylandiginda Sepette -> Siparis Verildi gecisi, coklu barkod eslestirmesi ve ustunu cizme (line-through) senkronizasyonu duzeltildi. (4) Sol alttaki mavi coklu-PC sepet bildirim cubugu (#floatingMiniBulkCart) ve anlik sepet/onay bildirimleri geri getirildi.</p>
+                <p id="liveChangelog" class="text-sm text-slate-200 whitespace-pre-line leading-relaxed">v1.5.1: Siparis Verilmeyecekler ile Yok Listesi tamamen ayrildi; Verilmeyecekler sorgusundan gelen urunlerin ustteki Sabit Yok Listesi panelinde (Stoga Girenler) cikmasi engellendi ve hem Yok hem Stoga Girenler icin manuel tekil cikarma (X Cikar) ve toplu temizleme butonlari eklendi.</p>
             </div>
 
             <div class="bg-slate-900/60 border border-slate-800/80 rounded-2xl p-4 space-y-2">
@@ -42,13 +42,13 @@
                     <button onclick="navigator.clipboard.writeText(document.getElementById('manifestInput').value); this.innerText='Kopyalandı ✓';" class="text-xs px-2.5 py-1 rounded-lg bg-cyan-600/30 hover:bg-cyan-600/50 text-cyan-200 border border-cyan-500/30 cursor-pointer">Kopyala</button>
                 </div>
                 <input id="manifestInput" type="text" readonly value="https://raw.githubusercontent.com/depomxxx/depo-updates/main/version.json" class="w-full text-xs font-mono p-2.5 rounded-xl bg-slate-950 border border-slate-800 text-emerald-300 select-all">
-                <div class="text-[11px] text-slate-500 font-mono truncate">SHA-256: <span id="liveSha">ca5ea55c596a70960d42aa59e59a946bc3610cf0a964697f27797465441c85aa</span></div>
+                <div class="text-[11px] text-slate-500 font-mono truncate">SHA-256: <span id="liveSha">b73f05dae445139672f5c6c3b99a1dd5a3be3acfe50ea66ea78fef6c87f0ea28</span></div>
             </div>
 
             <div class="flex flex-col sm:flex-row items-center justify-between gap-3 pt-2">
                 <span class="text-xs text-slate-400"><i class="fa-solid fa-shield-halved text-emerald-400 mr-1"></i>Eczane şifreleri (.env), lisans ve veritabanı korunur.</span>
                 <div class="flex items-center gap-2.5 w-full sm:w-auto">
-                    <a id="liveDlBtn" href="https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.5.0.zip?t=1793609938" class="flex-1 sm:flex-initial text-center px-5 py-2.5 bg-emerald-600 hover:bg-emerald-500 text-white font-bold text-xs rounded-xl shadow-lg shadow-emerald-900/40 transition">
+                    <a id="liveDlBtn" href="https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.5.1.zip?t=1793610888" class="flex-1 sm:flex-initial text-center px-5 py-2.5 bg-emerald-600 hover:bg-emerald-500 text-white font-bold text-xs rounded-xl shadow-lg shadow-emerald-900/40 transition">
                         <i class="fa-solid fa-download mr-1.5"></i>Güncelleme Paketini İndir (.zip)
                     </a>
                     <a href="version.json" target="_blank" class="px-3.5 py-2.5 bg-slate-800 hover:bg-slate-700 text-slate-200 font-bold text-xs rounded-xl border border-slate-700 transition">
