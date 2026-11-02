@@ -1,11 +1,11 @@
 {
-  "version": "1.5.6",
+  "version": "1.5.7",
   "app_name": "Farma Radar",
-  "release_date": "2026-11-02 22:00:22",
+  "release_date": "2026-11-02 22:21:24",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.5.6.zip?t=1793646023",
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.5.7.zip?t=1793647285",
   "sha256": "",
-  "package_sha256": "0f85b0a45c64fbdb31687c09049217689e0f4561760b3e163c1a8b24f825219f",
-  "size_kb": 473.7,
-  "changelog": "Toplu Siparis Yok Listesine Ekle sayfa yenileme sorunu giderildi; Depo MF kademeleri (3+1, 10+5, 20+2, 20+20 vb.) ayri ayri tiklanabilir kutular haline getirildi ve 10 adet siniri kaldirildi."
+  "package_sha256": "bcfc3a0bc3dcf889d007e2826d721c2e943cf98ffebb2abfa39f7257905df838",
+  "size_kb": 477.0,
+  "changelog": "Farma Radar Lisans canli kullanim ve aktivite izleme telemetrisi eklendi."
 }
