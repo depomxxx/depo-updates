@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-11-02 21:39:47",
+  "updated_at": "2026-11-02 21:40:35",
   "count": 4,
-  "signature": "88CF5E11DD3B6F17B0B902910E7626F5",
+  "signature": "5D006D69832D53DE779778991263CB90",
   "items": [
     {
       "id": "406CFA01",
       "pharmacy_name": "ÇAĞRI ECZANESI",
       "gln_no": "8680001111111",
       "plan": "DENEME_30GUN",
-      "expires_at": "2026-11-01",
+      "expires_at": "2026-12-02",
       "max_pcs": 15,
       "hwid_lock": "ANY",
       "status": "AKTIF",
-      "license_key": "FR-eyJlIjoiw4dBxJ5SSSBFQ1pBTkVTSSIsImZuIjoiw4dBxJ5SSSBBU0xBTiIsInRlbCI6IjA1MDUwMDAwMDI5IiwiY3QiOiJTSU5PUCBTQVJBWUTDnFrDnCIsImciOiI4NjgwMDAxMTExMTExIiwieCI6IjIwMjYtMTEtMDEiLCJtIjoxNSwiaCI6IkFOWSIsInAiOiJERU5FTUVfMzBHVU4ifQ.853382BF254EE59A",
-      "updated_at": "2026-11-02 21:39:47"
+      "license_key": "FR-eyJlIjoiw4dBxJ5SSSBFQ1pBTkVTSSIsImZuIjoiw4dBxJ5SSSBBU0xBTiIsInRlbCI6IjA1MDUwMDAwMDI5IiwiY3QiOiJTSU5PUCBTQVJBWUTDnFrDnCIsImciOiI4NjgwMDAxMTExMTExIiwieCI6IjIwMjYtMTItMDIiLCJtIjoxNSwiaCI6IkFOWSIsInAiOiJERU5FTUVfMzBHVU4ifQ.BA3BBEF92BA79834",
+      "updated_at": "2026-11-02 21:40:35"
     },
     {
       "id": "48F632F1",
