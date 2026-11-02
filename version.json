@@ -1,11 +1,11 @@
 {
-  "version": "1.4.9",
+  "version": "1.5.0",
   "app_name": "Farma Radar",
-  "release_date": "2026-10-30 11:45:22",
+  "release_date": "2026-11-02 11:58:57",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.4.9.zip?t=1793349923",
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.5.0.zip?t=1793609938",
   "sha256": "",
-  "package_sha256": "239464583f01aa10c4d9168afc2a363b9b692bb89c11a1d838d2d1bcbd1685aa",
-  "size_kb": 446.5,
-  "changelog": "v1.4.9: EczaneTakas ve Eczatrend ekranlarina Anlik Stok, 1 Aylik Cikis ve 3 Aylik Cikis sutunlari (TRIA, Botanik EOS ve TEBEOS tam uyumlu) ile sifre girmeden dogrudan tek tikla teklife katilma (Katil) ve 6 platform icin (ISKOOP, Selcuk, Nevzat, Hedef, Eczatrend, EczaneTakas) arka plan otomatik oturum hazirlama sistemi eklendi."
+  "package_sha256": "ca5ea55c596a70960d42aa59e59a946bc3610cf0a964697f27797465441c85aa",
+  "size_kb": 455.4,
+  "changelog": "v1.5.0: (1) Akilli MF & Barem Tamamlama Asistani (+N adet ekle -> MF yakala ve ekstra kar hesabi) Gunun Cikislari ve Toplu Siparis ekranlarina eklendi. (2) Yok Listesi gunler arasi kalici hale getirildi; ust sabit bar, sol cekmece sabit bolumu ve ust bar Yok Listesi rozeti eklendi. (3) Tum depolarda (Selcuk, Alliance, Iskoop, Nevzat) siparis onaylandiginda Sepette -> Siparis Verildi gecisi, coklu barkod eslestirmesi ve ustunu cizme (line-through) senkronizasyonu duzeltildi. (4) Sol alttaki mavi coklu-PC sepet bildirim cubugu (#floatingMiniBulkCart) ve anlik sepet/onay bildirimleri geri getirildi."
 }
