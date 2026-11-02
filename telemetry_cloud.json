@@ -1,0 +1,30 @@
+{
+  "updated_at": "2026-11-02 22:46:25",
+  "count": 1,
+  "items": [
+    {
+      "id": "406CFA01",
+      "pharmacy_name": "ÇAĞRI ECZANESI",
+      "pharmacist_name": "ÇAĞRI ASLAN",
+      "phone": "05050000029",
+      "city": "SINOP SARAYDÜZÜ",
+      "gln_no": "8680001111111",
+      "otomasyon": "BOTANIK",
+      "plan": "DENEME_30GUN",
+      "expires_at": "2026-12-02",
+      "status": "AKTIF",
+      "hwid": "9985-0025-3852",
+      "last_pc_name": "Cicobey",
+      "app_version": "﻿1.5.7",
+      "last_seen_at": "2026-11-02 22:46:25",
+      "last_action": "Program Açık (Canlı)",
+      "today_date": "2026-11-02",
+      "today_searches": 0,
+      "today_cart_adds": 0,
+      "today_smart_orders": 0,
+      "total_searches": 0,
+      "total_cart_adds": 0,
+      "total_days_used": 1
+    }
+  ]
+}
