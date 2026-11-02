@@ -1,11 +1,11 @@
 {
-  "version": "1.5.4",
+  "version": "1.5.5",
   "app_name": "Farma Radar",
-  "release_date": "2026-11-02 19:38:57",
+  "release_date": "2026-11-02 20:01:21",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.5.4.zip?t=1793637538",
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.5.5.zip?t=1793638882",
   "sha256": "",
-  "package_sha256": "c1d02661664fe50a4e9ea5f2b84933d3d1f16ca2409357c4e1e4e34a33b19719",
-  "size_kb": 464.1,
-  "changelog": "v1.5.4: Kurumsal Lisans Koruma & Uzaktan Kısıtlama Sistemi — Lisans süresi dolduğunda veya yönetici CRM panelinden lisansı askıya aldığında/sildiğinde 4 ana özellik (Depo Sorgulama, Sepete Ekleme, Toplu Sipariş, MF Asistanı) hem arayüzde hem sunucu API katmanında (HTTP 403) otomatik kilitlenir; ilk kurulumda lisans anahtarı girilmeden program açılmaz; GitHub API Zero-Cache ile 25 saniyede anlık durum senkronizasyonu eklendi."
+  "package_sha256": "2736921cef599258a906f1aa836a171a9e854b6ea1dde076fce66c3c12121836",
+  "size_kb": 469.8,
+  "changelog": "- Eczane Ilk Kurulum / Ilk Acilis sirasinda GLN, Eczane Adi ve Cep Telefonu ile GitHub uzerinden otomatik 30 Gunluk Deneme Lisansi (DENEME_30GUN) tanimlama eklendi.\n- Otomatik kayit olan eczanelerin GitHub licenses_cloud.json ve CRM Lisans Yonetim Paneline aninda dusmesi ve 30 gun sonunda tek tikla uzatilabilmesi saglandi."
 }
