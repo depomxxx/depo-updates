@@ -1,11 +1,11 @@
 {
-  "version": "1.5.1",
+  "version": "1.5.2",
   "app_name": "Farma Radar",
-  "release_date": "2026-11-02 12:14:47",
+  "release_date": "2026-11-02 15:26:39",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.5.1.zip?t=1793610888",
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.5.2.zip?t=1793622400",
   "sha256": "",
-  "package_sha256": "b73f05dae445139672f5c6c3b99a1dd5a3be3acfe50ea66ea78fef6c87f0ea28",
-  "size_kb": 455.6,
-  "changelog": "v1.5.1: Siparis Verilmeyecekler ile Yok Listesi tamamen ayrildi; Verilmeyecekler sorgusundan gelen urunlerin ustteki Sabit Yok Listesi panelinde (Stoga Girenler) cikmasi engellendi ve hem Yok hem Stoga Girenler icin manuel tekil cikarma (X Cikar) ve toplu temizleme butonlari eklendi."
+  "package_sha256": "9827a5e5cabcafe4c0010307edbc5363b420356d79d234f28f3cc6673da2f093",
+  "size_kb": 457.2,
+  "changelog": "v1.5.2: Günün Çıkışları / Günlük Sipariş ekranı çok kompakt ve net hale getirildi (Stok, Bugün Çıkış ve Aylık Çıkış büyük/belirgin kutularla gösterilir); Günlük Sipariş ve Toplu Sipariş ekranından doğrudan Yok Listesine ekleme anlık senkronize edildi; uzak bilgisayarlar için sıfır önbellekli canlı güncelleme iyileştirildi."
 }
