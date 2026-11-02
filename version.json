@@ -1,11 +1,11 @@
 {
-  "version": "1.5.7",
+  "version": "1.5.8",
   "app_name": "Farma Radar",
-  "release_date": "2026-11-02 22:21:24",
+  "release_date": "2026-11-02 22:46:42",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.5.7.zip?t=1793647285",
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.5.8.zip?t=1793648803",
   "sha256": "",
-  "package_sha256": "bcfc3a0bc3dcf889d007e2826d721c2e943cf98ffebb2abfa39f7257905df838",
-  "size_kb": 477.0,
-  "changelog": "Farma Radar Lisans canli kullanim ve aktivite izleme telemetrisi eklendi."
+  "package_sha256": "898b2df567cc2a189328cf7858f653370a9a33eed87bd3732a0cb449a0a0af55",
+  "size_kb": 477.9,
+  "changelog": "Uzaktan eczaneler icin GitHub bulut telemetri gonderimi ve otomatik eczane eslestirme duzeltildi."
 }
