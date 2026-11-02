@@ -1,25 +1,19 @@
 {
-  "updated_at": "2026-11-02 21:34:58",
+  "updated_at": "2026-11-02 21:39:25",
   "count": 4,
-  "signature": "776A5BC12C3CD9070016D8790E7F3BF5",
+  "signature": "7A9A80C6C715C3DA2074BB87B702093F",
   "items": [
     {
       "id": "406CFA01",
       "pharmacy_name": "ÇAĞRI ECZANESI",
-      "pharmacist_name": "ÇAĞRI ASLAN",
-      "phone": "05050000029",
-      "city": "SINOP SARAYDÜZÜ",
       "gln_no": "8680001111111",
-      "otomasyon": "BOTANIK",
       "plan": "DENEME_30GUN",
-      "expires_at": "2026-12-02",
+      "expires_at": "2027-01-01",
       "max_pcs": 15,
       "hwid_lock": "ANY",
-      "registered_hwid": "9985-0025-3852",
       "status": "AKTIF",
-      "license_key": "FR-eyJlIjoiw4dBxJ5SSSBFQ1pBTkVTSSIsImZuIjoiw4dBxJ5SSSBBU0xBTiIsInRlbCI6IjA1MDUwMDAwMDI5IiwiY3QiOiJTSU5PUCBTQVJBWUTDnFrDnCIsImciOiI4NjgwMDAxMTExMTExIiwieCI6IjIwMjYtMTItMDIiLCJtIjoxNSwiaCI6IkFOWSIsInAiOiJERU5FTUVfMzBHVU4ifQ.BA3BBEF92BA79834",
-      "created_at": "2026-11-02 21:34:58",
-      "updated_at": "2026-11-02 21:34:58"
+      "license_key": "FR-eyJlIjoiw4dBxJ5SSSBFQ1pBTkVTSSIsImZuIjoiw4dBxJ5SSSBBU0xBTiIsInRlbCI6IjA1MDUwMDAwMDI5IiwiY3QiOiJTSU5PUCBTQVJBWUTDnFrDnCIsImciOiI4NjgwMDAxMTExMTExIiwieCI6IjIwMjctMDEtMDEiLCJtIjoxNSwiaCI6IkFOWSIsInAiOiJERU5FTUVfMzBHVU4ifQ.EA4372AD7A60C753",
+      "updated_at": "2026-11-02 21:39:25"
     },
     {
       "id": "48F632F1",
