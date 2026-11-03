@@ -1,11 +1,11 @@
 {
-  "version": "1.5.8",
+  "version": "1.5.9",
   "app_name": "Farma Radar",
-  "release_date": "2026-11-02 22:46:42",
+  "release_date": "2026-11-03 12:32:19",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.5.8.zip?t=1793648803",
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.5.9.zip?t=1793698340",
   "sha256": "",
-  "package_sha256": "898b2df567cc2a189328cf7858f653370a9a33eed87bd3732a0cb449a0a0af55",
-  "size_kb": 477.9,
-  "changelog": "Uzaktan eczaneler icin GitHub bulut telemetri gonderimi ve otomatik eczane eslestirme duzeltildi."
+  "package_sha256": "1e5cd6f8f7ad99bb05a1d05c25168163393de7a7bd2904086d0f970503039292",
+  "size_kb": 479.4,
+  "changelog": "Arama cubugunda Google Sifre Yoneticisi (otomatik sifre ve kullanici adi doldurma) cikmasi tamamen engellendi."
 }
