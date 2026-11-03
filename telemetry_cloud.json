@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03 12:48:36",
+  "updated_at": "2026-11-03 12:46:39",
   "count": 3,
   "items": [
     {
@@ -40,14 +40,14 @@
       "hwid": "52D8-D8DF-537C",
       "last_pc_name": "DESKTOP-6KFO8IF",
       "app_version": "1.5.9",
-      "last_seen_at": "2026-11-03 12:45:11",
-      "last_action": "Program Açıldı (Canlı)",
+      "last_seen_at": "2026-11-03 12:46:39",
+      "last_action": "Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-03",
       "today_searches": 0,
-      "today_cart_adds": 0,
-      "today_smart_orders": 0,
+      "today_cart_adds": 1,
+      "today_smart_orders": 1,
       "total_searches": 6,
-      "total_cart_adds": 0,
+      "total_cart_adds": 1,
       "total_days_used": 2
     },
     {
