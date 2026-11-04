@@ -1,11 +1,11 @@
 {
-  "version": "1.5.9",
+  "version": "1.6.0",
   "app_name": "Farma Radar",
-  "release_date": "2026-11-03 12:32:19",
+  "release_date": "2026-11-04 14:34:51",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.5.9.zip?t=1793698340",
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.6.0.zip?t=1793792092",
   "sha256": "",
-  "package_sha256": "1e5cd6f8f7ad99bb05a1d05c25168163393de7a7bd2904086d0f970503039292",
-  "size_kb": 479.4,
-  "changelog": "Arama cubugunda Google Sifre Yoneticisi (otomatik sifre ve kullanici adi doldurma) cikmasi tamamen engellendi."
+  "package_sha256": "825c5b66d03af20e15a95bb785e0bbedd78944e08a3e51d803075c2bd9b515fe",
+  "size_kb": 504.6,
+  "changelog": "v1.6.0 - ECZANEM Eczane Otomasyonu (MS SQL) Tam Entegrasyonu:\n• Eczanem (MS SQL - Port 1433) yerel agda otomatik sunucu bulma (64-thread LAN kesfi) ve canli baglanti.\n• Eczanem urun, raf stogu, receteli cikis, nakit (elden) cikis, depo giris faturalari, MF gecmisi ve SGK esdeger ilac analizi.\n• Eczanem DepoBilgi tablosundaki sifreli depo hesaplarini ve Eczane GLN/Kimlik bilgilerini tek tikla cozup aktarma.\n• Eczanem SQL uzerinde coklu bilgisayar (LAN) ortak gunluk siparis ve sepet takibi (EdaGunlukSiparis)."
 }
