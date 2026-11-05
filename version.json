@@ -1,11 +1,11 @@
 {
-  "version": "1.6.1",
+  "version": "1.6.2",
   "app_name": "Farma Radar",
-  "release_date": "2026-11-04 15:33:38",
+  "release_date": "2026-11-05 14:45:40",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.6.1.zip?t=1793795619",
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.6.2.zip?t=1793879141",
   "sha256": "",
-  "package_sha256": "8173e25e92da39a97a905cf4a0d725c375ec58e4084aee9859f9dc6a3b015e9f",
-  "size_kb": 514.6,
-  "changelog": "v1.6.1: EczaneTakas ve Eczatrend ortak alım/katılım kalıcı takibi, mükerrer sipariş uyarısı, Eczanem otomatik ağ keşfi sırasında depo aktiflik koruma ve otomatik onarım (auto-heal) sistemi."
+  "package_sha256": "274bfa98dbc2f4a1b45d83bd233efce297096d1fde1f6881c820c8eec5335e2f",
+  "size_kb": 515.4,
+  "changelog": "v1.6.2: Gün Sonu Sipariş Özeti listesinde alternatif barkodlu ilaçların (Dolelac, Budenosin Discair, Bekunis vb.) mükerrer görünmesi düzeltildi, Yönetici Lisans CRM Paneli pencere başlatma iyileştirildi."
 }
