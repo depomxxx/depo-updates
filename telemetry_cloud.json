@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05 17:52:41",
+  "updated_at": "2026-11-05 17:52:44",
   "count": 3,
   "items": [
     {
@@ -33,19 +33,19 @@
       "phone": "",
       "city": "",
       "gln_no": "8680001000000",
-      "otomasyon": "TRIA",
+      "otomasyon": "BOTANIK",
       "plan": "PRO_YILLIK",
       "expires_at": "2027-10-24",
       "status": "AKTIF",
-      "hwid": "52D8-D8DF-537C",
-      "last_pc_name": "DESKTOP-6KFO8IF",
+      "hwid": "2DED-CFF9-D593",
+      "last_pc_name": "DESKTOP-8JN0NE5",
       "app_version": "1.6.2",
-      "last_seen_at": "2026-11-05 17:51:55",
+      "last_seen_at": "2026-11-05 17:52:44",
       "last_action": "Program Açık (Canlı)",
       "today_date": "2026-11-05",
       "today_searches": 0,
-      "today_cart_adds": 2,
-      "today_smart_orders": 8,
+      "today_cart_adds": 0,
+      "today_smart_orders": 4,
       "total_searches": 6,
       "total_cart_adds": 12,
       "total_days_used": 3
