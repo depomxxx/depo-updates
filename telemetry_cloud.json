@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05 09:38:37",
+  "updated_at": "2026-11-05 09:39:08",
   "count": 3,
   "items": [
     {
@@ -40,15 +40,15 @@
       "hwid": "52D8-D8DF-537C",
       "last_pc_name": "DESKTOP-6KFO8IF",
       "app_version": "1.6.1",
-      "last_seen_at": "2026-11-04 18:16:30",
-      "last_action": "Program Açık (Canlı)",
-      "today_date": "2026-11-04",
+      "last_seen_at": "2026-11-05 09:39:08",
+      "last_action": "Program Açıldı (Canlı)",
+      "today_date": "2026-11-05",
       "today_searches": 0,
-      "today_cart_adds": 3,
-      "today_smart_orders": 3,
+      "today_cart_adds": 0,
+      "today_smart_orders": 0,
       "total_searches": 6,
       "total_cart_adds": 10,
-      "total_days_used": 2
+      "total_days_used": 3
     },
     {
       "id": "406CFA01",
