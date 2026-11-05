@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05 16:57:52",
+  "updated_at": "2026-11-05 16:58:27",
   "count": 3,
   "items": [
     {
@@ -16,12 +16,12 @@
       "hwid": "75CD-4B9F-BE6A",
       "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.6.2",
-      "last_seen_at": "2026-11-05 16:57:52",
-      "last_action": "Program Açık (Canlı)",
+      "last_seen_at": "2026-11-05 16:58:27",
+      "last_action": "Toplu Sipariş Planlama",
       "today_date": "2026-11-05",
       "today_searches": 2,
       "today_cart_adds": 1,
-      "today_smart_orders": 10,
+      "today_smart_orders": 11,
       "total_searches": 19,
       "total_cart_adds": 66,
       "total_days_used": 3
