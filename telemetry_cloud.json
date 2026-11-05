@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05 14:16:05",
+  "updated_at": "2026-11-05 14:18:26",
   "count": 3,
   "items": [
     {
@@ -64,14 +64,14 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.6.1",
-      "last_seen_at": "2026-11-05 14:16:48",
-      "last_action": "Depo Fiyat Sorgulama",
+      "last_seen_at": "2026-11-05 14:18:26",
+      "last_action": "Program Açık (Canlı)",
       "today_date": "2026-11-05",
-      "today_searches": 4,
-      "today_cart_adds": 1,
+      "today_searches": 5,
+      "today_cart_adds": 3,
       "today_smart_orders": 2,
-      "total_searches": 11,
-      "total_cart_adds": 75,
+      "total_searches": 12,
+      "total_cart_adds": 77,
       "total_days_used": 4
     }
   ]
