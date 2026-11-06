@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06 13:28:24",
+  "updated_at": "2026-11-06 13:28:32",
   "count": 3,
   "items": [
     {
@@ -27,25 +27,25 @@
       "total_days_used": 4
     },
     {
-      "id": "D0EFA284",
-      "pharmacy_name": "ARAŞTIRMA ECZANESI",
+      "id": "106A1333",
+      "pharmacy_name": "ARAŞTIRMA ECZANESİ",
       "pharmacist_name": "GAMZE ASLAN",
       "phone": "05344064108",
-      "city": "SAMSUN/ATAKUM",
+      "city": "SAMSUN",
       "gln_no": "8680001134861",
       "otomasyon": "TRIA",
       "plan": "PRO_YILLIK",
-      "expires_at": "2027-10-24",
+      "expires_at": "2027-10-26",
       "status": "AKTIF",
-      "hwid": "18C1-4ECE-8490",
-      "last_pc_name": "ChagriBeg",
+      "hwid": "753B-50FF-6214",
+      "last_pc_name": "DESKTOP-NPTIN4D",
       "app_version": "1.6.4",
-      "last_seen_at": "2026-11-06 13:28:24",
-      "last_action": "Program Açık (Canlı)",
+      "last_seen_at": "2026-11-06 13:28:32",
+      "last_action": "Canlı MF Taraması",
       "today_date": "2026-11-06",
       "today_searches": 0,
-      "today_cart_adds": 21,
-      "today_smart_orders": 12,
+      "today_cart_adds": 0,
+      "today_smart_orders": 3380,
       "total_searches": 6,
       "total_cart_adds": 21,
       "total_days_used": 3
