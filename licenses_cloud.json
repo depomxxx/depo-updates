@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-02 21:47:15",
+  "updated_at": "2026-11-06 12:15:52",
   "count": 4,
-  "signature": "10FA5EBA30C117FB50CDD957E8514B94",
+  "signature": "D87A3223813BC0614BF7194F9C725E47",
   "items": [
     {
       "id": "406CFA01",
@@ -29,15 +29,21 @@
     },
     {
       "id": "106A1333",
-      "pharmacy_name": "RÜYA ECZANESI",
+      "pharmacy_name": "ARAŞTIRMA ECZANESİ",
+      "pharmacist_name": "GAMZE ASLAN",
+      "phone": "05344064108",
+      "city": "SAMSUN",
       "gln_no": "8680001134861",
+      "otomasyon": "BOTANIK",
       "plan": "PRO_YILLIK",
       "expires_at": "2027-10-26",
       "max_pcs": 15,
       "hwid_lock": "ANY",
+      "registered_hwid": "753B-50FF-6214",
       "status": "AKTIF",
-      "license_key": "FR-eyJlIjoiUsOcWUEgRUNaQU5FU0kiLCJmbiI6IsOHQcSeUkkgQVNMQU4iLCJ0ZWwiOiIwNTA2NTk2MzkxOCIsImN0IjoiU8SwTk9QL1NBUkFZRMOcWsOcIiwiZyI6Ijg2ODAwMDExMzQ4NjEiLCJ4IjoiMjAyNy0xMC0yNiIsIm0iOjE1LCJoIjoiQU5ZIiwicCI6IlBST19ZSUxMSUsifQ.EAEBA263EBABCD17",
-      "updated_at": "2026-10-26 15:26:12"
+      "license_key": "FR-eyJlIjoiQVJBxZ5USVJNQSBFQ1pBTkVTxLAiLCJmbiI6IkdBTVpFIEFTTEFOIiwidGVsIjoiMDUzNDQwNjQxMDgiLCJjdCI6IlNBTVNVTiIsImciOiI4NjgwMDAxMTM0ODYxIiwieCI6IjIwMjctMTAtMjYiLCJtIjoxNSwiaCI6IkFOWSIsInAiOiJQUk9fWUlMTElLIn0.D61D5854ADCB3DD1",
+      "created_at": "2026-11-06 12:15:52",
+      "updated_at": "2026-11-06 12:15:52"
     },
     {
       "id": "D0EFA284",
