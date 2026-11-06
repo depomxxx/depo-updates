@@ -1,11 +1,11 @@
 {
   "version": "1.6.4",
   "app_name": "Farma Radar",
-  "release_date": "2026-11-06 12:42:16",
+  "release_date": "2026-11-06 12:59:32",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.6.4.zip?t=1793958137",
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.6.4.zip?t=1793959173",
   "sha256": "",
-  "package_sha256": "6f3bdb131c018351abe0c460015ccf705bf1a88fecec84e88d46fab90b63cfdc",
-  "size_kb": 522.0,
-  "changelog": "v1.6.4: Tria Oracle ORA-28000 (Hesap Kilidi) otomatik SYSDBA kilit açıcı, ProcessDB (ORA-01012/DPY-4011) oturum koruma kalkanı ve yanlış şifrede çoklu SID/Ağ denemesi engelleme güncellemesi."
+  "package_sha256": "4ab6ff46647895cf88e114b1727c6f0ac759f3ad6a54148392d1216834068e01",
+  "size_kb": 522.6,
+  "changelog": "v1.6.4: Tria Oracle ORA-28000 otomatik SYSDBA kilit açıcı, ProcessDB koruma kalkanı, Kurumsal Tanıtım & Tek Tıkla Online Tam Kurulum Web Sitesi ve Android Cep Uygulaması (.apk) indirme desteği."
 }
