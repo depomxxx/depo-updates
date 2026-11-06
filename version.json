@@ -1,11 +1,11 @@
 {
-  "version": "1.6.2",
+  "version": "1.6.3",
   "app_name": "Farma Radar",
-  "release_date": "2026-11-05 14:45:40",
+  "release_date": "2026-11-06 10:51:23",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.6.2.zip?t=1793879141",
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.6.3.zip?t=1793951485",
   "sha256": "",
-  "package_sha256": "274bfa98dbc2f4a1b45d83bd233efce297096d1fde1f6881c820c8eec5335e2f",
-  "size_kb": 515.4,
-  "changelog": "v1.6.2: Gün Sonu Sipariş Özeti listesinde alternatif barkodlu ilaçların (Dolelac, Budenosin Discair, Bekunis vb.) mükerrer görünmesi düzeltildi, Yönetici Lisans CRM Paneli pencere başlatma iyileştirildi."
+  "package_sha256": "ea1a3db1f46183235ca34c21ec795df15bf3d55ab2b27b86cdb52efa64bb305d",
+  "size_kb": 520.9,
+  "changelog": "v1.6.3: Eczatrend ve EczaneTakas üzerinden katılınan ürünlerde 7 gün boyunca Günün Çıkışları ve Toplu Alım ekranlarında kargo/takas uyarı rozeti eklendi; MF tamamlama uyarılarının eski G.MF yerine sadece güncel anlık depo MF si varsa çalışması sağlandı; Günün Çıkışları anlık MF çözümleme hızı ve kararlılığı düzeltildi."
 }
