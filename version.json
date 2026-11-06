@@ -1,11 +1,11 @@
 {
   "version": "1.6.5",
   "app_name": "Farma Radar",
-  "release_date": "2026-11-06 14:27:43",
+  "release_date": "2026-11-06 14:31:39",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.6.5.zip?t=1793964465",
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.6.5.zip?t=1793964700",
   "sha256": "",
-  "package_sha256": "580ccadc1598a2b34115b0b0911c65741643b999a3e6b164872b73e081003319",
+  "package_sha256": "dd6959335ec5b6b1ba7a7c7b0825f815c3565b04f0ef208204494550106ae0c6",
   "size_kb": 711.5,
   "changelog": "v1.6.5: Tüm bilgisayarlarda yüksek çözünürlüklü yeni Farma Radar masaüstü ikonu otomatik güncellemesi ve Yönetici Lisans Paneli (OneDrive SQLite kilidi) kalıcı düzeltmesi."
 }
