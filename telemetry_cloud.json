@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06 13:02:34",
+  "updated_at": "2026-11-06 13:00:38",
   "count": 3,
   "items": [
     {
@@ -33,15 +33,15 @@
       "phone": "05344064108",
       "city": "SAMSUN",
       "gln_no": "8680001134861",
-      "otomasyon": "BOTANIK",
+      "otomasyon": "TRIA",
       "plan": "PRO_YILLIK",
       "expires_at": "2027-10-26",
       "status": "AKTIF",
       "hwid": "753B-50FF-6214",
       "last_pc_name": "DESKTOP-NPTIN4D",
       "app_version": "1.6.4",
-      "last_seen_at": "2026-11-06 13:00:26",
-      "last_action": "Program Açık (Canlı)",
+      "last_seen_at": "2026-11-06 13:00:38",
+      "last_action": "Program Açıldı (Canlı)",
       "today_date": "2026-11-06",
       "today_searches": 0,
       "today_cart_adds": 0,
