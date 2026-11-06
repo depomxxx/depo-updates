@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06 16:32:43",
+  "updated_at": "2026-11-06 16:32:52",
   "count": 3,
   "items": [
     {
@@ -13,15 +13,15 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "75CD-4B9F-BE6A",
-      "last_pc_name": "DESKTOP-M530BBB",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.6.7",
-      "last_seen_at": "2026-11-06 16:32:43",
-      "last_action": "Program Açık (Canlı)",
+      "last_seen_at": "2026-11-06 16:32:52",
+      "last_action": "Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-06",
-      "today_searches": 11,
-      "today_cart_adds": 18,
-      "today_smart_orders": 21,
+      "today_searches": 6,
+      "today_cart_adds": 27,
+      "today_smart_orders": 51,
       "total_searches": 30,
       "total_cart_adds": 93,
       "total_days_used": 4
