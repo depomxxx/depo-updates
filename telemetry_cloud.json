@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06 17:17:39",
+  "updated_at": "2026-11-06 17:19:44",
   "count": 3,
   "items": [
     {
@@ -64,14 +64,14 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.6.7",
-      "last_seen_at": "2026-11-06 17:18:31",
-      "last_action": "Depo Fiyat Sorgulama",
+      "last_seen_at": "2026-11-06 17:19:44",
+      "last_action": "Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-06",
       "today_searches": 3,
-      "today_cart_adds": 23,
+      "today_cart_adds": 24,
       "today_smart_orders": 18,
       "total_searches": 18,
-      "total_cart_adds": 126,
+      "total_cart_adds": 127,
       "total_days_used": 5
     }
   ]
