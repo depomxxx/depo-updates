@@ -1,11 +1,11 @@
 {
-  "version": "1.6.4",
+  "version": "1.6.5",
   "app_name": "Farma Radar",
-  "release_date": "2026-11-06 12:59:32",
+  "release_date": "2026-11-06 14:27:43",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.6.4.zip?t=1793959173",
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.6.5.zip?t=1793964465",
   "sha256": "",
-  "package_sha256": "4ab6ff46647895cf88e114b1727c6f0ac759f3ad6a54148392d1216834068e01",
-  "size_kb": 522.6,
-  "changelog": "v1.6.4: Tria Oracle ORA-28000 otomatik SYSDBA kilit açıcı, ProcessDB koruma kalkanı, Kurumsal Tanıtım & Tek Tıkla Online Tam Kurulum Web Sitesi ve Android Cep Uygulaması (.apk) indirme desteği."
+  "package_sha256": "580ccadc1598a2b34115b0b0911c65741643b999a3e6b164872b73e081003319",
+  "size_kb": 711.5,
+  "changelog": "v1.6.5: Tüm bilgisayarlarda yüksek çözünürlüklü yeni Farma Radar masaüstü ikonu otomatik güncellemesi ve Yönetici Lisans Paneli (OneDrive SQLite kilidi) kalıcı düzeltmesi."
 }
