@@ -1,11 +1,11 @@
 {
-  "version": "1.6.3",
+  "version": "1.6.4",
   "app_name": "Farma Radar",
-  "release_date": "2026-11-06 10:51:23",
+  "release_date": "2026-11-06 12:42:16",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.6.3.zip?t=1793951485",
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.6.4.zip?t=1793958137",
   "sha256": "",
-  "package_sha256": "ea1a3db1f46183235ca34c21ec795df15bf3d55ab2b27b86cdb52efa64bb305d",
-  "size_kb": 520.9,
-  "changelog": "v1.6.3: Eczatrend ve EczaneTakas üzerinden katılınan ürünlerde 7 gün boyunca Günün Çıkışları ve Toplu Alım ekranlarında kargo/takas uyarı rozeti eklendi; MF tamamlama uyarılarının eski G.MF yerine sadece güncel anlık depo MF si varsa çalışması sağlandı; Günün Çıkışları anlık MF çözümleme hızı ve kararlılığı düzeltildi."
+  "package_sha256": "6f3bdb131c018351abe0c460015ccf705bf1a88fecec84e88d46fab90b63cfdc",
+  "size_kb": 522.0,
+  "changelog": "v1.6.4: Tria Oracle ORA-28000 (Hesap Kilidi) otomatik SYSDBA kilit açıcı, ProcessDB (ORA-01012/DPY-4011) oturum koruma kalkanı ve yanlış şifrede çoklu SID/Ağ denemesi engelleme güncellemesi."
 }
