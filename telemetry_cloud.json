@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06 14:32:27",
+  "updated_at": "2026-11-06 14:32:28",
   "count": 3,
   "items": [
     {
@@ -15,9 +15,9 @@
       "status": "AKTIF",
       "hwid": "DCC5-A6D1-CA2F",
       "last_pc_name": "Eskienes",
-      "app_version": "1.6.4",
-      "last_seen_at": "2026-11-06 14:32:20",
-      "last_action": "Program Açık (Canlı)",
+      "app_version": "1.6.5",
+      "last_seen_at": "2026-11-06 14:32:28",
+      "last_action": "Program Açıldı (Canlı)",
       "today_date": "2026-11-06",
       "today_searches": 7,
       "today_cart_adds": 5,
