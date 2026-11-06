@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06 15:33:23",
+  "updated_at": "2026-11-06 15:33:27",
   "count": 3,
   "items": [
     {
@@ -39,13 +39,13 @@
       "status": "AKTIF",
       "hwid": "753B-50FF-6214",
       "last_pc_name": "DESKTOP-NPTIN4D",
-      "app_version": "1.6.6",
-      "last_seen_at": "2026-11-06 15:33:06",
-      "last_action": "Canlı MF Taraması",
+      "app_version": "1.6.7",
+      "last_seen_at": "2026-11-06 15:33:27",
+      "last_action": "Program Açıldı (Canlı)",
       "today_date": "2026-11-06",
       "today_searches": 1,
       "today_cart_adds": 0,
-      "today_smart_orders": 16838,
+      "today_smart_orders": 16872,
       "total_searches": 6,
       "total_cart_adds": 21,
       "total_days_used": 4
