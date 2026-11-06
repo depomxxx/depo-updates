@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06 10:58:04",
+  "updated_at": "2026-11-06 10:58:25",
   "count": 3,
   "items": [
     {
@@ -57,15 +57,15 @@
       "phone": "05050000029",
       "city": "SINOP SARAYDÜZÜ",
       "gln_no": "8680001111111",
-      "otomasyon": "BOTANIK",
+      "otomasyon": "TRIA",
       "plan": "DENEME_30GUN",
       "expires_at": "2026-12-02",
       "status": "AKTIF",
       "hwid": "9985-0025-3852",
       "last_pc_name": "Cicobey",
       "app_version": "1.5.9",
-      "last_seen_at": "2026-11-06 10:57:23",
-      "last_action": "Program Açık (Canlı)",
+      "last_seen_at": "2026-11-06 10:58:25",
+      "last_action": "Program Açıldı (Canlı)",
       "today_date": "2026-11-06",
       "today_searches": 0,
       "today_cart_adds": 0,
