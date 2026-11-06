@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06 09:35:44",
+  "updated_at": "2026-11-06 09:36:04",
   "count": 3,
   "items": [
     {
@@ -15,13 +15,13 @@
       "status": "AKTIF",
       "hwid": "B766-9F71-3B24",
       "last_pc_name": "Eda-Bilgin",
-      "app_version": "1.6.1",
-      "last_seen_at": "2026-11-06 09:35:44",
+      "app_version": "1.6.2",
+      "last_seen_at": "2026-11-06 09:36:04",
       "last_action": "Program Açıldı (Canlı)",
       "today_date": "2026-11-06",
       "today_searches": 0,
       "today_cart_adds": 0,
-      "today_smart_orders": 0,
+      "today_smart_orders": 5,
       "total_searches": 19,
       "total_cart_adds": 66,
       "total_days_used": 4
