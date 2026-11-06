@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06 11:57:46",
+  "updated_at": "2026-11-06 11:58:04",
   "count": 3,
   "items": [
     {
@@ -39,13 +39,13 @@
       "status": "AKTIF",
       "hwid": "18C1-4ECE-8490",
       "last_pc_name": "ChagriBeg",
-      "app_version": "1.5.8",
-      "last_seen_at": "2026-11-06 11:57:46",
+      "app_version": "1.6.3",
+      "last_seen_at": "2026-11-06 11:58:04",
       "last_action": "Program Açıldı (Canlı)",
       "today_date": "2026-11-06",
       "today_searches": 0,
       "today_cart_adds": 0,
-      "today_smart_orders": 0,
+      "today_smart_orders": 4,
       "total_searches": 6,
       "total_cart_adds": 17,
       "total_days_used": 3
