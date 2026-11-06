@@ -1,11 +1,11 @@
 {
-  "version": "1.6.6",
+  "version": "1.6.7",
   "app_name": "Farma Radar",
-  "release_date": "2026-11-06 14:45:05",
+  "release_date": "2026-11-06 15:32:22",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.6.6.zip?t=1793965506",
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.6.7.zip?t=1793968343",
   "sha256": "",
-  "package_sha256": "44410a3f4e9a489bd52910385ec0007b7f3aad4273f7d9441b518b1351d11e29",
-  "size_kb": 711.9,
-  "changelog": "v1.6.6: Ağdaki tüm bilgisayarlarda (Eda Eczanesi - Depo Sistemi / Eczane Depo Pro / Farma Radar) masaüstü kısayol ikonlarının anında yenilenmesi."
+  "package_sha256": "aaf95cfccd98b56f65f8a99ef0a16e468cfe8c1c4ea3717507ef95961bd0d3e9",
+  "size_kb": 713.8,
+  "changelog": "v1.6.7: Tüm ağ bilgisayarlarında masaüstü kısayol ikonlarını (Farma Radar & Yönetici Lisans Paneli) anında yenileyen UTF-8 BOM motoru ve bağımsız Yönetici Lisans Paneli pencere açılış düzeltmesi."
 }
