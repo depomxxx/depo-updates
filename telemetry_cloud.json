@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06 12:06:35",
+  "updated_at": "2026-11-06 12:04:40",
   "count": 3,
   "items": [
     {
@@ -40,12 +40,12 @@
       "hwid": "18C1-4ECE-8490",
       "last_pc_name": "ChagriBeg",
       "app_version": "1.6.3",
-      "last_seen_at": "2026-11-06 12:04:11",
-      "last_action": "Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-06 12:04:40",
+      "last_action": "Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-06",
       "today_searches": 0,
-      "today_cart_adds": 10,
-      "today_smart_orders": 5,
+      "today_cart_adds": 13,
+      "today_smart_orders": 6,
       "total_searches": 6,
       "total_cart_adds": 17,
       "total_days_used": 3
