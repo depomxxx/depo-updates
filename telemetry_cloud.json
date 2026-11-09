@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09 11:47:15",
+  "updated_at": "2026-11-09 11:47:35",
   "count": 3,
   "items": [
     {
@@ -64,13 +64,13 @@
       "hwid": "9985-0025-3852",
       "last_pc_name": "Cicobey",
       "app_version": "1.5.9",
-      "last_seen_at": "2026-11-09 11:46:26",
+      "last_seen_at": "2026-11-09 11:47:35",
       "last_action": "Depo Fiyat Sorgulama",
       "today_date": "2026-11-09",
-      "today_searches": 11,
+      "today_searches": 12,
       "today_cart_adds": 15,
       "today_smart_orders": 27,
-      "total_searches": 22,
+      "total_searches": 23,
       "total_cart_adds": 171,
       "total_days_used": 6
     }
