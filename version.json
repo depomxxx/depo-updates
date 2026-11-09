@@ -1,11 +1,11 @@
 {
   "version": "1.7.2",
   "app_name": "Farma Radar",
-  "release_date": "2026-11-09 16:30:02",
+  "release_date": "2026-11-09 16:31:17",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.7.2.zip?t=1794231003",
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.7.2.zip?t=1794231078",
   "sha256": "",
-  "package_sha256": "3fc8b86b2e1f77263643d137797d597388720be4328bf93f1956292f76a69746",
+  "package_sha256": "f63637440a593060c7e5965610dae24703bf0175c6e0d18a65af2619228ee51b",
   "size_kb": 725.1,
   "changelog": "v1.7.2: Günün Çıkışları panelinin ekran yüksekliği ve kaydırma çubuğu alt ok görünümü düzeltildi. Günün Çıkışları içindeki Sabit Yok Listesi şeridi karışıklığı önlemek için gizlendi. Toplu Sipariş ekranındaki '2K / 5K' gibi kısaltmalar kaldırılarak 'Öneri: 2' şeklinde netleştirildi."
 }
