@@ -1,11 +1,11 @@
 {
-  "version": "1.7.0",
+  "version": "1.7.1",
   "app_name": "Farma Radar",
-  "release_date": "2026-11-09 14:20:06",
+  "release_date": "2026-11-09 15:02:22",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.7.0.zip?t=1794223207",
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.7.1.zip?t=1794225743",
   "sha256": "",
-  "package_sha256": "d7396aaeb4283b3fa0705236f9df432952ef310187aae419face1028ecb10ca8",
-  "size_kb": 726.6,
-  "changelog": "v1.7.0: Sipariş modülü ve çoklu depo sepet motoru baştan sona güçlendirildi. Alliance ve İSKOOP sepet/sonlandırma işlemlerinde zaman aşımı koruması, mükerrer sipariş önleyici doğrulama ve arka plan sorgu önceliklendirmesi eklendi. İSKOOP çerez/oturum (loginRedirectCount) kilitlenme sorunu otomatik çerez temizleme ile giderildi. Toplu Sipariş ekranı ve gönderici penceresi daha sade ve şık hale getirildi."
+  "package_sha256": "563dc1e71c939ff18d7b613eb44be52a33189f652a3f6f5351c52566f492de78",
+  "size_kb": 725.0,
+  "changelog": "v1.7.1: İSKOOP 868 barkodlu ürünlerin sepete eklenme ve canlı sepet doğrulama sorunu giderildi. Günün Çıkışları üst satır depo seçici menü taşması düzeltildi. Sepet sonlandırma pencerelerindeki buton kalabalıklığı kaldırıldı ve Toplu Sipariş ekranı çok daha kompakt hale getirildi."
 }
