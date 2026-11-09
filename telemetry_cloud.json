@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09 09:11:18",
+  "updated_at": "2026-11-09 09:11:50",
   "count": 3,
   "items": [
     {
@@ -16,14 +16,14 @@
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.6.7",
-      "last_seen_at": "2026-11-09 09:11:18",
-      "last_action": "Canlı MF Taraması",
+      "last_seen_at": "2026-11-09 09:11:50",
+      "last_action": "Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-09",
       "today_searches": 0,
-      "today_cart_adds": 0,
+      "today_cart_adds": 1,
       "today_smart_orders": 13,
       "total_searches": 39,
-      "total_cart_adds": 102,
+      "total_cart_adds": 103,
       "total_days_used": 6
     },
     {
