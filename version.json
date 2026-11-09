@@ -1,11 +1,11 @@
 {
   "version": "1.6.8",
   "app_name": "Farma Radar",
-  "release_date": "2026-11-09 12:36:50",
+  "release_date": "2026-11-09 12:38:47",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.6.8.zip?t=1794217011",
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.6.8.zip?t=1794217128",
   "sha256": "",
-  "package_sha256": "38f33b533b44f5ae8a0130c93fb32169b3459f4fe01d620733a68e77cb8b8a47",
-  "size_kb": 716.9,
+  "package_sha256": "c1a08181bf57f8eb4747209b79560067cba095794f870482eb392a3599f579e3",
+  "size_kb": 722.3,
   "changelog": "Agdaki tum bilgisayarlarda Ortak Yok Listesi canli senkronizasyonu (gecmis gunlerde eklenen Yok kalemleri dahil) ve Siparis Sonlandirma / Toplu Siparis ekranlarina Tek Tikla Tum Eksikleri Yok Listesine Atma ozelligi eklendi."
 }
