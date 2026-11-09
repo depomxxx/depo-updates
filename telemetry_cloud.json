@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09 14:51:39",
+  "updated_at": "2026-11-09 14:51:38",
   "count": 3,
   "items": [
     {
@@ -13,15 +13,15 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "5834-FAC9-B71F",
-      "last_pc_name": "DESKTOP-OTHNDUE",
+      "hwid": "75CD-4B9F-BE6A",
+      "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.7.0",
-      "last_seen_at": "2026-11-09 14:51:39",
+      "last_seen_at": "2026-11-09 14:51:38",
       "last_action": "Program Açık (Canlı)",
       "today_date": "2026-11-09",
-      "today_searches": 1,
-      "today_cart_adds": 16,
-      "today_smart_orders": 37,
+      "today_searches": 5,
+      "today_cart_adds": 6,
+      "today_smart_orders": 10,
       "total_searches": 41,
       "total_cart_adds": 118,
       "total_days_used": 6
