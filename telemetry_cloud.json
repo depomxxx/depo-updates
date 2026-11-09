@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09 09:05:34",
+  "updated_at": "2026-11-09 09:05:59",
   "count": 3,
   "items": [
     {
@@ -16,12 +16,12 @@
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.6.7",
-      "last_seen_at": "2026-11-09 09:05:33",
-      "last_action": "Program Açıldı (Canlı)",
+      "last_seen_at": "2026-11-09 09:05:59",
+      "last_action": "Canlı MF Taraması",
       "today_date": "2026-11-09",
       "today_searches": 0,
       "today_cart_adds": 0,
-      "today_smart_orders": 0,
+      "today_smart_orders": 9,
       "total_searches": 38,
       "total_cart_adds": 102,
       "total_days_used": 6
