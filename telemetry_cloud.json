@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09 12:14:41",
+  "updated_at": "2026-11-09 12:14:51",
   "count": 3,
   "items": [
     {
@@ -15,9 +15,9 @@
       "status": "AKTIF",
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
-      "app_version": "1.6.8",
-      "last_seen_at": "2026-11-09 12:14:41",
-      "last_action": "Program Açık (Canlı)",
+      "app_version": "1.6.9",
+      "last_seen_at": "2026-11-09 12:14:50",
+      "last_action": "Program Açıldı (Canlı)",
       "today_date": "2026-11-09",
       "today_searches": 0,
       "today_cart_adds": 13,
