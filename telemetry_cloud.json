@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09 12:39:23",
+  "updated_at": "2026-11-09 12:39:40",
   "count": 3,
   "items": [
     {
@@ -63,13 +63,13 @@
       "status": "AKTIF",
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
-      "app_version": "1.6.8",
-      "last_seen_at": "2026-11-09 12:39:23",
+      "app_version": "1.6.9",
+      "last_seen_at": "2026-11-09 12:39:40",
       "last_action": "Program Açıldı (Canlı)",
       "today_date": "2026-11-09",
       "today_searches": 5,
       "today_cart_adds": 27,
-      "today_smart_orders": 14,
+      "today_smart_orders": 16,
       "total_searches": 24,
       "total_cart_adds": 178,
       "total_days_used": 6
