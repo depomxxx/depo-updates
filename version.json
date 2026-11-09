@@ -1,11 +1,11 @@
 {
-  "version": "1.6.8",
+  "version": "1.7.0",
   "app_name": "Farma Radar",
-  "release_date": "2026-11-09 12:38:47",
+  "release_date": "2026-11-09 13:52:40",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.6.8.zip?t=1794217128",
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.7.0.zip?t=1794221561",
   "sha256": "",
-  "package_sha256": "c1a08181bf57f8eb4747209b79560067cba095794f870482eb392a3599f579e3",
-  "size_kb": 722.3,
-  "changelog": "Agdaki tum bilgisayarlarda Ortak Yok Listesi canli senkronizasyonu (gecmis gunlerde eklenen Yok kalemleri dahil) ve Siparis Sonlandirma / Toplu Siparis ekranlarina Tek Tikla Tum Eksikleri Yok Listesine Atma ozelligi eklendi."
+  "package_sha256": "0b5cf58c416b8a6cdf984f1a47af959978b913aad8463e1dfe399b108d889344",
+  "size_kb": 725.1,
+  "changelog": "v1.7.0: Sipariş modülü ve çoklu depo sepet motoru baştan sona güçlendirildi. Alliance ve İSKOOP sepet/sonlandırma işlemlerinde zaman aşımı koruması, mükerrer sipariş önleyici doğrulama ve arka plan sorgu önceliklendirmesi eklendi. İSKOOP çerez/oturum (loginRedirectCount) kilitlenme sorunu otomatik çerez temizleme ile giderildi. Toplu Sipariş ekranı ve gönderici penceresi daha sade ve şık hale getirildi."
 }
