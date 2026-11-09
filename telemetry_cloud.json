@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09 14:26:04",
+  "updated_at": "2026-11-09 14:26:29",
   "count": 3,
   "items": [
     {
@@ -16,12 +16,12 @@
       "hwid": "DCC5-A6D1-CA2F",
       "last_pc_name": "Eskienes",
       "app_version": "1.7.0",
-      "last_seen_at": "2026-11-09 14:26:04",
-      "last_action": "Program Açık (Canlı)",
+      "last_seen_at": "2026-11-09 14:26:29",
+      "last_action": "Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-09",
       "today_searches": 6,
       "today_cart_adds": 7,
-      "today_smart_orders": 8,
+      "today_smart_orders": 11,
       "total_searches": 41,
       "total_cart_adds": 118,
       "total_days_used": 6
