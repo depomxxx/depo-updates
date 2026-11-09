@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09 11:32:45",
+  "updated_at": "2026-11-09 11:33:06",
   "count": 3,
   "items": [
     {
@@ -64,12 +64,12 @@
       "hwid": "9985-0025-3852",
       "last_pc_name": "Cicobey",
       "app_version": "1.5.9",
-      "last_seen_at": "2026-11-09 11:32:31",
-      "last_action": "Toplu Sipariş Planlama",
+      "last_seen_at": "2026-11-09 11:33:06",
+      "last_action": "Canlı MF Taraması",
       "today_date": "2026-11-09",
       "today_searches": 8,
       "today_cart_adds": 8,
-      "today_smart_orders": 18,
+      "today_smart_orders": 20,
       "total_searches": 20,
       "total_cart_adds": 170,
       "total_days_used": 6
