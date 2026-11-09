@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09 14:01:43",
+  "updated_at": "2026-11-09 14:01:46",
   "count": 3,
   "items": [
     {
@@ -64,12 +64,12 @@
       "hwid": "9985-0025-3852",
       "last_pc_name": "Cicobey",
       "app_version": "1.5.9",
-      "last_seen_at": "2026-11-09 14:01:18",
+      "last_seen_at": "2026-11-09 14:01:46",
       "last_action": "Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-09",
       "today_searches": 19,
-      "today_cart_adds": 37,
-      "today_smart_orders": 75,
+      "today_cart_adds": 40,
+      "today_smart_orders": 77,
       "total_searches": 30,
       "total_cart_adds": 186,
       "total_days_used": 6
