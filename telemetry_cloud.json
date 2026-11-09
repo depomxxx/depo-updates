@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09 17:57:37",
+  "updated_at": "2026-11-09 17:58:14",
   "count": 3,
   "items": [
     {
@@ -16,13 +16,13 @@
       "hwid": "75CD-4B9F-BE6A",
       "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.7.2",
-      "last_seen_at": "2026-11-09 17:57:37",
-      "last_action": "Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-09 17:58:14",
+      "last_action": "Canlı MF Taraması",
       "today_date": "2026-11-09",
-      "today_searches": 8,
+      "today_searches": 9,
       "today_cart_adds": 13,
-      "today_smart_orders": 21,
-      "total_searches": 44,
+      "today_smart_orders": 25,
+      "total_searches": 45,
       "total_cart_adds": 118,
       "total_days_used": 6
     },
