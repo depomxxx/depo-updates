@@ -1,11 +1,11 @@
 {
-  "version": "1.6.8",
+  "version": "1.6.9",
   "app_name": "Farma Radar",
-  "release_date": "2026-11-09 11:10:30",
+  "release_date": "2026-11-09 12:12:41",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.6.8.zip?t=1794211831",
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.6.9.zip?t=1794215562",
   "sha256": "",
-  "package_sha256": "c4d8f7ff8ad6e89bdb6af963fe4efeebce2c3faafab3293a51647bdb9a9e3093",
-  "size_kb": 716.9,
-  "changelog": "Agdaki tum bilgisayarlarda Ortak Yok Listesi canli senkronizasyonu (gecmis gunlerde eklenen Yok kalemleri dahil) ve Siparis Sonlandirma / Toplu Siparis ekranlarina Tek Tikla Tum Eksikleri Yok Listesine Atma ozelligi eklendi."
+  "package_sha256": "78615a325aa152060e45c6769737dd09830e40bf2659f5dfd68fb72ed0ebd023",
+  "size_kb": 722.3,
+  "changelog": "Coklu Depo Sepet Gorunumu (ayni veya farkli urunlerin ISKOOP, ALLIANCE, SELCUK, NEVZAT sepetlerinde eszamanli gosterimi) ve Tekrarli Toplu Siparis ekraninda eski siparis ekraninin takili kalmasini onleyen temiz oturum sifirlama iyilestirmesi."
 }
