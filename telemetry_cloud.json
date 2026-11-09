@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09 13:40:45",
+  "updated_at": "2026-11-09 13:41:01",
   "count": 3,
   "items": [
     {
@@ -64,13 +64,13 @@
       "hwid": "9985-0025-3852",
       "last_pc_name": "Cicobey",
       "app_version": "1.5.9",
-      "last_seen_at": "2026-11-09 13:39:55",
-      "last_action": "Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-09 13:41:00",
+      "last_action": "Depo Fiyat Sorgulama",
       "today_date": "2026-11-09",
-      "today_searches": 14,
+      "today_searches": 16,
       "today_cart_adds": 24,
-      "today_smart_orders": 52,
-      "total_searches": 25,
+      "today_smart_orders": 55,
+      "total_searches": 27,
       "total_cart_adds": 186,
       "total_days_used": 6
     }
