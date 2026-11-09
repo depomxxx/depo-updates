@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09 12:35:22",
+  "updated_at": "2026-11-09 12:37:30",
   "count": 3,
   "items": [
     {
@@ -64,14 +64,14 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.6.9",
-      "last_seen_at": "2026-11-09 12:36:58",
-      "last_action": "Program Açık (Canlı)",
+      "last_seen_at": "2026-11-09 12:37:30",
+      "last_action": "Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-09",
       "today_searches": 5,
-      "today_cart_adds": 26,
+      "today_cart_adds": 27,
       "today_smart_orders": 14,
       "total_searches": 24,
-      "total_cart_adds": 177,
+      "total_cart_adds": 178,
       "total_days_used": 6
     }
   ]
