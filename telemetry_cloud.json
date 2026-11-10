@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10 14:37:23",
+  "updated_at": "2026-11-10 14:37:39",
   "count": 4,
   "items": [
     {
@@ -9,15 +9,15 @@
       "phone": "05363179720",
       "city": "SAMSUN/ATAKUM",
       "gln_no": "8680001489695",
-      "otomasyon": "BOTANIK",
+      "otomasyon": "TEBEOS",
       "plan": "DENEME_30GUN",
       "expires_at": "2026-12-10",
       "status": "AKTIF",
       "hwid": "2F66-9873-3F47",
       "last_pc_name": "DESKTOP-7U0I99G",
       "app_version": "1.7.4",
-      "last_seen_at": "2026-11-10 14:37:23",
-      "last_action": "Program Açık (Canlı)",
+      "last_seen_at": "2026-11-10 14:37:39",
+      "last_action": "Program Açıldı (Canlı)",
       "today_date": "2026-11-10",
       "today_searches": 0,
       "today_cart_adds": 0,
