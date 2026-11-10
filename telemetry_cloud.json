@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10 12:59:56",
+  "updated_at": "2026-11-10 13:00:10",
   "count": 3,
   "items": [
     {
@@ -39,9 +39,9 @@
       "status": "AKTIF",
       "hwid": "2DED-CFF9-D593",
       "last_pc_name": "DESKTOP-8JN0NE5",
-      "app_version": "1.7.2",
-      "last_seen_at": "2026-11-10 12:59:56",
-      "last_action": "Program Açık (Canlı)",
+      "app_version": "1.7.3",
+      "last_seen_at": "2026-11-10 13:00:09",
+      "last_action": "Program Açıldı (Canlı)",
       "today_date": "2026-11-10",
       "today_searches": 2,
       "today_cart_adds": 10,
