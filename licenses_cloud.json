@@ -1,8 +1,26 @@
 {
-  "updated_at": "2026-11-06 12:15:52",
-  "count": 4,
-  "signature": "D87A3223813BC0614BF7194F9C725E47",
+  "updated_at": "2026-11-10 13:58:17",
+  "count": 5,
+  "signature": "B36DF9A6F6A7D9147814EA0112BECF0F",
   "items": [
+    {
+      "id": "16F1CA89",
+      "pharmacy_name": "BALCI ECZANESİ",
+      "pharmacist_name": "EZGİ HARBALIOĞLU",
+      "phone": "05363179720",
+      "city": "SAMSUN/ATAKUM",
+      "gln_no": "8680001489695",
+      "otomasyon": "BOTANIK",
+      "plan": "DENEME_30GUN",
+      "expires_at": "2026-12-10",
+      "max_pcs": 15,
+      "hwid_lock": "ANY",
+      "registered_hwid": "9985-0025-3852",
+      "status": "AKTIF",
+      "license_key": "FR-eyJlIjoiQkFMQ0kgRUNaQU5FU8SwIiwiZm4iOiJFWkfEsCBIQVJCQUxJT8SeTFUiLCJ0ZWwiOiIwNTM2MzE3OTcyMCIsImN0IjoiU0FNU1VOL0FUQUtVTSIsImciOiI4NjgwMDAxNDg5Njk1IiwieCI6IjIwMjYtMTItMTAiLCJtIjoxNSwiaCI6IkFOWSIsInAiOiJERU5FTUVfMzBHVU4ifQ.4DA93022536EF23A",
+      "created_at": "2026-11-10 13:58:17",
+      "updated_at": "2026-11-10 13:58:17"
+    },
     {
       "id": "406CFA01",
       "pharmacy_name": "ÇAĞRI ECZANESI",
@@ -13,7 +31,12 @@
       "hwid_lock": "ANY",
       "status": "AKTIF",
       "license_key": "FR-eyJlIjoiw4dBxJ5SSSBFQ1pBTkVTSSIsImZuIjoiw4dBxJ5SSSBBU0xBTiIsInRlbCI6IjA1MDUwMDAwMDI5IiwiY3QiOiJTSU5PUCBTQVJBWUTDnFrDnCIsImciOiI4NjgwMDAxMTExMTExIiwieCI6IjIwMjYtMTItMDIiLCJtIjoxNSwiaCI6IkFOWSIsInAiOiJERU5FTUVfMzBHVU4ifQ.BA3BBEF92BA79834",
-      "updated_at": "2026-11-02 21:47:15"
+      "updated_at": "2026-11-06 14:27:04",
+      "pharmacist_name": "ÇAĞRI ASLAN",
+      "phone": "05050000029",
+      "city": "SINOP SARAYDÜZÜ",
+      "otomasyon": "BOTANIK",
+      "created_at": "2026-11-02 21:34:58"
     },
     {
       "id": "48F632F1",
@@ -25,14 +48,19 @@
       "hwid_lock": "ANY",
       "status": "AKTIF",
       "license_key": "FR-eyJlIjoiRURBIEVDWkFORVNJIiwiZm4iOiJFREEgQsSwTEfEsE4iLCJ0ZWwiOiIwNTA3NzAzNDIwMCIsImN0IjoiU0FNU1VOL8SwTEtBRElNIiwiZyI6Ijg2ODAwMDExMTIyNTgiLCJ4IjoiMjAzMS0xMC0yNiIsIm0iOjE1LCJoIjoiQU5ZIiwicCI6IktVUlVNU0FMX1NJTklSU0laIn0.708DC4079BF08995",
-      "updated_at": "2026-10-27 12:43:07"
+      "updated_at": "2026-11-06 14:27:04",
+      "pharmacist_name": "EDA BİLGİN",
+      "phone": "05077034200",
+      "city": "SAMSUN/İLKADIM",
+      "otomasyon": "TRIA",
+      "created_at": "2026-10-27 12:37:28"
     },
     {
       "id": "106A1333",
-      "pharmacy_name": "ARAŞTIRMA ECZANESİ",
-      "pharmacist_name": "GAMZE ASLAN",
-      "phone": "05344064108",
-      "city": "SAMSUN",
+      "pharmacy_name": "RÜYA ECZANESI",
+      "pharmacist_name": "ÇAĞRI ASLAN",
+      "phone": "05065963918",
+      "city": "SİNOP/SARAYDÜZÜ",
       "gln_no": "8680001134861",
       "otomasyon": "BOTANIK",
       "plan": "PRO_YILLIK",
@@ -41,9 +69,9 @@
       "hwid_lock": "ANY",
       "registered_hwid": "753B-50FF-6214",
       "status": "AKTIF",
-      "license_key": "FR-eyJlIjoiQVJBxZ5USVJNQSBFQ1pBTkVTxLAiLCJmbiI6IkdBTVpFIEFTTEFOIiwidGVsIjoiMDUzNDQwNjQxMDgiLCJjdCI6IlNBTVNVTiIsImciOiI4NjgwMDAxMTM0ODYxIiwieCI6IjIwMjctMTAtMjYiLCJtIjoxNSwiaCI6IkFOWSIsInAiOiJQUk9fWUlMTElLIn0.D61D5854ADCB3DD1",
-      "created_at": "2026-11-06 12:15:52",
-      "updated_at": "2026-11-06 12:15:52"
+      "license_key": "FR-eyJlIjoiUsOcWUEgRUNaQU5FU0kiLCJmbiI6IsOHQcSeUkkgQVNMQU4iLCJ0ZWwiOiIwNTA2NTk2MzkxOCIsImN0IjoiU8SwTk9QL1NBUkFZRMOcWsOcIiwiZyI6Ijg2ODAwMDExMzQ4NjEiLCJ4IjoiMjAyNy0xMC0yNiIsIm0iOjE1LCJoIjoiQU5ZIiwicCI6IlBST19ZSUxMSUsifQ.EAEBA263EBABCD17",
+      "created_at": "2026-10-26 15:26:12",
+      "updated_at": "2026-11-06 14:27:04"
     },
     {
       "id": "D0EFA284",
@@ -55,7 +83,12 @@
       "hwid_lock": "ANY",
       "status": "AKTIF",
       "license_key": "FR-eyJlIjoiQVJBxZ5USVJNQSBFQ1pBTkVTSSIsImZuIjoiR0FNWkUgQVNMQU4iLCJ0ZWwiOiIwNTM0NDA2NDEwOCIsImN0IjoiU0FNU1VOL0FUQUtVTSIsImciOiI4NjgwMDAxMTM0ODYxIiwieCI6IjIwMjctMTAtMjQiLCJtIjoxMywiaCI6IkFOWSIsInAiOiJQUk9fWUlMTElLIn0.4BB7869B6256AD3B",
-      "updated_at": "2026-10-24 19:45:39"
+      "updated_at": "2026-11-06 14:27:04",
+      "pharmacist_name": "GAMZE ASLAN",
+      "phone": "05344064108",
+      "city": "SAMSUN/ATAKUM",
+      "otomasyon": "TRIA",
+      "created_at": "2026-10-24 19:45:39"
     }
   ]
 }
