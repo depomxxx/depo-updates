@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-10 13:58:17",
+  "updated_at": "2026-11-10 13:59:54",
   "count": 5,
-  "signature": "B36DF9A6F6A7D9147814EA0112BECF0F",
+  "signature": "F8491B90F35DA509635C78E7C932B04E",
   "items": [
     {
       "id": "16F1CA89",
@@ -10,16 +10,16 @@
       "phone": "05363179720",
       "city": "SAMSUN/ATAKUM",
       "gln_no": "8680001489695",
-      "otomasyon": "BOTANIK",
+      "otomasyon": "TEBEOS",
       "plan": "DENEME_30GUN",
       "expires_at": "2026-12-10",
       "max_pcs": 15,
       "hwid_lock": "ANY",
-      "registered_hwid": "9985-0025-3852",
+      "registered_hwid": "EADA-965A-C790",
       "status": "AKTIF",
       "license_key": "FR-eyJlIjoiQkFMQ0kgRUNaQU5FU8SwIiwiZm4iOiJFWkfEsCBIQVJCQUxJT8SeTFUiLCJ0ZWwiOiIwNTM2MzE3OTcyMCIsImN0IjoiU0FNU1VOL0FUQUtVTSIsImciOiI4NjgwMDAxNDg5Njk1IiwieCI6IjIwMjYtMTItMTAiLCJtIjoxNSwiaCI6IkFOWSIsInAiOiJERU5FTUVfMzBHVU4ifQ.4DA93022536EF23A",
       "created_at": "2026-11-10 13:58:17",
-      "updated_at": "2026-11-10 13:58:17"
+      "updated_at": "2026-11-10 13:59:54"
     },
     {
       "id": "406CFA01",
