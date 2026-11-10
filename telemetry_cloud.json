@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10 14:38:19",
+  "updated_at": "2026-11-10 14:38:24",
   "count": 4,
   "items": [
     {
@@ -16,12 +16,12 @@
       "hwid": "2F66-9873-3F47",
       "last_pc_name": "DESKTOP-7U0I99G",
       "app_version": "1.7.4",
-      "last_seen_at": "2026-11-10 14:37:39",
-      "last_action": "Program Açıldı (Canlı)",
+      "last_seen_at": "2026-11-10 14:38:24",
+      "last_action": "Canlı MF Taraması",
       "today_date": "2026-11-10",
       "today_searches": 0,
       "today_cart_adds": 0,
-      "today_smart_orders": 0,
+      "today_smart_orders": 5,
       "total_searches": 0,
       "total_cart_adds": 0,
       "total_days_used": 1
