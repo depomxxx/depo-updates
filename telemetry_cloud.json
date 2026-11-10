@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10 13:01:52",
+  "updated_at": "2026-11-10 13:02:10",
   "count": 3,
   "items": [
     {
@@ -64,12 +64,12 @@
       "hwid": "9985-0025-3852",
       "last_pc_name": "Cicobey",
       "app_version": "1.5.9",
-      "last_seen_at": "2026-11-10 13:00:29",
-      "last_action": "Program Açıldı (Canlı)",
+      "last_seen_at": "2026-11-10 13:02:10",
+      "last_action": "Program Açık (Canlı)",
       "today_date": "2026-11-10",
       "today_searches": 0,
       "today_cart_adds": 0,
-      "today_smart_orders": 0,
+      "today_smart_orders": 2,
       "total_searches": 34,
       "total_cart_adds": 196,
       "total_days_used": 7
