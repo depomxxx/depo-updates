@@ -1,11 +1,11 @@
 {
-  "version": "1.7.4",
+  "version": "1.7.5",
   "app_name": "Farma Radar",
-  "release_date": "2026-11-10 14:01:19",
+  "release_date": "2026-11-10 15:45:43",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.7.4.zip?t=1794308480",
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.7.5.zip?t=1794314744",
   "sha256": "",
-  "package_sha256": "7294c7a94414410dd6e12f9030a5e3336a31b8771409e85bec4b8d7adc0f5806",
-  "size_kb": 735.1,
-  "changelog": "v1.7.4: Eczanenin başka bir bilgisayarına kurulum yapıldığında 13 haneli GLN numarası girilir girilmez otomatik Lisans Anahtarı (FR-...) ve eczane bilgilerini (Eczane Adı, Eczacı, Telefon, Şehir, Otomasyon) Bulut / Yerel Ağ (LAN) / TEBEOS üzerinden getirip anında etkinleştirme özelliği eklendi."
+  "package_sha256": "e3caf9ff56478ba41cb7eccf6ba2afc02c8642cce20cf89f69d80a3eb308b5e8",
+  "size_kb": 735.5,
+  "changelog": "v1.7.5: TEBEOS Toplu Sipariş & 6 Aylık Akıllı Sipariş modülünde sorgu hatası giderildi, geçmiş MF alım geçmişi entegre edildi ve ARP tabanlı hızlı TEBEOS sunucu keşfi eklendi."
 }
