@@ -1,11 +1,11 @@
 {
-  "version": "1.7.3",
+  "version": "1.7.4",
   "app_name": "Farma Radar",
-  "release_date": "2026-11-10 12:58:29",
+  "release_date": "2026-11-10 14:00:56",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.7.3.zip?t=1794304710",
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.7.4.zip?t=1794308457",
   "sha256": "",
-  "package_sha256": "4784e00901657dadb24fdb7067946a8875c64e62adedf2ed295a13ca73637e38",
-  "size_kb": 727.7,
-  "changelog": "v1.7.3: TEBEOS PostgreSQL (5454) Wi-Fi/Ağ otomatik sunucu keşfi iyileştirildi, Ana Makinede tek tıkla şifresiz ağ erişimi açma (pg_hba.conf trust) özelliği ve TEBEOS_Baglanti_Ac.bat aracı eklendi."
+  "package_sha256": "5e4278e47d8289eb729097d67d615cb809cebdb18810d1634606effdbe01c82a",
+  "size_kb": 735.1,
+  "changelog": "v1.7.4: Eczanenin başka bir bilgisayarına kurulum yapıldığında 13 haneli GLN numarası girilir girilmez otomatik Lisans Anahtarı (FR-...) ve eczane bilgilerini (Eczane Adı, Eczacı, Telefon, Şehir, Otomasyon) Bulut / Yerel Ağ (LAN) / TEBEOS üzerinden getirip anında etkinleştirme özelliği eklendi."
 }
