@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10 11:37:28",
+  "updated_at": "2026-11-10 11:37:29",
   "count": 3,
   "items": [
     {
@@ -40,12 +40,12 @@
       "hwid": "2DED-CFF9-D593",
       "last_pc_name": "DESKTOP-8JN0NE5",
       "app_version": "1.7.2",
-      "last_seen_at": "2026-11-10 11:35:59",
-      "last_action": "Program Açık (Canlı)",
+      "last_seen_at": "2026-11-10 11:37:29",
+      "last_action": "Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-10",
       "today_searches": 0,
       "today_cart_adds": 0,
-      "today_smart_orders": 0,
+      "today_smart_orders": 1,
       "total_searches": 6,
       "total_cart_adds": 28,
       "total_days_used": 6
