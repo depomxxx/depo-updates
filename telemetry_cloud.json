@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10 14:01:04",
+  "updated_at": "2026-11-10 14:01:06",
   "count": 3,
   "items": [
     {
@@ -57,15 +57,15 @@
       "phone": "05050000029",
       "city": "SINOP SARAYDÜZÜ",
       "gln_no": "8680001111111",
-      "otomasyon": "BOTANIK",
+      "otomasyon": "TEBEOS",
       "plan": "DENEME_30GUN",
       "expires_at": "2026-12-02",
       "status": "AKTIF",
       "hwid": "9985-0025-3852",
       "last_pc_name": "Cicobey",
       "app_version": "1.5.9",
-      "last_seen_at": "2026-11-10 14:01:01",
-      "last_action": "Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-10 14:01:06",
+      "last_action": "Program Açıldı (Canlı)",
       "today_date": "2026-11-10",
       "today_searches": 0,
       "today_cart_adds": 0,
