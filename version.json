@@ -1,11 +1,11 @@
 {
   "version": "1.7.4",
   "app_name": "Farma Radar",
-  "release_date": "2026-11-10 14:00:56",
+  "release_date": "2026-11-10 14:01:19",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.7.4.zip?t=1794308457",
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.7.4.zip?t=1794308480",
   "sha256": "",
-  "package_sha256": "5e4278e47d8289eb729097d67d615cb809cebdb18810d1634606effdbe01c82a",
+  "package_sha256": "7294c7a94414410dd6e12f9030a5e3336a31b8771409e85bec4b8d7adc0f5806",
   "size_kb": 735.1,
   "changelog": "v1.7.4: Eczanenin başka bir bilgisayarına kurulum yapıldığında 13 haneli GLN numarası girilir girilmez otomatik Lisans Anahtarı (FR-...) ve eczane bilgilerini (Eczane Adı, Eczacı, Telefon, Şehir, Otomasyon) Bulut / Yerel Ağ (LAN) / TEBEOS üzerinden getirip anında etkinleştirme özelliği eklendi."
 }
