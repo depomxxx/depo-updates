@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10 16:23:43",
+  "updated_at": "2026-11-10 16:24:09",
   "count": 4,
   "items": [
     {
@@ -64,13 +64,13 @@
       "hwid": "7BDD-EDB1-0A61",
       "last_pc_name": "DESKTOP-6KFO8IF",
       "app_version": "1.7.5",
-      "last_seen_at": "2026-11-10 16:23:39",
-      "last_action": "Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-10 16:24:09",
+      "last_action": "Depo Fiyat Sorgulama",
       "today_date": "2026-11-10",
-      "today_searches": 4,
+      "today_searches": 5,
       "today_cart_adds": 6,
-      "today_smart_orders": 18,
-      "total_searches": 7,
+      "today_smart_orders": 19,
+      "total_searches": 8,
       "total_cart_adds": 34,
       "total_days_used": 6
     },
