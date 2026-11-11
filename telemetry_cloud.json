@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 00:42:00",
+  "updated_at": "2026-11-12 00:42:19",
   "count": 69,
   "items": [
     {
@@ -600,21 +600,21 @@
       "pharmacist_name": "GAMZE ASLAN",
       "phone": "05344064108",
       "city": "SAMSUN/ATAKUM",
-      "gln_no": "8680001134861",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "PRO_YILLIK",
       "expires_at": "2027-10-24",
       "status": "AKTIF",
-      "hwid": "E4F7-229A-BABD",
-      "last_pc_name": "ChagriBeg",
+      "hwid": "E6B1-5698-273E",
+      "last_pc_name": "DESKTOP-6KFO8IF",
       "app_version": "1.7.10",
-      "last_seen_at": "2026-11-12 00:42:00",
-      "last_action": "[ChagriBeg] Depo Fiyat Sorgulama",
+      "last_seen_at": "2026-11-12 00:42:19",
+      "last_action": "[DESKTOP-6KFO8IF] Canlı MF Sorgulama (2 Ürün)",
       "today_date": "2026-11-12",
-      "today_searches": 22,
+      "today_searches": 25,
       "today_cart_adds": 5,
       "today_smart_orders": 22,
-      "total_searches": 312,
+      "total_searches": 315,
       "total_cart_adds": 713,
       "total_days_used": 8,
       "total_smart_orders": 136,
@@ -644,7 +644,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.7.10",
-          "last_seen_at": "2026-11-12 00:41:41",
+          "last_seen_at": "2026-11-12 00:42:19",
           "last_action": "Canlı MF Sorgulama (2 Ürün)",
           "today_date": "2026-11-12",
           "today_searches": 2,
@@ -738,7 +738,7 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.7.10",
-          "last_seen_at": "2026-11-12 00:39:16",
+          "last_seen_at": "2026-11-12 00:40:48",
           "last_action": "Program Açık (Canlı)",
           "today_date": "2026-11-12",
           "today_searches": 0,
@@ -832,32 +832,17 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.7.10",
-          "last_seen_at": "2026-11-12 00:42:00",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-12 00:42:16",
+          "last_action": "Depo Sorgu: EEOSE ULTRA  FORTE SAKAL SERUMU  KAMPA",
           "today_date": "2026-11-12",
-          "today_searches": 20,
+          "today_searches": 23,
           "today_cart_adds": 5,
           "today_smart_orders": 18,
-          "total_searches": 28,
+          "total_searches": 31,
           "total_cart_adds": 35,
           "total_smart_orders": 58,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-12 00:23:02",
-              "type": "search",
-              "detail": "Depo Sorgu: TYLOL HOT DAY 12 POS"
-            },
-            {
-              "t": "2026-11-12 00:23:30",
-              "type": "cart",
-              "detail": "EczaneTakas Kampanya Açıldı: TYLOL HOT C 12 TOZ (300+75)"
-            },
-            {
-              "t": "2026-11-12 00:28:10",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-12 00:28:14",
               "type": "search",
@@ -917,6 +902,21 @@
               "t": "2026-11-12 00:42:00",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-12 00:42:04",
+              "type": "search",
+              "detail": "Depo Sorgu: OZURDEX 0.7 MG INTR. IMPLANT."
+            },
+            {
+              "t": "2026-11-12 00:42:12",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-12 00:42:15",
+              "type": "search",
+              "detail": "Depo Sorgu: EEOSE ULTRA  FORTE SAKAL SERUMU  KAMPA"
             }
           ]
         }
