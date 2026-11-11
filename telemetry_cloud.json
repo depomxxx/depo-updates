@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 16:40:22",
+  "updated_at": "2026-11-11 16:38:48",
   "count": 5,
   "items": [
     {
@@ -212,21 +212,21 @@
       "pharmacist_name": "EDA BİLGİN",
       "phone": "05077034200",
       "city": "SAMSUN/İLKADIM",
-      "gln_no": "8680001000000",
+      "gln_no": "8680001112258",
       "otomasyon": "TRIA",
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "5834-FAC9-B71F",
-      "last_pc_name": "DESKTOP-OTHNDUE",
+      "hwid": "83F3-13F8-E632",
+      "last_pc_name": "Eskienes",
       "app_version": "1.7.7",
-      "last_seen_at": "2026-11-11 16:38:14",
-      "last_action": "[DESKTOP-OTHNDUE] Depo Fiyat Sorgulama",
+      "last_seen_at": "2026-11-11 16:38:48",
+      "last_action": "[Eskienes] Canlı MF Sorgulama (7 Ürün)",
       "today_date": "2026-11-11",
-      "today_searches": 53,
+      "today_searches": 56,
       "today_cart_adds": 113,
       "today_smart_orders": 114,
-      "total_searches": 438,
+      "total_searches": 441,
       "total_cart_adds": 886,
       "total_days_used": 8,
       "total_smart_orders": 41,
@@ -308,13 +308,13 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.7.7",
-          "last_seen_at": "2026-11-11 16:38:14",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-11 16:38:40",
+          "last_action": "Depo Sorgu: ZYZAPIN 10 MG 28 FTB",
           "today_date": "2026-11-11",
-          "today_searches": 8,
+          "today_searches": 11,
           "today_cart_adds": 22,
           "today_smart_orders": 28,
-          "total_searches": 36,
+          "total_searches": 39,
           "total_cart_adds": 180,
           "total_smart_orders": 5,
           "total_days_used": 7,
@@ -343,6 +343,21 @@
               "t": "2026-11-11 16:38:14",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-11 16:38:18",
+              "type": "search",
+              "detail": "Depo Sorgu: REXAPIN EASYTAB 5 MG 28 TB."
+            },
+            {
+              "t": "2026-11-11 16:38:19",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-11 16:38:22",
+              "type": "search",
+              "detail": "Depo Sorgu: ZYZAPIN 10 MG 28 FTB"
             }
           ]
         },
@@ -558,7 +573,7 @@
           "desk_name": "Eskienes",
           "local_ip": "192.168.1.117",
           "app_version": "1.7.7",
-          "last_seen_at": "2026-11-11 16:37:48",
+          "last_seen_at": "2026-11-11 16:38:48",
           "last_action": "Canlı MF Sorgulama (7 Ürün)",
           "today_date": "2026-11-11",
           "today_searches": 14,
