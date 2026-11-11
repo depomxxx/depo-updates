@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 13:56:59",
+  "updated_at": "2026-11-11 13:59:17",
   "count": 5,
   "items": [
     {
@@ -288,16 +288,16 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.7.6",
-      "last_seen_at": "2026-11-11 13:58:26",
+      "last_seen_at": "2026-11-11 13:59:17",
       "last_action": "[DESKTOP-T4EAUS3] Depo Sorgu: FIXHALER 12/500 MCG 60 INH CAP",
       "today_date": "2026-11-11",
       "today_searches": 5,
       "today_cart_adds": 2,
-      "today_smart_orders": 21,
+      "today_smart_orders": 23,
       "total_searches": 64,
       "total_cart_adds": 394,
       "total_days_used": 8,
-      "total_smart_orders": 14,
+      "total_smart_orders": 16,
       "pc_count": 2,
       "devices": {
         "9985-0025-3852": {
@@ -306,15 +306,15 @@
           "desk_name": "Cicobey",
           "local_ip": "192.168.1.43",
           "app_version": "1.5.9",
-          "last_seen_at": "2026-11-11 13:56:59",
-          "last_action": "Canlı MF Sorgulama (30 Ürün)",
+          "last_seen_at": "2026-11-11 13:57:10",
+          "last_action": "Canlı MF Taraması",
           "today_date": "2026-11-11",
           "today_searches": 0,
           "today_cart_adds": 0,
-          "today_smart_orders": 9,
+          "today_smart_orders": 11,
           "total_searches": 34,
           "total_cart_adds": 196,
-          "total_smart_orders": 8,
+          "total_smart_orders": 10,
           "total_days_used": 8,
           "recent_actions": [
             {
@@ -351,6 +351,16 @@
               "t": "2026-11-11 13:56:59",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (30 Ürün)"
+            },
+            {
+              "t": "2026-11-11 13:57:03",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (30 Ürün)"
+            },
+            {
+              "t": "2026-11-11 13:57:04",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
             }
           ]
         },
@@ -360,7 +370,7 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.7.6",
-          "last_seen_at": "2026-11-11 13:58:26",
+          "last_seen_at": "2026-11-11 13:59:17",
           "last_action": "Depo Sorgu: FIXHALER 12/500 MCG 60 INH CAP",
           "today_date": "2026-11-11",
           "today_searches": 5,
