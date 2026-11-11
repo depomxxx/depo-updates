@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-11 13:09:18",
+  "updated_at": "2026-11-11 13:09:51",
   "count": 5,
-  "signature": "3E0A50B4308CBE20325CF4E12EAA9E41",
+  "signature": "6689AFBDE6D88273C0FBAF348D19520E",
   "items": [
     {
       "id": "406CFA01",
@@ -77,16 +77,16 @@
       "pharmacist_name": "ÇAĞRI ASLAN",
       "phone": "05065963918",
       "city": "SİNOP/SARAYDÜZÜ",
-      "gln_no": "8680001134861",
+      "gln_no": "8680001429554",
       "otomasyon": "BOTANIK",
       "plan": "PRO_YILLIK",
       "expires_at": "2026-11-10",
       "max_pcs": 15,
       "hwid_lock": "ANY",
       "status": "AKTIF",
-      "license_key": "FR-eyJlIjoiUsOcWUEgRUNaQU5FU0kiLCJmbiI6IsOHQcSeUkkgQVNMQU4iLCJ0ZWwiOiIwNTA2NTk2MzkxOCIsImN0IjoiU8SwTk9QL1NBUkFZRMOcWsOcIiwiZyI6Ijg2ODAwMDExMzQ4NjEiLCJ4IjoiMjAyNi0xMS0xMCIsIm0iOjE1LCJoIjoiQU5ZIiwicCI6IlBST19ZSUxMSUsifQ.4F2F06A922A577DB",
+      "license_key": "FR-eyJlIjoiUsOcWUEgRUNaQU5FU0kiLCJmbiI6IsOHQcSeUkkgQVNMQU4iLCJ0ZWwiOiIwNTA2NTk2MzkxOCIsImN0IjoiU8SwTk9QL1NBUkFZRMOcWsOcIiwiZyI6Ijg2ODAwMDE0Mjk1NTQiLCJ4IjoiMjAyNi0xMS0xMCIsIm0iOjE1LCJoIjoiQU5ZIiwicCI6IlBST19ZSUxMSUsifQ.AFF24C707658D725",
       "created_at": "2026-10-26 15:26:12",
-      "updated_at": "2026-11-11 13:09:18"
+      "updated_at": "2026-11-11 13:09:51"
     }
   ]
 }
