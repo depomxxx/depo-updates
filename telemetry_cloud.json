@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 17:11:21",
+  "updated_at": "2026-11-11 17:11:22",
   "count": 5,
   "items": [
     {
@@ -227,19 +227,19 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D719-CEB2-1542",
-      "last_pc_name": "DESKTOP-M530BBB",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.7.7",
-      "last_seen_at": "2026-11-11 17:11:01",
-      "last_action": "[DESKTOP-M530BBB] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-11 17:11:22",
+      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-11",
       "today_searches": 64,
       "today_cart_adds": 113,
-      "today_smart_orders": 132,
+      "today_smart_orders": 133,
       "total_searches": 449,
       "total_cart_adds": 886,
       "total_days_used": 8,
-      "total_smart_orders": 59,
+      "total_smart_orders": 60,
       "pc_count": 8,
       "devices": {
         "B766-9F71-3B24": {
@@ -318,15 +318,15 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.7.7",
-          "last_seen_at": "2026-11-11 17:10:44",
-          "last_action": "Depo Sorgu: ZYZAPIN 10 MG 28 FTB",
+          "last_seen_at": "2026-11-11 17:11:22",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-11",
           "today_searches": 11,
           "today_cart_adds": 22,
-          "today_smart_orders": 28,
+          "today_smart_orders": 29,
           "total_searches": 39,
           "total_cart_adds": 180,
-          "total_smart_orders": 5,
+          "total_smart_orders": 6,
           "total_days_used": 7,
           "recent_actions": [
             {
@@ -368,6 +368,11 @@
               "t": "2026-11-11 16:38:22",
               "type": "search",
               "detail": "Depo Sorgu: ZYZAPIN 10 MG 28 FTB"
+            },
+            {
+              "t": "2026-11-11 17:11:22",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         },
@@ -659,7 +664,7 @@
           "desk_name": "Eskienes",
           "local_ip": "192.168.1.117",
           "app_version": "1.7.7",
-          "last_seen_at": "2026-11-11 17:10:47",
+          "last_seen_at": "2026-11-11 17:10:48",
           "last_action": "Canlı MF Sorgulama (7 Ürün)",
           "today_date": "2026-11-11",
           "today_searches": 14,
