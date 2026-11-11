@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 00:29:57",
+  "updated_at": "2026-11-12 00:30:01",
   "count": 69,
   "items": [
     {
@@ -608,13 +608,13 @@
       "hwid": "E6B1-5698-273E",
       "last_pc_name": "DESKTOP-6KFO8IF",
       "app_version": "1.7.10",
-      "last_seen_at": "2026-11-12 00:28:37",
+      "last_seen_at": "2026-11-12 00:30:01",
       "last_action": "[DESKTOP-6KFO8IF] Canlı MF Sorgulama (2 Ürün)",
       "today_date": "2026-11-12",
-      "today_searches": 17,
+      "today_searches": 19,
       "today_cart_adds": 5,
       "today_smart_orders": 22,
-      "total_searches": 307,
+      "total_searches": 309,
       "total_cart_adds": 713,
       "total_days_used": 8,
       "total_smart_orders": 136,
@@ -644,7 +644,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.7.10",
-          "last_seen_at": "2026-11-12 00:28:37",
+          "last_seen_at": "2026-11-12 00:30:01",
           "last_action": "Canlı MF Sorgulama (2 Ürün)",
           "today_date": "2026-11-12",
           "today_searches": 2,
@@ -738,7 +738,7 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.7.10",
-          "last_seen_at": "2026-11-12 00:27:06",
+          "last_seen_at": "2026-11-12 00:28:37",
           "last_action": "Program Açık (Canlı)",
           "today_date": "2026-11-12",
           "today_searches": 0,
@@ -832,27 +832,17 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.7.10",
-          "last_seen_at": "2026-11-12 00:28:35",
-          "last_action": "Depo Sorgu: AUGMENTIN BID 1 GR 10 FTB.",
+          "last_seen_at": "2026-11-12 00:29:46",
+          "last_action": "Depo Sorgu: TYLOL 500 MG 20 TB",
           "today_date": "2026-11-12",
-          "today_searches": 15,
+          "today_searches": 17,
           "today_cart_adds": 5,
           "today_smart_orders": 18,
-          "total_searches": 23,
+          "total_searches": 25,
           "total_cart_adds": 35,
           "total_smart_orders": 58,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-12 00:21:36",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-12 00:21:44",
-              "type": "search",
-              "detail": "Depo Sorgu: MAJEZIK 100 MG 15 TB."
-            },
             {
               "t": "2026-11-12 00:22:15",
               "type": "critical_stock",
@@ -917,6 +907,16 @@
               "t": "2026-11-12 00:28:35",
               "type": "search",
               "detail": "Depo Sorgu: AUGMENTIN BID 1 GR 10 FTB."
+            },
+            {
+              "t": "2026-11-12 00:28:44",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-12 00:28:47",
+              "type": "search",
+              "detail": "Depo Sorgu: TYLOL 500 MG 20 TB"
             }
           ]
         }
