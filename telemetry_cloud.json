@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 17:00:12",
+  "updated_at": "2026-11-11 16:58:18",
   "count": 5,
   "items": [
     {
@@ -16,16 +16,16 @@
       "hwid": "2DED-CFF9-D593",
       "last_pc_name": "DESKTOP-8JN0NE5",
       "app_version": "1.7.7",
-      "last_seen_at": "2026-11-11 16:57:55",
-      "last_action": "Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-11 16:58:18",
+      "last_action": "Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-11",
       "today_searches": 14,
-      "today_cart_adds": 24,
-      "today_smart_orders": 45,
+      "today_cart_adds": 27,
+      "today_smart_orders": 46,
       "total_searches": 16,
-      "total_cart_adds": 38,
+      "total_cart_adds": 41,
       "total_days_used": 4,
-      "total_smart_orders": 16,
+      "total_smart_orders": 17,
       "pc_count": 1,
       "devices": {
         "2DED-CFF9-D593": {
@@ -34,32 +34,17 @@
           "desk_name": "DESKTOP-8JN0NE5",
           "local_ip": "192.168.1.37",
           "app_version": "1.7.7",
-          "last_seen_at": "2026-11-11 16:57:55",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-11 16:58:18",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-11",
           "today_searches": 14,
-          "today_cart_adds": 24,
-          "today_smart_orders": 45,
+          "today_cart_adds": 27,
+          "today_smart_orders": 46,
           "total_searches": 16,
-          "total_cart_adds": 38,
-          "total_smart_orders": 16,
+          "total_cart_adds": 41,
+          "total_smart_orders": 17,
           "total_days_used": 4,
           "recent_actions": [
-            {
-              "t": "2026-11-11 15:05:25",
-              "type": "search",
-              "detail": "Depo Sorgu: CATOXFEN 100 MG / 2 ML IM ENJE"
-            },
-            {
-              "t": "2026-11-11 15:05:25",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-11 15:05:31",
-              "type": "search",
-              "detail": "Depo Sorgu: CATOXFEN 100 MG / 2 ML IM ENJE"
-            },
             {
               "t": "2026-11-11 16:48:36",
               "type": "search",
@@ -119,6 +104,21 @@
               "t": "2026-11-11 16:57:55",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-11 16:57:58",
+              "type": "cart",
+              "detail": "Toplu Sepet (ALLIANCE): 2 Kalem"
+            },
+            {
+              "t": "2026-11-11 16:58:04",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-11 16:58:18",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         }
