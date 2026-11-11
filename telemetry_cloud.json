@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 19:35:26",
+  "updated_at": "2026-11-11 19:35:39",
   "count": 34,
   "items": [
     {
@@ -484,15 +484,15 @@
       "hwid": "E6B1-5698-273E",
       "last_pc_name": "DESKTOP-6KFO8IF",
       "app_version": "1.7.7",
-      "last_seen_at": "2026-11-11 19:34:07",
+      "last_seen_at": "2026-11-11 19:35:39",
       "last_action": "[DESKTOP-6KFO8IF] Canlı MF Sorgulama (8 Ürün)",
       "today_date": "2026-11-11",
       "today_searches": 58,
       "today_cart_adds": 122,
-      "today_smart_orders": 132,
+      "today_smart_orders": 134,
       "total_searches": 231,
       "total_cart_adds": 443,
-      "total_smart_orders": 71,
+      "total_smart_orders": 73,
       "total_days_used": 7,
       "pc_count": 5,
       "devices": {
@@ -784,27 +784,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.7.7",
-          "last_seen_at": "2026-11-11 19:33:56",
+          "last_seen_at": "2026-11-11 19:35:27",
           "last_action": "Günün Çıkışları Yenileme (TRIA • 82 Kalem)",
           "today_date": "2026-11-11",
           "today_searches": 13,
           "today_cart_adds": 40,
-          "today_smart_orders": 52,
+          "today_smart_orders": 54,
           "total_searches": 41,
           "total_cart_adds": 198,
-          "total_smart_orders": 29,
+          "total_smart_orders": 31,
           "total_days_used": 7,
           "recent_actions": [
-            {
-              "t": "2026-11-11 18:47:12",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-11 18:47:16",
-              "type": "search",
-              "detail": "Depo Sorgu: ZADITEN 1 MG 100 ML SRP."
-            },
             {
               "t": "2026-11-11 18:47:24",
               "type": "cart",
@@ -869,6 +859,16 @@
               "t": "2026-11-11 19:19:07",
               "type": "critical_stock",
               "detail": "Günün Çıkışları Yenileme (TRIA • 82 Kalem)"
+            },
+            {
+              "t": "2026-11-11 19:35:02",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-11 19:35:02",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 82 Kalem)"
             }
           ]
         },
@@ -878,7 +878,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.7.7",
-          "last_seen_at": "2026-11-11 19:34:07",
+          "last_seen_at": "2026-11-11 19:35:39",
           "last_action": "Canlı MF Sorgulama (8 Ürün)",
           "today_date": "2026-11-11",
           "today_searches": 0,
