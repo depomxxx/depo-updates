@@ -1,30 +1,30 @@
 {
-  "updated_at": "2026-11-12 00:14:50",
+  "updated_at": "2026-11-12 00:15:11",
   "count": 69,
   "items": [
     {
-      "id": "48F632F1",
-      "pharmacy_name": "EDA ECZANESI",
+      "id": "D0EFA284",
+      "pharmacy_name": "ARAŞTIRMA ECZANESI",
       "pharmacist_name": "EDA BİLGİN",
       "phone": "05077034200",
       "city": "SAMSUN/İLKADIM",
       "gln_no": "8680001000000",
       "otomasyon": "TRIA",
-      "plan": "KURUMSAL_SINIRSIZ",
-      "expires_at": "2031-10-26",
+      "plan": "PRO_YILLIK",
+      "expires_at": "2027-10-24",
       "status": "AKTIF",
       "hwid": "E6B1-5698-273E",
       "last_pc_name": "DESKTOP-6KFO8IF",
       "app_version": "1.7.9",
-      "last_seen_at": "2026-11-12 00:14:50",
+      "last_seen_at": "2026-11-12 00:15:11",
       "last_action": "[DESKTOP-6KFO8IF] Depo Sorgu: TYLOL HOT DAY 12 POS",
       "today_date": "2026-11-12",
-      "today_searches": 3,
+      "today_searches": 5,
       "today_cart_adds": 4,
-      "today_smart_orders": 18,
-      "total_searches": 242,
+      "today_smart_orders": 21,
+      "total_searches": 244,
       "total_cart_adds": 477,
-      "total_smart_orders": 165,
+      "total_smart_orders": 168,
       "total_days_used": 8,
       "pc_count": 6,
       "devices": {
@@ -410,7 +410,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.7.9",
-          "last_seen_at": "2026-11-12 00:14:50",
+          "last_seen_at": "2026-11-12 00:15:11",
           "last_action": "Depo Sorgu: TYLOL HOT DAY 12 POS",
           "today_date": "2026-11-12",
           "today_searches": 2,
@@ -489,42 +489,17 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.7.9",
-          "last_seen_at": "2026-11-12 00:11:36",
-          "last_action": "Piyasa Fiyat Kıyaslama: 8690595218847",
+          "last_seen_at": "2026-11-12 00:15:04",
+          "last_action": "Depo Sorgu: PREDNOL 16 MG 20 TB.",
           "today_date": "2026-11-12",
-          "today_searches": 1,
+          "today_searches": 3,
           "today_cart_adds": 4,
-          "today_smart_orders": 13,
-          "total_searches": 9,
+          "today_smart_orders": 16,
+          "total_searches": 11,
           "total_cart_adds": 34,
-          "total_smart_orders": 53,
+          "total_smart_orders": 56,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-12 00:02:35",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş (TRIA • 246 Kalem)"
-            },
-            {
-              "t": "2026-11-12 00:02:36",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-12 00:02:48",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (35 Ürün)"
-            },
-            {
-              "t": "2026-11-12 00:02:48",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-12 00:03:00",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (35 Ürün)"
-            },
             {
               "t": "2026-11-12 00:03:00",
               "type": "mf_resolve",
@@ -574,6 +549,31 @@
               "t": "2026-11-12 00:09:42",
               "type": "search",
               "detail": "Piyasa Fiyat Kıyaslama: 8690595218847"
+            },
+            {
+              "t": "2026-11-12 00:11:44",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-12 00:11:45",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-12 00:11:53",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (2 Ürün)"
+            },
+            {
+              "t": "2026-11-12 00:12:02",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-12 00:12:08",
+              "type": "search",
+              "detail": "Depo Sorgu: PREDNOL 16 MG 20 TB."
             }
           ]
         }
