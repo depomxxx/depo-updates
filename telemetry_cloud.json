@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 22:30:53",
+  "updated_at": "2026-11-11 22:32:01",
   "count": 69,
   "items": [
     {
@@ -13,18 +13,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "8FD3-5823-91F4",
-      "last_pc_name": "Eda-Bilgin",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.7.7",
-      "last_seen_at": "2026-11-11 22:26:09",
-      "last_action": "[Eda-Bilgin] Canlı MF Sorgulama (5 Ürün)",
+      "last_seen_at": "2026-11-11 22:32:03",
+      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları Yenileme (TRIA • 110 Kalem)",
       "today_date": "2026-11-11",
       "today_searches": 58,
       "today_cart_adds": 122,
-      "today_smart_orders": 164,
+      "today_smart_orders": 166,
       "total_searches": 231,
       "total_cart_adds": 443,
-      "total_smart_orders": 103,
+      "total_smart_orders": 105,
       "total_days_used": 7,
       "pc_count": 5,
       "devices": {
@@ -34,7 +34,7 @@
           "desk_name": "Eskienes",
           "local_ip": "192.168.1.117",
           "app_version": "1.7.7",
-          "last_seen_at": "2026-11-11 22:25:48",
+          "last_seen_at": "2026-11-11 22:32:01",
           "last_action": "Canlı MF Sorgulama (7 Ürün)",
           "today_date": "2026-11-11",
           "today_searches": 14,
@@ -128,27 +128,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.7.7",
-          "last_seen_at": "2026-11-11 22:25:48",
-          "last_action": "Günün Çıkışları Yenileme (TRIA • 98 Kalem)",
+          "last_seen_at": "2026-11-11 22:32:03",
+          "last_action": "Günün Çıkışları Yenileme (TRIA • 110 Kalem)",
           "today_date": "2026-11-11",
           "today_searches": 13,
           "today_cart_adds": 40,
-          "today_smart_orders": 84,
+          "today_smart_orders": 86,
           "total_searches": 41,
           "total_cart_adds": 198,
-          "total_smart_orders": 61,
+          "total_smart_orders": 63,
           "total_days_used": 7,
           "recent_actions": [
-            {
-              "t": "2026-11-11 21:44:20",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 92 Kalem)"
-            },
-            {
-              "t": "2026-11-11 22:06:06",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-11 22:06:07",
               "type": "critical_stock",
@@ -213,6 +203,16 @@
               "t": "2026-11-11 22:16:04",
               "type": "critical_stock",
               "detail": "Günün Çıkışları Yenileme (TRIA • 98 Kalem)"
+            },
+            {
+              "t": "2026-11-11 22:25:50",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-11 22:25:50",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 110 Kalem)"
             }
           ]
         },
