@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 14:43:44",
+  "updated_at": "2026-11-11 14:43:47",
   "count": 5,
   "items": [
     {
@@ -172,11 +172,11 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "8FD3-5823-91F4",
-      "last_pc_name": "Eda-Bilgin",
+      "hwid": "83F3-13F8-E632",
+      "last_pc_name": "Eskienes",
       "app_version": "1.7.7",
-      "last_seen_at": "2026-11-11 14:43:44",
-      "last_action": "[DESKTOP-5PFFU5S] Canlı MF Sorgulama (20 Ürün)",
+      "last_seen_at": "2026-11-11 14:43:47",
+      "last_action": "[Eskienes] Depo Sorgu: SORDENA 10 MG FILM KAPLI TABLE",
       "today_date": "2026-11-11",
       "today_searches": 28,
       "today_cart_adds": 102,
@@ -382,7 +382,7 @@
           "desk_name": "Eskienes",
           "local_ip": "192.168.1.117",
           "app_version": "1.7.7",
-          "last_seen_at": "2026-11-11 14:42:16",
+          "last_seen_at": "2026-11-11 14:43:47",
           "last_action": "Depo Sorgu: SORDENA 10 MG FILM KAPLI TABLE",
           "today_date": "2026-11-11",
           "today_searches": 10,
