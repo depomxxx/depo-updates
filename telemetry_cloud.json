@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 19:01:00",
+  "updated_at": "2026-11-11 19:01:48",
   "count": 23,
   "items": [
     {
@@ -8,23 +8,23 @@
       "pharmacist_name": "EDA BİLGİN",
       "phone": "05077034200",
       "city": "SAMSUN/İLKADIM",
-      "gln_no": "8680001000000",
+      "gln_no": "8680001112258",
       "otomasyon": "TRIA",
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "5834-FAC9-B71F",
-      "last_pc_name": "DESKTOP-OTHNDUE",
+      "hwid": "83F3-13F8-E632",
+      "last_pc_name": "Eskienes",
       "app_version": "1.7.7",
-      "last_seen_at": "2026-11-11 19:01:00",
-      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-11 19:01:48",
+      "last_action": "[Eskienes] Canlı MF Sorgulama (7 Ürün)",
       "today_date": "2026-11-11",
       "today_searches": 58,
-      "today_cart_adds": 118,
-      "today_smart_orders": 129,
+      "today_cart_adds": 122,
+      "today_smart_orders": 130,
       "total_searches": 231,
-      "total_cart_adds": 439,
-      "total_smart_orders": 68,
+      "total_cart_adds": 443,
+      "total_smart_orders": 69,
       "total_days_used": 7,
       "pc_count": 5,
       "devices": {
@@ -222,42 +222,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.7.7",
-          "last_seen_at": "2026-11-11 19:01:00",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-11 19:01:35",
+          "last_action": "Sepete Ekle (ALLIANCE): SEF 1 GR 20 TB x1",
           "today_date": "2026-11-11",
           "today_searches": 13,
-          "today_cart_adds": 36,
-          "today_smart_orders": 49,
+          "today_cart_adds": 40,
+          "today_smart_orders": 50,
           "total_searches": 41,
-          "total_cart_adds": 194,
-          "total_smart_orders": 26,
+          "total_cart_adds": 198,
+          "total_smart_orders": 27,
           "total_days_used": 7,
           "recent_actions": [
-            {
-              "t": "2026-11-11 18:46:34",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): ROZA 30 GR JEL x2"
-            },
-            {
-              "t": "2026-11-11 18:46:39",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-11 18:46:41",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): DİKLORON RETARD FİLM TABLET  x3"
-            },
-            {
-              "t": "2026-11-11 18:46:48",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-11 18:46:50",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): CULTURELLE PROBIY CILEK 10 S x2"
-            },
             {
               "t": "2026-11-11 18:46:57",
               "type": "cart",
@@ -307,6 +282,31 @@
               "t": "2026-11-11 19:01:00",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-11 19:01:00",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 75 Kalem)"
+            },
+            {
+              "t": "2026-11-11 19:01:04",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-11 19:01:07",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): ACNELYSE KREM %0.05 20G TÜP/ x1"
+            },
+            {
+              "t": "2026-11-11 19:01:10",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-11 19:01:12",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): SEF 1 GR 20 TB x1"
             }
           ]
         },
@@ -380,7 +380,7 @@
           "desk_name": "Eskienes",
           "local_ip": "192.168.1.117",
           "app_version": "1.7.7",
-          "last_seen_at": "2026-11-11 19:00:48",
+          "last_seen_at": "2026-11-11 19:01:48",
           "last_action": "Canlı MF Sorgulama (7 Ürün)",
           "today_date": "2026-11-11",
           "today_searches": 14,
