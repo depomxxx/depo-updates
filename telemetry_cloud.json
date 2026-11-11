@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 00:14:51",
+  "updated_at": "2026-11-12 00:14:50",
   "count": 69,
   "items": [
     {
@@ -8,23 +8,23 @@
       "pharmacist_name": "EDA BİLGİN",
       "phone": "05077034200",
       "city": "SAMSUN/İLKADIM",
-      "gln_no": "8680001112258",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "83F3-13F8-E632",
-      "last_pc_name": "Eskienes",
+      "hwid": "E6B1-5698-273E",
+      "last_pc_name": "DESKTOP-6KFO8IF",
       "app_version": "1.7.9",
-      "last_seen_at": "2026-11-12 00:14:36",
-      "last_action": "[Eskienes] Canlı MF Sorgulama (2 Ürün)",
+      "last_seen_at": "2026-11-12 00:14:50",
+      "last_action": "[DESKTOP-6KFO8IF] Depo Sorgu: TYLOL HOT DAY 12 POS",
       "today_date": "2026-11-12",
-      "today_searches": 1,
+      "today_searches": 3,
       "today_cart_adds": 4,
-      "today_smart_orders": 17,
-      "total_searches": 240,
+      "today_smart_orders": 18,
+      "total_searches": 242,
       "total_cart_adds": 477,
-      "total_smart_orders": 164,
+      "total_smart_orders": 165,
       "total_days_used": 8,
       "pc_count": 6,
       "devices": {
@@ -34,7 +34,7 @@
           "desk_name": "Eskienes",
           "local_ip": "192.168.1.117",
           "app_version": "1.7.9",
-          "last_seen_at": "2026-11-12 00:14:36",
+          "last_seen_at": "2026-11-12 00:14:49",
           "last_action": "Canlı MF Sorgulama (2 Ürün)",
           "today_date": "2026-11-12",
           "today_searches": 0,
@@ -128,7 +128,7 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.7.9",
-          "last_seen_at": "2026-11-12 00:13:19",
+          "last_seen_at": "2026-11-12 00:14:50",
           "last_action": "Program Açık (Canlı)",
           "today_date": "2026-11-12",
           "today_searches": 0,
@@ -410,15 +410,15 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.7.9",
-          "last_seen_at": "2026-11-12 00:11:37",
-          "last_action": "Program Açık (Canlı)",
+          "last_seen_at": "2026-11-12 00:14:50",
+          "last_action": "Depo Sorgu: TYLOL HOT DAY 12 POS",
           "today_date": "2026-11-12",
-          "today_searches": 0,
+          "today_searches": 2,
           "today_cart_adds": 0,
-          "today_smart_orders": 0,
-          "total_searches": 10,
+          "today_smart_orders": 1,
+          "total_searches": 12,
           "total_cart_adds": 37,
-          "total_smart_orders": 9,
+          "total_smart_orders": 10,
           "total_days_used": 8,
           "recent_actions": [
             {
@@ -465,6 +465,21 @@
               "t": "2026-11-11 18:26:10",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (8 Ürün)"
+            },
+            {
+              "t": "2026-11-12 00:13:32",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-12 00:13:38",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-12 00:13:42",
+              "type": "search",
+              "detail": "Depo Sorgu: TYLOL HOT DAY 12 POS"
             }
           ]
         },
