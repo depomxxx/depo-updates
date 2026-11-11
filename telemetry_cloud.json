@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 00:45:37",
+  "updated_at": "2026-11-12 00:46:06",
   "count": 69,
   "items": [
     {
@@ -605,19 +605,19 @@
       "plan": "PRO_YILLIK",
       "expires_at": "2027-10-24",
       "status": "AKTIF",
-      "hwid": "E6B1-5698-273E",
-      "last_pc_name": "DESKTOP-6KFO8IF",
+      "hwid": "E4F7-229A-BABD",
+      "last_pc_name": "ChagriBeg",
       "app_version": "1.8.0",
-      "last_seen_at": "2026-11-12 00:45:17",
-      "last_action": "[DESKTOP-6KFO8IF] Canlı MF Sorgulama (2 Ürün)",
+      "last_seen_at": "2026-11-12 00:46:06",
+      "last_action": "[ChagriBeg] Depo Fiyat Sorgulama",
       "today_date": "2026-11-12",
-      "today_searches": 35,
+      "today_searches": 36,
       "today_cart_adds": 5,
-      "today_smart_orders": 34,
-      "total_searches": 325,
+      "today_smart_orders": 35,
+      "total_searches": 326,
       "total_cart_adds": 713,
       "total_days_used": 8,
-      "total_smart_orders": 148,
+      "total_smart_orders": 149,
       "pc_count": 4,
       "devices": {
         "18C1-4ECE-8490": {
@@ -644,7 +644,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.8.0",
-          "last_seen_at": "2026-11-12 00:45:17",
+          "last_seen_at": "2026-11-12 00:46:04",
           "last_action": "Canlı MF Sorgulama (2 Ürün)",
           "today_date": "2026-11-12",
           "today_searches": 2,
@@ -832,27 +832,17 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.8.0",
-          "last_seen_at": "2026-11-12 00:45:16",
-          "last_action": "Canlı MF Sorgulama (5 Ürün)",
+          "last_seen_at": "2026-11-12 00:46:06",
+          "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-12",
-          "today_searches": 33,
+          "today_searches": 34,
           "today_cart_adds": 5,
-          "today_smart_orders": 30,
-          "total_searches": 41,
+          "today_smart_orders": 31,
+          "total_searches": 42,
           "total_cart_adds": 35,
-          "total_smart_orders": 70,
+          "total_smart_orders": 71,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-12 00:43:05",
-              "type": "search",
-              "detail": "Depo Sorgu: TYLOL COLD 100ML ŞURUP"
-            },
-            {
-              "t": "2026-11-12 00:43:13",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-12 00:43:16",
               "type": "search",
@@ -917,6 +907,16 @@
               "t": "2026-11-12 00:44:36",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (5 Ürün)"
+            },
+            {
+              "t": "2026-11-12 00:45:31",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-12 00:46:06",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ]
         }
