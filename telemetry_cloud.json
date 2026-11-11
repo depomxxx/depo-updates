@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 00:21:44",
+  "updated_at": "2026-11-12 00:21:51",
   "count": 69,
   "items": [
     {
@@ -8,21 +8,21 @@
       "pharmacist_name": "GAMZE ASLAN",
       "phone": "05344064108",
       "city": "SAMSUN/ATAKUM",
-      "gln_no": "8680001134861",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "PRO_YILLIK",
       "expires_at": "2027-10-24",
       "status": "AKTIF",
-      "hwid": "E4F7-229A-BABD",
-      "last_pc_name": "ChagriBeg",
+      "hwid": "E6B1-5698-273E",
+      "last_pc_name": "DESKTOP-6KFO8IF",
       "app_version": "1.7.9",
-      "last_seen_at": "2026-11-12 00:21:36",
-      "last_action": "[ChagriBeg] Depo Fiyat Sorgulama",
+      "last_seen_at": "2026-11-12 00:21:51",
+      "last_action": "[DESKTOP-6KFO8IF] Depo Sorgu: TYLOL HOT DAY 12 POS",
       "today_date": "2026-11-12",
-      "today_searches": 6,
+      "today_searches": 7,
       "today_cart_adds": 4,
       "today_smart_orders": 21,
-      "total_searches": 245,
+      "total_searches": 246,
       "total_cart_adds": 477,
       "total_smart_orders": 168,
       "total_days_used": 8,
@@ -128,7 +128,7 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.7.9",
-          "last_seen_at": "2026-11-12 00:19:25",
+          "last_seen_at": "2026-11-12 00:20:56",
           "last_action": "Program Açık (Canlı)",
           "today_date": "2026-11-12",
           "today_searches": 0,
@@ -410,7 +410,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.7.9",
-          "last_seen_at": "2026-11-12 00:21:26",
+          "last_seen_at": "2026-11-12 00:21:51",
           "last_action": "Depo Sorgu: TYLOL HOT DAY 12 POS",
           "today_date": "2026-11-12",
           "today_searches": 2,
@@ -489,22 +489,17 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.7.9",
-          "last_seen_at": "2026-11-12 00:21:36",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-12 00:21:44",
+          "last_action": "Depo Sorgu: MAJEZIK 100 MG 15 TB.",
           "today_date": "2026-11-12",
-          "today_searches": 4,
+          "today_searches": 5,
           "today_cart_adds": 4,
           "today_smart_orders": 16,
-          "total_searches": 12,
+          "total_searches": 13,
           "total_cart_adds": 34,
           "total_smart_orders": 56,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-12 00:03:05",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (13 Ürün)"
-            },
             {
               "t": "2026-11-12 00:03:08",
               "type": "cart",
@@ -574,6 +569,11 @@
               "t": "2026-11-12 00:21:36",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-12 00:21:44",
+              "type": "search",
+              "detail": "Depo Sorgu: MAJEZIK 100 MG 15 TB."
             }
           ]
         }
