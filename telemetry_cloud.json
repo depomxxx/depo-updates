@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 00:22:22",
+  "updated_at": "2026-11-12 00:22:58",
   "count": 69,
   "items": [
     {
@@ -8,23 +8,23 @@
       "pharmacist_name": "GAMZE ASLAN",
       "phone": "05344064108",
       "city": "SAMSUN/ATAKUM",
-      "gln_no": "8680001000000",
+      "gln_no": "8680001134861",
       "otomasyon": "TRIA",
       "plan": "PRO_YILLIK",
       "expires_at": "2027-10-24",
       "status": "AKTIF",
-      "hwid": "E6B1-5698-273E",
-      "last_pc_name": "DESKTOP-6KFO8IF",
+      "hwid": "E4F7-229A-BABD",
+      "last_pc_name": "ChagriBeg",
       "app_version": "1.7.10",
-      "last_seen_at": "2026-11-12 00:22:21",
-      "last_action": "[DESKTOP-6KFO8IF] Depo Sorgu: TYLOL HOT DAY 12 POS",
+      "last_seen_at": "2026-11-12 00:22:58",
+      "last_action": "[ChagriBeg] Depo Fiyat Sorgulama",
       "today_date": "2026-11-12",
-      "today_searches": 7,
+      "today_searches": 8,
       "today_cart_adds": 4,
-      "today_smart_orders": 23,
-      "total_searches": 246,
+      "today_smart_orders": 26,
+      "total_searches": 247,
       "total_cart_adds": 477,
-      "total_smart_orders": 170,
+      "total_smart_orders": 173,
       "total_days_used": 8,
       "pc_count": 6,
       "devices": {
@@ -410,15 +410,15 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.7.10",
-          "last_seen_at": "2026-11-12 00:22:21",
-          "last_action": "Depo Sorgu: TYLOL HOT DAY 12 POS",
+          "last_seen_at": "2026-11-12 00:22:56",
+          "last_action": "Canlı MF Sorgulama (2 Ürün)",
           "today_date": "2026-11-12",
           "today_searches": 2,
           "today_cart_adds": 0,
-          "today_smart_orders": 1,
+          "today_smart_orders": 4,
           "total_searches": 12,
           "total_cart_adds": 37,
-          "total_smart_orders": 10,
+          "total_smart_orders": 13,
           "total_days_used": 8,
           "recent_actions": [
             {
@@ -480,6 +480,21 @@
               "t": "2026-11-12 00:13:42",
               "type": "search",
               "detail": "Depo Sorgu: TYLOL HOT DAY 12 POS"
+            },
+            {
+              "t": "2026-11-12 00:22:31",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-12 00:22:32",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-12 00:22:36",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (2 Ürün)"
             }
           ]
         },
@@ -489,22 +504,17 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.7.10",
-          "last_seen_at": "2026-11-12 00:22:20",
-          "last_action": "Canlı MF Taraması",
+          "last_seen_at": "2026-11-12 00:22:58",
+          "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-12",
-          "today_searches": 5,
+          "today_searches": 6,
           "today_cart_adds": 4,
           "today_smart_orders": 18,
-          "total_searches": 13,
+          "total_searches": 14,
           "total_cart_adds": 34,
           "total_smart_orders": 58,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-12 00:03:08",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş Planlama"
-            },
             {
               "t": "2026-11-12 00:03:09",
               "type": "smart_order",
@@ -574,6 +584,11 @@
               "t": "2026-11-12 00:22:15",
               "type": "mf_resolve",
               "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-12 00:22:58",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ]
         }
