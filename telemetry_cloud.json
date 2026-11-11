@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 00:28:25",
+  "updated_at": "2026-11-12 00:28:32",
   "count": 69,
   "items": [
     {
@@ -608,13 +608,13 @@
       "hwid": "E4F7-229A-BABD",
       "last_pc_name": "ChagriBeg",
       "app_version": "1.7.10",
-      "last_seen_at": "2026-11-12 00:28:10",
+      "last_seen_at": "2026-11-12 00:28:32",
       "last_action": "[ChagriBeg] Depo Fiyat Sorgulama",
       "today_date": "2026-11-12",
-      "today_searches": 10,
+      "today_searches": 16,
       "today_cart_adds": 5,
       "today_smart_orders": 22,
-      "total_searches": 300,
+      "total_searches": 306,
       "total_cart_adds": 713,
       "total_days_used": 8,
       "total_smart_orders": 136,
@@ -644,7 +644,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.7.10",
-          "last_seen_at": "2026-11-12 00:27:56",
+          "last_seen_at": "2026-11-12 00:28:21",
           "last_action": "Canlı MF Sorgulama (2 Ürün)",
           "today_date": "2026-11-12",
           "today_searches": 2,
@@ -832,47 +832,17 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.7.10",
-          "last_seen_at": "2026-11-12 00:28:10",
+          "last_seen_at": "2026-11-12 00:28:32",
           "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-12",
-          "today_searches": 8,
+          "today_searches": 14,
           "today_cart_adds": 5,
           "today_smart_orders": 18,
-          "total_searches": 16,
+          "total_searches": 22,
           "total_cart_adds": 35,
           "total_smart_orders": 58,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-12 00:03:22",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş (TRIA • 246 Kalem)"
-            },
-            {
-              "t": "2026-11-12 00:09:42",
-              "type": "search",
-              "detail": "Piyasa Fiyat Kıyaslama: 8690595218847"
-            },
-            {
-              "t": "2026-11-12 00:11:44",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-12 00:11:45",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-12 00:11:53",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (2 Ürün)"
-            },
-            {
-              "t": "2026-11-12 00:12:02",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-12 00:12:08",
               "type": "search",
@@ -915,6 +885,36 @@
             },
             {
               "t": "2026-11-12 00:28:10",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-12 00:28:14",
+              "type": "search",
+              "detail": "Depo Sorgu: AUGMENTIN BID 1 GR 10 FTB."
+            },
+            {
+              "t": "2026-11-12 00:28:19",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-12 00:28:21",
+              "type": "search",
+              "detail": "Depo Sorgu: AUGMENTIN BID 1 GR 10 FTB."
+            },
+            {
+              "t": "2026-11-12 00:28:21",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-12 00:28:24",
+              "type": "search",
+              "detail": "Depo Sorgu: AUGMENTIN BID 1 GR 10 FTB."
+            },
+            {
+              "t": "2026-11-12 00:28:32",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
             }
