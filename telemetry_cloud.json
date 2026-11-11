@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 23:16:33",
+  "updated_at": "2026-11-11 23:17:40",
   "count": 69,
   "items": [
     {
@@ -13,11 +13,11 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "B446-9737-94C4",
-      "last_pc_name": "DESKTOP-5PFFU5S",
+      "hwid": "83F3-13F8-E632",
+      "last_pc_name": "Eskienes",
       "app_version": "1.7.7",
-      "last_seen_at": "2026-11-11 23:16:19",
-      "last_action": "[DESKTOP-5PFFU5S] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-11 23:17:40",
+      "last_action": "[Eskienes] Canlı MF Sorgulama (7 Ürün)",
       "today_date": "2026-11-11",
       "today_searches": 58,
       "today_cart_adds": 122,
@@ -34,7 +34,7 @@
           "desk_name": "Eskienes",
           "local_ip": "192.168.1.117",
           "app_version": "1.7.7",
-          "last_seen_at": "2026-11-11 23:16:09",
+          "last_seen_at": "2026-11-11 23:17:40",
           "last_action": "Canlı MF Sorgulama (7 Ürün)",
           "today_date": "2026-11-11",
           "today_searches": 14,
