@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 17:21:59",
+  "updated_at": "2026-11-11 17:22:01",
   "count": 5,
   "items": [
     {
@@ -222,22 +222,22 @@
       "pharmacist_name": "EDA BİLGİN",
       "phone": "05077034200",
       "city": "SAMSUN/İLKADIM",
-      "gln_no": "8680001000000",
+      "gln_no": "8680001112258",
       "otomasyon": "TRIA",
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D719-CEB2-1542",
-      "last_pc_name": "DESKTOP-M530BBB",
+      "hwid": "8FD3-5823-91F4",
+      "last_pc_name": "Eda-Bilgin",
       "app_version": "1.7.7",
-      "last_seen_at": "2026-11-11 17:21:41",
-      "last_action": "[DESKTOP-M530BBB] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-11 17:22:01",
+      "last_action": "[Eda-Bilgin] Canlı MF Sorgulama (5 Ürün)",
       "today_date": "2026-11-11",
       "today_searches": 66,
-      "today_cart_adds": 117,
+      "today_cart_adds": 119,
       "today_smart_orders": 142,
       "total_searches": 451,
-      "total_cart_adds": 890,
+      "total_cart_adds": 892,
       "total_days_used": 8,
       "total_smart_orders": 69,
       "pc_count": 8,
@@ -412,22 +412,17 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.7.7",
-          "last_seen_at": "2026-11-11 17:21:38",
-          "last_action": "Depo Sorgu: AFERIN 300/2/10 MG 30 CAP *",
+          "last_seen_at": "2026-11-11 17:21:51",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-11",
           "today_searches": 23,
-          "today_cart_adds": 67,
+          "today_cart_adds": 69,
           "today_smart_orders": 35,
           "total_searches": 87,
-          "total_cart_adds": 149,
+          "total_cart_adds": 151,
           "total_smart_orders": 3,
           "total_days_used": 5,
           "recent_actions": [
-            {
-              "t": "2026-11-11 14:53:57",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-11 14:53:58",
               "type": "search",
@@ -497,6 +492,11 @@
               "t": "2026-11-11 17:21:06",
               "type": "search",
               "detail": "Depo Sorgu: AFERIN 300/2/10 MG 30 CAP *"
+            },
+            {
+              "t": "2026-11-11 17:21:50",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
@@ -600,7 +600,7 @@
           "desk_name": "Eda-Bilgin",
           "local_ip": "192.168.1.114",
           "app_version": "1.7.7",
-          "last_seen_at": "2026-11-11 17:20:30",
+          "last_seen_at": "2026-11-11 17:22:01",
           "last_action": "Canlı MF Sorgulama (5 Ürün)",
           "today_date": "2026-11-11",
           "today_searches": 8,
