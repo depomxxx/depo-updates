@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 18:25:50",
+  "updated_at": "2026-11-11 18:25:53",
   "count": 5,
   "items": [
     {
@@ -286,29 +286,29 @@
       }
     },
     {
-      "id": "48F632F1",
-      "pharmacy_name": "EDA ECZANESI",
+      "id": "D0EFA284",
+      "pharmacy_name": "ARAŞTIRMA ECZANESI",
       "pharmacist_name": "EDA BİLGİN",
       "phone": "05077034200",
       "city": "SAMSUN/İLKADIM",
       "gln_no": "8680001000000",
       "otomasyon": "TRIA",
-      "plan": "KURUMSAL_SINIRSIZ",
-      "expires_at": "2031-10-26",
+      "plan": "PRO_YILLIK",
+      "expires_at": "2027-10-24",
       "status": "AKTIF",
       "hwid": "E6B1-5698-273E",
       "last_pc_name": "DESKTOP-6KFO8IF",
       "app_version": "1.7.7",
-      "last_seen_at": "2026-11-11 18:25:30",
-      "last_action": "[DESKTOP-M530BBB] Canlı MF Sorgulama (26 Ürün)",
+      "last_seen_at": "2026-11-11 18:25:53",
+      "last_action": "[DESKTOP-6KFO8IF] Canlı MF Sorgulama (30 Ürün)",
       "today_date": "2026-11-11",
       "today_searches": 68,
       "today_cart_adds": 121,
-      "today_smart_orders": 159,
+      "today_smart_orders": 162,
       "total_searches": 463,
       "total_cart_adds": 931,
       "total_days_used": 8,
-      "total_smart_orders": 82,
+      "total_smart_orders": 85,
       "pc_count": 9,
       "devices": {
         "B766-9F71-3B24": {
@@ -387,7 +387,7 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.7.7",
-          "last_seen_at": "2026-11-11 18:25:27",
+          "last_seen_at": "2026-11-11 18:25:44",
           "last_action": "Günün Çıkışları Yenileme (TRIA • 66 Kalem)",
           "today_date": "2026-11-11",
           "today_searches": 11,
@@ -857,17 +857,33 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.7.7",
-          "last_seen_at": "2026-11-11 18:25:30",
-          "last_action": "Program Açık (Canlı)",
+          "last_seen_at": "2026-11-11 18:25:53",
+          "last_action": "Canlı MF Sorgulama (30 Ürün)",
           "today_date": "2026-11-11",
           "today_searches": 0,
           "today_cart_adds": 0,
-          "today_smart_orders": 4,
+          "today_smart_orders": 7,
           "total_searches": 10,
           "total_cart_adds": 37,
-          "total_smart_orders": 0,
+          "total_smart_orders": 3,
           "total_days_used": 7,
-          "recent_actions": []
+          "recent_actions": [
+            {
+              "t": "2026-11-11 18:25:43",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-11 18:25:43",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-11 18:25:53",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (30 Ürün)"
+            }
+          ]
         }
       }
     },
