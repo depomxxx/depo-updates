@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 00:48:37",
+  "updated_at": "2026-11-12 00:48:48",
   "count": 69,
   "items": [
     {
@@ -935,16 +935,16 @@
       "status": "AKTIF",
       "hwid": "83F3-13F8-E632",
       "last_pc_name": "Eskienes",
-      "app_version": "1.7.10",
-      "last_seen_at": "2026-11-12 00:23:42",
-      "last_action": "[Eskienes] Canlı MF Sorgulama (5 Ürün)",
+      "app_version": "1.8.0",
+      "last_seen_at": "2026-11-12 00:48:48",
+      "last_action": "[Eskienes] Canlı MF Sorgulama (6 Ürün)",
       "today_date": "2026-11-12",
       "today_searches": 2,
       "today_cart_adds": 0,
-      "today_smart_orders": 8,
+      "today_smart_orders": 15,
       "total_searches": 233,
       "total_cart_adds": 443,
-      "total_smart_orders": 115,
+      "total_smart_orders": 122,
       "total_days_used": 8,
       "pc_count": 5,
       "devices": {
@@ -953,33 +953,18 @@
           "pc_name": "Eskienes",
           "desk_name": "Eskienes",
           "local_ip": "192.168.1.117",
-          "app_version": "1.7.10",
-          "last_seen_at": "2026-11-12 00:23:42",
-          "last_action": "Canlı MF Sorgulama (5 Ürün)",
+          "app_version": "1.8.0",
+          "last_seen_at": "2026-11-12 00:48:48",
+          "last_action": "Canlı MF Sorgulama (6 Ürün)",
           "today_date": "2026-11-12",
           "today_searches": 0,
           "today_cart_adds": 0,
-          "today_smart_orders": 7,
+          "today_smart_orders": 11,
           "total_searches": 48,
           "total_cart_adds": 48,
-          "total_smart_orders": 19,
+          "total_smart_orders": 23,
           "total_days_used": 7,
           "recent_actions": [
-            {
-              "t": "2026-11-11 15:04:12",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-11 15:37:51",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-11 15:37:52",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-11 15:38:00",
               "type": "search",
@@ -1039,6 +1024,21 @@
               "t": "2026-11-12 00:22:35",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (5 Ürün)"
+            },
+            {
+              "t": "2026-11-12 00:45:11",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-12 00:45:11",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-12 00:45:37",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (6 Ürün)"
             }
           ]
         },
@@ -1047,28 +1047,18 @@
           "pc_name": "DESKTOP-OTHNDUE",
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
-          "app_version": "1.7.10",
-          "last_seen_at": "2026-11-12 00:22:32",
-          "last_action": "Program Açık (Canlı)",
+          "app_version": "1.8.0",
+          "last_seen_at": "2026-11-12 00:48:30",
+          "last_action": "Günün Çıkışları Yenileme (TRIA • 12 Kalem)",
           "today_date": "2026-11-12",
           "today_searches": 0,
           "today_cart_adds": 0,
-          "today_smart_orders": 0,
+          "today_smart_orders": 3,
           "total_searches": 41,
           "total_cart_adds": 198,
-          "total_smart_orders": 65,
+          "total_smart_orders": 68,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-11 22:06:13",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 98 Kalem)"
-            },
-            {
-              "t": "2026-11-11 22:06:41",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-11 22:06:41",
               "type": "critical_stock",
@@ -1133,6 +1123,16 @@
               "t": "2026-11-11 22:52:23",
               "type": "critical_stock",
               "detail": "Günün Çıkışları Yenileme (TRIA • 117 Kalem)"
+            },
+            {
+              "t": "2026-11-12 00:47:11",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-12 00:47:13",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 12 Kalem)"
             }
           ]
         },
