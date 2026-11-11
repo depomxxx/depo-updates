@@ -1,7 +1,31 @@
 {
   "updated_at": "2026-11-11 13:10:10",
-  "count": 4,
+  "count": 5,
   "items": [
+    {
+      "id": "106A1333",
+      "pharmacy_name": "RÜYA ECZANESI",
+      "pharmacist_name": "ÇAĞRI ASLAN",
+      "phone": "05065963918",
+      "city": "SİNOP/SARAYDÜZÜ",
+      "gln_no": "8680001429554",
+      "otomasyon": "BOTANIK",
+      "plan": "PRO_YILLIK",
+      "expires_at": "2027-11-11",
+      "status": "AKTIF",
+      "hwid": "2DED-CFF9-D593",
+      "last_pc_name": "DESKTOP-8JN0NE5",
+      "app_version": "1.7.5",
+      "last_seen_at": "2026-11-11 13:10:09",
+      "last_action": "Lisans Anahtarı Etkinleştirildi",
+      "today_date": "2026-11-11",
+      "today_searches": 8,
+      "today_cart_adds": 12,
+      "today_smart_orders": 17,
+      "total_searches": 10,
+      "total_cart_adds": 26,
+      "total_days_used": 4
+    },
     {
       "id": "16F1CA89",
       "pharmacy_name": "BALCI ECZANESİ",
