@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 23:49:31",
+  "updated_at": "2026-11-11 23:49:35",
   "count": 69,
   "items": [
     {
@@ -570,22 +570,22 @@
       "pharmacist_name": "GAMZE ASLAN",
       "phone": "05344064108",
       "city": "SAMSUN/ATAKUM",
-      "gln_no": "8680001000000",
+      "gln_no": "8680001134861",
       "otomasyon": "TRIA",
       "plan": "PRO_YILLIK",
       "expires_at": "2027-10-24",
       "status": "AKTIF",
-      "hwid": "E6B1-5698-273E",
-      "last_pc_name": "DESKTOP-6KFO8IF",
+      "hwid": "E4F7-229A-BABD",
+      "last_pc_name": "ChagriBeg",
       "app_version": "1.7.8",
-      "last_seen_at": "2026-11-11 23:48:16",
-      "last_action": "[DESKTOP-6KFO8IF] Canlı MF Sorgulama (8 Ürün)",
+      "last_seen_at": "2026-11-11 23:49:35",
+      "last_action": "[ChagriBeg] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-11",
       "today_searches": 15,
-      "today_cart_adds": 48,
+      "today_cart_adds": 49,
       "today_smart_orders": 145,
       "total_searches": 290,
-      "total_cart_adds": 707,
+      "total_cart_adds": 708,
       "total_days_used": 7,
       "total_smart_orders": 114,
       "pc_count": 4,
@@ -772,22 +772,17 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.7.8",
-          "last_seen_at": "2026-11-11 23:48:04",
-          "last_action": "Depo Sorgu: AUGMENTIN BID 1 GR 14 FTB.",
+          "last_seen_at": "2026-11-11 23:49:35",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-11",
           "today_searches": 2,
-          "today_cart_adds": 8,
+          "today_cart_adds": 9,
           "today_smart_orders": 44,
           "total_searches": 8,
-          "total_cart_adds": 29,
+          "total_cart_adds": 30,
           "total_smart_orders": 40,
           "total_days_used": 7,
           "recent_actions": [
-            {
-              "t": "2026-11-11 23:30:57",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş Planlama"
-            },
             {
               "t": "2026-11-11 23:30:57",
               "type": "smart_order",
@@ -857,6 +852,11 @@
               "t": "2026-11-11 23:46:43",
               "type": "search",
               "detail": "Depo Sorgu: AUGMENTIN BID 1 GR 14 FTB."
+            },
+            {
+              "t": "2026-11-11 23:49:35",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         }
