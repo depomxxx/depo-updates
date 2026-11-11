@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 23:30:24",
+  "updated_at": "2026-11-11 23:30:54",
   "count": 69,
   "items": [
     {
@@ -484,16 +484,16 @@
       "hwid": "E4F7-229A-BABD",
       "last_pc_name": "ChagriBeg",
       "app_version": "1.7.7",
-      "last_seen_at": "2026-11-11 23:30:24",
+      "last_seen_at": "2026-11-11 23:30:54",
       "last_action": "[ChagriBeg] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-11",
       "today_searches": 13,
-      "today_cart_adds": 41,
-      "today_smart_orders": 126,
+      "today_cart_adds": 45,
+      "today_smart_orders": 134,
       "total_searches": 288,
-      "total_cart_adds": 700,
+      "total_cart_adds": 704,
       "total_days_used": 7,
-      "total_smart_orders": 95,
+      "total_smart_orders": 103,
       "pc_count": 4,
       "devices": {
         "18C1-4ECE-8490": {
@@ -678,72 +678,17 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.7.7",
-          "last_seen_at": "2026-11-11 23:30:24",
+          "last_seen_at": "2026-11-11 23:30:54",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-11",
           "today_searches": 0,
-          "today_cart_adds": 1,
-          "today_smart_orders": 25,
+          "today_cart_adds": 5,
+          "today_smart_orders": 33,
           "total_searches": 6,
-          "total_cart_adds": 22,
-          "total_smart_orders": 21,
+          "total_cart_adds": 26,
+          "total_smart_orders": 29,
           "total_days_used": 7,
           "recent_actions": [
-            {
-              "t": "2026-11-11 22:25:56",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş Planlama"
-            },
-            {
-              "t": "2026-11-11 22:25:56",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş (TRIA • 250 Kalem)"
-            },
-            {
-              "t": "2026-11-11 22:25:57",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-11 22:26:02",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (14 Ürün)"
-            },
-            {
-              "t": "2026-11-11 23:28:55",
-              "type": "activation",
-              "detail": "Lisans Anahtarı Etkinleştirildi"
-            },
-            {
-              "t": "2026-11-11 23:29:01",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-11 23:29:02",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 127 Kalem)"
-            },
-            {
-              "t": "2026-11-11 23:29:02",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-11 23:29:35",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (30 Ürün)"
-            },
-            {
-              "t": "2026-11-11 23:29:35",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-11 23:29:43",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (35 Ürün)"
-            },
             {
               "t": "2026-11-11 23:29:52",
               "type": "mf_resolve",
@@ -761,6 +706,61 @@
             },
             {
               "t": "2026-11-11 23:30:24",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-11 23:30:25",
+              "type": "cart",
+              "detail": "Toplu Sepet (SELCUK): 1 Kalem"
+            },
+            {
+              "t": "2026-11-11 23:30:25",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş Planlama"
+            },
+            {
+              "t": "2026-11-11 23:30:26",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş (TRIA • 250 Kalem)"
+            },
+            {
+              "t": "2026-11-11 23:30:26",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-11 23:30:26",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-11 23:30:29",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (8 Ürün)"
+            },
+            {
+              "t": "2026-11-11 23:30:34",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş Planlama"
+            },
+            {
+              "t": "2026-11-11 23:30:34",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş (TRIA • 250 Kalem)"
+            },
+            {
+              "t": "2026-11-11 23:30:34",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-11 23:30:35",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (1 Ürün)"
+            },
+            {
+              "t": "2026-11-11 23:30:54",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
