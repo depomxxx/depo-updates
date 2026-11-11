@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 18:48:13",
+  "updated_at": "2026-11-11 18:48:20",
   "count": 19,
   "items": [
     {
@@ -8,7 +8,7 @@
       "pharmacist_name": "EDA BİLGİN",
       "phone": "05077034200",
       "city": "SAMSUN/İLKADIM",
-      "gln_no": "8680001112258",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
@@ -16,15 +16,15 @@
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.7.7",
-      "last_seen_at": "2026-11-11 18:48:15",
-      "last_action": "[DESKTOP-OTHNDUE] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-11 18:48:20",
+      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-11",
       "today_searches": 58,
       "today_cart_adds": 118,
-      "today_smart_orders": 124,
+      "today_smart_orders": 125,
       "total_searches": 231,
       "total_cart_adds": 439,
-      "total_smart_orders": 63,
+      "total_smart_orders": 64,
       "total_days_used": 7,
       "pc_count": 5,
       "devices": {
@@ -222,22 +222,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.7.7",
-          "last_seen_at": "2026-11-11 18:48:15",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-11 18:48:20",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-11",
           "today_searches": 13,
           "today_cart_adds": 36,
-          "today_smart_orders": 44,
+          "today_smart_orders": 45,
           "total_searches": 41,
           "total_cart_adds": 194,
-          "total_smart_orders": 21,
+          "total_smart_orders": 22,
           "total_days_used": 7,
           "recent_actions": [
-            {
-              "t": "2026-11-11 18:15:51",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-11 18:15:52",
               "type": "critical_stock",
@@ -307,6 +302,11 @@
               "t": "2026-11-11 18:47:24",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-11 18:48:20",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         },
@@ -316,7 +316,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.7.7",
-          "last_seen_at": "2026-11-11 18:46:58",
+          "last_seen_at": "2026-11-11 18:47:58",
           "last_action": "Canlı MF Sorgulama (8 Ürün)",
           "today_date": "2026-11-11",
           "today_searches": 0,
