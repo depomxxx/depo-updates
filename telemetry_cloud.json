@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 18:08:09",
+  "updated_at": "2026-11-11 18:08:34",
   "count": 5,
   "items": [
     {
@@ -299,16 +299,16 @@
       "hwid": "D719-CEB2-1542",
       "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.7.7",
-      "last_seen_at": "2026-11-11 18:08:09",
-      "last_action": "[DESKTOP-M530BBB] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-11 18:08:34",
+      "last_action": "[DESKTOP-M530BBB] Canlı MF Sorgulama (30 Ürün)",
       "today_date": "2026-11-11",
-      "today_searches": 66,
+      "today_searches": 68,
       "today_cart_adds": 119,
-      "today_smart_orders": 145,
-      "total_searches": 451,
+      "today_smart_orders": 151,
+      "total_searches": 453,
       "total_cart_adds": 892,
       "total_days_used": 8,
-      "total_smart_orders": 72,
+      "total_smart_orders": 78,
       "pc_count": 8,
       "devices": {
         "B766-9F71-3B24": {
@@ -481,7 +481,7 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.7.7",
-          "last_seen_at": "2026-11-11 18:08:01",
+          "last_seen_at": "2026-11-11 18:08:26",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-11",
           "today_searches": 23,
@@ -575,57 +575,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.112",
           "app_version": "1.7.7",
-          "last_seen_at": "2026-11-11 18:08:09",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-11 18:08:34",
+          "last_action": "Canlı MF Sorgulama (30 Ürün)",
           "today_date": "2026-11-11",
-          "today_searches": 2,
+          "today_searches": 4,
           "today_cart_adds": 2,
-          "today_smart_orders": 26,
-          "total_searches": 53,
+          "today_smart_orders": 32,
+          "total_searches": 55,
           "total_cart_adds": 49,
-          "total_smart_orders": 19,
+          "total_smart_orders": 25,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-11 14:52:09",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-11 14:52:21",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (30 Ürün)"
-            },
-            {
-              "t": "2026-11-11 14:52:21",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-11 14:52:30",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (15 Ürün)"
-            },
-            {
-              "t": "2026-11-11 16:00:03",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-11 16:00:04",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-11 16:00:04",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-11 16:00:10",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (30 Ürün)"
-            },
             {
               "t": "2026-11-11 16:00:10",
               "type": "mf_resolve",
@@ -660,6 +620,46 @@
               "t": "2026-11-11 18:08:09",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-11 18:08:11",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-11 18:08:14",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-11 18:08:18",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (30 Ürün)"
+            },
+            {
+              "t": "2026-11-11 18:08:19",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-11 18:08:21",
+              "type": "search",
+              "detail": "Depo Sorgu: AFERIN 300/2/10 MG 30 CAP *"
+            },
+            {
+              "t": "2026-11-11 18:08:23",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (30 Ürün)"
+            },
+            {
+              "t": "2026-11-11 18:08:23",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-11 18:08:34",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (30 Ürün)"
             }
           ]
         },
