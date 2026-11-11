@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 21:44:48",
+  "updated_at": "2026-11-11 21:44:58",
   "count": 69,
   "items": [
     {
@@ -484,15 +484,15 @@
       "hwid": "E6B1-5698-273E",
       "last_pc_name": "DESKTOP-6KFO8IF",
       "app_version": "1.7.7",
-      "last_seen_at": "2026-11-11 21:41:56",
+      "last_seen_at": "2026-11-11 21:44:58",
       "last_action": "[DESKTOP-6KFO8IF] Canlı MF Sorgulama (8 Ürün)",
       "today_date": "2026-11-11",
       "today_searches": 58,
       "today_cart_adds": 122,
-      "today_smart_orders": 148,
+      "today_smart_orders": 150,
       "total_searches": 231,
       "total_cart_adds": 443,
-      "total_smart_orders": 87,
+      "total_smart_orders": 89,
       "total_days_used": 7,
       "pc_count": 5,
       "devices": {
@@ -596,27 +596,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.7.7",
-          "last_seen_at": "2026-11-11 21:41:50",
-          "last_action": "Günün Çıkışları Yenileme (TRIA • 86 Kalem)",
+          "last_seen_at": "2026-11-11 21:44:55",
+          "last_action": "Günün Çıkışları Yenileme (TRIA • 92 Kalem)",
           "today_date": "2026-11-11",
           "today_searches": 13,
           "today_cart_adds": 40,
-          "today_smart_orders": 68,
+          "today_smart_orders": 70,
           "total_searches": 41,
           "total_cart_adds": 198,
-          "total_smart_orders": 45,
+          "total_smart_orders": 47,
           "total_days_used": 7,
           "recent_actions": [
-            {
-              "t": "2026-11-11 19:35:02",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 82 Kalem)"
-            },
-            {
-              "t": "2026-11-11 19:43:20",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-11 19:43:20",
               "type": "critical_stock",
@@ -681,6 +671,16 @@
               "t": "2026-11-11 21:33:21",
               "type": "critical_stock",
               "detail": "Günün Çıkışları Yenileme (TRIA • 86 Kalem)"
+            },
+            {
+              "t": "2026-11-11 21:44:19",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-11 21:44:20",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 92 Kalem)"
             }
           ]
         },
@@ -878,7 +878,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.7.7",
-          "last_seen_at": "2026-11-11 21:41:56",
+          "last_seen_at": "2026-11-11 21:44:58",
           "last_action": "Canlı MF Sorgulama (8 Ürün)",
           "today_date": "2026-11-11",
           "today_searches": 0,
