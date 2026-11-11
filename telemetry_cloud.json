@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 00:43:42",
+  "updated_at": "2026-11-12 00:43:46",
   "count": 69,
   "items": [
     {
@@ -600,21 +600,21 @@
       "pharmacist_name": "GAMZE ASLAN",
       "phone": "05344064108",
       "city": "SAMSUN/ATAKUM",
-      "gln_no": "8680001134861",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "PRO_YILLIK",
       "expires_at": "2027-10-24",
       "status": "AKTIF",
-      "hwid": "E4F7-229A-BABD",
-      "last_pc_name": "ChagriBeg",
+      "hwid": "E6B1-5698-273E",
+      "last_pc_name": "DESKTOP-6KFO8IF",
       "app_version": "1.7.10",
-      "last_seen_at": "2026-11-12 00:43:13",
-      "last_action": "[ChagriBeg] Depo Fiyat Sorgulama",
+      "last_seen_at": "2026-11-12 00:43:46",
+      "last_action": "[DESKTOP-6KFO8IF] Canlı MF Sorgulama (2 Ürün)",
       "today_date": "2026-11-12",
-      "today_searches": 34,
+      "today_searches": 35,
       "today_cart_adds": 5,
       "today_smart_orders": 22,
-      "total_searches": 324,
+      "total_searches": 325,
       "total_cart_adds": 713,
       "total_days_used": 8,
       "total_smart_orders": 136,
@@ -644,7 +644,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.7.10",
-          "last_seen_at": "2026-11-12 00:42:56",
+          "last_seen_at": "2026-11-12 00:43:46",
           "last_action": "Canlı MF Sorgulama (2 Ürün)",
           "today_date": "2026-11-12",
           "today_searches": 2,
@@ -738,7 +738,7 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.7.10",
-          "last_seen_at": "2026-11-12 00:40:48",
+          "last_seen_at": "2026-11-12 00:42:19",
           "last_action": "Program Açık (Canlı)",
           "today_date": "2026-11-12",
           "today_searches": 0,
@@ -832,22 +832,17 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.7.10",
-          "last_seen_at": "2026-11-12 00:43:13",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-12 00:43:31",
+          "last_action": "Depo Sorgu: TYLOL 120 MG 100 ML PED SUSP.",
           "today_date": "2026-11-12",
-          "today_searches": 32,
+          "today_searches": 33,
           "today_cart_adds": 5,
           "today_smart_orders": 18,
-          "total_searches": 40,
+          "total_searches": 41,
           "total_cart_adds": 35,
           "total_smart_orders": 58,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-12 00:31:27",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-12 00:31:30",
               "type": "search",
@@ -917,6 +912,11 @@
               "t": "2026-11-12 00:43:13",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-12 00:43:16",
+              "type": "search",
+              "detail": "Depo Sorgu: TYLOL 120 MG 100 ML PED SUSP."
             }
           ]
         }
