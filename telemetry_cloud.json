@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 15:37:59",
+  "updated_at": "2026-11-11 15:38:05",
   "count": 5,
   "items": [
     {
@@ -212,24 +212,24 @@
       "pharmacist_name": "EDA BİLGİN",
       "phone": "05077034200",
       "city": "SAMSUN/İLKADIM",
-      "gln_no": "8680001112258",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "83F3-13F8-E632",
-      "last_pc_name": "Eskienes",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.7.7",
-      "last_seen_at": "2026-11-11 15:37:48",
-      "last_action": "[Eskienes] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-11 15:38:05",
+      "last_action": "[Eskienes] Depo Sorgu: ALATAB 600 MG 30 FTB.",
       "today_date": "2026-11-11",
-      "today_searches": 48,
+      "today_searches": 50,
       "today_cart_adds": 111,
-      "today_smart_orders": 96,
-      "total_searches": 433,
+      "today_smart_orders": 101,
+      "total_searches": 435,
       "total_cart_adds": 884,
       "total_days_used": 8,
-      "total_smart_orders": 23,
+      "total_smart_orders": 28,
       "pc_count": 8,
       "devices": {
         "B766-9F71-3B24": {
@@ -308,7 +308,7 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.7.7",
-          "last_seen_at": "2026-11-11 15:36:34",
+          "last_seen_at": "2026-11-11 15:38:05",
           "last_action": "Program Açık (Canlı)",
           "today_date": "2026-11-11",
           "today_searches": 7,
@@ -512,37 +512,17 @@
           "desk_name": "Eskienes",
           "local_ip": "192.168.1.117",
           "app_version": "1.7.7",
-          "last_seen_at": "2026-11-11 15:37:48",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-11 15:38:03",
+          "last_action": "Depo Sorgu: ALATAB 600 MG 30 FTB.",
           "today_date": "2026-11-11",
-          "today_searches": 12,
+          "today_searches": 14,
           "today_cart_adds": 13,
-          "today_smart_orders": 8,
-          "total_searches": 46,
+          "today_smart_orders": 13,
+          "total_searches": 48,
           "total_cart_adds": 48,
-          "total_smart_orders": 6,
+          "total_smart_orders": 11,
           "total_days_used": 6,
           "recent_actions": [
-            {
-              "t": "2026-11-11 14:33:38",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-11 14:33:39",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-11 14:33:49",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (25 Ürün)"
-            },
-            {
-              "t": "2026-11-11 14:41:41",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-11 14:41:49",
               "type": "search",
@@ -587,6 +567,36 @@
               "t": "2026-11-11 15:04:12",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-11 15:37:51",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-11 15:37:52",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-11 15:38:00",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-11 15:38:03",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (30 Ürün)"
+            },
+            {
+              "t": "2026-11-11 15:38:03",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-11 15:38:03",
+              "type": "search",
+              "detail": "Depo Sorgu: ALATAB 600 MG 30 FTB."
             }
           ]
         }
