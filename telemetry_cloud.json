@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 00:20:56",
+  "updated_at": "2026-11-12 00:21:36",
   "count": 69,
   "items": [
     {
@@ -16,13 +16,13 @@
       "hwid": "E4F7-229A-BABD",
       "last_pc_name": "ChagriBeg",
       "app_version": "1.7.9",
-      "last_seen_at": "2026-11-12 00:20:55",
-      "last_action": "[ChagriBeg] Depo Sorgu: PREDNOL 16 MG 20 TB.",
+      "last_seen_at": "2026-11-12 00:21:36",
+      "last_action": "[ChagriBeg] Depo Fiyat Sorgulama",
       "today_date": "2026-11-12",
-      "today_searches": 5,
+      "today_searches": 6,
       "today_cart_adds": 4,
       "today_smart_orders": 21,
-      "total_searches": 244,
+      "total_searches": 245,
       "total_cart_adds": 477,
       "total_smart_orders": 168,
       "total_days_used": 8,
@@ -410,7 +410,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.7.9",
-          "last_seen_at": "2026-11-12 00:20:36",
+          "last_seen_at": "2026-11-12 00:21:26",
           "last_action": "Depo Sorgu: TYLOL HOT DAY 12 POS",
           "today_date": "2026-11-12",
           "today_searches": 2,
@@ -489,22 +489,17 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.7.9",
-          "last_seen_at": "2026-11-12 00:20:55",
-          "last_action": "Depo Sorgu: PREDNOL 16 MG 20 TB.",
+          "last_seen_at": "2026-11-12 00:21:36",
+          "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-12",
-          "today_searches": 3,
+          "today_searches": 4,
           "today_cart_adds": 4,
           "today_smart_orders": 16,
-          "total_searches": 11,
+          "total_searches": 12,
           "total_cart_adds": 34,
           "total_smart_orders": 56,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-12 00:03:00",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-12 00:03:05",
               "type": "mf_resolve",
@@ -574,6 +569,11 @@
               "t": "2026-11-12 00:12:08",
               "type": "search",
               "detail": "Depo Sorgu: PREDNOL 16 MG 20 TB."
+            },
+            {
+              "t": "2026-11-12 00:21:36",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ]
         }
