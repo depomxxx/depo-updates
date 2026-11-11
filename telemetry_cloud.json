@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 14:02:42",
+  "updated_at": "2026-11-11 14:04:49",
   "count": 5,
   "items": [
     {
@@ -287,17 +287,17 @@
       "status": "AKTIF",
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
-      "app_version": "1.7.6",
-      "last_seen_at": "2026-11-11 14:04:26",
+      "app_version": "1.7.7",
+      "last_seen_at": "2026-11-11 14:04:49",
       "last_action": "[DESKTOP-T4EAUS3] Depo Sorgu: FIXHALER 12/500 MCG 60 INH CAP",
       "today_date": "2026-11-11",
       "today_searches": 5,
       "today_cart_adds": 2,
-      "today_smart_orders": 40,
+      "today_smart_orders": 41,
       "total_searches": 98,
       "total_cart_adds": 456,
       "total_days_used": 8,
-      "total_smart_orders": 32,
+      "total_smart_orders": 33,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -379,8 +379,8 @@
           "pc_name": "DESKTOP-T4EAUS3",
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
-          "app_version": "1.7.6",
-          "last_seen_at": "2026-11-11 14:04:26",
+          "app_version": "1.7.7",
+          "last_seen_at": "2026-11-11 14:04:49",
           "last_action": "Depo Sorgu: FIXHALER 12/500 MCG 60 INH CAP",
           "today_date": "2026-11-11",
           "today_searches": 5,
@@ -439,15 +439,15 @@
           "desk_name": "Cicobey",
           "local_ip": "192.168.1.43",
           "app_version": "1.5.9",
-          "last_seen_at": "2026-11-11 14:02:42",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-11 14:02:43",
+          "last_action": "Toplu Sipariş Planlama",
           "today_date": "2026-11-11",
           "today_searches": 0,
           "today_cart_adds": 0,
-          "today_smart_orders": 15,
+          "today_smart_orders": 16,
           "total_searches": 34,
           "total_cart_adds": 62,
-          "total_smart_orders": 14,
+          "total_smart_orders": 15,
           "total_days_used": 8,
           "recent_actions": [
             {
@@ -504,6 +504,11 @@
               "t": "2026-11-11 14:02:25",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-11 14:02:43",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş Planlama"
             }
           ]
         }
