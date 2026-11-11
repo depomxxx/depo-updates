@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 00:11:38",
+  "updated_at": "2026-11-12 00:12:02",
   "count": 69,
   "items": [
     {
@@ -575,19 +575,19 @@
       "plan": "PRO_YILLIK",
       "expires_at": "2027-10-24",
       "status": "AKTIF",
-      "hwid": "E6B1-5698-273E",
-      "last_pc_name": "DESKTOP-6KFO8IF",
+      "hwid": "E4F7-229A-BABD",
+      "last_pc_name": "ChagriBeg",
       "app_version": "1.7.9",
-      "last_seen_at": "2026-11-12 00:11:37",
-      "last_action": "[ChagriBeg] Piyasa Fiyat Kıyaslama: 8690595218847",
+      "last_seen_at": "2026-11-12 00:12:02",
+      "last_action": "[ChagriBeg] Depo Fiyat Sorgulama",
       "today_date": "2026-11-12",
-      "today_searches": 1,
+      "today_searches": 2,
       "today_cart_adds": 4,
-      "today_smart_orders": 13,
-      "total_searches": 291,
+      "today_smart_orders": 16,
+      "total_searches": 292,
       "total_cart_adds": 712,
       "total_days_used": 8,
-      "total_smart_orders": 127,
+      "total_smart_orders": 130,
       "pc_count": 4,
       "devices": {
         "18C1-4ECE-8490": {
@@ -614,7 +614,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.7.9",
-          "last_seen_at": "2026-11-12 00:11:37",
+          "last_seen_at": "2026-11-12 00:11:47",
           "last_action": "Program Açık (Canlı)",
           "today_date": "2026-11-12",
           "today_searches": 0,
@@ -772,37 +772,17 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.7.9",
-          "last_seen_at": "2026-11-12 00:11:36",
-          "last_action": "Piyasa Fiyat Kıyaslama: 8690595218847",
+          "last_seen_at": "2026-11-12 00:12:02",
+          "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-12",
-          "today_searches": 1,
+          "today_searches": 2,
           "today_cart_adds": 4,
-          "today_smart_orders": 13,
-          "total_searches": 9,
+          "today_smart_orders": 16,
+          "total_searches": 10,
           "total_cart_adds": 34,
-          "total_smart_orders": 53,
+          "total_smart_orders": 56,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-12 00:02:35",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş (TRIA • 246 Kalem)"
-            },
-            {
-              "t": "2026-11-12 00:02:36",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-12 00:02:48",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (35 Ürün)"
-            },
-            {
-              "t": "2026-11-12 00:02:48",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-12 00:03:00",
               "type": "mf_resolve",
@@ -857,6 +837,26 @@
               "t": "2026-11-12 00:09:42",
               "type": "search",
               "detail": "Piyasa Fiyat Kıyaslama: 8690595218847"
+            },
+            {
+              "t": "2026-11-12 00:11:44",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-12 00:11:45",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-12 00:11:53",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (2 Ürün)"
+            },
+            {
+              "t": "2026-11-12 00:12:02",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ]
         }
