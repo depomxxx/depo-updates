@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 00:28:18",
+  "updated_at": "2026-11-12 00:28:25",
   "count": 69,
   "items": [
     {
@@ -31158,13 +31158,13 @@
       "hwid": "1A4A-8625-6A54",
       "last_pc_name": "Cicobey",
       "app_version": "1.5.9",
-      "last_seen_at": "2026-11-12 00:25:35",
-      "last_action": "Program Açık (Canlı)",
+      "last_seen_at": "2026-11-12 00:28:25",
+      "last_action": "[Cicobey] Depo Fiyat Sorgulama",
       "today_date": "2026-11-12",
-      "today_searches": 0,
+      "today_searches": 1,
       "today_cart_adds": 0,
       "today_smart_orders": 0,
-      "total_searches": 98,
+      "total_searches": 99,
       "total_cart_adds": 460,
       "total_days_used": 9,
       "total_smart_orders": 46,
@@ -31344,22 +31344,17 @@
           "desk_name": "Cicobey",
           "local_ip": "192.168.1.197",
           "app_version": "1.5.9",
-          "last_seen_at": "2026-11-12 00:25:35",
-          "last_action": "Program Açık (Canlı)",
+          "last_seen_at": "2026-11-12 00:28:25",
+          "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-12",
-          "today_searches": 0,
+          "today_searches": 1,
           "today_cart_adds": 0,
           "today_smart_orders": 0,
-          "total_searches": 34,
+          "total_searches": 35,
           "total_cart_adds": 62,
           "total_smart_orders": 19,
           "total_days_used": 9,
           "recent_actions": [
-            {
-              "t": "2026-11-11 13:56:07",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-11 13:56:09",
               "type": "critical_stock",
@@ -31429,6 +31424,11 @@
               "t": "2026-11-11 14:10:02",
               "type": "critical_stock",
               "detail": "Günün Çıkışları Yenileme (BOTANIK • 46 Kalem)"
+            },
+            {
+              "t": "2026-11-12 00:28:25",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ]
         }
