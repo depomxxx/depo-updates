@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 15:19:48",
+  "updated_at": "2026-11-11 15:19:52",
   "count": 5,
   "items": [
     {
@@ -217,16 +217,16 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "5834-FAC9-B71F",
-      "last_pc_name": "DESKTOP-OTHNDUE",
+      "hwid": "B446-9737-94C4",
+      "last_pc_name": "DESKTOP-5PFFU5S",
       "app_version": "1.7.7",
-      "last_seen_at": "2026-11-11 15:19:48",
-      "last_action": "[Eskienes] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-11 15:19:53",
+      "last_action": "[DESKTOP-5PFFU5S] Depo Sorgu: CITOLES 15 MG 28 TB.",
       "today_date": "2026-11-11",
-      "today_searches": 44,
+      "today_searches": 48,
       "today_cart_adds": 106,
       "today_smart_orders": 96,
-      "total_searches": 429,
+      "total_searches": 433,
       "total_cart_adds": 879,
       "total_days_used": 8,
       "total_smart_orders": 23,
@@ -326,32 +326,17 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.7.7",
-          "last_seen_at": "2026-11-11 15:18:26",
-          "last_action": "Depo Sorgu: STERIMAR BABY DENİZ SUYU BURUN SPREYİ ",
+          "last_seen_at": "2026-11-11 15:19:53",
+          "last_action": "Depo Sorgu: CITOLES 15 MG 28 TB.",
           "today_date": "2026-11-11",
-          "today_searches": 17,
+          "today_searches": 21,
           "today_cart_adds": 62,
           "today_smart_orders": 35,
-          "total_searches": 81,
+          "total_searches": 85,
           "total_cart_adds": 144,
           "total_smart_orders": 3,
           "total_days_used": 5,
           "recent_actions": [
-            {
-              "t": "2026-11-11 14:06:46",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-11 14:06:46",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-11 14:06:56",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (20 Ürün)"
-            },
             {
               "t": "2026-11-11 14:53:44",
               "type": "search",
@@ -406,6 +391,26 @@
               "t": "2026-11-11 14:54:07",
               "type": "search",
               "detail": "Depo Sorgu: STERIMAR BABY DENİZ SUYU BURUN SPREYİ "
+            },
+            {
+              "t": "2026-11-11 15:19:41",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-11 15:19:48",
+              "type": "search",
+              "detail": "Depo Sorgu: CITOLES 15 MG 28 TB."
+            },
+            {
+              "t": "2026-11-11 15:19:48",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-11 15:19:49",
+              "type": "search",
+              "detail": "Depo Sorgu: CITOLES 15 MG 28 TB."
             }
           ]
         },
@@ -415,7 +420,7 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.112",
           "app_version": "1.7.7",
-          "last_seen_at": "2026-11-11 15:18:27",
+          "last_seen_at": "2026-11-11 15:19:52",
           "last_action": "Canlı MF Sorgulama (15 Ürün)",
           "today_date": "2026-11-11",
           "today_searches": 0,
