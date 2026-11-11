@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 14:53:56",
+  "updated_at": "2026-11-11 14:53:59",
   "count": 5,
   "items": [
     {
@@ -172,16 +172,16 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "5834-FAC9-B71F",
-      "last_pc_name": "DESKTOP-OTHNDUE",
+      "hwid": "B446-9737-94C4",
+      "last_pc_name": "DESKTOP-5PFFU5S",
       "app_version": "1.7.7",
-      "last_seen_at": "2026-11-11 14:53:56",
-      "last_action": "[Eskienes] Canlı MF Sorgulama (2 Ürün)",
+      "last_seen_at": "2026-11-11 14:54:00",
+      "last_action": "[DESKTOP-5PFFU5S] Depo Fiyat Sorgulama",
       "today_date": "2026-11-11",
-      "today_searches": 28,
+      "today_searches": 39,
       "today_cart_adds": 102,
       "today_smart_orders": 96,
-      "total_searches": 413,
+      "total_searches": 424,
       "total_cart_adds": 875,
       "total_days_used": 8,
       "total_smart_orders": 23,
@@ -281,13 +281,13 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.7.7",
-          "last_seen_at": "2026-11-11 14:52:29",
-          "last_action": "Canlı MF Sorgulama (20 Ürün)",
+          "last_seen_at": "2026-11-11 14:54:00",
+          "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-11",
-          "today_searches": 3,
+          "today_searches": 14,
           "today_cart_adds": 62,
           "today_smart_orders": 35,
-          "total_searches": 67,
+          "total_searches": 78,
           "total_cart_adds": 144,
           "total_smart_orders": 3,
           "total_days_used": 5,
@@ -306,6 +306,46 @@
               "t": "2026-11-11 14:06:56",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (20 Ürün)"
+            },
+            {
+              "t": "2026-11-11 14:53:44",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-11 14:53:53",
+              "type": "search",
+              "detail": "Depo Sorgu: STERIMAR BABY DENİZ SUYU BURUN SPREYİ "
+            },
+            {
+              "t": "2026-11-11 14:53:53",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-11 14:53:55",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-11 14:53:57",
+              "type": "search",
+              "detail": "Depo Sorgu: STERIMAR BABY DENİZ SUYU BURUN SPREYİ "
+            },
+            {
+              "t": "2026-11-11 14:53:57",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-11 14:53:58",
+              "type": "search",
+              "detail": "Depo Sorgu: STERIMAR BABY DENİZ SUYU BURUN SPREYİ "
+            },
+            {
+              "t": "2026-11-11 14:53:58",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ]
         },
@@ -315,7 +355,7 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.112",
           "app_version": "1.7.7",
-          "last_seen_at": "2026-11-11 14:52:33",
+          "last_seen_at": "2026-11-11 14:53:59",
           "last_action": "Canlı MF Sorgulama (15 Ürün)",
           "today_date": "2026-11-11",
           "today_searches": 0,
