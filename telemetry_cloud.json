@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 00:23:15",
+  "updated_at": "2026-11-12 00:23:30",
   "count": 69,
   "items": [
     {
@@ -16,14 +16,14 @@
       "hwid": "E4F7-229A-BABD",
       "last_pc_name": "ChagriBeg",
       "app_version": "1.7.10",
-      "last_seen_at": "2026-11-12 00:22:58",
-      "last_action": "[ChagriBeg] Depo Fiyat Sorgulama",
+      "last_seen_at": "2026-11-12 00:23:30",
+      "last_action": "[ChagriBeg] EczaneTakas Kampanya Açıldı: TYLOL HOT C 12 TOZ (300+75)",
       "today_date": "2026-11-12",
-      "today_searches": 8,
-      "today_cart_adds": 4,
+      "today_searches": 9,
+      "today_cart_adds": 5,
       "today_smart_orders": 26,
-      "total_searches": 247,
-      "total_cart_adds": 477,
+      "total_searches": 248,
+      "total_cart_adds": 478,
       "total_smart_orders": 173,
       "total_days_used": 8,
       "pc_count": 6,
@@ -410,7 +410,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.7.10",
-          "last_seen_at": "2026-11-12 00:22:56",
+          "last_seen_at": "2026-11-12 00:23:21",
           "last_action": "Canlı MF Sorgulama (2 Ürün)",
           "today_date": "2026-11-12",
           "today_searches": 2,
@@ -504,27 +504,17 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.7.10",
-          "last_seen_at": "2026-11-12 00:22:58",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-12 00:23:30",
+          "last_action": "EczaneTakas Kampanya Açıldı: TYLOL HOT C 12 TOZ (300+75)",
           "today_date": "2026-11-12",
-          "today_searches": 6,
-          "today_cart_adds": 4,
+          "today_searches": 7,
+          "today_cart_adds": 5,
           "today_smart_orders": 18,
-          "total_searches": 14,
-          "total_cart_adds": 34,
+          "total_searches": 15,
+          "total_cart_adds": 35,
           "total_smart_orders": 58,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-12 00:03:09",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş (TRIA • 246 Kalem)"
-            },
-            {
-              "t": "2026-11-12 00:03:12",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-12 00:03:22",
               "type": "smart_order",
@@ -589,6 +579,16 @@
               "t": "2026-11-12 00:22:58",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-12 00:23:02",
+              "type": "search",
+              "detail": "Depo Sorgu: TYLOL HOT DAY 12 POS"
+            },
+            {
+              "t": "2026-11-12 00:23:30",
+              "type": "cart",
+              "detail": "EczaneTakas Kampanya Açıldı: TYLOL HOT C 12 TOZ (300+75)"
             }
           ]
         }
