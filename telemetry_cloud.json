@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 17:21:33",
+  "updated_at": "2026-11-11 17:21:41",
   "count": 5,
   "items": [
     {
@@ -227,16 +227,16 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "5834-FAC9-B71F",
-      "last_pc_name": "DESKTOP-OTHNDUE",
+      "hwid": "D719-CEB2-1542",
+      "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.7.7",
-      "last_seen_at": "2026-11-11 17:21:33",
-      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları Yenileme (TRIA • 59 Kalem)",
+      "last_seen_at": "2026-11-11 17:21:41",
+      "last_action": "[DESKTOP-M530BBB] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-11",
-      "today_searches": 64,
+      "today_searches": 66,
       "today_cart_adds": 117,
       "today_smart_orders": 142,
-      "total_searches": 449,
+      "total_searches": 451,
       "total_cart_adds": 890,
       "total_days_used": 8,
       "total_smart_orders": 69,
@@ -412,27 +412,17 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.7.7",
-          "last_seen_at": "2026-11-11 17:20:22",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-11 17:21:38",
+          "last_action": "Depo Sorgu: AFERIN 300/2/10 MG 30 CAP *",
           "today_date": "2026-11-11",
-          "today_searches": 21,
+          "today_searches": 23,
           "today_cart_adds": 67,
           "today_smart_orders": 35,
-          "total_searches": 85,
+          "total_searches": 87,
           "total_cart_adds": 149,
           "total_smart_orders": 3,
           "total_days_used": 5,
           "recent_actions": [
-            {
-              "t": "2026-11-11 14:53:55",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-11 14:53:57",
-              "type": "search",
-              "detail": "Depo Sorgu: STERIMAR BABY DENİZ SUYU BURUN SPREYİ "
-            },
             {
               "t": "2026-11-11 14:53:57",
               "type": "search",
@@ -497,6 +487,16 @@
               "t": "2026-11-11 15:20:07",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-11 17:20:59",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-11 17:21:06",
+              "type": "search",
+              "detail": "Depo Sorgu: AFERIN 300/2/10 MG 30 CAP *"
             }
           ]
         },
@@ -506,7 +506,7 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.112",
           "app_version": "1.7.7",
-          "last_seen_at": "2026-11-11 17:20:28",
+          "last_seen_at": "2026-11-11 17:21:41",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-11",
           "today_searches": 2,
