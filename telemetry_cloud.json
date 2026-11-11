@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 21:32:36",
+  "updated_at": "2026-11-11 21:32:40",
   "count": 69,
   "items": [
     {
@@ -8,7 +8,7 @@
       "pharmacist_name": "EDA BİLGİN",
       "phone": "05077034200",
       "city": "SAMSUN/İLKADIM",
-      "gln_no": "8680001000000",
+      "gln_no": "8680001112258",
       "otomasyon": "TRIA",
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
@@ -16,7 +16,7 @@
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.7.7",
-      "last_seen_at": "2026-11-11 21:32:36",
+      "last_seen_at": "2026-11-11 21:32:42",
       "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları Yenileme (TRIA • 84 Kalem)",
       "today_date": "2026-11-11",
       "today_searches": 58,
@@ -34,7 +34,7 @@
           "desk_name": "Eskienes",
           "local_ip": "192.168.1.117",
           "app_version": "1.7.7",
-          "last_seen_at": "2026-11-11 21:31:48",
+          "last_seen_at": "2026-11-11 21:32:40",
           "last_action": "Canlı MF Sorgulama (7 Ürün)",
           "today_date": "2026-11-11",
           "today_searches": 14,
@@ -128,7 +128,7 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.7.7",
-          "last_seen_at": "2026-11-11 21:32:36",
+          "last_seen_at": "2026-11-11 21:32:42",
           "last_action": "Günün Çıkışları Yenileme (TRIA • 84 Kalem)",
           "today_date": "2026-11-11",
           "today_searches": 13,
