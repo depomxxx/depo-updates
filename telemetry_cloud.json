@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 17:15:32",
+  "updated_at": "2026-11-11 17:15:49",
   "count": 5,
   "items": [
     {
@@ -227,19 +227,19 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D719-CEB2-1542",
-      "last_pc_name": "DESKTOP-M530BBB",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.7.7",
-      "last_seen_at": "2026-11-11 17:15:28",
-      "last_action": "[DESKTOP-M530BBB] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-11 17:15:49",
+      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-11",
       "today_searches": 64,
       "today_cart_adds": 117,
-      "today_smart_orders": 137,
+      "today_smart_orders": 139,
       "total_searches": 449,
       "total_cart_adds": 890,
       "total_days_used": 8,
-      "total_smart_orders": 64,
+      "total_smart_orders": 66,
       "pc_count": 8,
       "devices": {
         "B766-9F71-3B24": {
@@ -318,27 +318,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.7.7",
-          "last_seen_at": "2026-11-11 17:15:25",
+          "last_seen_at": "2026-11-11 17:15:49",
           "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-11",
           "today_searches": 11,
           "today_cart_adds": 26,
-          "today_smart_orders": 33,
+          "today_smart_orders": 35,
           "total_searches": 39,
           "total_cart_adds": 184,
-          "total_smart_orders": 10,
+          "total_smart_orders": 12,
           "total_days_used": 7,
           "recent_actions": [
-            {
-              "t": "2026-11-11 16:37:50",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-11 16:37:50",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 56 Kalem)"
-            },
             {
               "t": "2026-11-11 16:38:14",
               "type": "search",
@@ -401,6 +391,16 @@
             },
             {
               "t": "2026-11-11 17:15:25",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-11 17:15:25",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 59 Kalem)"
+            },
+            {
+              "t": "2026-11-11 17:15:49",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
             }
