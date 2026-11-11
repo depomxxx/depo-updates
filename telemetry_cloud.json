@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 00:27:06",
+  "updated_at": "2026-11-12 00:28:10",
   "count": 69,
   "items": [
     {
@@ -600,21 +600,21 @@
       "pharmacist_name": "GAMZE ASLAN",
       "phone": "05344064108",
       "city": "SAMSUN/ATAKUM",
-      "gln_no": "8680001000000",
+      "gln_no": "8680001134861",
       "otomasyon": "TRIA",
       "plan": "PRO_YILLIK",
       "expires_at": "2027-10-24",
       "status": "AKTIF",
-      "hwid": "E6B1-5698-273E",
-      "last_pc_name": "DESKTOP-6KFO8IF",
+      "hwid": "E4F7-229A-BABD",
+      "last_pc_name": "ChagriBeg",
       "app_version": "1.7.10",
-      "last_seen_at": "2026-11-12 00:27:05",
-      "last_action": "[DESKTOP-6KFO8IF] Canlı MF Sorgulama (2 Ürün)",
+      "last_seen_at": "2026-11-12 00:28:10",
+      "last_action": "[ChagriBeg] Depo Fiyat Sorgulama",
       "today_date": "2026-11-12",
-      "today_searches": 9,
+      "today_searches": 10,
       "today_cart_adds": 5,
       "today_smart_orders": 22,
-      "total_searches": 299,
+      "total_searches": 300,
       "total_cart_adds": 713,
       "total_days_used": 8,
       "total_smart_orders": 136,
@@ -644,7 +644,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.7.10",
-          "last_seen_at": "2026-11-12 00:27:05",
+          "last_seen_at": "2026-11-12 00:27:56",
           "last_action": "Canlı MF Sorgulama (2 Ürün)",
           "today_date": "2026-11-12",
           "today_searches": 2,
@@ -832,22 +832,17 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.7.10",
-          "last_seen_at": "2026-11-12 00:26:51",
-          "last_action": "EczaneTakas Kampanya Açıldı: TYLOL HOT C 12 TOZ (300+75)",
+          "last_seen_at": "2026-11-12 00:28:10",
+          "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-12",
-          "today_searches": 7,
+          "today_searches": 8,
           "today_cart_adds": 5,
           "today_smart_orders": 18,
-          "total_searches": 15,
+          "total_searches": 16,
           "total_cart_adds": 35,
           "total_smart_orders": 58,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-12 00:03:22",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş Planlama"
-            },
             {
               "t": "2026-11-12 00:03:22",
               "type": "smart_order",
@@ -917,6 +912,11 @@
               "t": "2026-11-12 00:23:30",
               "type": "cart",
               "detail": "EczaneTakas Kampanya Açıldı: TYLOL HOT C 12 TOZ (300+75)"
+            },
+            {
+              "t": "2026-11-12 00:28:10",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ]
         }
