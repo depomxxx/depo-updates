@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 00:47:00",
+  "updated_at": "2026-11-12 00:46:59",
   "count": 69,
   "items": [
     {
@@ -8,23 +8,23 @@
       "pharmacist_name": "EDA BİLGİN",
       "phone": "05077034200",
       "city": "SAMSUN/İLKADIM",
-      "gln_no": "8680001112258",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "8FD3-5823-91F4",
-      "last_pc_name": "Eda-Bilgin",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.8.0",
-      "last_seen_at": "2026-11-12 00:46:46",
-      "last_action": "[Eskienes] Canlı MF Taraması",
+      "last_seen_at": "2026-11-12 00:46:59",
+      "last_action": "[DESKTOP-6KFO8IF] Canlı MF Sorgulama (2 Ürün)",
       "today_date": "2026-11-12",
       "today_searches": 9,
       "today_cart_adds": 5,
-      "today_smart_orders": 32,
+      "today_smart_orders": 33,
       "total_searches": 248,
       "total_cart_adds": 478,
-      "total_smart_orders": 179,
+      "total_smart_orders": 180,
       "total_days_used": 8,
       "pc_count": 6,
       "devices": {
@@ -34,22 +34,17 @@
           "desk_name": "Eskienes",
           "local_ip": "192.168.1.117",
           "app_version": "1.8.0",
-          "last_seen_at": "2026-11-12 00:45:37",
-          "last_action": "Canlı MF Taraması",
+          "last_seen_at": "2026-11-12 00:46:57",
+          "last_action": "Canlı MF Sorgulama (6 Ürün)",
           "today_date": "2026-11-12",
           "today_searches": 0,
           "today_cart_adds": 0,
-          "today_smart_orders": 10,
+          "today_smart_orders": 11,
           "total_searches": 48,
           "total_cart_adds": 48,
-          "total_smart_orders": 22,
+          "total_smart_orders": 23,
           "total_days_used": 7,
           "recent_actions": [
-            {
-              "t": "2026-11-11 15:37:52",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-11 15:38:00",
               "type": "search",
@@ -119,6 +114,11 @@
               "t": "2026-11-12 00:45:11",
               "type": "mf_resolve",
               "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-12 00:45:37",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (6 Ürün)"
             }
           ]
         },
@@ -128,7 +128,7 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.8.0",
-          "last_seen_at": "2026-11-12 00:45:28",
+          "last_seen_at": "2026-11-12 00:46:59",
           "last_action": "Program Açık (Canlı)",
           "today_date": "2026-11-12",
           "today_searches": 0,
@@ -409,8 +409,8 @@
           "pc_name": "DESKTOP-6KFO8IF",
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
-          "app_version": "1.7.10",
-          "last_seen_at": "2026-11-12 00:43:50",
+          "app_version": "1.8.0",
+          "last_seen_at": "2026-11-12 00:46:58",
           "last_action": "Canlı MF Sorgulama (2 Ürün)",
           "today_date": "2026-11-12",
           "today_searches": 2,
