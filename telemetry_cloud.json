@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 18:15:16",
+  "updated_at": "2026-11-11 18:15:51",
   "count": 5,
   "items": [
     {
@@ -291,24 +291,24 @@
       "pharmacist_name": "EDA BİLGİN",
       "phone": "05077034200",
       "city": "SAMSUN/İLKADIM",
-      "gln_no": "8680001112258",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "8FD3-5823-91F4",
-      "last_pc_name": "Eda-Bilgin",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.7.7",
-      "last_seen_at": "2026-11-11 18:15:16",
-      "last_action": "[Eda-Bilgin] Canlı MF Sorgulama (5 Ürün)",
+      "last_seen_at": "2026-11-11 18:15:51",
+      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-11",
       "today_searches": 68,
       "today_cart_adds": 121,
-      "today_smart_orders": 153,
+      "today_smart_orders": 154,
       "total_searches": 453,
       "total_cart_adds": 894,
       "total_days_used": 8,
-      "total_smart_orders": 80,
+      "total_smart_orders": 81,
       "pc_count": 8,
       "devices": {
         "B766-9F71-3B24": {
@@ -387,22 +387,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.7.7",
-          "last_seen_at": "2026-11-11 18:14:48",
-          "last_action": "Günün Çıkışları Yenileme (TRIA • 59 Kalem)",
+          "last_seen_at": "2026-11-11 18:15:51",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-11",
           "today_searches": 11,
           "today_cart_adds": 26,
-          "today_smart_orders": 40,
+          "today_smart_orders": 41,
           "total_searches": 39,
           "total_cart_adds": 184,
-          "total_smart_orders": 17,
+          "total_smart_orders": 18,
           "total_days_used": 7,
           "recent_actions": [
-            {
-              "t": "2026-11-11 17:11:23",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 57 Kalem)"
-            },
             {
               "t": "2026-11-11 17:12:53",
               "type": "cart",
@@ -472,6 +467,11 @@
               "t": "2026-11-11 17:22:49",
               "type": "critical_stock",
               "detail": "Günün Çıkışları Yenileme (TRIA • 59 Kalem)"
+            },
+            {
+              "t": "2026-11-11 18:15:51",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         },
@@ -763,7 +763,7 @@
           "desk_name": "Eskienes",
           "local_ip": "192.168.1.117",
           "app_version": "1.7.7",
-          "last_seen_at": "2026-11-11 18:14:43",
+          "last_seen_at": "2026-11-11 18:15:48",
           "last_action": "Canlı MF Sorgulama (7 Ürün)",
           "today_date": "2026-11-11",
           "today_searches": 14,
