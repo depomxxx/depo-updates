@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 00:01:59",
+  "updated_at": "2026-11-12 00:02:12",
   "count": 69,
   "items": [
     {
@@ -570,24 +570,24 @@
       "pharmacist_name": "GAMZE ASLAN",
       "phone": "05344064108",
       "city": "SAMSUN/ATAKUM",
-      "gln_no": "8680001000000",
+      "gln_no": "8680001134861",
       "otomasyon": "TRIA",
       "plan": "PRO_YILLIK",
       "expires_at": "2027-10-24",
       "status": "AKTIF",
-      "hwid": "E6B1-5698-273E",
-      "last_pc_name": "DESKTOP-6KFO8IF",
+      "hwid": "E4F7-229A-BABD",
+      "last_pc_name": "ChagriBeg",
       "app_version": "1.7.8",
-      "last_seen_at": "2026-11-12 00:01:57",
-      "last_action": "Program Açık (Canlı)",
+      "last_seen_at": "2026-11-12 00:02:12",
+      "last_action": "[ChagriBeg] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-12",
       "today_searches": 0,
       "today_cart_adds": 0,
-      "today_smart_orders": 0,
+      "today_smart_orders": 1,
       "total_searches": 290,
       "total_cart_adds": 708,
       "total_days_used": 8,
-      "total_smart_orders": 114,
+      "total_smart_orders": 115,
       "pc_count": 4,
       "devices": {
         "18C1-4ECE-8490": {
@@ -772,22 +772,17 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.7.8",
-          "last_seen_at": "2026-11-12 00:01:55",
-          "last_action": "Program Açık (Canlı)",
+          "last_seen_at": "2026-11-12 00:02:12",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-12",
           "today_searches": 0,
           "today_cart_adds": 0,
-          "today_smart_orders": 0,
+          "today_smart_orders": 1,
           "total_searches": 8,
           "total_cart_adds": 30,
-          "total_smart_orders": 40,
+          "total_smart_orders": 41,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-11 23:30:57",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş (TRIA • 250 Kalem)"
-            },
             {
               "t": "2026-11-11 23:30:57",
               "type": "mf_resolve",
@@ -857,6 +852,11 @@
               "t": "2026-11-11 23:49:35",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-12 00:02:12",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         }
