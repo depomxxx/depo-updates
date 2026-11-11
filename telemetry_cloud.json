@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 15:53:09",
+  "updated_at": "2026-11-11 15:51:39",
   "count": 5,
   "items": [
     {
@@ -217,11 +217,11 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "8FD3-5823-91F4",
-      "last_pc_name": "Eda-Bilgin",
+      "hwid": "83F3-13F8-E632",
+      "last_pc_name": "Eskienes",
       "app_version": "1.7.7",
-      "last_seen_at": "2026-11-11 15:50:43",
-      "last_action": "[DESKTOP-5PFFU5S] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-11 15:51:39",
+      "last_action": "[Eskienes] Canlı MF Sorgulama (7 Ürün)",
       "today_date": "2026-11-11",
       "today_searches": 50,
       "today_cart_adds": 111,
@@ -512,7 +512,7 @@
           "desk_name": "Eskienes",
           "local_ip": "192.168.1.117",
           "app_version": "1.7.7",
-          "last_seen_at": "2026-11-11 15:50:08",
+          "last_seen_at": "2026-11-11 15:51:39",
           "last_action": "Canlı MF Sorgulama (7 Ürün)",
           "today_date": "2026-11-11",
           "today_searches": 14,
