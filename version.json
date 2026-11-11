@@ -1,11 +1,11 @@
 {
-  "version": "1.7.7",
+  "version": "1.7.8",
   "app_name": "Farma Radar",
-  "release_date": "2026-11-11 14:02:21",
+  "release_date": "2026-11-11 23:41:37",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.7.7.zip?t=1794394942",
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.7.8.zip?t=1794429698",
   "sha256": "",
-  "package_sha256": "641614db10327fd093d8f71e6e216e53a3eae547ab51dd3a59a9897469dbe961",
-  "size_kb": 740.6,
-  "changelog": "v1.7.7: Windows arka plan işlemlerinde (HWID, ARP ağ keşfi, masaüstü kısayol ve sunucu başlatıcı) açılıp kapanan siyah komut penceresi (CMD/PowerShell) sorunu tamamen giderildi."
+  "package_sha256": "aaccde2299f8e8916f063e0910a8245ee8fba46149efed206121714afe853985",
+  "size_kb": 716.7,
+  "changelog": "v1.7.8: Eczanem otomasyon modülü pasife alındı ve arayüzden kaldırıldı (Botanik, TRIA, TEBEOS ve depo ayarları korundu)."
 }
