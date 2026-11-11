@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 00:10:50",
+  "updated_at": "2026-11-12 00:10:59",
   "count": 69,
   "items": [
     {
@@ -575,16 +575,16 @@
       "plan": "PRO_YILLIK",
       "expires_at": "2027-10-24",
       "status": "AKTIF",
-      "hwid": "E6B1-5698-273E",
-      "last_pc_name": "DESKTOP-6KFO8IF",
+      "hwid": "E4F7-229A-BABD",
+      "last_pc_name": "ChagriBeg",
       "app_version": "1.7.8",
-      "last_seen_at": "2026-11-12 00:09:33",
-      "last_action": "[ChagriBeg] Toplu Sipariş (TRIA • 246 Kalem)",
+      "last_seen_at": "2026-11-12 00:10:59",
+      "last_action": "[ChagriBeg] Piyasa Fiyat Kıyaslama: 8690595218847",
       "today_date": "2026-11-12",
-      "today_searches": 0,
+      "today_searches": 1,
       "today_cart_adds": 4,
       "today_smart_orders": 13,
-      "total_searches": 290,
+      "total_searches": 291,
       "total_cart_adds": 712,
       "total_days_used": 8,
       "total_smart_orders": 127,
@@ -772,22 +772,17 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.7.8",
-          "last_seen_at": "2026-11-12 00:09:32",
-          "last_action": "Toplu Sipariş (TRIA • 246 Kalem)",
+          "last_seen_at": "2026-11-12 00:10:59",
+          "last_action": "Piyasa Fiyat Kıyaslama: 8690595218847",
           "today_date": "2026-11-12",
-          "today_searches": 0,
+          "today_searches": 1,
           "today_cart_adds": 4,
           "today_smart_orders": 13,
-          "total_searches": 8,
+          "total_searches": 9,
           "total_cart_adds": 34,
           "total_smart_orders": 53,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-12 00:02:34",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş Planlama"
-            },
             {
               "t": "2026-11-12 00:02:35",
               "type": "smart_order",
@@ -857,6 +852,11 @@
               "t": "2026-11-12 00:03:22",
               "type": "smart_order",
               "detail": "Toplu Sipariş (TRIA • 246 Kalem)"
+            },
+            {
+              "t": "2026-11-12 00:09:42",
+              "type": "search",
+              "detail": "Piyasa Fiyat Kıyaslama: 8690595218847"
             }
           ]
         }
