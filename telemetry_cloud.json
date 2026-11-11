@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 18:25:27",
+  "updated_at": "2026-11-11 18:25:30",
   "count": 5,
   "items": [
     {
@@ -286,30 +286,30 @@
       }
     },
     {
-      "id": "48F632F1",
-      "pharmacy_name": "EDA ECZANESI",
+      "id": "D0EFA284",
+      "pharmacy_name": "ARAŞTIRMA ECZANESI",
       "pharmacist_name": "EDA BİLGİN",
       "phone": "05077034200",
       "city": "SAMSUN/İLKADIM",
       "gln_no": "8680001000000",
       "otomasyon": "TRIA",
-      "plan": "KURUMSAL_SINIRSIZ",
-      "expires_at": "2031-10-26",
+      "plan": "PRO_YILLIK",
+      "expires_at": "2027-10-24",
       "status": "AKTIF",
-      "hwid": "5834-FAC9-B71F",
-      "last_pc_name": "DESKTOP-OTHNDUE",
+      "hwid": "E6B1-5698-273E",
+      "last_pc_name": "DESKTOP-6KFO8IF",
       "app_version": "1.7.7",
-      "last_seen_at": "2026-11-11 18:25:27",
+      "last_seen_at": "2026-11-11 18:25:30",
       "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları Yenileme (TRIA • 66 Kalem)",
       "today_date": "2026-11-11",
       "today_searches": 68,
       "today_cart_adds": 121,
-      "today_smart_orders": 155,
-      "total_searches": 453,
-      "total_cart_adds": 894,
+      "today_smart_orders": 159,
+      "total_searches": 463,
+      "total_cart_adds": 931,
       "total_days_used": 8,
       "total_smart_orders": 82,
-      "pc_count": 8,
+      "pc_count": 9,
       "devices": {
         "B766-9F71-3B24": {
           "hwid": "B766-9F71-3B24",
@@ -850,6 +850,24 @@
               "detail": "Canlı MF Sorgulama (7 Ürün)"
             }
           ]
+        },
+        "E6B1-5698-273E": {
+          "hwid": "E6B1-5698-273E",
+          "pc_name": "DESKTOP-6KFO8IF",
+          "desk_name": "DESKTOP-6KFO8IF",
+          "local_ip": "192.168.1.104",
+          "app_version": "1.7.7",
+          "last_seen_at": "2026-11-11 18:25:30",
+          "last_action": "Program Açık (Canlı)",
+          "today_date": "2026-11-11",
+          "today_searches": 0,
+          "today_cart_adds": 0,
+          "today_smart_orders": 4,
+          "total_searches": 10,
+          "total_cart_adds": 37,
+          "total_smart_orders": 0,
+          "total_days_used": 7,
+          "recent_actions": []
         }
       }
     },
