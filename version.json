@@ -1,11 +1,11 @@
 {
-  "version": "1.7.9",
+  "version": "1.7.10",
   "app_name": "Farma Radar",
-  "release_date": "2026-11-12 00:11:19",
+  "release_date": "2026-11-12 00:22:03",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.7.9.zip?t=1794431480",
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.7.10.zip?t=1794432124",
   "sha256": "",
-  "package_sha256": "8c6ff1c041039d87804e041c719621be0a6550ab743519b0ebd01959979bb4f9",
-  "size_kb": 729.6,
-  "changelog": "v1.7.9: Depo karşılaştırma üst barındaki simülatör kaldırılarak EczaneTakas otomatik kampanya / teklif açma modülü eklendi."
+  "package_sha256": "8f470eb2eec8c4462565b3a69e521316c9a05b06510cbd844ff50f777a8d8f0b",
+  "size_kb": 730.6,
+  "changelog": "v1.7.10: EczaneTakas teklif acma AsyncClient POST hatasi giderildi, baslik 'Depo Paylasim Gruplarina Teklif Ac' olarak guncellendi (pasifse gizli) ve hizli MF kademeleri guncel depo MF'lerine gore olusturuldu."
 }
