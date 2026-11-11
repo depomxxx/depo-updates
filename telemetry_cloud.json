@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 19:19:07",
+  "updated_at": "2026-11-11 19:20:12",
   "count": 30,
   "items": [
     {
@@ -16,15 +16,15 @@
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.7.7",
-      "last_seen_at": "2026-11-11 19:19:07",
-      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-11 19:20:14",
+      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları Yenileme (TRIA • 82 Kalem)",
       "today_date": "2026-11-11",
       "today_searches": 58,
       "today_cart_adds": 122,
-      "today_smart_orders": 131,
+      "today_smart_orders": 132,
       "total_searches": 231,
       "total_cart_adds": 443,
-      "total_smart_orders": 70,
+      "total_smart_orders": 71,
       "total_days_used": 7,
       "pc_count": 5,
       "devices": {
@@ -222,7 +222,7 @@
           "desk_name": "Eskienes",
           "local_ip": "192.168.1.117",
           "app_version": "1.7.7",
-          "last_seen_at": "2026-11-11 19:18:48",
+          "last_seen_at": "2026-11-11 19:20:12",
           "last_action": "Canlı MF Sorgulama (7 Ürün)",
           "today_date": "2026-11-11",
           "today_searches": 14,
@@ -316,22 +316,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.7.7",
-          "last_seen_at": "2026-11-11 19:19:07",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-11 19:20:14",
+          "last_action": "Günün Çıkışları Yenileme (TRIA • 82 Kalem)",
           "today_date": "2026-11-11",
           "today_searches": 13,
           "today_cart_adds": 40,
-          "today_smart_orders": 51,
+          "today_smart_orders": 52,
           "total_searches": 41,
           "total_cart_adds": 198,
-          "total_smart_orders": 28,
+          "total_smart_orders": 29,
           "total_days_used": 7,
           "recent_actions": [
-            {
-              "t": "2026-11-11 18:47:01",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): MOMECON %0,1 POMAT 30 GR x1"
-            },
             {
               "t": "2026-11-11 18:47:12",
               "type": "search",
@@ -401,6 +396,11 @@
               "t": "2026-11-11 19:19:07",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-11 19:19:07",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 82 Kalem)"
             }
           ]
         },
