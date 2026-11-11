@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 00:53:02",
+  "updated_at": "2026-11-12 00:53:05",
   "count": 69,
   "items": [
     {
@@ -928,23 +928,23 @@
       "pharmacist_name": "EDA BİLGİN",
       "phone": "05077034200",
       "city": "SAMSUN/İLKADIM",
-      "gln_no": "8680001112258",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "83F3-13F8-E632",
-      "last_pc_name": "Eskienes",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.8.0",
-      "last_seen_at": "2026-11-12 00:52:48",
-      "last_action": "[Eskienes] Canlı MF Sorgulama (6 Ürün)",
+      "last_seen_at": "2026-11-12 00:53:05",
+      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları Yenileme (TRIA • 12 Kalem)",
       "today_date": "2026-11-12",
-      "today_searches": 2,
-      "today_cart_adds": 0,
-      "today_smart_orders": 15,
-      "total_searches": 233,
-      "total_cart_adds": 443,
-      "total_smart_orders": 122,
+      "today_searches": 4,
+      "today_cart_adds": 1,
+      "today_smart_orders": 22,
+      "total_searches": 235,
+      "total_cart_adds": 444,
+      "total_smart_orders": 129,
       "total_days_used": 8,
       "pc_count": 5,
       "devices": {
@@ -954,7 +954,7 @@
           "desk_name": "Eskienes",
           "local_ip": "192.168.1.117",
           "app_version": "1.8.0",
-          "last_seen_at": "2026-11-12 00:52:48",
+          "last_seen_at": "2026-11-12 00:53:02",
           "last_action": "Canlı MF Sorgulama (6 Ürün)",
           "today_date": "2026-11-12",
           "today_searches": 0,
@@ -1048,7 +1048,7 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.8.0",
-          "last_seen_at": "2026-11-12 00:52:44",
+          "last_seen_at": "2026-11-12 00:53:05",
           "last_action": "Günün Çıkışları Yenileme (TRIA • 12 Kalem)",
           "today_date": "2026-11-12",
           "today_searches": 0,
@@ -1329,53 +1329,18 @@
           "pc_name": "DESKTOP-6KFO8IF",
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
-          "app_version": "1.7.9",
-          "last_seen_at": "2026-11-12 00:20:56",
-          "last_action": "Depo Sorgu: TYLOL HOT DAY 12 POS",
+          "app_version": "1.8.0",
+          "last_seen_at": "2026-11-12 00:53:03",
+          "last_action": "EczaneTakas Kampanya Açıldı: PULCET 40 MG 28 TB (30+4)",
           "today_date": "2026-11-12",
-          "today_searches": 2,
-          "today_cart_adds": 0,
-          "today_smart_orders": 1,
-          "total_searches": 12,
-          "total_cart_adds": 37,
-          "total_smart_orders": 10,
+          "today_searches": 4,
+          "today_cart_adds": 1,
+          "today_smart_orders": 8,
+          "total_searches": 14,
+          "total_cart_adds": 38,
+          "total_smart_orders": 17,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-11 18:25:43",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-11 18:25:43",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-11 18:25:53",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (30 Ürün)"
-            },
-            {
-              "t": "2026-11-11 18:25:54",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-11 18:26:04",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-11 18:26:04",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 69 Kalem)"
-            },
-            {
-              "t": "2026-11-11 18:26:07",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (30 Ürün)"
-            },
             {
               "t": "2026-11-11 18:26:07",
               "type": "mf_resolve",
@@ -1400,6 +1365,56 @@
               "t": "2026-11-12 00:13:42",
               "type": "search",
               "detail": "Depo Sorgu: TYLOL HOT DAY 12 POS"
+            },
+            {
+              "t": "2026-11-12 00:22:31",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-12 00:22:32",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-12 00:22:36",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (2 Ürün)"
+            },
+            {
+              "t": "2026-11-12 00:49:12",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-12 00:49:13",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 13 Kalem)"
+            },
+            {
+              "t": "2026-11-12 00:49:13",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-12 00:49:16",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (1 Ürün)"
+            },
+            {
+              "t": "2026-11-12 00:49:36",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-12 00:49:39",
+              "type": "search",
+              "detail": "Depo Sorgu: PULCET 40 MG 28 TB"
+            },
+            {
+              "t": "2026-11-12 00:50:09",
+              "type": "cart",
+              "detail": "EczaneTakas Kampanya Açıldı: PULCET 40 MG 28 TB (30+4)"
             }
           ]
         }
