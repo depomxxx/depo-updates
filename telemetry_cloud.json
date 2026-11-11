@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 00:23:30",
+  "updated_at": "2026-11-12 00:23:42",
   "count": 69,
   "items": [
     {
@@ -918,18 +918,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "8FD3-5823-91F4",
-      "last_pc_name": "Eda-Bilgin",
-      "app_version": "1.7.9",
-      "last_seen_at": "2026-11-12 00:23:15",
-      "last_action": "[DESKTOP-6KFO8IF] Depo Sorgu: TYLOL HOT DAY 12 POS",
+      "hwid": "83F3-13F8-E632",
+      "last_pc_name": "Eskienes",
+      "app_version": "1.7.10",
+      "last_seen_at": "2026-11-12 00:23:42",
+      "last_action": "[Eskienes] Canlı MF Sorgulama (5 Ürün)",
       "today_date": "2026-11-12",
       "today_searches": 2,
       "today_cart_adds": 0,
-      "today_smart_orders": 5,
+      "today_smart_orders": 8,
       "total_searches": 233,
       "total_cart_adds": 443,
-      "total_smart_orders": 112,
+      "total_smart_orders": 115,
       "total_days_used": 8,
       "pc_count": 5,
       "devices": {
@@ -938,33 +938,18 @@
           "pc_name": "Eskienes",
           "desk_name": "Eskienes",
           "local_ip": "192.168.1.117",
-          "app_version": "1.7.9",
-          "last_seen_at": "2026-11-12 00:20:51",
-          "last_action": "Canlı MF Sorgulama (2 Ürün)",
+          "app_version": "1.7.10",
+          "last_seen_at": "2026-11-12 00:23:42",
+          "last_action": "Canlı MF Sorgulama (5 Ürün)",
           "today_date": "2026-11-12",
           "today_searches": 0,
           "today_cart_adds": 0,
-          "today_smart_orders": 4,
+          "today_smart_orders": 7,
           "total_searches": 48,
           "total_cart_adds": 48,
-          "total_smart_orders": 16,
+          "total_smart_orders": 19,
           "total_days_used": 7,
           "recent_actions": [
-            {
-              "t": "2026-11-11 14:54:10",
-              "type": "search",
-              "detail": "Depo Sorgu: CALIRA-MET XR 5/1000 MG 56 FTB"
-            },
-            {
-              "t": "2026-11-11 15:03:44",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-11 15:03:46",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): CALIRA MET XR 5 1000 MG 56 T x1"
-            },
             {
               "t": "2026-11-11 15:04:12",
               "type": "cart",
@@ -1024,6 +1009,21 @@
               "t": "2026-11-12 00:11:50",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (2 Ürün)"
+            },
+            {
+              "t": "2026-11-12 00:22:27",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-12 00:22:27",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-12 00:22:35",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (5 Ürün)"
             }
           ]
         },
@@ -1032,8 +1032,8 @@
           "pc_name": "DESKTOP-OTHNDUE",
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
-          "app_version": "1.7.9",
-          "last_seen_at": "2026-11-12 00:20:56",
+          "app_version": "1.7.10",
+          "last_seen_at": "2026-11-12 00:22:32",
           "last_action": "Program Açık (Canlı)",
           "today_date": "2026-11-12",
           "today_searches": 0,
