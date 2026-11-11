@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 13:55:07",
+  "updated_at": "2026-11-11 13:55:38",
   "count": 5,
   "items": [
     {
@@ -281,20 +281,20 @@
       "phone": "05050000029",
       "city": "SINOP SARAYDÜZÜ",
       "gln_no": "8680001111111",
-      "otomasyon": "BOTANIK",
+      "otomasyon": "TEBEOS",
       "plan": "DENEME_30GUN",
       "expires_at": "2026-12-02",
       "status": "AKTIF",
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.7.6",
-      "last_seen_at": "2026-11-11 13:56:20",
-      "last_action": "[DESKTOP-T4EAUS3] Depo Fiyat Sorgulama",
+      "last_seen_at": "2026-11-11 13:57:26",
+      "last_action": "[DESKTOP-T4EAUS3] Depo Sorgu: FIXHALER 12/500 MCG 60 INH CAP",
       "today_date": "2026-11-11",
-      "today_searches": 4,
+      "today_searches": 5,
       "today_cart_adds": 2,
       "today_smart_orders": 13,
-      "total_searches": 63,
+      "total_searches": 64,
       "total_cart_adds": 394,
       "total_days_used": 8,
       "total_smart_orders": 6,
@@ -306,7 +306,7 @@
           "desk_name": "Cicobey",
           "local_ip": "192.168.1.43",
           "app_version": "1.5.9",
-          "last_seen_at": "2026-11-11 13:47:49",
+          "last_seen_at": "2026-11-11 13:55:38",
           "last_action": "Program Açık (Canlı)",
           "today_date": "2026-11-11",
           "today_searches": 0,
@@ -324,13 +324,13 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.7.6",
-          "last_seen_at": "2026-11-11 13:56:20",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-11 13:57:26",
+          "last_action": "Depo Sorgu: FIXHALER 12/500 MCG 60 INH CAP",
           "today_date": "2026-11-11",
-          "today_searches": 4,
+          "today_searches": 5,
           "today_cart_adds": 2,
           "today_smart_orders": 12,
-          "total_searches": 29,
+          "total_searches": 30,
           "total_cart_adds": 198,
           "total_smart_orders": 6,
           "total_days_used": 6,
@@ -369,6 +369,11 @@
               "t": "2026-11-11 13:56:20",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-11 13:56:24",
+              "type": "search",
+              "detail": "Depo Sorgu: FIXHALER 12/500 MCG 60 INH CAP"
             }
           ]
         }
