@@ -1,30 +1,30 @@
 {
-  "updated_at": "2026-11-12 00:11:36",
+  "updated_at": "2026-11-12 00:11:37",
   "count": 69,
   "items": [
     {
-      "id": "48F632F1",
-      "pharmacy_name": "EDA ECZANESI",
+      "id": "D0EFA284",
+      "pharmacy_name": "ARAŞTIRMA ECZANESI",
       "pharmacist_name": "EDA BİLGİN",
       "phone": "05077034200",
       "city": "SAMSUN/İLKADIM",
       "gln_no": "8680001000000",
       "otomasyon": "TRIA",
-      "plan": "KURUMSAL_SINIRSIZ",
-      "expires_at": "2031-10-26",
+      "plan": "PRO_YILLIK",
+      "expires_at": "2027-10-24",
       "status": "AKTIF",
-      "hwid": "5834-FAC9-B71F",
-      "last_pc_name": "DESKTOP-OTHNDUE",
-      "app_version": "1.7.8",
-      "last_seen_at": "2026-11-12 00:11:08",
-      "last_action": "[Eskienes] Günün Çıkışları / Kritik Stok",
+      "hwid": "E6B1-5698-273E",
+      "last_pc_name": "DESKTOP-6KFO8IF",
+      "app_version": "1.7.9",
+      "last_seen_at": "2026-11-12 00:11:37",
+      "last_action": "[ChagriBeg] Piyasa Fiyat Kıyaslama: 8690595218847",
       "today_date": "2026-11-12",
-      "today_searches": 0,
-      "today_cart_adds": 0,
-      "today_smart_orders": 1,
-      "total_searches": 239,
-      "total_cart_adds": 473,
-      "total_smart_orders": 148,
+      "today_searches": 1,
+      "today_cart_adds": 4,
+      "today_smart_orders": 14,
+      "total_searches": 240,
+      "total_cart_adds": 477,
+      "total_smart_orders": 161,
       "total_days_used": 8,
       "pc_count": 6,
       "devices": {
@@ -409,8 +409,8 @@
           "pc_name": "DESKTOP-6KFO8IF",
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
-          "app_version": "1.7.8",
-          "last_seen_at": "2026-11-12 00:11:05",
+          "app_version": "1.7.9",
+          "last_seen_at": "2026-11-12 00:11:37",
           "last_action": "Program Açık (Canlı)",
           "today_date": "2026-11-12",
           "today_searches": 0,
@@ -473,92 +473,92 @@
           "pc_name": "ChagriBeg",
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
-          "app_version": "1.7.8",
-          "last_seen_at": "2026-11-11 23:59:35",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
-          "today_date": "2026-11-11",
-          "today_searches": 0,
-          "today_cart_adds": 0,
-          "today_smart_orders": 0,
-          "total_searches": 8,
-          "total_cart_adds": 30,
-          "total_smart_orders": 40,
-          "total_days_used": 7,
+          "app_version": "1.7.9",
+          "last_seen_at": "2026-11-12 00:11:36",
+          "last_action": "Piyasa Fiyat Kıyaslama: 8690595218847",
+          "today_date": "2026-11-12",
+          "today_searches": 1,
+          "today_cart_adds": 4,
+          "today_smart_orders": 13,
+          "total_searches": 9,
+          "total_cart_adds": 34,
+          "total_smart_orders": 53,
+          "total_days_used": 8,
           "recent_actions": [
             {
-              "t": "2026-11-11 23:30:57",
+              "t": "2026-11-12 00:02:35",
               "type": "smart_order",
-              "detail": "Toplu Sipariş (TRIA • 250 Kalem)"
+              "detail": "Toplu Sipariş (TRIA • 246 Kalem)"
             },
             {
-              "t": "2026-11-11 23:30:57",
+              "t": "2026-11-12 00:02:36",
               "type": "mf_resolve",
               "detail": "Canlı MF Taraması"
             },
             {
-              "t": "2026-11-11 23:30:58",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-11 23:30:59",
+              "t": "2026-11-12 00:02:48",
               "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (1 Ürün)"
+              "detail": "Canlı MF Sorgulama (35 Ürün)"
             },
             {
-              "t": "2026-11-11 23:30:59",
+              "t": "2026-11-12 00:02:48",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-12 00:03:00",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (35 Ürün)"
+            },
+            {
+              "t": "2026-11-12 00:03:00",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-12 00:03:05",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (13 Ürün)"
+            },
+            {
+              "t": "2026-11-12 00:03:08",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
             },
             {
-              "t": "2026-11-11 23:31:01",
+              "t": "2026-11-12 00:03:08",
+              "type": "cart",
+              "detail": "Toplu Sepet (SELCUK): 1 Kalem"
+            },
+            {
+              "t": "2026-11-12 00:03:08",
               "type": "smart_order",
               "detail": "Toplu Sipariş Planlama"
             },
             {
-              "t": "2026-11-11 23:31:01",
+              "t": "2026-11-12 00:03:09",
               "type": "smart_order",
-              "detail": "Toplu Sipariş (TRIA • 250 Kalem)"
+              "detail": "Toplu Sipariş (TRIA • 246 Kalem)"
             },
             {
-              "t": "2026-11-11 23:31:02",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-11 23:31:02",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (1 Ürün)"
-            },
-            {
-              "t": "2026-11-11 23:42:14",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-11 23:42:14",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-11 23:42:15",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (3 Ürün)"
-            },
-            {
-              "t": "2026-11-11 23:46:39",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-11 23:46:43",
-              "type": "search",
-              "detail": "Depo Sorgu: AUGMENTIN BID 1 GR 14 FTB."
-            },
-            {
-              "t": "2026-11-11 23:49:35",
+              "t": "2026-11-12 00:03:12",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-12 00:03:22",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş Planlama"
+            },
+            {
+              "t": "2026-11-12 00:03:22",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş (TRIA • 246 Kalem)"
+            },
+            {
+              "t": "2026-11-12 00:09:42",
+              "type": "search",
+              "detail": "Piyasa Fiyat Kıyaslama: 8690595218847"
             }
           ]
         }
