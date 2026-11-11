@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 14:09:34",
+  "updated_at": "2026-11-11 14:07:57",
   "count": 5,
   "items": [
     {
@@ -558,9 +558,9 @@
           "hwid": "1A4A-8625-6A54",
           "pc_name": "Cicobey",
           "desk_name": "Cicobey",
-          "local_ip": "192.168.1.43",
+          "local_ip": "",
           "app_version": "1.5.9",
-          "last_seen_at": "2026-11-11 14:04:24",
+          "last_seen_at": "2026-11-11 14:07:57",
           "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-11",
           "today_searches": 0,
