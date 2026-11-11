@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 23:46:28",
+  "updated_at": "2026-11-11 23:46:43",
   "count": 69,
   "items": [
     {
@@ -578,13 +578,13 @@
       "hwid": "E4F7-229A-BABD",
       "last_pc_name": "ChagriBeg",
       "app_version": "1.7.8",
-      "last_seen_at": "2026-11-11 23:46:24",
-      "last_action": "[ChagriBeg] Canlı MF Sorgulama (3 Ürün)",
+      "last_seen_at": "2026-11-11 23:46:43",
+      "last_action": "[ChagriBeg] Depo Sorgu: AUGMENTIN BID 1 GR 14 FTB.",
       "today_date": "2026-11-11",
-      "today_searches": 13,
+      "today_searches": 15,
       "today_cart_adds": 48,
       "today_smart_orders": 145,
-      "total_searches": 288,
+      "total_searches": 290,
       "total_cart_adds": 707,
       "total_days_used": 7,
       "total_smart_orders": 114,
@@ -772,27 +772,17 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.7.8",
-          "last_seen_at": "2026-11-11 23:46:24",
-          "last_action": "Canlı MF Sorgulama (3 Ürün)",
+          "last_seen_at": "2026-11-11 23:46:43",
+          "last_action": "Depo Sorgu: AUGMENTIN BID 1 GR 14 FTB.",
           "today_date": "2026-11-11",
-          "today_searches": 0,
+          "today_searches": 2,
           "today_cart_adds": 8,
           "today_smart_orders": 44,
-          "total_searches": 6,
+          "total_searches": 8,
           "total_cart_adds": 29,
           "total_smart_orders": 40,
           "total_days_used": 7,
           "recent_actions": [
-            {
-              "t": "2026-11-11 23:30:54",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-11 23:30:57",
-              "type": "cart",
-              "detail": "Toplu Sepet (ISKOOP): 1 Kalem"
-            },
             {
               "t": "2026-11-11 23:30:57",
               "type": "smart_order",
@@ -857,6 +847,16 @@
               "t": "2026-11-11 23:42:15",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (3 Ürün)"
+            },
+            {
+              "t": "2026-11-11 23:46:39",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-11 23:46:43",
+              "type": "search",
+              "detail": "Depo Sorgu: AUGMENTIN BID 1 GR 14 FTB."
             }
           ]
         }
