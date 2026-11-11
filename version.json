@@ -1,11 +1,11 @@
 {
-  "version": "1.7.8",
+  "version": "1.7.9",
   "app_name": "Farma Radar",
-  "release_date": "2026-11-11 23:41:37",
+  "release_date": "2026-11-12 00:11:19",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.7.8.zip?t=1794429698",
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.7.9.zip?t=1794431480",
   "sha256": "",
-  "package_sha256": "aaccde2299f8e8916f063e0910a8245ee8fba46149efed206121714afe853985",
-  "size_kb": 716.7,
-  "changelog": "v1.7.8: Eczanem otomasyon modülü pasife alındı ve arayüzden kaldırıldı (Botanik, TRIA, TEBEOS ve depo ayarları korundu)."
+  "package_sha256": "8c6ff1c041039d87804e041c719621be0a6550ab743519b0ebd01959979bb4f9",
+  "size_kb": 729.6,
+  "changelog": "v1.7.9: Depo karşılaştırma üst barındaki simülatör kaldırılarak EczaneTakas otomatik kampanya / teklif açma modülü eklendi."
 }
