@@ -157,20 +157,20 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "5834-FAC9-B71F",
-      "last_pc_name": "DESKTOP-OTHNDUE",
+      "hwid": "D719-CEB2-1542",
+      "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.7.7",
       "last_seen_at": "2026-11-11 14:06:37",
       "last_action": "[DESKTOP-M530BBB] Canlı MF Sorgulama (6 Ürün)",
       "today_date": "2026-11-11",
       "today_searches": 18,
       "today_cart_adds": 93,
-      "today_smart_orders": 67,
-      "total_searches": 281,
-      "total_cart_adds": 775,
+      "today_smart_orders": 77,
+      "total_searches": 332,
+      "total_cart_adds": 822,
       "total_days_used": 8,
-      "total_smart_orders": 3,
-      "pc_count": 5,
+      "total_smart_orders": 6,
+      "pc_count": 6,
       "devices": {
         "B766-9F71-3B24": {
           "hwid": "B766-9F71-3B24",
@@ -277,6 +277,40 @@
           "total_smart_orders": 0,
           "total_days_used": 5,
           "recent_actions": []
+        },
+        "D719-CEB2-1542": {
+          "hwid": "D719-CEB2-1542",
+          "pc_name": "DESKTOP-M530BBB",
+          "desk_name": "DESKTOP-M530BBB",
+          "local_ip": "192.168.1.112",
+          "app_version": "1.7.7",
+          "last_seen_at": "2026-11-11 14:06:37",
+          "last_action": "Canlı MF Sorgulama (6 Ürün)",
+          "today_date": "2026-11-11",
+          "today_searches": 0,
+          "today_cart_adds": 0,
+          "today_smart_orders": 10,
+          "total_searches": 51,
+          "total_cart_adds": 47,
+          "total_smart_orders": 3,
+          "total_days_used": 8,
+          "recent_actions": [
+            {
+              "t": "2026-11-11 13:48:27",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-11 13:48:27",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-11 13:48:31",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (6 Ürün)"
+            }
+          ]
         }
       }
     },
