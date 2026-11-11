@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 20:27:12",
+  "updated_at": "2026-11-11 20:27:11",
   "count": 49,
   "items": [
     {
@@ -8,7 +8,7 @@
       "pharmacist_name": "EDA BİLGİN",
       "phone": "05077034200",
       "city": "SAMSUN/İLKADIM",
-      "gln_no": "8680001000000",
+      "gln_no": "8680001112258",
       "otomasyon": "TRIA",
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
@@ -380,7 +380,7 @@
           "desk_name": "Eskienes",
           "local_ip": "192.168.1.117",
           "app_version": "1.7.7",
-          "last_seen_at": "2026-11-11 20:26:48",
+          "last_seen_at": "2026-11-11 20:27:11",
           "last_action": "Canlı MF Sorgulama (7 Ürün)",
           "today_date": "2026-11-11",
           "today_searches": 14,
