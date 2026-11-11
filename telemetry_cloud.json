@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 00:12:56",
+  "updated_at": "2026-11-12 00:13:18",
   "count": 69,
   "items": [
     {
@@ -570,21 +570,21 @@
       "pharmacist_name": "GAMZE ASLAN",
       "phone": "05344064108",
       "city": "SAMSUN/ATAKUM",
-      "gln_no": "8680001134861",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "PRO_YILLIK",
       "expires_at": "2027-10-24",
       "status": "AKTIF",
-      "hwid": "E4F7-229A-BABD",
-      "last_pc_name": "ChagriBeg",
+      "hwid": "E6B1-5698-273E",
+      "last_pc_name": "DESKTOP-6KFO8IF",
       "app_version": "1.7.9",
-      "last_seen_at": "2026-11-12 00:12:02",
-      "last_action": "[ChagriBeg] Depo Fiyat Sorgulama",
+      "last_seen_at": "2026-11-12 00:13:18",
+      "last_action": "[ChagriBeg] Depo Sorgu: PREDNOL 16 MG 20 TB.",
       "today_date": "2026-11-12",
-      "today_searches": 2,
+      "today_searches": 3,
       "today_cart_adds": 4,
       "today_smart_orders": 16,
-      "total_searches": 292,
+      "total_searches": 293,
       "total_cart_adds": 712,
       "total_days_used": 8,
       "total_smart_orders": 130,
@@ -614,7 +614,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.7.9",
-          "last_seen_at": "2026-11-12 00:11:47",
+          "last_seen_at": "2026-11-12 00:13:18",
           "last_action": "Program Açık (Canlı)",
           "today_date": "2026-11-12",
           "today_searches": 0,
@@ -677,8 +677,8 @@
           "pc_name": "DESKTOP-OTHNDUE",
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
-          "app_version": "1.7.8",
-          "last_seen_at": "2026-11-12 00:09:37",
+          "app_version": "1.7.9",
+          "last_seen_at": "2026-11-12 00:11:48",
           "last_action": "Program Açık (Canlı)",
           "today_date": "2026-11-12",
           "today_searches": 0,
@@ -772,22 +772,17 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.7.9",
-          "last_seen_at": "2026-11-12 00:12:02",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-12 00:12:59",
+          "last_action": "Depo Sorgu: PREDNOL 16 MG 20 TB.",
           "today_date": "2026-11-12",
-          "today_searches": 2,
+          "today_searches": 3,
           "today_cart_adds": 4,
           "today_smart_orders": 16,
-          "total_searches": 10,
+          "total_searches": 11,
           "total_cart_adds": 34,
           "total_smart_orders": 56,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-12 00:03:00",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (35 Ürün)"
-            },
             {
               "t": "2026-11-12 00:03:00",
               "type": "mf_resolve",
@@ -857,6 +852,11 @@
               "t": "2026-11-12 00:12:02",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-12 00:12:08",
+              "type": "search",
+              "detail": "Depo Sorgu: PREDNOL 16 MG 20 TB."
             }
           ]
         }
