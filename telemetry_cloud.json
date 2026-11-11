@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 14:35:27",
+  "updated_at": "2026-11-11 14:33:38",
   "count": 5,
   "items": [
     {
@@ -175,16 +175,16 @@
       "hwid": "83F3-13F8-E632",
       "last_pc_name": "Eskienes",
       "app_version": "1.7.7",
-      "last_seen_at": "2026-11-11 14:33:09",
-      "last_action": "[DESKTOP-5PFFU5S] Canlı MF Sorgulama (20 Ürün)",
+      "last_seen_at": "2026-11-11 14:33:38",
+      "last_action": "[Eskienes] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-11",
       "today_searches": 26,
       "today_cart_adds": 102,
-      "today_smart_orders": 85,
+      "today_smart_orders": 86,
       "total_searches": 411,
       "total_cart_adds": 875,
       "total_days_used": 8,
-      "total_smart_orders": 12,
+      "total_smart_orders": 13,
       "pc_count": 8,
       "devices": {
         "B766-9F71-3B24": {
@@ -382,17 +382,23 @@
           "desk_name": "Eskienes",
           "local_ip": "192.168.1.117",
           "app_version": "1.7.7",
-          "last_seen_at": "2026-11-11 14:33:09",
-          "last_action": "Program Açık (Canlı)",
+          "last_seen_at": "2026-11-11 14:33:38",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-11",
           "today_searches": 8,
           "today_cart_adds": 9,
-          "today_smart_orders": 2,
+          "today_smart_orders": 3,
           "total_searches": 42,
           "total_cart_adds": 44,
-          "total_smart_orders": 0,
+          "total_smart_orders": 1,
           "total_days_used": 6,
-          "recent_actions": []
+          "recent_actions": [
+            {
+              "t": "2026-11-11 14:33:38",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            }
+          ]
         }
       }
     },
