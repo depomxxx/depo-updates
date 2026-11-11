@@ -1,11 +1,11 @@
 {
-  "version": "1.7.10",
+  "version": "1.8.0",
   "app_name": "Farma Radar",
-  "release_date": "2026-11-12 00:22:03",
+  "release_date": "2026-11-12 00:44:58",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.7.10.zip?t=1794432124",
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.8.0.zip?t=1794433499",
   "sha256": "",
-  "package_sha256": "8f470eb2eec8c4462565b3a69e521316c9a05b06510cbd844ff50f777a8d8f0b",
-  "size_kb": 730.6,
-  "changelog": "v1.7.10: EczaneTakas teklif acma AsyncClient POST hatasi giderildi, baslik 'Depo Paylasim Gruplarina Teklif Ac' olarak guncellendi (pasifse gizli) ve hizli MF kademeleri guncel depo MF'lerine gore olusturuldu."
+  "package_sha256": "0ad864b5858c6ab1c0c4cbe37e9b33b992a4b906b6984379a15544c7f79e2b3c",
+  "size_kb": 798.4,
+  "changelog": "v1.8.0: Eczane Karti Stok:0 urunlerde simQtyInput null referansindan kaynaklanan depo sorgu hatasi giderildi; EczaneTakas urun eslestirme motoru ve 2116 urunluk katalog sozlugu (TYLOL HOT DAY vs C vb. tum varyant ayrimlariyla) bastan sona yenilendi; Kampanya baz fiyati Kredi Karti yerine sabit 90 Gun Vade depo birim fiyatina sabitlendi."
 }
