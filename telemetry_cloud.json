@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 23:28:55",
+  "updated_at": "2026-11-11 23:29:35",
   "count": 69,
   "items": [
     {
@@ -484,16 +484,16 @@
       "hwid": "E4F7-229A-BABD",
       "last_pc_name": "ChagriBeg",
       "app_version": "1.7.7",
-      "last_seen_at": "2026-11-11 23:28:55",
-      "last_action": "[ChagriBeg] Lisans Anahtarı Etkinleştirildi",
+      "last_seen_at": "2026-11-11 23:29:35",
+      "last_action": "[ChagriBeg] Canlı MF Sorgulama (30 Ürün)",
       "today_date": "2026-11-11",
       "today_searches": 13,
       "today_cart_adds": 40,
-      "today_smart_orders": 116,
+      "today_smart_orders": 120,
       "total_searches": 288,
       "total_cart_adds": 699,
       "total_days_used": 7,
-      "total_smart_orders": 85,
+      "total_smart_orders": 89,
       "pc_count": 4,
       "devices": {
         "18C1-4ECE-8490": {
@@ -678,22 +678,17 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.7.7",
-          "last_seen_at": "2026-11-11 23:28:55",
-          "last_action": "Lisans Anahtarı Etkinleştirildi",
+          "last_seen_at": "2026-11-11 23:29:35",
+          "last_action": "Canlı MF Sorgulama (30 Ürün)",
           "today_date": "2026-11-11",
           "today_searches": 0,
           "today_cart_adds": 0,
-          "today_smart_orders": 15,
+          "today_smart_orders": 19,
           "total_searches": 6,
           "total_cart_adds": 21,
-          "total_smart_orders": 11,
+          "total_smart_orders": 15,
           "total_days_used": 7,
           "recent_actions": [
-            {
-              "t": "2026-11-11 22:24:22",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-11 22:24:22",
               "type": "mf_resolve",
@@ -748,6 +743,26 @@
               "t": "2026-11-11 23:28:55",
               "type": "activation",
               "detail": "Lisans Anahtarı Etkinleştirildi"
+            },
+            {
+              "t": "2026-11-11 23:29:01",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-11 23:29:02",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 127 Kalem)"
+            },
+            {
+              "t": "2026-11-11 23:29:02",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-11 23:29:35",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (30 Ürün)"
             }
           ]
         }
