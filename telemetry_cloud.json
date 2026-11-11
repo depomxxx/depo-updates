@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-11-11 18:46:48",
+  "updated_at": "2026-11-11 18:46:57",
   "count": 19,
   "items": [
     {
-      "id": "48F632F1",
-      "pharmacy_name": "EDA ECZANESI",
+      "id": "D0EFA284",
+      "pharmacy_name": "ARAŞTIRMA ECZANESI",
       "pharmacist_name": "EDA BİLGİN",
       "phone": "05077034200",
       "city": "SAMSUN/İLKADIM",
       "gln_no": "8680001000000",
       "otomasyon": "TRIA",
-      "plan": "KURUMSAL_SINIRSIZ",
-      "expires_at": "2031-10-26",
+      "plan": "PRO_YILLIK",
+      "expires_at": "2027-10-24",
       "status": "AKTIF",
-      "hwid": "5834-FAC9-B71F",
-      "last_pc_name": "DESKTOP-OTHNDUE",
+      "hwid": "E6B1-5698-273E",
+      "last_pc_name": "DESKTOP-6KFO8IF",
       "app_version": "1.7.7",
-      "last_seen_at": "2026-11-11 18:46:48",
-      "last_action": "[DESKTOP-OTHNDUE] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-11 18:46:57",
+      "last_action": "[DESKTOP-6KFO8IF] Canlı MF Sorgulama (8 Ürün)",
       "today_date": "2026-11-11",
       "today_searches": 56,
-      "today_cart_adds": 113,
+      "today_cart_adds": 115,
       "today_smart_orders": 124,
       "total_searches": 229,
-      "total_cart_adds": 434,
+      "total_cart_adds": 436,
       "total_smart_orders": 63,
       "total_days_used": 7,
       "pc_count": 5,
@@ -222,27 +222,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.7.7",
-          "last_seen_at": "2026-11-11 18:46:48",
+          "last_seen_at": "2026-11-11 18:46:57",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-11",
           "today_searches": 11,
-          "today_cart_adds": 31,
+          "today_cart_adds": 33,
           "today_smart_orders": 44,
           "total_searches": 39,
-          "total_cart_adds": 189,
+          "total_cart_adds": 191,
           "total_smart_orders": 21,
           "total_days_used": 7,
           "recent_actions": [
-            {
-              "t": "2026-11-11 17:15:49",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-11 17:15:49",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 59 Kalem)"
-            },
             {
               "t": "2026-11-11 17:16:07",
               "type": "critical_stock",
@@ -307,6 +297,16 @@
               "t": "2026-11-11 18:46:48",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-11 18:46:50",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): CULTURELLE PROBIY CILEK 10 S x2"
+            },
+            {
+              "t": "2026-11-11 18:46:57",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
@@ -316,7 +316,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.7.7",
-          "last_seen_at": "2026-11-11 18:45:58",
+          "last_seen_at": "2026-11-11 18:46:57",
           "last_action": "Canlı MF Sorgulama (8 Ürün)",
           "today_date": "2026-11-11",
           "today_searches": 0,
