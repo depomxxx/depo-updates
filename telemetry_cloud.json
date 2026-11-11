@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 13:56:02",
+  "updated_at": "2026-11-11 13:56:20",
   "count": 5,
   "items": [
     {
@@ -288,16 +288,16 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.7.6",
-      "last_seen_at": "2026-11-11 13:56:02",
-      "last_action": "[DESKTOP-T4EAUS3] Canlı MF Sorgulama (4 Ürün)",
+      "last_seen_at": "2026-11-11 13:56:20",
+      "last_action": "[DESKTOP-T4EAUS3] Depo Fiyat Sorgulama",
       "today_date": "2026-11-11",
-      "today_searches": 3,
+      "today_searches": 4,
       "today_cart_adds": 2,
-      "today_smart_orders": 12,
-      "total_searches": 62,
+      "today_smart_orders": 13,
+      "total_searches": 63,
       "total_cart_adds": 394,
       "total_days_used": 8,
-      "total_smart_orders": 5,
+      "total_smart_orders": 6,
       "pc_count": 2,
       "devices": {
         "9985-0025-3852": {
@@ -324,15 +324,15 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.7.6",
-          "last_seen_at": "2026-11-11 13:56:02",
-          "last_action": "Canlı MF Sorgulama (4 Ürün)",
+          "last_seen_at": "2026-11-11 13:56:20",
+          "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-11",
-          "today_searches": 3,
+          "today_searches": 4,
           "today_cart_adds": 2,
-          "today_smart_orders": 11,
-          "total_searches": 28,
+          "today_smart_orders": 12,
+          "total_searches": 29,
           "total_cart_adds": 198,
-          "total_smart_orders": 5,
+          "total_smart_orders": 6,
           "total_days_used": 6,
           "recent_actions": [
             {
@@ -359,6 +359,16 @@
               "t": "2026-11-11 13:51:07",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (4 Ürün)"
+            },
+            {
+              "t": "2026-11-11 13:56:02",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-11 13:56:20",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ]
         }
