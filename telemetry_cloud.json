@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 15:15:47",
+  "updated_at": "2026-11-11 15:18:08",
   "count": 5,
   "items": [
     {
@@ -625,7 +625,7 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.7.7",
-      "last_seen_at": "2026-11-11 15:16:36",
+      "last_seen_at": "2026-11-11 15:18:08",
       "last_action": "[DESKTOP-T4EAUS3] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-11",
       "today_searches": 5,
@@ -717,7 +717,7 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.7.7",
-          "last_seen_at": "2026-11-11 15:16:36",
+          "last_seen_at": "2026-11-11 15:18:08",
           "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-11",
           "today_searches": 5,
