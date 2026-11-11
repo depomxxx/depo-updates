@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 14:02:23",
+  "updated_at": "2026-11-11 14:02:31",
   "count": 5,
   "items": [
     {
@@ -293,12 +293,12 @@
       "today_date": "2026-11-11",
       "today_searches": 5,
       "today_cart_adds": 2,
-      "today_smart_orders": 25,
-      "total_searches": 64,
-      "total_cart_adds": 394,
+      "today_smart_orders": 39,
+      "total_searches": 98,
+      "total_cart_adds": 456,
       "total_days_used": 8,
-      "total_smart_orders": 18,
-      "pc_count": 2,
+      "total_smart_orders": 31,
+      "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
           "hwid": "9985-0025-3852",
@@ -430,6 +430,80 @@
               "t": "2026-11-11 13:56:24",
               "type": "search",
               "detail": "Depo Sorgu: FIXHALER 12/500 MCG 60 INH CAP"
+            }
+          ]
+        },
+        "1A4A-8625-6A54": {
+          "hwid": "1A4A-8625-6A54",
+          "pc_name": "Cicobey",
+          "desk_name": "Cicobey",
+          "local_ip": "192.168.1.43",
+          "app_version": "1.5.9",
+          "last_seen_at": "2026-11-11 14:02:31",
+          "last_action": "Günün Çıkışları / Kritik Stok",
+          "today_date": "2026-11-11",
+          "today_searches": 0,
+          "today_cart_adds": 0,
+          "today_smart_orders": 14,
+          "total_searches": 34,
+          "total_cart_adds": 62,
+          "total_smart_orders": 13,
+          "total_days_used": 8,
+          "recent_actions": [
+            {
+              "t": "2026-11-11 13:55:40",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-11 13:56:07",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-11 13:56:09",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (BOTANIK • 46 Kalem)"
+            },
+            {
+              "t": "2026-11-11 13:56:10",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-11 13:56:19",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-11 13:56:21",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-11 13:56:59",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (30 Ürün)"
+            },
+            {
+              "t": "2026-11-11 13:57:03",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (30 Ürün)"
+            },
+            {
+              "t": "2026-11-11 13:57:04",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-11 13:57:13",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (11 Ürün)"
+            },
+            {
+              "t": "2026-11-11 14:02:25",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         }
