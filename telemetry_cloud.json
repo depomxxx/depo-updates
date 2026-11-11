@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 19:01:48",
+  "updated_at": "2026-11-11 19:02:11",
   "count": 23,
   "items": [
     {
@@ -484,15 +484,15 @@
       "hwid": "E6B1-5698-273E",
       "last_pc_name": "DESKTOP-6KFO8IF",
       "app_version": "1.7.7",
-      "last_seen_at": "2026-11-11 19:00:39",
+      "last_seen_at": "2026-11-11 19:02:11",
       "last_action": "[DESKTOP-6KFO8IF] Canlı MF Sorgulama (8 Ürün)",
       "today_date": "2026-11-11",
       "today_searches": 58,
-      "today_cart_adds": 118,
-      "today_smart_orders": 128,
+      "today_cart_adds": 122,
+      "today_smart_orders": 130,
       "total_searches": 231,
-      "total_cart_adds": 439,
-      "total_smart_orders": 67,
+      "total_cart_adds": 443,
+      "total_smart_orders": 69,
       "total_days_used": 7,
       "pc_count": 5,
       "devices": {
@@ -690,47 +690,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.7.7",
-          "last_seen_at": "2026-11-11 19:00:26",
-          "last_action": "Günün Çıkışları Yenileme (TRIA • 72 Kalem)",
+          "last_seen_at": "2026-11-11 19:02:00",
+          "last_action": "Sepete Ekle (ALLIANCE): SEF 1 GR 20 TB x1",
           "today_date": "2026-11-11",
           "today_searches": 13,
-          "today_cart_adds": 36,
-          "today_smart_orders": 48,
+          "today_cart_adds": 40,
+          "today_smart_orders": 50,
           "total_searches": 41,
-          "total_cart_adds": 194,
-          "total_smart_orders": 25,
+          "total_cart_adds": 198,
+          "total_smart_orders": 27,
           "total_days_used": 7,
           "recent_actions": [
-            {
-              "t": "2026-11-11 18:46:32",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-11 18:46:34",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): ROZA 30 GR JEL x2"
-            },
-            {
-              "t": "2026-11-11 18:46:39",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-11 18:46:41",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): DİKLORON RETARD FİLM TABLET  x3"
-            },
-            {
-              "t": "2026-11-11 18:46:48",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-11 18:46:50",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): CULTURELLE PROBIY CILEK 10 S x2"
-            },
             {
               "t": "2026-11-11 18:46:57",
               "type": "cart",
@@ -775,6 +745,36 @@
               "t": "2026-11-11 18:48:47",
               "type": "critical_stock",
               "detail": "Günün Çıkışları Yenileme (TRIA • 72 Kalem)"
+            },
+            {
+              "t": "2026-11-11 19:01:00",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-11 19:01:00",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 75 Kalem)"
+            },
+            {
+              "t": "2026-11-11 19:01:04",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-11 19:01:07",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): ACNELYSE KREM %0.05 20G TÜP/ x1"
+            },
+            {
+              "t": "2026-11-11 19:01:10",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-11 19:01:12",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): SEF 1 GR 20 TB x1"
             }
           ]
         },
@@ -784,7 +784,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.7.7",
-          "last_seen_at": "2026-11-11 19:00:39",
+          "last_seen_at": "2026-11-11 19:02:11",
           "last_action": "Canlı MF Sorgulama (8 Ürün)",
           "today_date": "2026-11-11",
           "today_searches": 0,
