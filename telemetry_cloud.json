@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 16:37:54",
+  "updated_at": "2026-11-11 16:38:14",
   "count": 5,
   "items": [
     {
@@ -212,24 +212,24 @@
       "pharmacist_name": "EDA BİLGİN",
       "phone": "05077034200",
       "city": "SAMSUN/İLKADIM",
-      "gln_no": "8680001112258",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "8FD3-5823-91F4",
-      "last_pc_name": "Eda-Bilgin",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.7.7",
-      "last_seen_at": "2026-11-11 16:37:54",
-      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-11 16:38:14",
+      "last_action": "[DESKTOP-OTHNDUE] Depo Fiyat Sorgulama",
       "today_date": "2026-11-11",
-      "today_searches": 52,
+      "today_searches": 53,
       "today_cart_adds": 113,
-      "today_smart_orders": 113,
-      "total_searches": 437,
+      "today_smart_orders": 114,
+      "total_searches": 438,
       "total_cart_adds": 886,
       "total_days_used": 8,
-      "total_smart_orders": 40,
+      "total_smart_orders": 41,
       "pc_count": 8,
       "devices": {
         "B766-9F71-3B24": {
@@ -308,15 +308,15 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.7.7",
-          "last_seen_at": "2026-11-11 16:37:50",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-11 16:38:14",
+          "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-11",
-          "today_searches": 7,
+          "today_searches": 8,
           "today_cart_adds": 22,
-          "today_smart_orders": 27,
-          "total_searches": 35,
+          "today_smart_orders": 28,
+          "total_searches": 36,
           "total_cart_adds": 180,
-          "total_smart_orders": 4,
+          "total_smart_orders": 5,
           "total_days_used": 7,
           "recent_actions": [
             {
@@ -333,6 +333,16 @@
               "t": "2026-11-11 16:37:50",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-11 16:37:50",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 56 Kalem)"
+            },
+            {
+              "t": "2026-11-11 16:38:14",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ]
         },
