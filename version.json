@@ -1,11 +1,11 @@
 {
-  "version": "1.7.6",
+  "version": "1.7.7",
   "app_name": "Farma Radar",
-  "release_date": "2026-11-11 13:47:27",
+  "release_date": "2026-11-11 14:02:21",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.7.6.zip?t=1794394049",
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.7.7.zip?t=1794394942",
   "sha256": "",
-  "package_sha256": "b296575e7a1b1ace49637ab847bc6a4c32d6f461e60f7edf88e5e0b32a680703",
-  "size_kb": 739.3,
-  "changelog": "v1.7.6: Bilgisayar bazlı (Çoklu PC) canlı kullanım ve aktivite takibi eklendi; her bilgisayarın sorgu, sepet, toplu sipariş sayaçları ve saatli işlem geçmişi merkezi lisans paneline entegre edildi."
+  "package_sha256": "641614db10327fd093d8f71e6e216e53a3eae547ab51dd3a59a9897469dbe961",
+  "size_kb": 740.6,
+  "changelog": "v1.7.7: Windows arka plan işlemlerinde (HWID, ARP ağ keşfi, masaüstü kısayol ve sunucu başlatıcı) açılıp kapanan siyah komut penceresi (CMD/PowerShell) sorunu tamamen giderildi."
 }
