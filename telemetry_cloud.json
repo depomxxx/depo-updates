@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 22:22:48",
+  "updated_at": "2026-11-11 22:22:58",
   "count": 69,
   "items": [
     {
@@ -476,23 +476,203 @@
       "pharmacist_name": "GAMZE ASLAN",
       "phone": "05344064108",
       "city": "SAMSUN/ATAKUM",
-      "gln_no": "8680001134861",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "PRO_YILLIK",
       "expires_at": "2027-10-24",
       "status": "AKTIF",
-      "hwid": "18C1-4ECE-8490",
-      "last_pc_name": "ChagriBeg",
-      "app_version": "1.7.2",
-      "last_seen_at": "2026-11-11 22:22:48",
-      "last_action": "Program Açıldı (Canlı)",
+      "hwid": "E6B1-5698-273E",
+      "last_pc_name": "DESKTOP-6KFO8IF",
+      "app_version": "1.7.7",
+      "last_seen_at": "2026-11-11 22:22:58",
+      "last_action": "[DESKTOP-6KFO8IF] Canlı MF Sorgulama (8 Ürün)",
       "today_date": "2026-11-11",
-      "today_searches": 0,
-      "today_cart_adds": 0,
-      "today_smart_orders": 0,
-      "total_searches": 231,
-      "total_cart_adds": 443,
-      "total_days_used": 7
+      "today_searches": 13,
+      "today_cart_adds": 40,
+      "today_smart_orders": 97,
+      "total_searches": 282,
+      "total_cart_adds": 678,
+      "total_days_used": 7,
+      "total_smart_orders": 70,
+      "pc_count": 3,
+      "devices": {
+        "18C1-4ECE-8490": {
+          "hwid": "18C1-4ECE-8490",
+          "pc_name": "ChagriBeg",
+          "desk_name": "ChagriBeg",
+          "local_ip": "",
+          "app_version": "1.7.2",
+          "last_seen_at": "2026-11-11 22:22:48",
+          "last_action": "Program Açıldı (Canlı)",
+          "today_date": "2026-11-11",
+          "today_searches": 0,
+          "today_cart_adds": 0,
+          "today_smart_orders": 0,
+          "total_searches": 231,
+          "total_cart_adds": 443,
+          "total_smart_orders": 0,
+          "total_days_used": 7,
+          "recent_actions": []
+        },
+        "E6B1-5698-273E": {
+          "hwid": "E6B1-5698-273E",
+          "pc_name": "DESKTOP-6KFO8IF",
+          "desk_name": "DESKTOP-6KFO8IF",
+          "local_ip": "192.168.1.104",
+          "app_version": "1.7.7",
+          "last_seen_at": "2026-11-11 22:22:58",
+          "last_action": "Canlı MF Sorgulama (8 Ürün)",
+          "today_date": "2026-11-11",
+          "today_searches": 0,
+          "today_cart_adds": 0,
+          "today_smart_orders": 13,
+          "total_searches": 10,
+          "total_cart_adds": 37,
+          "total_smart_orders": 9,
+          "total_days_used": 7,
+          "recent_actions": [
+            {
+              "t": "2026-11-11 18:25:43",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-11 18:25:43",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-11 18:25:53",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (30 Ürün)"
+            },
+            {
+              "t": "2026-11-11 18:25:54",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-11 18:26:04",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-11 18:26:04",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 69 Kalem)"
+            },
+            {
+              "t": "2026-11-11 18:26:07",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (30 Ürün)"
+            },
+            {
+              "t": "2026-11-11 18:26:07",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-11 18:26:10",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (8 Ürün)"
+            }
+          ]
+        },
+        "5834-FAC9-B71F": {
+          "hwid": "5834-FAC9-B71F",
+          "pc_name": "DESKTOP-OTHNDUE",
+          "desk_name": "DESKTOP-OTHNDUE",
+          "local_ip": "192.168.1.107",
+          "app_version": "1.7.7",
+          "last_seen_at": "2026-11-11 22:22:55",
+          "last_action": "Günün Çıkışları Yenileme (TRIA • 98 Kalem)",
+          "today_date": "2026-11-11",
+          "today_searches": 13,
+          "today_cart_adds": 40,
+          "today_smart_orders": 84,
+          "total_searches": 41,
+          "total_cart_adds": 198,
+          "total_smart_orders": 61,
+          "total_days_used": 7,
+          "recent_actions": [
+            {
+              "t": "2026-11-11 21:44:20",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 92 Kalem)"
+            },
+            {
+              "t": "2026-11-11 22:06:06",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-11 22:06:07",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 98 Kalem)"
+            },
+            {
+              "t": "2026-11-11 22:06:13",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-11 22:06:13",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 98 Kalem)"
+            },
+            {
+              "t": "2026-11-11 22:06:41",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-11 22:06:41",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 98 Kalem)"
+            },
+            {
+              "t": "2026-11-11 22:07:44",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-11 22:07:44",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 98 Kalem)"
+            },
+            {
+              "t": "2026-11-11 22:08:07",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-11 22:08:07",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 98 Kalem)"
+            },
+            {
+              "t": "2026-11-11 22:15:37",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-11 22:15:38",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 98 Kalem)"
+            },
+            {
+              "t": "2026-11-11 22:16:03",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-11 22:16:04",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 98 Kalem)"
+            }
+          ]
+        }
+      }
     },
     {
       "id": "D0EFA284",
