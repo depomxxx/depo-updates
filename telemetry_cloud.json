@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 22:22:58",
+  "updated_at": "2026-11-11 22:23:07",
   "count": 69,
   "items": [
     {
@@ -476,25 +476,25 @@
       "pharmacist_name": "GAMZE ASLAN",
       "phone": "05344064108",
       "city": "SAMSUN/ATAKUM",
-      "gln_no": "8680001000000",
+      "gln_no": "8680001134861",
       "otomasyon": "TRIA",
       "plan": "PRO_YILLIK",
       "expires_at": "2027-10-24",
       "status": "AKTIF",
-      "hwid": "E6B1-5698-273E",
-      "last_pc_name": "DESKTOP-6KFO8IF",
+      "hwid": "E4F7-229A-BABD",
+      "last_pc_name": "ChagriBeg",
       "app_version": "1.7.7",
-      "last_seen_at": "2026-11-11 22:22:58",
+      "last_seen_at": "2026-11-11 22:23:07",
       "last_action": "[DESKTOP-6KFO8IF] Canlı MF Sorgulama (8 Ürün)",
       "today_date": "2026-11-11",
       "today_searches": 13,
       "today_cart_adds": 40,
-      "today_smart_orders": 97,
-      "total_searches": 282,
-      "total_cart_adds": 678,
+      "today_smart_orders": 101,
+      "total_searches": 288,
+      "total_cart_adds": 699,
       "total_days_used": 7,
       "total_smart_orders": 70,
-      "pc_count": 3,
+      "pc_count": 4,
       "devices": {
         "18C1-4ECE-8490": {
           "hwid": "18C1-4ECE-8490",
@@ -671,6 +671,24 @@
               "detail": "Günün Çıkışları Yenileme (TRIA • 98 Kalem)"
             }
           ]
+        },
+        "E4F7-229A-BABD": {
+          "hwid": "E4F7-229A-BABD",
+          "pc_name": "ChagriBeg",
+          "desk_name": "ChagriBeg",
+          "local_ip": "192.168.1.11",
+          "app_version": "1.7.7",
+          "last_seen_at": "2026-11-11 22:23:07",
+          "last_action": "Program Açık (Canlı)",
+          "today_date": "2026-11-11",
+          "today_searches": 0,
+          "today_cart_adds": 0,
+          "today_smart_orders": 4,
+          "total_searches": 6,
+          "total_cart_adds": 21,
+          "total_smart_orders": 0,
+          "total_days_used": 7,
+          "recent_actions": []
         }
       }
     },
