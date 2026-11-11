@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 18:47:14",
+  "updated_at": "2026-11-11 18:48:13",
   "count": 19,
   "items": [
     {
@@ -13,17 +13,17 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "8FD3-5823-91F4",
-      "last_pc_name": "Eda-Bilgin",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.7.7",
-      "last_seen_at": "2026-11-11 18:47:14",
-      "last_action": "[Eda-Bilgin] Canlı MF Sorgulama (5 Ürün)",
+      "last_seen_at": "2026-11-11 18:48:15",
+      "last_action": "[DESKTOP-OTHNDUE] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-11",
-      "today_searches": 57,
-      "today_cart_adds": 117,
+      "today_searches": 58,
+      "today_cart_adds": 118,
       "today_smart_orders": 124,
-      "total_searches": 230,
-      "total_cart_adds": 438,
+      "total_searches": 231,
+      "total_cart_adds": 439,
       "total_smart_orders": 63,
       "total_days_used": 7,
       "pc_count": 5,
@@ -222,27 +222,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.7.7",
-          "last_seen_at": "2026-11-11 18:47:12",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-11 18:48:15",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-11",
-          "today_searches": 12,
-          "today_cart_adds": 35,
+          "today_searches": 13,
+          "today_cart_adds": 36,
           "today_smart_orders": 44,
-          "total_searches": 40,
-          "total_cart_adds": 193,
+          "total_searches": 41,
+          "total_cart_adds": 194,
           "total_smart_orders": 21,
           "total_days_used": 7,
           "recent_actions": [
-            {
-              "t": "2026-11-11 17:22:49",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-11 17:22:49",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 59 Kalem)"
-            },
             {
               "t": "2026-11-11 18:15:51",
               "type": "critical_stock",
@@ -307,6 +297,16 @@
               "t": "2026-11-11 18:47:12",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-11 18:47:16",
+              "type": "search",
+              "detail": "Depo Sorgu: ZADITEN 1 MG 100 ML SRP."
+            },
+            {
+              "t": "2026-11-11 18:47:24",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
@@ -380,7 +380,7 @@
           "desk_name": "Eskienes",
           "local_ip": "192.168.1.117",
           "app_version": "1.7.7",
-          "last_seen_at": "2026-11-11 18:46:48",
+          "last_seen_at": "2026-11-11 18:48:13",
           "last_action": "Canlı MF Sorgulama (7 Ürün)",
           "today_date": "2026-11-11",
           "today_searches": 14,
