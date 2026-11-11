@@ -1,7 +1,223 @@
 {
-  "updated_at": "2026-11-11 18:42:23",
-  "count": 16,
+  "updated_at": "2026-11-11 18:42:40",
+  "count": 17,
   "items": [
+    {
+      "id": "48F632F1",
+      "pharmacy_name": "EDA ECZANESI",
+      "pharmacist_name": "EDA BİLGİN",
+      "phone": "05077034200",
+      "city": "SAMSUN/İLKADIM",
+      "gln_no": "8680001112258",
+      "otomasyon": "TRIA",
+      "plan": "KURUMSAL_SINIRSIZ",
+      "expires_at": "2031-10-26",
+      "status": "AKTIF",
+      "hwid": "8FD3-5823-91F4",
+      "last_pc_name": "Eda-Bilgin",
+      "app_version": "1.7.7",
+      "last_seen_at": "2026-11-11 18:42:40",
+      "last_action": "[Eda-Bilgin] Canlı MF Sorgulama (5 Ürün)",
+      "today_date": "2026-11-11",
+      "today_searches": 31,
+      "today_cart_adds": 69,
+      "today_smart_orders": 53,
+      "total_searches": 132,
+      "total_cart_adds": 160,
+      "total_smart_orders": 21,
+      "total_days_used": 7,
+      "pc_count": 2,
+      "devices": {
+        "8FD3-5823-91F4": {
+          "hwid": "8FD3-5823-91F4",
+          "pc_name": "Eda-Bilgin",
+          "desk_name": "Eda-Bilgin",
+          "local_ip": "192.168.1.114",
+          "app_version": "1.7.7",
+          "last_seen_at": "2026-11-11 18:42:40",
+          "last_action": "Canlı MF Sorgulama (5 Ürün)",
+          "today_date": "2026-11-11",
+          "today_searches": 8,
+          "today_cart_adds": 0,
+          "today_smart_orders": 18,
+          "total_searches": 45,
+          "total_cart_adds": 9,
+          "total_smart_orders": 18,
+          "total_days_used": 7,
+          "recent_actions": [
+            {
+              "t": "2026-11-11 16:50:10",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-11 16:50:11",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (5 Ürün)"
+            },
+            {
+              "t": "2026-11-11 16:50:15",
+              "type": "search",
+              "detail": "Depo Sorgu: VENTOSAL 2 MG 150 ML SRP."
+            },
+            {
+              "t": "2026-11-11 16:50:17",
+              "type": "search",
+              "detail": "Depo Sorgu: VENTOSAL 2.5 MG 2.5 ML 20 FLK."
+            },
+            {
+              "t": "2026-11-11 16:50:17",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-11 16:50:20",
+              "type": "search",
+              "detail": "Depo Sorgu: VENTOSAL 2.5 MG 2.5 ML 20 FLK."
+            },
+            {
+              "t": "2026-11-11 16:50:51",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-11 16:50:51",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-11 16:51:01",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (30 Ürün)"
+            },
+            {
+              "t": "2026-11-11 16:51:01",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-11 16:51:16",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (30 Ürün)"
+            },
+            {
+              "t": "2026-11-11 16:51:16",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-11 16:51:28",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (30 Ürün)"
+            },
+            {
+              "t": "2026-11-11 16:51:28",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-11 16:51:31",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (5 Ürün)"
+            }
+          ]
+        },
+        "B446-9737-94C4": {
+          "hwid": "B446-9737-94C4",
+          "pc_name": "DESKTOP-5PFFU5S",
+          "desk_name": "DESKTOP-5PFFU5S",
+          "local_ip": "192.168.1.124",
+          "app_version": "1.7.7",
+          "last_seen_at": "2026-11-11 18:42:16",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "today_date": "2026-11-11",
+          "today_searches": 23,
+          "today_cart_adds": 69,
+          "today_smart_orders": 35,
+          "total_searches": 87,
+          "total_cart_adds": 151,
+          "total_smart_orders": 3,
+          "total_days_used": 5,
+          "recent_actions": [
+            {
+              "t": "2026-11-11 14:53:58",
+              "type": "search",
+              "detail": "Depo Sorgu: STERIMAR BABY DENİZ SUYU BURUN SPREYİ "
+            },
+            {
+              "t": "2026-11-11 14:53:58",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-11 14:54:03",
+              "type": "search",
+              "detail": "Depo Sorgu: STERIMAR BABY DENİZ SUYU BURUN SPREYİ "
+            },
+            {
+              "t": "2026-11-11 14:54:03",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-11 14:54:07",
+              "type": "search",
+              "detail": "Depo Sorgu: STERIMAR BABY DENİZ SUYU BURUN SPREYİ "
+            },
+            {
+              "t": "2026-11-11 15:19:41",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-11 15:19:48",
+              "type": "search",
+              "detail": "Depo Sorgu: CITOLES 15 MG 28 TB."
+            },
+            {
+              "t": "2026-11-11 15:19:48",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-11 15:19:49",
+              "type": "search",
+              "detail": "Depo Sorgu: CITOLES 15 MG 28 TB."
+            },
+            {
+              "t": "2026-11-11 15:20:05",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-11 15:20:05",
+              "type": "cart",
+              "detail": "Sepete Ekle (NEVZAT): CITOLES 15 MG.28 FILM TB. x8"
+            },
+            {
+              "t": "2026-11-11 15:20:07",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-11 17:20:59",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-11 17:21:06",
+              "type": "search",
+              "detail": "Depo Sorgu: AFERIN 300/2/10 MG 30 CAP *"
+            },
+            {
+              "t": "2026-11-11 17:21:50",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            }
+          ]
+        }
+      }
+    },
     {
       "id": "D0EFA284",
       "pharmacy_name": "ARAŞTIRMA ECZANESI",
