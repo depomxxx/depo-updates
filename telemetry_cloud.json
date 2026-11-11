@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 17:44:28",
+  "updated_at": "2026-11-11 17:44:48",
   "count": 5,
   "items": [
     {
@@ -138,16 +138,16 @@
       "hwid": "2F66-9873-3F47",
       "last_pc_name": "DESKTOP-7U0I99G",
       "app_version": "1.7.7",
-      "last_seen_at": "2026-11-11 17:43:16",
+      "last_seen_at": "2026-11-11 17:44:48",
       "last_action": "[DESKTOP-7U0I99G] Canlı MF Sorgulama (6 Ürün)",
       "today_date": "2026-11-11",
       "today_searches": 4,
       "today_cart_adds": 0,
-      "today_smart_orders": 19,
+      "today_smart_orders": 25,
       "total_searches": 17,
       "total_cart_adds": 7,
       "total_days_used": 2,
-      "total_smart_orders": 9,
+      "total_smart_orders": 15,
       "pc_count": 2,
       "devices": {
         "2F66-9873-3F47": {
@@ -156,7 +156,7 @@
           "desk_name": "DESKTOP-7U0I99G",
           "local_ip": "192.168.1.20",
           "app_version": "1.7.7",
-          "last_seen_at": "2026-11-11 17:43:16",
+          "last_seen_at": "2026-11-11 17:44:48",
           "last_action": "Canlı MF Sorgulama (6 Ürün)",
           "today_date": "2026-11-11",
           "today_searches": 0,
@@ -220,15 +220,15 @@
           "desk_name": "DESKTOP-1VQH7BB",
           "local_ip": "192.168.1.24",
           "app_version": "1.7.7",
-          "last_seen_at": "2026-11-11 17:43:14",
-          "last_action": "Depo Sorgu: DECUBAL DUDAK VE KURU BOLGE BALMI 30 M",
+          "last_seen_at": "2026-11-11 17:44:38",
+          "last_action": "Canlı MF Sorgulama (19 Ürün)",
           "today_date": "2026-11-11",
           "today_searches": 4,
           "today_cart_adds": 0,
-          "today_smart_orders": 6,
+          "today_smart_orders": 12,
           "total_searches": 11,
           "total_cart_adds": 5,
-          "total_smart_orders": 0,
+          "total_smart_orders": 6,
           "total_days_used": 2,
           "recent_actions": [
             {
@@ -250,6 +250,36 @@
               "t": "2026-11-11 17:33:15",
               "type": "search",
               "detail": "Depo Sorgu: DECUBAL DUDAK VE KURU BOLGE BALMI 30 M"
+            },
+            {
+              "t": "2026-11-11 17:43:21",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-11 17:43:21",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TEBEOS • 79 Kalem)"
+            },
+            {
+              "t": "2026-11-11 17:43:21",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-11 17:43:36",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (30 Ürün)"
+            },
+            {
+              "t": "2026-11-11 17:43:36",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-11 17:43:41",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (19 Ürün)"
             }
           ]
         }
