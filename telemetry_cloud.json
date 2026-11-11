@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 00:46:34",
+  "updated_at": "2026-11-12 00:46:42",
   "count": 69,
   "items": [
     {
@@ -608,13 +608,13 @@
       "hwid": "E4F7-229A-BABD",
       "last_pc_name": "ChagriBeg",
       "app_version": "1.8.0",
-      "last_seen_at": "2026-11-12 00:46:06",
+      "last_seen_at": "2026-11-12 00:46:42",
       "last_action": "[ChagriBeg] Depo Fiyat Sorgulama",
       "today_date": "2026-11-12",
-      "today_searches": 36,
+      "today_searches": 38,
       "today_cart_adds": 5,
       "today_smart_orders": 35,
-      "total_searches": 326,
+      "total_searches": 328,
       "total_cart_adds": 713,
       "total_days_used": 8,
       "total_smart_orders": 149,
@@ -644,7 +644,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.8.0",
-          "last_seen_at": "2026-11-12 00:46:04",
+          "last_seen_at": "2026-11-12 00:46:29",
           "last_action": "Canlı MF Sorgulama (2 Ürün)",
           "today_date": "2026-11-12",
           "today_searches": 2,
@@ -832,27 +832,17 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.8.0",
-          "last_seen_at": "2026-11-12 00:46:06",
+          "last_seen_at": "2026-11-12 00:46:42",
           "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-12",
-          "today_searches": 34,
+          "today_searches": 36,
           "today_cart_adds": 5,
           "today_smart_orders": 31,
-          "total_searches": 42,
+          "total_searches": 44,
           "total_cart_adds": 35,
           "total_smart_orders": 71,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-12 00:43:16",
-              "type": "search",
-              "detail": "Depo Sorgu: TYLOL 120 MG 100 ML PED SUSP."
-            },
-            {
-              "t": "2026-11-12 00:43:58",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş Planlama"
-            },
             {
               "t": "2026-11-12 00:44:03",
               "type": "smart_order",
@@ -915,6 +905,16 @@
             },
             {
               "t": "2026-11-12 00:46:06",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-12 00:46:10",
+              "type": "search",
+              "detail": "Depo Sorgu: ECOPIRIN 150 MG 30 TB."
+            },
+            {
+              "t": "2026-11-12 00:46:42",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
             }
