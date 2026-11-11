@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 14:07:00",
+  "updated_at": "2026-11-11 14:07:06",
   "count": 5,
   "items": [
     {
@@ -157,20 +157,20 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "8FD3-5823-91F4",
-      "last_pc_name": "Eda-Bilgin",
+      "hwid": "83F3-13F8-E632",
+      "last_pc_name": "Eskienes",
       "app_version": "1.7.7",
-      "last_seen_at": "2026-11-11 14:07:00",
+      "last_seen_at": "2026-11-11 14:07:06",
       "last_action": "[DESKTOP-5PFFU5S] Canlı MF Sorgulama (20 Ürün)",
       "today_date": "2026-11-11",
-      "today_searches": 18,
-      "today_cart_adds": 93,
-      "today_smart_orders": 80,
-      "total_searches": 369,
-      "total_cart_adds": 831,
+      "today_searches": 26,
+      "today_cart_adds": 102,
+      "today_smart_orders": 82,
+      "total_searches": 411,
+      "total_cart_adds": 875,
       "total_days_used": 8,
       "total_smart_orders": 9,
-      "pc_count": 7,
+      "pc_count": 8,
       "devices": {
         "B766-9F71-3B24": {
           "hwid": "B766-9F71-3B24",
@@ -344,6 +344,24 @@
           "total_cart_adds": 9,
           "total_smart_orders": 0,
           "total_days_used": 7,
+          "recent_actions": []
+        },
+        "83F3-13F8-E632": {
+          "hwid": "83F3-13F8-E632",
+          "pc_name": "Eskienes",
+          "desk_name": "Eskienes",
+          "local_ip": "192.168.1.117",
+          "app_version": "1.7.7",
+          "last_seen_at": "2026-11-11 14:07:06",
+          "last_action": "Program Açık (Canlı)",
+          "today_date": "2026-11-11",
+          "today_searches": 8,
+          "today_cart_adds": 9,
+          "today_smart_orders": 2,
+          "total_searches": 42,
+          "total_cart_adds": 44,
+          "total_smart_orders": 0,
+          "total_days_used": 6,
           "recent_actions": []
         }
       }
