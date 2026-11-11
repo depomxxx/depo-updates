@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 00:10:47",
+  "updated_at": "2026-11-12 00:10:48",
   "count": 69,
   "items": [
     {
@@ -13,10 +13,10 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "8FD3-5823-91F4",
-      "last_pc_name": "Eda-Bilgin",
+      "hwid": "83F3-13F8-E632",
+      "last_pc_name": "Eskienes",
       "app_version": "1.7.8",
-      "last_seen_at": "2026-11-12 00:10:47",
+      "last_seen_at": "2026-11-12 00:10:48",
       "last_action": "[Eskienes] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-12",
       "today_searches": 0,
@@ -34,7 +34,7 @@
           "desk_name": "Eskienes",
           "local_ip": "192.168.1.117",
           "app_version": "1.7.8",
-          "last_seen_at": "2026-11-12 00:09:33",
+          "last_seen_at": "2026-11-12 00:10:48",
           "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-12",
           "today_searches": 0,
