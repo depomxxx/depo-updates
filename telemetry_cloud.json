@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 14:53:59",
+  "updated_at": "2026-11-11 14:54:06",
   "count": 5,
   "items": [
     {
@@ -167,21 +167,21 @@
       "pharmacist_name": "EDA BİLGİN",
       "phone": "05077034200",
       "city": "SAMSUN/İLKADIM",
-      "gln_no": "8680001000000",
+      "gln_no": "8680001112258",
       "otomasyon": "TRIA",
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "B446-9737-94C4",
-      "last_pc_name": "DESKTOP-5PFFU5S",
+      "hwid": "83F3-13F8-E632",
+      "last_pc_name": "Eskienes",
       "app_version": "1.7.7",
-      "last_seen_at": "2026-11-11 14:54:00",
-      "last_action": "[DESKTOP-5PFFU5S] Depo Fiyat Sorgulama",
+      "last_seen_at": "2026-11-11 14:54:06",
+      "last_action": "[Eskienes] Depo Fiyat Sorgulama",
       "today_date": "2026-11-11",
-      "today_searches": 39,
+      "today_searches": 40,
       "today_cart_adds": 102,
       "today_smart_orders": 96,
-      "total_searches": 424,
+      "total_searches": 425,
       "total_cart_adds": 875,
       "total_days_used": 8,
       "total_smart_orders": 23,
@@ -447,13 +447,13 @@
           "desk_name": "Eskienes",
           "local_ip": "192.168.1.117",
           "app_version": "1.7.7",
-          "last_seen_at": "2026-11-11 14:53:29",
-          "last_action": "Canlı MF Sorgulama (2 Ürün)",
+          "last_seen_at": "2026-11-11 14:54:06",
+          "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-11",
-          "today_searches": 10,
+          "today_searches": 11,
           "today_cart_adds": 9,
           "today_smart_orders": 8,
-          "total_searches": 44,
+          "total_searches": 45,
           "total_cart_adds": 44,
           "total_smart_orders": 6,
           "total_days_used": 6,
@@ -497,6 +497,11 @@
               "t": "2026-11-11 14:44:44",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (2 Ürün)"
+            },
+            {
+              "t": "2026-11-11 14:54:06",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ]
         }
