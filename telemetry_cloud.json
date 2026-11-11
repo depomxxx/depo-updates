@@ -121,16 +121,16 @@
       "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.7.6",
       "last_seen_at": "2026-11-11 13:49:43",
-      "last_action": "Program Açık (Canlı)",
+      "last_action": "[DESKTOP-M530BBB] Canlı MF Sorgulama (6 Ürün)",
       "today_date": "2026-11-11",
-      "today_searches": 15,
-      "today_cart_adds": 31,
-      "today_smart_orders": 32,
-      "total_searches": 214,
-      "total_cart_adds": 631,
+      "today_searches": 18,
+      "today_cart_adds": 93,
+      "today_smart_orders": 67,
+      "total_searches": 281,
+      "total_cart_adds": 775,
       "total_days_used": 8,
-      "total_smart_orders": 0,
-      "pc_count": 4,
+      "total_smart_orders": 3,
+      "pc_count": 5,
       "devices": {
         "B766-9F71-3B24": {
           "hwid": "B766-9F71-3B24",
@@ -138,7 +138,7 @@
           "desk_name": "Eda-Bilgin",
           "local_ip": "192.168.1.114",
           "app_version": "1.7.6",
-          "last_seen_at": "2026-11-11 13:48:24",
+          "last_seen_at": "2026-11-11 13:48:34",
           "last_action": "Program Açık (Canlı)",
           "today_date": "2026-11-11",
           "today_searches": 0,
@@ -156,17 +156,33 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.112",
           "app_version": "1.7.6",
-          "last_seen_at": "2026-11-11 13:48:19",
-          "last_action": "Program Açık (Canlı)",
+          "last_seen_at": "2026-11-11 13:49:43",
+          "last_action": "Canlı MF Sorgulama (6 Ürün)",
           "today_date": "2026-11-11",
           "today_searches": 0,
           "today_cart_adds": 0,
-          "today_smart_orders": 7,
+          "today_smart_orders": 10,
           "total_searches": 51,
           "total_cart_adds": 47,
-          "total_smart_orders": 0,
+          "total_smart_orders": 3,
           "total_days_used": 8,
-          "recent_actions": []
+          "recent_actions": [
+            {
+              "t": "2026-11-11 13:48:27",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-11 13:48:27",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-11 13:48:31",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (6 Ürün)"
+            }
+          ]
         },
         "DCC5-A6D1-CA2F": {
           "hwid": "DCC5-A6D1-CA2F",
@@ -202,6 +218,24 @@
           "total_cart_adds": 180,
           "total_smart_orders": 0,
           "total_days_used": 7,
+          "recent_actions": []
+        },
+        "B446-9737-94C4": {
+          "hwid": "B446-9737-94C4",
+          "pc_name": "DESKTOP-5PFFU5S",
+          "desk_name": "DESKTOP-5PFFU5S",
+          "local_ip": "192.168.1.124",
+          "app_version": "1.7.6",
+          "last_seen_at": "2026-11-11 13:49:21",
+          "last_action": "Program Açık (Canlı)",
+          "today_date": "2026-11-11",
+          "today_searches": 3,
+          "today_cart_adds": 62,
+          "today_smart_orders": 32,
+          "total_searches": 67,
+          "total_cart_adds": 144,
+          "total_smart_orders": 0,
+          "total_days_used": 5,
           "recent_actions": []
         }
       }
