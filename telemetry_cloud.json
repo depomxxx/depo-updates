@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 14:06:37",
+  "updated_at": "2026-11-11 14:06:50",
   "count": 5,
   "items": [
     {
@@ -152,24 +152,24 @@
       "pharmacist_name": "EDA BİLGİN",
       "phone": "05077034200",
       "city": "SAMSUN/İLKADIM",
-      "gln_no": "8680001000000",
+      "gln_no": "8680001112258",
       "otomasyon": "TRIA",
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D719-CEB2-1542",
-      "last_pc_name": "DESKTOP-M530BBB",
+      "hwid": "B446-9737-94C4",
+      "last_pc_name": "DESKTOP-5PFFU5S",
       "app_version": "1.7.7",
-      "last_seen_at": "2026-11-11 14:06:37",
-      "last_action": "[DESKTOP-M530BBB] Canlı MF Sorgulama (6 Ürün)",
+      "last_seen_at": "2026-11-11 14:06:50",
+      "last_action": "[DESKTOP-5PFFU5S] Canlı MF Taraması",
       "today_date": "2026-11-11",
       "today_searches": 18,
       "today_cart_adds": 93,
-      "today_smart_orders": 77,
+      "today_smart_orders": 79,
       "total_searches": 332,
       "total_cart_adds": 822,
       "total_days_used": 8,
-      "total_smart_orders": 6,
+      "total_smart_orders": 8,
       "pc_count": 6,
       "devices": {
         "B766-9F71-3B24": {
@@ -178,7 +178,7 @@
           "desk_name": "Eda-Bilgin",
           "local_ip": "192.168.1.114",
           "app_version": "1.7.6",
-          "last_seen_at": "2026-11-11 14:05:19",
+          "last_seen_at": "2026-11-11 14:06:50",
           "last_action": "Program Açık (Canlı)",
           "today_date": "2026-11-11",
           "today_searches": 0,
@@ -265,18 +265,29 @@
           "pc_name": "DESKTOP-5PFFU5S",
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
-          "app_version": "1.7.6",
-          "last_seen_at": "2026-11-11 14:04:22",
-          "last_action": "Program Açık (Canlı)",
+          "app_version": "1.7.7",
+          "last_seen_at": "2026-11-11 14:06:50",
+          "last_action": "Canlı MF Taraması",
           "today_date": "2026-11-11",
           "today_searches": 3,
           "today_cart_adds": 62,
-          "today_smart_orders": 32,
+          "today_smart_orders": 34,
           "total_searches": 67,
           "total_cart_adds": 144,
-          "total_smart_orders": 0,
+          "total_smart_orders": 2,
           "total_days_used": 5,
-          "recent_actions": []
+          "recent_actions": [
+            {
+              "t": "2026-11-11 14:06:46",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-11 14:06:46",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            }
+          ]
         },
         "D719-CEB2-1542": {
           "hwid": "D719-CEB2-1542",
@@ -284,7 +295,7 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.112",
           "app_version": "1.7.7",
-          "last_seen_at": "2026-11-11 14:06:37",
+          "last_seen_at": "2026-11-11 14:06:47",
           "last_action": "Canlı MF Sorgulama (6 Ürün)",
           "today_date": "2026-11-11",
           "today_searches": 0,
