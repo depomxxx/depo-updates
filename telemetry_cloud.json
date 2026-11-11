@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 00:43:58",
+  "updated_at": "2026-11-12 00:44:21",
   "count": 69,
   "items": [
     {
@@ -608,16 +608,16 @@
       "hwid": "E4F7-229A-BABD",
       "last_pc_name": "ChagriBeg",
       "app_version": "1.7.10",
-      "last_seen_at": "2026-11-12 00:43:58",
-      "last_action": "[ChagriBeg] Toplu Sipariş Planlama",
+      "last_seen_at": "2026-11-12 00:44:21",
+      "last_action": "[ChagriBeg] Canlı MF Sorgulama (35 Ürün)",
       "today_date": "2026-11-12",
       "today_searches": 35,
       "today_cart_adds": 5,
-      "today_smart_orders": 23,
+      "today_smart_orders": 30,
       "total_searches": 325,
       "total_cart_adds": 713,
       "total_days_used": 8,
-      "total_smart_orders": 137,
+      "total_smart_orders": 144,
       "pc_count": 4,
       "devices": {
         "18C1-4ECE-8490": {
@@ -644,7 +644,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.7.10",
-          "last_seen_at": "2026-11-12 00:43:50",
+          "last_seen_at": "2026-11-12 00:44:11",
           "last_action": "Canlı MF Sorgulama (2 Ürün)",
           "today_date": "2026-11-12",
           "today_searches": 2,
@@ -832,52 +832,17 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.7.10",
-          "last_seen_at": "2026-11-12 00:43:58",
-          "last_action": "Toplu Sipariş Planlama",
+          "last_seen_at": "2026-11-12 00:44:21",
+          "last_action": "Canlı MF Sorgulama (35 Ürün)",
           "today_date": "2026-11-12",
           "today_searches": 33,
           "today_cart_adds": 5,
-          "today_smart_orders": 19,
+          "today_smart_orders": 26,
           "total_searches": 41,
           "total_cart_adds": 35,
-          "total_smart_orders": 59,
+          "total_smart_orders": 66,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-12 00:42:00",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-12 00:42:04",
-              "type": "search",
-              "detail": "Depo Sorgu: OZURDEX 0.7 MG INTR. IMPLANT."
-            },
-            {
-              "t": "2026-11-12 00:42:12",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-12 00:42:15",
-              "type": "search",
-              "detail": "Depo Sorgu: EEOSE ULTRA  FORTE SAKAL SERUMU  KAMPA"
-            },
-            {
-              "t": "2026-11-12 00:42:26",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-12 00:42:27",
-              "type": "search",
-              "detail": "Depo Sorgu: OZAPRIN 5 MG 28 FTB"
-            },
-            {
-              "t": "2026-11-12 00:42:35",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-12 00:42:37",
               "type": "search",
@@ -917,6 +882,41 @@
               "t": "2026-11-12 00:43:58",
               "type": "smart_order",
               "detail": "Toplu Sipariş Planlama"
+            },
+            {
+              "t": "2026-11-12 00:44:03",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş (TRIA • 28 Kalem)"
+            },
+            {
+              "t": "2026-11-12 00:44:04",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-12 00:44:04",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş Planlama"
+            },
+            {
+              "t": "2026-11-12 00:44:06",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (6 Ürün)"
+            },
+            {
+              "t": "2026-11-12 00:44:09",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş (TRIA • 245 Kalem)"
+            },
+            {
+              "t": "2026-11-12 00:44:09",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-12 00:44:21",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (35 Ürün)"
             }
           ]
         }
