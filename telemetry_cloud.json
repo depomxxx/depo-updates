@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 00:30:01",
+  "updated_at": "2026-11-12 00:30:09",
   "count": 69,
   "items": [
     {
@@ -31158,13 +31158,13 @@
       "hwid": "1A4A-8625-6A54",
       "last_pc_name": "Cicobey",
       "app_version": "1.5.9",
-      "last_seen_at": "2026-11-12 00:28:25",
-      "last_action": "[Cicobey] Depo Fiyat Sorgulama",
+      "last_seen_at": "2026-11-12 00:30:09",
+      "last_action": "[Cicobey] Depo Sorgu: TYLOL HOT DAY 12 POS",
       "today_date": "2026-11-12",
-      "today_searches": 1,
+      "today_searches": 2,
       "today_cart_adds": 0,
       "today_smart_orders": 0,
-      "total_searches": 99,
+      "total_searches": 100,
       "total_cart_adds": 460,
       "total_days_used": 9,
       "total_smart_orders": 46,
@@ -31344,22 +31344,17 @@
           "desk_name": "Cicobey",
           "local_ip": "192.168.1.197",
           "app_version": "1.5.9",
-          "last_seen_at": "2026-11-12 00:28:25",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-12 00:30:09",
+          "last_action": "Depo Sorgu: TYLOL HOT DAY 12 POS",
           "today_date": "2026-11-12",
-          "today_searches": 1,
+          "today_searches": 2,
           "today_cart_adds": 0,
           "today_smart_orders": 0,
-          "total_searches": 35,
+          "total_searches": 36,
           "total_cart_adds": 62,
           "total_smart_orders": 19,
           "total_days_used": 9,
           "recent_actions": [
-            {
-              "t": "2026-11-11 13:56:09",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (BOTANIK • 46 Kalem)"
-            },
             {
               "t": "2026-11-11 13:56:10",
               "type": "mf_resolve",
@@ -31429,6 +31424,11 @@
               "t": "2026-11-12 00:28:25",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-12 00:28:39",
+              "type": "search",
+              "detail": "Depo Sorgu: TYLOL HOT DAY 12 POS"
             }
           ]
         }
