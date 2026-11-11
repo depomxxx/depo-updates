@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 19:17:36",
+  "updated_at": "2026-11-11 19:18:41",
   "count": 30,
   "items": [
     {
@@ -13,20 +13,20 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "8FD3-5823-91F4",
-      "last_pc_name": "Eda-Bilgin",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.7.7",
-      "last_seen_at": "2026-11-11 19:17:36",
-      "last_action": "[Eda-Bilgin] Canlı MF Sorgulama (5 Ürün)",
+      "last_seen_at": "2026-11-11 19:18:42",
+      "last_action": "[DESKTOP-OTHNDUE] Sepete Ekle (ALLIANCE): SEF 1 GR 20 TB x1",
       "today_date": "2026-11-11",
-      "today_searches": 31,
-      "today_cart_adds": 69,
-      "today_smart_orders": 53,
-      "total_searches": 132,
-      "total_cart_adds": 160,
-      "total_smart_orders": 21,
+      "today_searches": 58,
+      "today_cart_adds": 122,
+      "today_smart_orders": 117,
+      "total_searches": 221,
+      "total_cart_adds": 406,
+      "total_smart_orders": 60,
       "total_days_used": 7,
-      "pc_count": 2,
+      "pc_count": 4,
       "devices": {
         "8FD3-5823-91F4": {
           "hwid": "8FD3-5823-91F4",
@@ -213,6 +213,194 @@
               "t": "2026-11-11 17:21:50",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            }
+          ]
+        },
+        "83F3-13F8-E632": {
+          "hwid": "83F3-13F8-E632",
+          "pc_name": "Eskienes",
+          "desk_name": "Eskienes",
+          "local_ip": "192.168.1.117",
+          "app_version": "1.7.7",
+          "last_seen_at": "2026-11-11 19:18:41",
+          "last_action": "Canlı MF Sorgulama (7 Ürün)",
+          "today_date": "2026-11-11",
+          "today_searches": 14,
+          "today_cart_adds": 13,
+          "today_smart_orders": 14,
+          "total_searches": 48,
+          "total_cart_adds": 48,
+          "total_smart_orders": 12,
+          "total_days_used": 6,
+          "recent_actions": [
+            {
+              "t": "2026-11-11 14:44:42",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-11 14:44:42",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-11 14:44:44",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (2 Ürün)"
+            },
+            {
+              "t": "2026-11-11 14:54:06",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-11 14:54:10",
+              "type": "search",
+              "detail": "Depo Sorgu: CALIRA-MET XR 5/1000 MG 56 FTB"
+            },
+            {
+              "t": "2026-11-11 15:03:44",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-11 15:03:46",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): CALIRA MET XR 5 1000 MG 56 T x1"
+            },
+            {
+              "t": "2026-11-11 15:04:12",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-11 15:37:51",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-11 15:37:52",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-11 15:38:00",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-11 15:38:03",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (30 Ürün)"
+            },
+            {
+              "t": "2026-11-11 15:38:03",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-11 15:38:03",
+              "type": "search",
+              "detail": "Depo Sorgu: ALATAB 600 MG 30 FTB."
+            },
+            {
+              "t": "2026-11-11 15:38:12",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (7 Ürün)"
+            }
+          ]
+        },
+        "5834-FAC9-B71F": {
+          "hwid": "5834-FAC9-B71F",
+          "pc_name": "DESKTOP-OTHNDUE",
+          "desk_name": "DESKTOP-OTHNDUE",
+          "local_ip": "192.168.1.107",
+          "app_version": "1.7.7",
+          "last_seen_at": "2026-11-11 19:18:42",
+          "last_action": "Sepete Ekle (ALLIANCE): SEF 1 GR 20 TB x1",
+          "today_date": "2026-11-11",
+          "today_searches": 13,
+          "today_cart_adds": 40,
+          "today_smart_orders": 50,
+          "total_searches": 41,
+          "total_cart_adds": 198,
+          "total_smart_orders": 27,
+          "total_days_used": 7,
+          "recent_actions": [
+            {
+              "t": "2026-11-11 18:46:57",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-11 18:47:01",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): MOMECON %0,1 POMAT 30 GR x1"
+            },
+            {
+              "t": "2026-11-11 18:47:12",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-11 18:47:16",
+              "type": "search",
+              "detail": "Depo Sorgu: ZADITEN 1 MG 100 ML SRP."
+            },
+            {
+              "t": "2026-11-11 18:47:24",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-11 18:48:20",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-11 18:48:21",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 72 Kalem)"
+            },
+            {
+              "t": "2026-11-11 18:48:46",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-11 18:48:47",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 72 Kalem)"
+            },
+            {
+              "t": "2026-11-11 19:01:00",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-11 19:01:00",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 75 Kalem)"
+            },
+            {
+              "t": "2026-11-11 19:01:04",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-11 19:01:07",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): ACNELYSE KREM %0.05 20G TÜP/ x1"
+            },
+            {
+              "t": "2026-11-11 19:01:10",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-11 19:01:12",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): SEF 1 GR 20 TB x1"
             }
           ]
         }
