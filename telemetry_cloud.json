@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 00:03:11",
+  "updated_at": "2026-11-12 00:03:22",
   "count": 69,
   "items": [
     {
@@ -578,16 +578,16 @@
       "hwid": "E4F7-229A-BABD",
       "last_pc_name": "ChagriBeg",
       "app_version": "1.7.8",
-      "last_seen_at": "2026-11-12 00:03:00",
-      "last_action": "[ChagriBeg] Canlı MF Sorgulama (35 Ürün)",
+      "last_seen_at": "2026-11-12 00:03:22",
+      "last_action": "[ChagriBeg] Toplu Sipariş Planlama",
       "today_date": "2026-11-12",
       "today_searches": 0,
-      "today_cart_adds": 0,
-      "today_smart_orders": 7,
+      "today_cart_adds": 4,
+      "today_smart_orders": 12,
       "total_searches": 290,
-      "total_cart_adds": 708,
+      "total_cart_adds": 712,
       "total_days_used": 8,
-      "total_smart_orders": 121,
+      "total_smart_orders": 126,
       "pc_count": 4,
       "devices": {
         "18C1-4ECE-8490": {
@@ -772,57 +772,17 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.7.8",
-          "last_seen_at": "2026-11-12 00:03:00",
-          "last_action": "Canlı MF Sorgulama (35 Ürün)",
+          "last_seen_at": "2026-11-12 00:03:22",
+          "last_action": "Toplu Sipariş Planlama",
           "today_date": "2026-11-12",
           "today_searches": 0,
-          "today_cart_adds": 0,
-          "today_smart_orders": 7,
+          "today_cart_adds": 4,
+          "today_smart_orders": 12,
           "total_searches": 8,
-          "total_cart_adds": 30,
-          "total_smart_orders": 47,
+          "total_cart_adds": 34,
+          "total_smart_orders": 52,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-11 23:31:02",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-11 23:31:02",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (1 Ürün)"
-            },
-            {
-              "t": "2026-11-11 23:42:14",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-11 23:42:14",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-11 23:42:15",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (3 Ürün)"
-            },
-            {
-              "t": "2026-11-11 23:46:39",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-11 23:46:43",
-              "type": "search",
-              "detail": "Depo Sorgu: AUGMENTIN BID 1 GR 14 FTB."
-            },
-            {
-              "t": "2026-11-11 23:49:35",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-12 00:02:12",
               "type": "critical_stock",
@@ -857,6 +817,46 @@
               "t": "2026-11-12 00:03:00",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (35 Ürün)"
+            },
+            {
+              "t": "2026-11-12 00:03:00",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-12 00:03:05",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (13 Ürün)"
+            },
+            {
+              "t": "2026-11-12 00:03:08",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-12 00:03:08",
+              "type": "cart",
+              "detail": "Toplu Sepet (SELCUK): 1 Kalem"
+            },
+            {
+              "t": "2026-11-12 00:03:08",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş Planlama"
+            },
+            {
+              "t": "2026-11-12 00:03:09",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş (TRIA • 246 Kalem)"
+            },
+            {
+              "t": "2026-11-12 00:03:12",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-12 00:03:22",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş Planlama"
             }
           ]
         }
