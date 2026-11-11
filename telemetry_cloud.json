@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 00:50:02",
+  "updated_at": "2026-11-12 00:50:09",
   "count": 69,
   "items": [
     {
@@ -8,22 +8,22 @@
       "pharmacist_name": "GAMZE ASLAN",
       "phone": "05344064108",
       "city": "SAMSUN/ATAKUM",
-      "gln_no": "8680001134861",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "PRO_YILLIK",
       "expires_at": "2027-10-24",
       "status": "AKTIF",
-      "hwid": "E4F7-229A-BABD",
-      "last_pc_name": "ChagriBeg",
+      "hwid": "E6B1-5698-273E",
+      "last_pc_name": "DESKTOP-6KFO8IF",
       "app_version": "1.8.0",
-      "last_seen_at": "2026-11-12 00:49:59",
-      "last_action": "[ChagriBeg] EczaneTakas Kampanya Açıldı: TUSCOD 7.5 MG 100 ML SRP. (30+33)",
+      "last_seen_at": "2026-11-12 00:50:09",
+      "last_action": "[DESKTOP-6KFO8IF] EczaneTakas Kampanya Açıldı: PULCET 40 MG 28 TB (30+4)",
       "today_date": "2026-11-12",
       "today_searches": 43,
-      "today_cart_adds": 6,
+      "today_cart_adds": 7,
       "today_smart_orders": 53,
       "total_searches": 282,
-      "total_cart_adds": 479,
+      "total_cart_adds": 480,
       "total_smart_orders": 200,
       "total_days_used": 8,
       "pc_count": 6,
@@ -128,7 +128,7 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.8.0",
-          "last_seen_at": "2026-11-12 00:49:18",
+          "last_seen_at": "2026-11-12 00:50:02",
           "last_action": "Günün Çıkışları Yenileme (TRIA • 12 Kalem)",
           "today_date": "2026-11-12",
           "today_searches": 0,
@@ -410,22 +410,17 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.8.0",
-          "last_seen_at": "2026-11-12 00:49:49",
-          "last_action": "Depo Sorgu: PULCET 40 MG 28 TB",
+          "last_seen_at": "2026-11-12 00:50:09",
+          "last_action": "EczaneTakas Kampanya Açıldı: PULCET 40 MG 28 TB (30+4)",
           "today_date": "2026-11-12",
           "today_searches": 4,
-          "today_cart_adds": 0,
+          "today_cart_adds": 1,
           "today_smart_orders": 8,
           "total_searches": 14,
-          "total_cart_adds": 37,
+          "total_cart_adds": 38,
           "total_smart_orders": 17,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-11 18:26:07",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (30 Ürün)"
-            },
             {
               "t": "2026-11-11 18:26:07",
               "type": "mf_resolve",
@@ -495,6 +490,11 @@
               "t": "2026-11-12 00:49:39",
               "type": "search",
               "detail": "Depo Sorgu: PULCET 40 MG 28 TB"
+            },
+            {
+              "t": "2026-11-12 00:50:09",
+              "type": "cart",
+              "detail": "EczaneTakas Kampanya Açıldı: PULCET 40 MG 28 TB (30+4)"
             }
           ]
         },
