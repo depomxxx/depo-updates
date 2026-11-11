@@ -1,11 +1,11 @@
 {
-  "version": "1.7.5",
+  "version": "1.7.6",
   "app_name": "Farma Radar",
-  "release_date": "2026-11-10 15:45:43",
+  "release_date": "2026-11-11 13:47:27",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.7.5.zip?t=1794314744",
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.7.6.zip?t=1794394049",
   "sha256": "",
-  "package_sha256": "e3caf9ff56478ba41cb7eccf6ba2afc02c8642cce20cf89f69d80a3eb308b5e8",
-  "size_kb": 735.5,
-  "changelog": "v1.7.5: TEBEOS Toplu Sipariş & 6 Aylık Akıllı Sipariş modülünde sorgu hatası giderildi, geçmiş MF alım geçmişi entegre edildi ve ARP tabanlı hızlı TEBEOS sunucu keşfi eklendi."
+  "package_sha256": "b296575e7a1b1ace49637ab847bc6a4c32d6f461e60f7edf88e5e0b32a680703",
+  "size_kb": 739.3,
+  "changelog": "v1.7.6: Bilgisayar bazlı (Çoklu PC) canlı kullanım ve aktivite takibi eklendi; her bilgisayarın sorgu, sepet, toplu sipariş sayaçları ve saatli işlem geçmişi merkezi lisans paneline entegre edildi."
 }
