@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 15:38:10",
+  "updated_at": "2026-11-11 15:38:12",
   "count": 5,
   "items": [
     {
@@ -212,24 +212,24 @@
       "pharmacist_name": "EDA BİLGİN",
       "phone": "05077034200",
       "city": "SAMSUN/İLKADIM",
-      "gln_no": "8680001000000",
+      "gln_no": "8680001112258",
       "otomasyon": "TRIA",
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D719-CEB2-1542",
-      "last_pc_name": "DESKTOP-M530BBB",
+      "hwid": "83F3-13F8-E632",
+      "last_pc_name": "Eskienes",
       "app_version": "1.7.7",
-      "last_seen_at": "2026-11-11 15:38:10",
-      "last_action": "[DESKTOP-M530BBB] Canlı MF Sorgulama (15 Ürün)",
+      "last_seen_at": "2026-11-11 15:38:12",
+      "last_action": "[Eskienes] Canlı MF Sorgulama (7 Ürün)",
       "today_date": "2026-11-11",
       "today_searches": 50,
       "today_cart_adds": 111,
-      "today_smart_orders": 101,
+      "today_smart_orders": 102,
       "total_searches": 435,
       "total_cart_adds": 884,
       "total_days_used": 8,
-      "total_smart_orders": 28,
+      "total_smart_orders": 29,
       "pc_count": 8,
       "devices": {
         "B766-9F71-3B24": {
@@ -512,22 +512,17 @@
           "desk_name": "Eskienes",
           "local_ip": "192.168.1.117",
           "app_version": "1.7.7",
-          "last_seen_at": "2026-11-11 15:38:03",
-          "last_action": "Depo Sorgu: ALATAB 600 MG 30 FTB.",
+          "last_seen_at": "2026-11-11 15:38:12",
+          "last_action": "Canlı MF Sorgulama (7 Ürün)",
           "today_date": "2026-11-11",
           "today_searches": 14,
           "today_cart_adds": 13,
-          "today_smart_orders": 13,
+          "today_smart_orders": 14,
           "total_searches": 48,
           "total_cart_adds": 48,
-          "total_smart_orders": 11,
+          "total_smart_orders": 12,
           "total_days_used": 6,
           "recent_actions": [
-            {
-              "t": "2026-11-11 14:41:49",
-              "type": "search",
-              "detail": "Depo Sorgu: SORDENA 10 MG FILM KAPLI TABLE"
-            },
             {
               "t": "2026-11-11 14:44:42",
               "type": "critical_stock",
@@ -597,6 +592,11 @@
               "t": "2026-11-11 15:38:03",
               "type": "search",
               "detail": "Depo Sorgu: ALATAB 600 MG 30 FTB."
+            },
+            {
+              "t": "2026-11-11 15:38:12",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (7 Ürün)"
             }
           ]
         }
