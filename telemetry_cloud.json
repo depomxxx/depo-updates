@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 19:35:02",
+  "updated_at": "2026-11-11 19:35:26",
   "count": 34,
   "items": [
     {
@@ -8,23 +8,23 @@
       "pharmacist_name": "EDA BİLGİN",
       "phone": "05077034200",
       "city": "SAMSUN/İLKADIM",
-      "gln_no": "8680001000000",
+      "gln_no": "8680001112258",
       "otomasyon": "TRIA",
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "5834-FAC9-B71F",
-      "last_pc_name": "DESKTOP-OTHNDUE",
+      "hwid": "83F3-13F8-E632",
+      "last_pc_name": "Eskienes",
       "app_version": "1.7.7",
-      "last_seen_at": "2026-11-11 19:35:02",
-      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-11 19:35:26",
+      "last_action": "[Eskienes] Canlı MF Sorgulama (7 Ürün)",
       "today_date": "2026-11-11",
       "today_searches": 58,
       "today_cart_adds": 122,
-      "today_smart_orders": 133,
+      "today_smart_orders": 134,
       "total_searches": 231,
       "total_cart_adds": 443,
-      "total_smart_orders": 72,
+      "total_smart_orders": 73,
       "total_days_used": 7,
       "pc_count": 5,
       "devices": {
@@ -222,22 +222,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.7.7",
-          "last_seen_at": "2026-11-11 19:35:02",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-11 19:35:20",
+          "last_action": "Günün Çıkışları Yenileme (TRIA • 82 Kalem)",
           "today_date": "2026-11-11",
           "today_searches": 13,
           "today_cart_adds": 40,
-          "today_smart_orders": 53,
+          "today_smart_orders": 54,
           "total_searches": 41,
           "total_cart_adds": 198,
-          "total_smart_orders": 30,
+          "total_smart_orders": 31,
           "total_days_used": 7,
           "recent_actions": [
-            {
-              "t": "2026-11-11 18:47:16",
-              "type": "search",
-              "detail": "Depo Sorgu: ZADITEN 1 MG 100 ML SRP."
-            },
             {
               "t": "2026-11-11 18:47:24",
               "type": "cart",
@@ -307,6 +302,11 @@
               "t": "2026-11-11 19:35:02",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-11 19:35:02",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 82 Kalem)"
             }
           ]
         },
@@ -380,7 +380,7 @@
           "desk_name": "Eskienes",
           "local_ip": "192.168.1.117",
           "app_version": "1.7.7",
-          "last_seen_at": "2026-11-11 19:34:48",
+          "last_seen_at": "2026-11-11 19:35:26",
           "last_action": "Canlı MF Sorgulama (7 Ürün)",
           "today_date": "2026-11-11",
           "today_searches": 14,
