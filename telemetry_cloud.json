@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 15:05:56",
+  "updated_at": "2026-11-11 15:04:12",
   "count": 5,
   "items": [
     {
@@ -172,17 +172,17 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "8FD3-5823-91F4",
-      "last_pc_name": "Eda-Bilgin",
+      "hwid": "83F3-13F8-E632",
+      "last_pc_name": "Eskienes",
       "app_version": "1.7.7",
-      "last_seen_at": "2026-11-11 15:03:30",
-      "last_action": "[Eskienes] Depo Sorgu: CALIRA-MET XR 5/1000 MG 56 FTB",
+      "last_seen_at": "2026-11-11 15:04:12",
+      "last_action": "[Eskienes] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-11",
       "today_searches": 44,
-      "today_cart_adds": 102,
+      "today_cart_adds": 105,
       "today_smart_orders": 96,
       "total_searches": 429,
-      "total_cart_adds": 875,
+      "total_cart_adds": 878,
       "total_days_used": 8,
       "total_smart_orders": 23,
       "pc_count": 8,
@@ -462,14 +462,14 @@
           "desk_name": "Eskienes",
           "local_ip": "192.168.1.117",
           "app_version": "1.7.7",
-          "last_seen_at": "2026-11-11 15:03:29",
-          "last_action": "Depo Sorgu: CALIRA-MET XR 5/1000 MG 56 FTB",
+          "last_seen_at": "2026-11-11 15:04:12",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-11",
           "today_searches": 12,
-          "today_cart_adds": 9,
+          "today_cart_adds": 12,
           "today_smart_orders": 8,
           "total_searches": 46,
-          "total_cart_adds": 44,
+          "total_cart_adds": 47,
           "total_smart_orders": 6,
           "total_days_used": 6,
           "recent_actions": [
@@ -522,6 +522,21 @@
               "t": "2026-11-11 14:54:10",
               "type": "search",
               "detail": "Depo Sorgu: CALIRA-MET XR 5/1000 MG 56 FTB"
+            },
+            {
+              "t": "2026-11-11 15:03:44",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-11 15:03:46",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): CALIRA MET XR 5 1000 MG 56 T x1"
+            },
+            {
+              "t": "2026-11-11 15:04:12",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         }
