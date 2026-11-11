@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 14:13:27",
+  "updated_at": "2026-11-11 14:15:39",
   "count": 5,
   "items": [
     {
@@ -419,7 +419,7 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.7.7",
-      "last_seen_at": "2026-11-11 14:14:07",
+      "last_seen_at": "2026-11-11 14:15:39",
       "last_action": "[DESKTOP-T4EAUS3] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-11",
       "today_searches": 5,
@@ -511,7 +511,7 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.7.7",
-          "last_seen_at": "2026-11-11 14:14:07",
+          "last_seen_at": "2026-11-11 14:15:39",
           "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-11",
           "today_searches": 5,
@@ -575,7 +575,7 @@
           "desk_name": "Cicobey",
           "local_ip": "192.168.1.43",
           "app_version": "1.5.9",
-          "last_seen_at": "2026-11-11 14:13:23",
+          "last_seen_at": "2026-11-11 14:13:24",
           "last_action": "Günün Çıkışları Yenileme (BOTANIK • 46 Kalem)",
           "today_date": "2026-11-11",
           "today_searches": 0,
