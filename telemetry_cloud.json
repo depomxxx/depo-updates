@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 17:32:20",
+  "updated_at": "2026-11-11 17:32:31",
   "count": 5,
   "items": [
     {
@@ -138,17 +138,17 @@
       "hwid": "2F66-9873-3F47",
       "last_pc_name": "DESKTOP-7U0I99G",
       "app_version": "1.7.7",
-      "last_seen_at": "2026-11-11 17:31:07",
-      "last_action": "Canlı MF Sorgulama (6 Ürün)",
+      "last_seen_at": "2026-11-11 17:32:31",
+      "last_action": "[DESKTOP-7U0I99G] Canlı MF Sorgulama (6 Ürün)",
       "today_date": "2026-11-11",
       "today_searches": 0,
       "today_cart_adds": 0,
-      "today_smart_orders": 13,
-      "total_searches": 6,
-      "total_cart_adds": 2,
+      "today_smart_orders": 19,
+      "total_searches": 13,
+      "total_cart_adds": 7,
       "total_days_used": 2,
       "total_smart_orders": 9,
-      "pc_count": 1,
+      "pc_count": 2,
       "devices": {
         "2F66-9873-3F47": {
           "hwid": "2F66-9873-3F47",
@@ -156,7 +156,7 @@
           "desk_name": "DESKTOP-7U0I99G",
           "local_ip": "192.168.1.20",
           "app_version": "1.7.7",
-          "last_seen_at": "2026-11-11 17:31:07",
+          "last_seen_at": "2026-11-11 17:32:31",
           "last_action": "Canlı MF Sorgulama (6 Ürün)",
           "today_date": "2026-11-11",
           "today_searches": 0,
@@ -213,6 +213,24 @@
               "detail": "Canlı MF Sorgulama (6 Ürün)"
             }
           ]
+        },
+        "4F8E-903D-4844": {
+          "hwid": "4F8E-903D-4844",
+          "pc_name": "DESKTOP-1VQH7BB",
+          "desk_name": "DESKTOP-1VQH7BB",
+          "local_ip": "192.168.1.24",
+          "app_version": "1.7.7",
+          "last_seen_at": "2026-11-11 17:32:25",
+          "last_action": "Program Açık (Canlı)",
+          "today_date": "2026-11-11",
+          "today_searches": 0,
+          "today_cart_adds": 0,
+          "today_smart_orders": 6,
+          "total_searches": 7,
+          "total_cart_adds": 5,
+          "total_smart_orders": 0,
+          "total_days_used": 2,
+          "recent_actions": []
         }
       }
     },
