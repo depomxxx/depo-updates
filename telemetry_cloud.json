@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 00:53:05",
+  "updated_at": "2026-11-12 00:53:01",
   "count": 69,
   "items": [
     {
@@ -928,7 +928,7 @@
       "pharmacist_name": "EDA BİLGİN",
       "phone": "05077034200",
       "city": "SAMSUN/İLKADIM",
-      "gln_no": "8680001000000",
+      "gln_no": "8680001112258",
       "otomasyon": "TRIA",
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
@@ -1141,8 +1141,8 @@
           "pc_name": "Eda-Bilgin",
           "desk_name": "Eda-Bilgin",
           "local_ip": "192.168.1.114",
-          "app_version": "1.7.9",
-          "last_seen_at": "2026-11-12 00:23:15",
+          "app_version": "1.8.0",
+          "last_seen_at": "2026-11-12 00:53:01",
           "last_action": "Program Açık (Canlı)",
           "today_date": "2026-11-12",
           "today_searches": 0,
@@ -1235,8 +1235,8 @@
           "pc_name": "DESKTOP-5PFFU5S",
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
-          "app_version": "1.7.9",
-          "last_seen_at": "2026-11-12 00:23:04",
+          "app_version": "1.8.0",
+          "last_seen_at": "2026-11-12 00:52:36",
           "last_action": "Program Açık (Canlı)",
           "today_date": "2026-11-12",
           "today_searches": 0,
