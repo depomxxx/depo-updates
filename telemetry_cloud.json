@@ -1,7 +1,223 @@
 {
-  "updated_at": "2026-11-11 23:34:31",
-  "count": 69,
+  "updated_at": "2026-11-11 23:34:25",
+  "count": 70,
   "items": [
+    {
+      "id": "48F632F1",
+      "pharmacy_name": "EDA ECZANESI",
+      "pharmacist_name": "",
+      "phone": "",
+      "city": "",
+      "gln_no": "8680001112258",
+      "otomasyon": "TRIA",
+      "plan": "KURUMSAL_SINIRSIZ",
+      "expires_at": "2031-10-26",
+      "status": "AKTIF",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
+      "app_version": "1.7.7",
+      "last_seen_at": "2026-11-11 23:34:26",
+      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları Yenileme (TRIA • 117 Kalem)",
+      "today_date": "2026-11-11",
+      "today_searches": 27,
+      "today_cart_adds": 53,
+      "today_smart_orders": 102,
+      "total_searches": 89,
+      "total_cart_adds": 246,
+      "total_smart_orders": 77,
+      "total_days_used": 7,
+      "pc_count": 2,
+      "devices": {
+        "83F3-13F8-E632": {
+          "hwid": "83F3-13F8-E632",
+          "pc_name": "Eskienes",
+          "desk_name": "Eskienes",
+          "local_ip": "192.168.1.117",
+          "app_version": "1.7.7",
+          "last_seen_at": "2026-11-11 23:34:25",
+          "last_action": "Canlı MF Sorgulama (7 Ürün)",
+          "today_date": "2026-11-11",
+          "today_searches": 14,
+          "today_cart_adds": 13,
+          "today_smart_orders": 14,
+          "total_searches": 48,
+          "total_cart_adds": 48,
+          "total_smart_orders": 12,
+          "total_days_used": 6,
+          "recent_actions": [
+            {
+              "t": "2026-11-11 14:44:42",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-11 14:44:42",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-11 14:44:44",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (2 Ürün)"
+            },
+            {
+              "t": "2026-11-11 14:54:06",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-11 14:54:10",
+              "type": "search",
+              "detail": "Depo Sorgu: CALIRA-MET XR 5/1000 MG 56 FTB"
+            },
+            {
+              "t": "2026-11-11 15:03:44",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-11 15:03:46",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): CALIRA MET XR 5 1000 MG 56 T x1"
+            },
+            {
+              "t": "2026-11-11 15:04:12",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-11 15:37:51",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-11 15:37:52",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-11 15:38:00",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-11 15:38:03",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (30 Ürün)"
+            },
+            {
+              "t": "2026-11-11 15:38:03",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-11 15:38:03",
+              "type": "search",
+              "detail": "Depo Sorgu: ALATAB 600 MG 30 FTB."
+            },
+            {
+              "t": "2026-11-11 15:38:12",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (7 Ürün)"
+            }
+          ]
+        },
+        "5834-FAC9-B71F": {
+          "hwid": "5834-FAC9-B71F",
+          "pc_name": "DESKTOP-OTHNDUE",
+          "desk_name": "DESKTOP-OTHNDUE",
+          "local_ip": "192.168.1.107",
+          "app_version": "1.7.7",
+          "last_seen_at": "2026-11-11 23:34:26",
+          "last_action": "Günün Çıkışları Yenileme (TRIA • 117 Kalem)",
+          "today_date": "2026-11-11",
+          "today_searches": 13,
+          "today_cart_adds": 40,
+          "today_smart_orders": 88,
+          "total_searches": 41,
+          "total_cart_adds": 198,
+          "total_smart_orders": 65,
+          "total_days_used": 7,
+          "recent_actions": [
+            {
+              "t": "2026-11-11 22:06:13",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 98 Kalem)"
+            },
+            {
+              "t": "2026-11-11 22:06:41",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-11 22:06:41",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 98 Kalem)"
+            },
+            {
+              "t": "2026-11-11 22:07:44",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-11 22:07:44",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 98 Kalem)"
+            },
+            {
+              "t": "2026-11-11 22:08:07",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-11 22:08:07",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 98 Kalem)"
+            },
+            {
+              "t": "2026-11-11 22:15:37",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-11 22:15:38",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 98 Kalem)"
+            },
+            {
+              "t": "2026-11-11 22:16:03",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-11 22:16:04",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 98 Kalem)"
+            },
+            {
+              "t": "2026-11-11 22:25:50",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-11 22:25:50",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 110 Kalem)"
+            },
+            {
+              "t": "2026-11-11 22:52:23",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-11 22:52:23",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 117 Kalem)"
+            }
+          ]
+        }
+      }
+    },
     {
       "id": "D0EFA284",
       "pharmacy_name": "ARAŞTIRMA ECZANESI",
