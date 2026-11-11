@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 11:38:36",
+  "updated_at": "2026-11-11 11:38:42",
   "count": 4,
   "items": [
     {
@@ -64,12 +64,12 @@
       "hwid": "2DED-CFF9-D593",
       "last_pc_name": "DESKTOP-8JN0NE5",
       "app_version": "1.7.5",
-      "last_seen_at": "2026-11-11 11:37:26",
-      "last_action": "Canlı MF Taraması",
+      "last_seen_at": "2026-11-11 11:38:42",
+      "last_action": "Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-11",
       "today_searches": 3,
-      "today_cart_adds": 1,
-      "today_smart_orders": 6,
+      "today_cart_adds": 4,
+      "today_smart_orders": 7,
       "total_searches": 10,
       "total_cart_adds": 37,
       "total_days_used": 6
