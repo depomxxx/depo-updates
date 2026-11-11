@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 13:47:22",
+  "updated_at": "2026-11-11 13:47:49",
   "count": 5,
   "items": [
     {
@@ -112,15 +112,37 @@
       "hwid": "9985-0025-3852",
       "last_pc_name": "Cicobey",
       "app_version": "1.5.9",
-      "last_seen_at": "2026-11-11 13:47:19",
-      "last_action": "Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-11 13:47:49",
+      "last_action": "Program Açık (Canlı)",
       "today_date": "2026-11-11",
       "today_searches": 0,
       "today_cart_adds": 0,
       "today_smart_orders": 1,
       "total_searches": 34,
       "total_cart_adds": 196,
-      "total_days_used": 8
+      "total_days_used": 8,
+      "total_smart_orders": 0,
+      "pc_count": 1,
+      "devices": {
+        "9985-0025-3852": {
+          "hwid": "9985-0025-3852",
+          "pc_name": "Cicobey",
+          "desk_name": "Cicobey",
+          "local_ip": "192.168.1.43",
+          "app_version": "1.5.9",
+          "last_seen_at": "2026-11-11 13:47:49",
+          "last_action": "Program Açık (Canlı)",
+          "today_date": "2026-11-11",
+          "today_searches": 0,
+          "today_cart_adds": 0,
+          "today_smart_orders": 1,
+          "total_searches": 34,
+          "total_cart_adds": 196,
+          "total_smart_orders": 0,
+          "total_days_used": 8,
+          "recent_actions": []
+        }
+      }
     }
   ]
 }
