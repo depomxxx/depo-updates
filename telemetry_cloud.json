@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 22:23:07",
+  "updated_at": "2026-11-11 22:24:22",
   "count": 69,
   "items": [
     {
@@ -484,16 +484,16 @@
       "hwid": "E4F7-229A-BABD",
       "last_pc_name": "ChagriBeg",
       "app_version": "1.7.7",
-      "last_seen_at": "2026-11-11 22:23:07",
-      "last_action": "[DESKTOP-6KFO8IF] Canlı MF Sorgulama (8 Ürün)",
+      "last_seen_at": "2026-11-11 22:24:22",
+      "last_action": "[ChagriBeg] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-11",
       "today_searches": 13,
       "today_cart_adds": 40,
-      "today_smart_orders": 101,
+      "today_smart_orders": 102,
       "total_searches": 288,
       "total_cart_adds": 699,
       "total_days_used": 7,
-      "total_smart_orders": 70,
+      "total_smart_orders": 71,
       "pc_count": 4,
       "devices": {
         "18C1-4ECE-8490": {
@@ -678,17 +678,23 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.7.7",
-          "last_seen_at": "2026-11-11 22:23:07",
-          "last_action": "Program Açık (Canlı)",
+          "last_seen_at": "2026-11-11 22:24:22",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-11",
           "today_searches": 0,
           "today_cart_adds": 0,
-          "today_smart_orders": 4,
+          "today_smart_orders": 5,
           "total_searches": 6,
           "total_cart_adds": 21,
-          "total_smart_orders": 0,
+          "total_smart_orders": 1,
           "total_days_used": 7,
-          "recent_actions": []
+          "recent_actions": [
+            {
+              "t": "2026-11-11 22:24:22",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            }
+          ]
         }
       }
     },
