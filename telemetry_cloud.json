@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 23:55:54",
+  "updated_at": "2026-11-11 23:55:51",
   "count": 69,
   "items": [
     {
@@ -570,7 +570,7 @@
       "pharmacist_name": "GAMZE ASLAN",
       "phone": "05344064108",
       "city": "SAMSUN/ATAKUM",
-      "gln_no": "8680001000000",
+      "gln_no": "8680001134861",
       "otomasyon": "TRIA",
       "plan": "PRO_YILLIK",
       "expires_at": "2027-10-24",
@@ -772,7 +772,7 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.7.8",
-          "last_seen_at": "2026-11-11 23:55:35",
+          "last_seen_at": "2026-11-11 23:55:51",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-11",
           "today_searches": 2,
