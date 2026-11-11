@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 18:40:36",
+  "updated_at": "2026-11-11 18:40:40",
   "count": 15,
   "items": [
     {
@@ -8,25 +8,25 @@
       "pharmacist_name": "EDA BİLGİN",
       "phone": "05077034200",
       "city": "SAMSUN/İLKADIM",
-      "gln_no": "8680001112258",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "83F3-13F8-E632",
-      "last_pc_name": "Eskienes",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.7.7",
-      "last_seen_at": "2026-11-11 18:40:36",
-      "last_action": "[Eskienes] Canlı MF Sorgulama (7 Ürün)",
+      "last_seen_at": "2026-11-11 18:40:40",
+      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları Yenileme (TRIA • 66 Kalem)",
       "today_date": "2026-11-11",
       "today_searches": 56,
       "today_cart_adds": 108,
-      "today_smart_orders": 109,
-      "total_searches": 219,
-      "total_cart_adds": 392,
-      "total_smart_orders": 52,
+      "today_smart_orders": 122,
+      "total_searches": 229,
+      "total_cart_adds": 429,
+      "total_smart_orders": 61,
       "total_days_used": 7,
-      "pc_count": 4,
+      "pc_count": 5,
       "devices": {
         "8FD3-5823-91F4": {
           "hwid": "8FD3-5823-91F4",
@@ -316,7 +316,7 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.7.7",
-          "last_seen_at": "2026-11-11 18:39:09",
+          "last_seen_at": "2026-11-11 18:40:40",
           "last_action": "Günün Çıkışları Yenileme (TRIA • 66 Kalem)",
           "today_date": "2026-11-11",
           "today_searches": 11,
@@ -401,6 +401,70 @@
               "t": "2026-11-11 18:15:52",
               "type": "critical_stock",
               "detail": "Günün Çıkışları Yenileme (TRIA • 66 Kalem)"
+            }
+          ]
+        },
+        "E6B1-5698-273E": {
+          "hwid": "E6B1-5698-273E",
+          "pc_name": "DESKTOP-6KFO8IF",
+          "desk_name": "DESKTOP-6KFO8IF",
+          "local_ip": "192.168.1.104",
+          "app_version": "1.7.7",
+          "last_seen_at": "2026-11-11 18:40:17",
+          "last_action": "Canlı MF Sorgulama (8 Ürün)",
+          "today_date": "2026-11-11",
+          "today_searches": 0,
+          "today_cart_adds": 0,
+          "today_smart_orders": 13,
+          "total_searches": 10,
+          "total_cart_adds": 37,
+          "total_smart_orders": 9,
+          "total_days_used": 7,
+          "recent_actions": [
+            {
+              "t": "2026-11-11 18:25:43",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-11 18:25:43",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-11 18:25:53",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (30 Ürün)"
+            },
+            {
+              "t": "2026-11-11 18:25:54",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-11 18:26:04",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-11 18:26:04",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 69 Kalem)"
+            },
+            {
+              "t": "2026-11-11 18:26:07",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (30 Ürün)"
+            },
+            {
+              "t": "2026-11-11 18:26:07",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-11 18:26:10",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (8 Ürün)"
             }
           ]
         }
