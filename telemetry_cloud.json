@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 14:01:30",
+  "updated_at": "2026-11-11 14:03:52",
   "count": 5,
   "items": [
     {
@@ -288,7 +288,7 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.7.6",
-      "last_seen_at": "2026-11-11 14:03:26",
+      "last_seen_at": "2026-11-11 14:03:52",
       "last_action": "[DESKTOP-T4EAUS3] Depo Sorgu: FIXHALER 12/500 MCG 60 INH CAP",
       "today_date": "2026-11-11",
       "today_searches": 5,
@@ -306,7 +306,7 @@
           "desk_name": "Cicobey",
           "local_ip": "192.168.1.43",
           "app_version": "1.5.9",
-          "last_seen_at": "2026-11-11 14:01:30",
+          "last_seen_at": "2026-11-11 14:01:31",
           "last_action": "Canlı MF Sorgulama (11 Ürün)",
           "today_date": "2026-11-11",
           "today_searches": 0,
@@ -375,7 +375,7 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.7.6",
-          "last_seen_at": "2026-11-11 14:03:26",
+          "last_seen_at": "2026-11-11 14:03:52",
           "last_action": "Depo Sorgu: FIXHALER 12/500 MCG 60 INH CAP",
           "today_date": "2026-11-11",
           "today_searches": 5,
