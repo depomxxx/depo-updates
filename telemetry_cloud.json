@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 18:24:24",
+  "updated_at": "2026-11-11 18:25:16",
   "count": 5,
   "items": [
     {
@@ -856,26 +856,26 @@
     {
       "id": "D0EFA284",
       "pharmacy_name": "ARAŞTIRMA ECZANESI",
-      "pharmacist_name": "GAMZE ASLAN",
-      "phone": "05344064108",
-      "city": "SAMSUN/ATAKUM",
-      "gln_no": "8680001134861",
+      "pharmacist_name": "",
+      "phone": "",
+      "city": "",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "PRO_YILLIK",
       "expires_at": "2027-10-24",
       "status": "AKTIF",
-      "hwid": "2DED-CFF9-D593",
-      "last_pc_name": "DESKTOP-8JN0NE5",
+      "hwid": "7BDD-EDB1-0A61",
+      "last_pc_name": "DESKTOP-6KFO8IF",
       "app_version": "1.7.5",
-      "last_seen_at": "2026-11-11 13:09:44",
-      "last_action": "Program Açık (Canlı)",
+      "last_seen_at": "2026-11-11 18:25:16",
+      "last_action": "Program Açıldı (Canlı)",
       "today_date": "2026-11-11",
-      "today_searches": 8,
-      "today_cart_adds": 12,
-      "today_smart_orders": 17,
+      "today_searches": 0,
+      "today_cart_adds": 0,
+      "today_smart_orders": 0,
       "total_searches": 10,
       "total_cart_adds": 37,
-      "total_days_used": 6
+      "total_days_used": 7
     },
     {
       "id": "406CFA01",
