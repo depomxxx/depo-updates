@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 20:10:53",
+  "updated_at": "2026-11-11 20:11:38",
   "count": 42,
   "items": [
     {
@@ -16,15 +16,15 @@
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.7.7",
-      "last_seen_at": "2026-11-11 20:10:53",
+      "last_seen_at": "2026-11-11 20:11:38",
       "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-11",
       "today_searches": 58,
       "today_cart_adds": 122,
-      "today_smart_orders": 141,
+      "today_smart_orders": 143,
       "total_searches": 231,
       "total_cart_adds": 443,
-      "total_smart_orders": 80,
+      "total_smart_orders": 82,
       "total_days_used": 7,
       "pc_count": 5,
       "devices": {
@@ -222,27 +222,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.7.7",
-          "last_seen_at": "2026-11-11 20:10:53",
+          "last_seen_at": "2026-11-11 20:11:38",
           "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-11",
           "today_searches": 13,
           "today_cart_adds": 40,
-          "today_smart_orders": 61,
+          "today_smart_orders": 63,
           "total_searches": 41,
           "total_cart_adds": 198,
-          "total_smart_orders": 38,
+          "total_smart_orders": 40,
           "total_days_used": 7,
           "recent_actions": [
-            {
-              "t": "2026-11-11 19:01:04",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-11 19:01:07",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): ACNELYSE KREM %0.05 20G TÜP/ x1"
-            },
             {
               "t": "2026-11-11 19:01:10",
               "type": "cart",
@@ -305,6 +295,16 @@
             },
             {
               "t": "2026-11-11 20:10:53",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-11 20:10:53",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 89 Kalem)"
+            },
+            {
+              "t": "2026-11-11 20:11:38",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
             }
