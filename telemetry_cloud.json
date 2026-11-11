@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 14:44:40",
+  "updated_at": "2026-11-11 14:44:42",
   "count": 5,
   "items": [
     {
@@ -175,16 +175,16 @@
       "hwid": "83F3-13F8-E632",
       "last_pc_name": "Eskienes",
       "app_version": "1.7.7",
-      "last_seen_at": "2026-11-11 14:43:47",
-      "last_action": "[Eskienes] Depo Sorgu: SORDENA 10 MG FILM KAPLI TABLE",
+      "last_seen_at": "2026-11-11 14:44:42",
+      "last_action": "[Eskienes] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-11",
       "today_searches": 28,
       "today_cart_adds": 102,
-      "today_smart_orders": 88,
+      "today_smart_orders": 89,
       "total_searches": 413,
       "total_cart_adds": 875,
       "total_days_used": 8,
-      "total_smart_orders": 15,
+      "total_smart_orders": 16,
       "pc_count": 8,
       "devices": {
         "B766-9F71-3B24": {
@@ -382,15 +382,15 @@
           "desk_name": "Eskienes",
           "local_ip": "192.168.1.117",
           "app_version": "1.7.7",
-          "last_seen_at": "2026-11-11 14:43:47",
-          "last_action": "Depo Sorgu: SORDENA 10 MG FILM KAPLI TABLE",
+          "last_seen_at": "2026-11-11 14:44:42",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-11",
           "today_searches": 10,
           "today_cart_adds": 9,
-          "today_smart_orders": 5,
+          "today_smart_orders": 6,
           "total_searches": 44,
           "total_cart_adds": 44,
-          "total_smart_orders": 3,
+          "total_smart_orders": 4,
           "total_days_used": 6,
           "recent_actions": [
             {
@@ -417,6 +417,11 @@
               "t": "2026-11-11 14:41:49",
               "type": "search",
               "detail": "Depo Sorgu: SORDENA 10 MG FILM KAPLI TABLE"
+            },
+            {
+              "t": "2026-11-11 14:44:42",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         }
