@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 13:44:05",
+  "updated_at": "2026-11-12 13:44:24",
   "count": 69,
   "items": [
     {
@@ -31163,11 +31163,11 @@
       "today_date": "2026-11-12",
       "today_searches": 17,
       "today_cart_adds": 30,
-      "today_smart_orders": 50,
+      "today_smart_orders": 54,
       "total_searches": 115,
       "total_cart_adds": 490,
       "total_days_used": 9,
-      "total_smart_orders": 96,
+      "total_smart_orders": 100,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -31344,37 +31344,17 @@
           "desk_name": "Cicobey",
           "local_ip": "192.168.1.43",
           "app_version": "1.5.9",
-          "last_seen_at": "2026-11-12 13:44:05",
-          "last_action": "Canlı MF Sorgulama (7 Ürün)",
+          "last_seen_at": "2026-11-12 13:44:24",
+          "last_action": "Canlı MF Sorgulama (2 Ürün)",
           "today_date": "2026-11-12",
           "today_searches": 4,
           "today_cart_adds": 0,
-          "today_smart_orders": 14,
+          "today_smart_orders": 18,
           "total_searches": 38,
           "total_cart_adds": 62,
-          "total_smart_orders": 33,
+          "total_smart_orders": 37,
           "total_days_used": 9,
           "recent_actions": [
-            {
-              "t": "2026-11-12 00:28:25",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-12 00:28:39",
-              "type": "search",
-              "detail": "Depo Sorgu: TYLOL HOT DAY 12 POS"
-            },
-            {
-              "t": "2026-11-12 13:20:20",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-12 13:20:21",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-12 13:21:38",
               "type": "mf_resolve",
@@ -31429,6 +31409,26 @@
               "t": "2026-11-12 13:29:38",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (7 Ürün)"
+            },
+            {
+              "t": "2026-11-12 13:44:18",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-12 13:44:19",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (BOTANIK • 60 Kalem)"
+            },
+            {
+              "t": "2026-11-12 13:44:19",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-12 13:44:24",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (2 Ürün)"
             }
           ]
         }
