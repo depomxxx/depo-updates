@@ -1,11 +1,11 @@
 {
   "version": "1.8.1",
   "app_name": "Farma Radar",
-  "release_date": "2026-11-12 13:54:42",
+  "release_date": "2026-11-12 13:56:15",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.8.1.zip?t=1794480883",
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.8.1.zip?t=1794480976",
   "sha256": "",
-  "package_sha256": "8399c07433e4f2c36f756cf909fca641f98169658c148e5f104e2c420425bbc9",
+  "package_sha256": "1da21642ec88dbe6c7f2df8fc78b9ad2edbe111c9c7fecabea5e583a5dfe62d9",
   "size_kb": 813.6,
   "changelog": "v1.8.1: 1) Depo sepetine listeden eklenen ürünlerin yanlışlıkla 'Önceden Sepette Kalmış / Yabancı Ürün' (kırmızı uyarı) görünmesi sorunu kökünden çözüldü (depo içi malzeme kodu + katalog barkod/isim eşanlamlıları + çoklu depo '+' takibi + Türkçe UTF-8 karakter ve binlik nokta/tireli marka eşleştirme); 2) Toplu gönderimde '17 kalem atıldı görünüp sonlandırmada 15 kalem çıkması' sorunu giderildi (Alliance sıralı sepet yazımı + tam /Sales/Cart okuma, İSKOOP birebir MATNR doğrulaması, tüm depolarda canlı sepet doğrulaması + otomatik yeniden deneme ve sonlandırma ekranında eksik kalem mutabakat kartı ile tek tıkla tekrar deneme / Yok-Aktarım listesine ayırma); 3) Toplu Sipariş ekranının en sağındaki sepet ikonu ve Sipariş & Depo sütunu hizalaması ve görselliği düzeltildi."
 }
