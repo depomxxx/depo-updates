@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 14:20:11",
+  "updated_at": "2026-11-12 14:22:24",
   "count": 69,
   "items": [
     {
@@ -31158,16 +31158,16 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.8.1",
-      "last_seen_at": "2026-11-12 14:03:33",
-      "last_action": "[DESKTOP-T4EAUS3] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-12 14:22:24",
+      "last_action": "[DESKTOP-T4EAUS3] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-12",
       "today_searches": 17,
-      "today_cart_adds": 30,
-      "today_smart_orders": 57,
+      "today_cart_adds": 36,
+      "today_smart_orders": 61,
       "total_searches": 115,
-      "total_cart_adds": 490,
+      "total_cart_adds": 496,
       "total_days_used": 9,
-      "total_smart_orders": 103,
+      "total_smart_orders": 107,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -31250,57 +31250,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.8.1",
-          "last_seen_at": "2026-11-12 14:03:33",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-12 14:22:24",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-12",
           "today_searches": 13,
-          "today_cart_adds": 30,
-          "today_smart_orders": 36,
+          "today_cart_adds": 36,
+          "today_smart_orders": 40,
           "total_searches": 43,
-          "total_cart_adds": 232,
-          "total_smart_orders": 51,
+          "total_cart_adds": 238,
+          "total_smart_orders": 55,
           "total_days_used": 7,
           "recent_actions": [
-            {
-              "t": "2026-11-12 12:16:52",
-              "type": "cart",
-              "detail": "Toplu Sepet (ALLIANCE): 1 Kalem"
-            },
-            {
-              "t": "2026-11-12 12:17:05",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-12 12:20:30",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-12 12:20:39",
-              "type": "search",
-              "detail": "Depo Sorgu: HUPPEX FLY 30 KAPSÜL"
-            },
-            {
-              "t": "2026-11-12 13:16:43",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-12 13:16:44",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-12 13:17:09",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (30 Ürün)"
-            },
-            {
-              "t": "2026-11-12 13:17:10",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-12 13:17:16",
               "type": "cart",
@@ -31335,6 +31295,46 @@
               "t": "2026-11-12 13:17:50",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-12 14:20:20",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-12 14:20:21",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-12 14:20:52",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (30 Ürün)"
+            },
+            {
+              "t": "2026-11-12 14:21:00",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-12 14:21:21",
+              "type": "cart",
+              "detail": "Toplu Sepet (ISKOOP): 6 Kalem"
+            },
+            {
+              "t": "2026-11-12 14:21:38",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-12 14:22:00",
+              "type": "cart",
+              "detail": "Toplu Sepet (ALLIANCE): 1 Kalem"
+            },
+            {
+              "t": "2026-11-12 14:22:24",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         },
