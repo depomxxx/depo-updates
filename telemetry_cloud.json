@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-11-12 14:04:39",
+  "updated_at": "2026-11-12 14:05:33",
   "count": 69,
   "items": [
     {
       "id": "48F632F1",
       "pharmacy_name": "EDA ECZANESI",
-      "pharmacist_name": "GAMZE ASLAN",
-      "phone": "05344064108",
-      "city": "SAMSUN/ATAKUM",
-      "gln_no": "8680001000000",
+      "pharmacist_name": "EDA BİLGİN",
+      "phone": "05077034200",
+      "city": "SAMSUN/İLKADIM",
+      "gln_no": "8680001112258",
       "otomasyon": "TRIA",
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D719-CEB2-1542",
-      "last_pc_name": "DESKTOP-M530BBB",
+      "hwid": "8FD3-5823-91F4",
+      "last_pc_name": "Eda-Bilgin",
       "app_version": "1.8.1",
-      "last_seen_at": "2026-11-12 14:04:39",
-      "last_action": "[DESKTOP-M530BBB] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-12 14:05:33",
+      "last_action": "[DESKTOP-5PFFU5S] Sepete Ekle (ALLIANCE): MUSKAZON 20 TABLET x5",
       "today_date": "2026-11-12",
       "today_searches": 85,
       "today_cart_adds": 106,
@@ -34,7 +34,7 @@
           "desk_name": "Eskienes",
           "local_ip": "192.168.1.117",
           "app_version": "1.8.1",
-          "last_seen_at": "2026-11-12 14:03:45",
+          "last_seen_at": "2026-11-12 14:03:31",
           "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-12",
           "today_searches": 8,
@@ -128,7 +128,7 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.8.1",
-          "last_seen_at": "2026-11-12 14:04:33",
+          "last_seen_at": "2026-11-12 14:03:25",
           "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-12",
           "today_searches": 12,
@@ -222,7 +222,7 @@
           "desk_name": "Eda-Bilgin",
           "local_ip": "192.168.1.114",
           "app_version": "1.8.1",
-          "last_seen_at": "2026-11-12 14:04:02",
+          "last_seen_at": "2026-11-12 14:05:33",
           "last_action": "Program Açık (Canlı)",
           "today_date": "2026-11-12",
           "today_searches": 0,
@@ -316,7 +316,7 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.8.1",
-          "last_seen_at": "2026-11-12 14:04:28",
+          "last_seen_at": "2026-11-12 14:05:22",
           "last_action": "Sepete Ekle (ALLIANCE): MUSKAZON 20 TABLET x5",
           "today_date": "2026-11-12",
           "today_searches": 4,
@@ -409,8 +409,8 @@
           "pc_name": "DESKTOP-6KFO8IF",
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
-          "app_version": "1.8.1",
-          "last_seen_at": "2026-11-12 14:04:33",
+          "app_version": "1.8.0",
+          "last_seen_at": "2026-11-12 13:53:33",
           "last_action": "EczaneTakas Kampanya Açıldı: PULCET 40 MG 28 TB (30+4)",
           "today_date": "2026-11-12",
           "today_searches": 4,
@@ -692,7 +692,7 @@
           "desk_name": "DESKTOP-1N3LQF0",
           "local_ip": "192.168.1.123",
           "app_version": "1.8.1",
-          "last_seen_at": "2026-11-12 14:03:43",
+          "last_seen_at": "2026-11-12 14:05:15",
           "last_action": "Canlı MF Sorgulama (16 Ürün)",
           "today_date": "2026-11-12",
           "today_searches": 4,
@@ -30422,16 +30422,16 @@
       "hwid": "2DED-CFF9-D593",
       "last_pc_name": "DESKTOP-8JN0NE5",
       "app_version": "1.8.1",
-      "last_seen_at": "2026-11-12 14:04:41",
-      "last_action": "Canlı MF Sorgulama (2 Ürün)",
+      "last_seen_at": "2026-11-12 14:01:46",
+      "last_action": "Canlı MF Taraması",
       "today_date": "2026-11-12",
       "today_searches": 4,
-      "today_cart_adds": 29,
-      "today_smart_orders": 90,
+      "today_cart_adds": 25,
+      "today_smart_orders": 79,
       "total_searches": 20,
-      "total_cart_adds": 70,
+      "total_cart_adds": 66,
       "total_days_used": 5,
-      "total_smart_orders": 112,
+      "total_smart_orders": 101,
       "pc_count": 1,
       "devices": {
         "2DED-CFF9-D593": {
@@ -30440,91 +30440,91 @@
           "desk_name": "DESKTOP-8JN0NE5",
           "local_ip": "192.168.1.37",
           "app_version": "1.8.1",
-          "last_seen_at": "2026-11-12 14:04:41",
-          "last_action": "Canlı MF Sorgulama (2 Ürün)",
+          "last_seen_at": "2026-11-12 14:01:46",
+          "last_action": "Canlı MF Taraması",
           "today_date": "2026-11-12",
           "today_searches": 4,
-          "today_cart_adds": 29,
-          "today_smart_orders": 90,
+          "today_cart_adds": 25,
+          "today_smart_orders": 79,
           "total_searches": 20,
-          "total_cart_adds": 70,
-          "total_smart_orders": 112,
+          "total_cart_adds": 66,
+          "total_smart_orders": 101,
           "total_days_used": 5,
           "recent_actions": [
+            {
+              "t": "2026-11-12 13:51:37",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (20 Ürün)"
+            },
+            {
+              "t": "2026-11-12 13:51:38",
+              "type": "cart",
+              "detail": "Toplu Sepet (ALLIANCE): 5 Kalem"
+            },
+            {
+              "t": "2026-11-12 13:51:42",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-12 13:52:02",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-12 13:52:06",
+              "type": "cart",
+              "detail": "Toplu Sepet (ISKOOP): 1 Kalem"
+            },
+            {
+              "t": "2026-11-12 13:52:08",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-12 13:55:31",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-12 13:55:32",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-12 14:01:28",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş Planlama"
+            },
+            {
+              "t": "2026-11-12 14:01:29",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş (BOTANIK • 118 Kalem)"
+            },
+            {
+              "t": "2026-11-12 14:01:30",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-12 14:01:35",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (5 Ürün)"
+            },
+            {
+              "t": "2026-11-12 14:01:44",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş Planlama"
+            },
+            {
+              "t": "2026-11-12 14:01:46",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş (BOTANIK • 250 Kalem)"
+            },
             {
               "t": "2026-11-12 14:01:46",
               "type": "mf_resolve",
               "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-12 14:02:21",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (35 Ürün)"
-            },
-            {
-              "t": "2026-11-12 14:02:22",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-12 14:02:29",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-12 14:02:37",
-              "type": "cart",
-              "detail": "Toplu Sepet (ALLIANCE): 4 Kalem"
-            },
-            {
-              "t": "2026-11-12 14:02:37",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-12 14:02:37",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş Planlama"
-            },
-            {
-              "t": "2026-11-12 14:02:39",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş (BOTANIK • 250 Kalem)"
-            },
-            {
-              "t": "2026-11-12 14:02:40",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (3 Ürün)"
-            },
-            {
-              "t": "2026-11-12 14:02:43",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-12 14:02:58",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş Planlama"
-            },
-            {
-              "t": "2026-11-12 14:03:00",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş (BOTANIK • 250 Kalem)"
-            },
-            {
-              "t": "2026-11-12 14:03:02",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (35 Ürün)"
-            },
-            {
-              "t": "2026-11-12 14:03:03",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-12 14:03:05",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (2 Ürün)"
             }
           ]
         }
@@ -31331,7 +31331,7 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.8.1",
-      "last_seen_at": "2026-11-12 14:06:36",
+      "last_seen_at": "2026-11-12 14:03:33",
       "last_action": "[DESKTOP-T4EAUS3] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-12",
       "today_searches": 17,
@@ -31423,7 +31423,7 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.8.1",
-          "last_seen_at": "2026-11-12 14:06:36",
+          "last_seen_at": "2026-11-12 14:03:33",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-12",
           "today_searches": 13,
@@ -31517,7 +31517,7 @@
           "desk_name": "Cicobey",
           "local_ip": "192.168.1.43",
           "app_version": "1.5.9",
-          "last_seen_at": "2026-11-12 14:04:25",
+          "last_seen_at": "2026-11-12 14:01:23",
           "last_action": "Canlı MF Sorgulama (30 Ürün)",
           "today_date": "2026-11-12",
           "today_searches": 4,
