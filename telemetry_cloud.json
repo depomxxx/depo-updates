@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 11:07:45",
+  "updated_at": "2026-11-12 11:07:54",
   "count": 69,
   "items": [
     {
@@ -8,22 +8,22 @@
       "pharmacist_name": "EDA BİLGİN",
       "phone": "05077034200",
       "city": "SAMSUN/İLKADIM",
-      "gln_no": "8680001112258",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "8FD3-5823-91F4",
-      "last_pc_name": "Eda-Bilgin",
+      "hwid": "D719-CEB2-1542",
+      "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.8.0",
-      "last_seen_at": "2026-11-12 11:07:45",
-      "last_action": "[DESKTOP-5PFFU5S] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-12 11:07:54",
+      "last_action": "[DESKTOP-M530BBB] Depo Fiyat Sorgulama",
       "today_date": "2026-11-12",
-      "today_searches": 65,
-      "today_cart_adds": 49,
+      "today_searches": 66,
+      "today_cart_adds": 47,
       "today_smart_orders": 87,
-      "total_searches": 359,
-      "total_cart_adds": 573,
+      "total_searches": 360,
+      "total_cart_adds": 571,
       "total_smart_orders": 261,
       "total_days_used": 9,
       "pc_count": 7,
@@ -128,17 +128,27 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.8.0",
-          "last_seen_at": "2026-11-12 11:07:42",
-          "last_action": "Toplu Sepet (ALLIANCE): 9 Kalem",
+          "last_seen_at": "2026-11-12 11:06:26",
+          "last_action": "Canlı MF Sorgulama (2 Ürün)",
           "today_date": "2026-11-12",
           "today_searches": 12,
-          "today_cart_adds": 34,
+          "today_cart_adds": 32,
           "today_smart_orders": 32,
           "total_searches": 53,
-          "total_cart_adds": 232,
+          "total_cart_adds": 230,
           "total_smart_orders": 97,
           "total_days_used": 8,
           "recent_actions": [
+            {
+              "t": "2026-11-12 10:57:10",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (35 Ürün)"
+            },
+            {
+              "t": "2026-11-12 10:57:11",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
             {
               "t": "2026-11-12 10:57:12",
               "type": "cart",
@@ -203,16 +213,6 @@
               "t": "2026-11-12 10:57:24",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (2 Ürün)"
-            },
-            {
-              "t": "2026-11-12 11:07:20",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-12 11:07:42",
-              "type": "cart",
-              "detail": "Toplu Sepet (ALLIANCE): 9 Kalem"
             }
           ]
         },
@@ -410,7 +410,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.8.0",
-          "last_seen_at": "2026-11-12 11:07:42",
+          "last_seen_at": "2026-11-12 11:06:10",
           "last_action": "EczaneTakas Kampanya Açıldı: PULCET 40 MG 28 TB (30+4)",
           "today_date": "2026-11-12",
           "today_searches": 4,
@@ -598,22 +598,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.112",
           "app_version": "1.8.0",
-          "last_seen_at": "2026-11-12 11:07:25",
-          "last_action": "Depo Sorgu: BEFIXO 3 ML 5 AMP.",
+          "last_seen_at": "2026-11-12 11:07:54",
+          "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-12",
-          "today_searches": 6,
+          "today_searches": 7,
           "today_cart_adds": 2,
           "today_smart_orders": 2,
-          "total_searches": 61,
+          "total_searches": 62,
           "total_cart_adds": 53,
           "total_smart_orders": 29,
           "total_days_used": 9,
           "recent_actions": [
-            {
-              "t": "2026-11-11 18:08:23",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (30 Ürün)"
-            },
             {
               "t": "2026-11-11 18:08:23",
               "type": "mf_resolve",
@@ -683,6 +678,11 @@
               "t": "2026-11-12 10:44:18",
               "type": "search",
               "detail": "Depo Sorgu: BEFIXO 3 ML 5 AMP."
+            },
+            {
+              "t": "2026-11-12 11:07:54",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ]
         }
@@ -31267,7 +31267,7 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.8.0",
-      "last_seen_at": "2026-11-12 11:09:33",
+      "last_seen_at": "2026-11-12 11:01:57",
       "last_action": "[DESKTOP-T4EAUS3] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-12",
       "today_searches": 7,
@@ -31359,7 +31359,7 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.8.0",
-          "last_seen_at": "2026-11-12 11:09:33",
+          "last_seen_at": "2026-11-12 11:01:57",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-12",
           "today_searches": 5,
