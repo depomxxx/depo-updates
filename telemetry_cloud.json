@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 08:40:09",
+  "updated_at": "2026-11-12 08:40:08",
   "count": 69,
   "items": [
     {
@@ -13,10 +13,10 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "83F3-13F8-E632",
-      "last_pc_name": "Eskienes",
+      "hwid": "B446-9737-94C4",
+      "last_pc_name": "DESKTOP-5PFFU5S",
       "app_version": "1.8.0",
-      "last_seen_at": "2026-11-12 08:39:36",
+      "last_seen_at": "2026-11-12 08:40:08",
       "last_action": "[Eskienes] Canlı MF Sorgulama (6 Ürün)",
       "today_date": "2026-11-12",
       "today_searches": 43,
@@ -222,7 +222,7 @@
           "desk_name": "Eda-Bilgin",
           "local_ip": "192.168.1.114",
           "app_version": "1.8.0",
-          "last_seen_at": "2026-11-12 08:38:37",
+          "last_seen_at": "2026-11-12 08:40:08",
           "last_action": "Program Açık (Canlı)",
           "today_date": "2026-11-12",
           "today_searches": 0,
@@ -316,7 +316,7 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.8.0",
-          "last_seen_at": "2026-11-12 08:38:37",
+          "last_seen_at": "2026-11-12 08:40:08",
           "last_action": "Program Açık (Canlı)",
           "today_date": "2026-11-12",
           "today_searches": 0,
