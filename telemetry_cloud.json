@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 12:39:00",
+  "updated_at": "2026-11-12 12:39:07",
   "count": 69,
   "items": [
     {
@@ -30264,16 +30264,16 @@
       "hwid": "2DED-CFF9-D593",
       "last_pc_name": "DESKTOP-8JN0NE5",
       "app_version": "1.8.0",
-      "last_seen_at": "2026-11-12 12:34:39",
-      "last_action": "Canlı MF Sorgulama (15 Ürün)",
+      "last_seen_at": "2026-11-12 12:39:07",
+      "last_action": "Canlı MF Sorgulama (3 Ürün)",
       "today_date": "2026-11-12",
       "today_searches": 4,
-      "today_cart_adds": 8,
-      "today_smart_orders": 48,
+      "today_cart_adds": 17,
+      "today_smart_orders": 64,
       "total_searches": 20,
-      "total_cart_adds": 49,
+      "total_cart_adds": 58,
       "total_days_used": 5,
-      "total_smart_orders": 70,
+      "total_smart_orders": 86,
       "pc_count": 1,
       "devices": {
         "2DED-CFF9-D593": {
@@ -30282,91 +30282,91 @@
           "desk_name": "DESKTOP-8JN0NE5",
           "local_ip": "192.168.1.37",
           "app_version": "1.8.0",
-          "last_seen_at": "2026-11-12 12:34:39",
-          "last_action": "Canlı MF Sorgulama (15 Ürün)",
+          "last_seen_at": "2026-11-12 12:39:07",
+          "last_action": "Canlı MF Sorgulama (3 Ürün)",
           "today_date": "2026-11-12",
           "today_searches": 4,
-          "today_cart_adds": 8,
-          "today_smart_orders": 48,
+          "today_cart_adds": 17,
+          "today_smart_orders": 64,
           "total_searches": 20,
-          "total_cart_adds": 49,
-          "total_smart_orders": 70,
+          "total_cart_adds": 58,
+          "total_smart_orders": 86,
           "total_days_used": 5,
           "recent_actions": [
             {
-              "t": "2026-11-12 12:30:26",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş (BOTANIK • 100 Kalem)"
-            },
-            {
-              "t": "2026-11-12 12:30:26",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-12 12:30:27",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (1 Ürün)"
-            },
-            {
-              "t": "2026-11-12 12:31:47",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-12 12:31:48",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (BOTANIK • 51 Kalem)"
-            },
-            {
-              "t": "2026-11-12 12:31:48",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-12 12:31:48",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (1 Ürün)"
-            },
-            {
-              "t": "2026-11-12 12:31:59",
+              "t": "2026-11-12 12:35:51",
               "type": "smart_order",
               "detail": "Toplu Sipariş Planlama"
             },
             {
-              "t": "2026-11-12 12:32:02",
+              "t": "2026-11-12 12:35:52",
               "type": "smart_order",
               "detail": "Toplu Sipariş (BOTANIK • 250 Kalem)"
             },
             {
-              "t": "2026-11-12 12:32:02",
+              "t": "2026-11-12 12:35:53",
               "type": "mf_resolve",
               "detail": "Canlı MF Taraması"
             },
             {
-              "t": "2026-11-12 12:32:45",
+              "t": "2026-11-12 12:36:01",
               "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (35 Ürün)"
+              "detail": "Canlı MF Sorgulama (3 Ürün)"
             },
             {
-              "t": "2026-11-12 12:32:45",
+              "t": "2026-11-12 12:37:01",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-12 12:37:08",
+              "type": "cart",
+              "detail": "Toplu Sepet (ALLIANCE): 4 Kalem"
+            },
+            {
+              "t": "2026-11-12 12:37:08",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş Planlama"
+            },
+            {
+              "t": "2026-11-12 12:37:10",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş (BOTANIK • 250 Kalem)"
+            },
+            {
+              "t": "2026-11-12 12:37:10",
               "type": "mf_resolve",
               "detail": "Canlı MF Taraması"
             },
             {
-              "t": "2026-11-12 12:33:19",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (35 Ürün)"
+              "t": "2026-11-12 12:37:12",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             },
             {
-              "t": "2026-11-12 12:33:19",
+              "t": "2026-11-12 12:37:18",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (3 Ürün)"
+            },
+            {
+              "t": "2026-11-12 12:37:27",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş Planlama"
+            },
+            {
+              "t": "2026-11-12 12:37:28",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş (BOTANIK • 250 Kalem)"
+            },
+            {
+              "t": "2026-11-12 12:37:29",
               "type": "mf_resolve",
               "detail": "Canlı MF Taraması"
             },
             {
-              "t": "2026-11-12 12:33:32",
+              "t": "2026-11-12 12:37:37",
               "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (15 Ürün)"
+              "detail": "Canlı MF Sorgulama (3 Ürün)"
             }
           ]
         }
