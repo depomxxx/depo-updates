@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 16:41:31",
+  "updated_at": "2026-11-12 16:41:40",
   "count": 4,
   "items": [
     {
@@ -15,8 +15,8 @@
       "status": "AKTIF",
       "hwid": "D719-CEB2-1542",
       "last_pc_name": "DESKTOP-M530BBB",
-      "app_version": "1.8.1",
-      "last_seen_at": "2026-11-12 16:41:31",
+      "app_version": "1.8.2",
+      "last_seen_at": "2026-11-12 16:41:40",
       "last_action": "[DESKTOP-M530BBB] Canlı MF Sorgulama (24 Ürün)",
       "today_date": "2026-11-12",
       "today_searches": 95,
@@ -597,8 +597,8 @@
           "pc_name": "DESKTOP-M530BBB",
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.112",
-          "app_version": "1.8.1",
-          "last_seen_at": "2026-11-12 16:41:31",
+          "app_version": "1.8.2",
+          "last_seen_at": "2026-11-12 16:41:40",
           "last_action": "Canlı MF Sorgulama (24 Ürün)",
           "today_date": "2026-11-12",
           "today_searches": 16,
