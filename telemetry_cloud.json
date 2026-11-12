@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 17:03:16",
+  "updated_at": "2026-11-12 17:03:36",
   "count": 4,
   "items": [
     {
@@ -13,18 +13,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "5834-FAC9-B71F",
-      "last_pc_name": "DESKTOP-OTHNDUE",
+      "hwid": "D2E4-AA57-C021",
+      "last_pc_name": "DESKTOP-1N3LQF0",
       "app_version": "1.8.2",
-      "last_seen_at": "2026-11-12 17:03:16",
-      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları Yenileme (TRIA • 86 Kalem)",
+      "last_seen_at": "2026-11-12 17:03:36",
+      "last_action": "[DESKTOP-1N3LQF0] Canlı MF Sorgulama (2 Ürün)",
       "today_date": "2026-11-12",
       "today_searches": 101,
       "today_cart_adds": 168,
-      "today_smart_orders": 209,
+      "today_smart_orders": 212,
       "total_searches": 412,
       "total_cart_adds": 692,
-      "total_smart_orders": 379,
+      "total_smart_orders": 382,
       "total_days_used": 9,
       "pc_count": 8,
       "devices": {
@@ -316,32 +316,17 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.8.2",
-          "last_seen_at": "2026-11-12 17:02:53",
-          "last_action": "Canlı MF Taraması",
+          "last_seen_at": "2026-11-12 17:03:18",
+          "last_action": "Canlı MF Sorgulama (20 Ürün)",
           "today_date": "2026-11-12",
           "today_searches": 4,
           "today_cart_adds": 54,
-          "today_smart_orders": 26,
+          "today_smart_orders": 29,
           "total_searches": 91,
           "total_cart_adds": 205,
-          "total_smart_orders": 29,
+          "total_smart_orders": 32,
           "total_days_used": 6,
           "recent_actions": [
-            {
-              "t": "2026-11-12 14:06:56",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-12 14:06:58",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): LEVOTIRON 50 MCG 50 TABLET x6"
-            },
-            {
-              "t": "2026-11-12 14:07:03",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-12 14:07:28",
               "type": "cart",
@@ -401,6 +386,21 @@
               "t": "2026-11-12 17:02:53",
               "type": "mf_resolve",
               "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-12 17:03:08",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (30 Ürün)"
+            },
+            {
+              "t": "2026-11-12 17:03:09",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-12 17:03:17",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (20 Ürün)"
             }
           ]
         },
@@ -598,7 +598,7 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.112",
           "app_version": "1.8.2",
-          "last_seen_at": "2026-11-12 17:03:04",
+          "last_seen_at": "2026-11-12 17:03:18",
           "last_action": "Canlı MF Sorgulama (15 Ürün)",
           "today_date": "2026-11-12",
           "today_searches": 16,
@@ -692,7 +692,7 @@
           "desk_name": "DESKTOP-1N3LQF0",
           "local_ip": "192.168.1.123",
           "app_version": "1.8.2",
-          "last_seen_at": "2026-11-12 17:02:42",
+          "last_seen_at": "2026-11-12 17:03:36",
           "last_action": "Canlı MF Sorgulama (2 Ürün)",
           "today_date": "2026-11-12",
           "today_searches": 4,
