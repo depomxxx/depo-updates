@@ -1,11 +1,11 @@
 {
-  "version": "1.8.1",
+  "version": "1.8.2",
   "app_name": "Farma Radar",
-  "release_date": "2026-11-12 13:56:15",
+  "release_date": "2026-11-12 16:35:59",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.8.1.zip?t=1794480976",
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.8.2.zip?t=1794490561",
   "sha256": "",
-  "package_sha256": "1da21642ec88dbe6c7f2df8fc78b9ad2edbe111c9c7fecabea5e583a5dfe62d9",
-  "size_kb": 813.6,
-  "changelog": "v1.8.1: 1) Depo sepetine listeden eklenen ürünlerin yanlışlıkla 'Önceden Sepette Kalmış / Yabancı Ürün' (kırmızı uyarı) görünmesi sorunu kökünden çözüldü (depo içi malzeme kodu + katalog barkod/isim eşanlamlıları + çoklu depo '+' takibi + Türkçe UTF-8 karakter ve binlik nokta/tireli marka eşleştirme); 2) Toplu gönderimde '17 kalem atıldı görünüp sonlandırmada 15 kalem çıkması' sorunu giderildi (Alliance sıralı sepet yazımı + tam /Sales/Cart okuma, İSKOOP birebir MATNR doğrulaması, tüm depolarda canlı sepet doğrulaması + otomatik yeniden deneme ve sonlandırma ekranında eksik kalem mutabakat kartı ile tek tıkla tekrar deneme / Yok-Aktarım listesine ayırma); 3) Toplu Sipariş ekranının en sağındaki sepet ikonu ve Sipariş & Depo sütunu hizalaması ve görselliği düzeltildi."
+  "package_sha256": "c109dcce4d611495961f79c7088c84ca8314264dd5cd1060292a2e061718cbd4",
+  "size_kb": 818.0,
+  "changelog": "v1.8.2 — Alliance ve Tüm Depolarda Sahte Sipariş Onayı (Sepette Kalma) Koruması & Güncelleyici İyileştirmesi:\n• Alliance Healthcare sipariş sonlandırmada ters çalışan hata kontrolü (Result:true ErrorAlert), ShippingMethods parametresi ve 2 aşamalı BasketToSalesOrder onay akışı düzeltildi.\n• Alliance, Selçuk, İSKOOP ve Nevzat depolarında sipariş sonlandırma sonrasında canlı sepetin gerçekten boşaldığı (0 kalem) zorunlu doğrulanır; ürün hala sepette bekliyorsa asla 'Sipariş Verildi' işaretlenmez.\n• Günün Çıkışları ekranındaki SEPETTE kartlarında yanlışlıkla yerel işaretleme yapan '✓ Onayla' butonu gerçek depo sepetini açan '🛒 Sepeti Onayla' olarak güncellendi ve manuel işaretlemeye uyarı eklendi.\n• Otomatik güncelleyici (updater.py) GitHub API 403 hız limitine takılmaması için yetkilendirilmiş sıfır-önbellekli bağlantı ve SSL yedeklemesiyle güçlendirildi.\n• Telemetri bulut senkronizasyonunda mükerrer kayıt oluşumu engellendi."
 }
