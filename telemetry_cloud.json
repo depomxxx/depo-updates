@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 15:32:44",
+  "updated_at": "2026-11-12 15:34:58",
   "count": 69,
   "items": [
     {
@@ -31158,16 +31158,16 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.8.1",
-      "last_seen_at": "2026-11-12 14:50:48",
-      "last_action": "[DESKTOP-T4EAUS3] Canlı MF Sorgulama (4 Ürün)",
+      "last_seen_at": "2026-11-12 15:34:58",
+      "last_action": "[DESKTOP-T4EAUS3] Canlı MF Sorgulama (22 Ürün)",
       "today_date": "2026-11-12",
       "today_searches": 17,
       "today_cart_adds": 40,
-      "today_smart_orders": 74,
+      "today_smart_orders": 82,
       "total_searches": 115,
       "total_cart_adds": 500,
       "total_days_used": 9,
-      "total_smart_orders": 120,
+      "total_smart_orders": 128,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -31250,57 +31250,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.8.1",
-          "last_seen_at": "2026-11-12 14:50:48",
-          "last_action": "Canlı MF Sorgulama (4 Ürün)",
+          "last_seen_at": "2026-11-12 15:34:58",
+          "last_action": "Canlı MF Sorgulama (22 Ürün)",
           "today_date": "2026-11-12",
           "today_searches": 13,
           "today_cart_adds": 40,
-          "today_smart_orders": 53,
+          "today_smart_orders": 61,
           "total_searches": 43,
           "total_cart_adds": 242,
-          "total_smart_orders": 68,
+          "total_smart_orders": 76,
           "total_days_used": 7,
           "recent_actions": [
-            {
-              "t": "2026-11-12 14:22:25",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-12 14:22:25",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (1 Ürün)"
-            },
-            {
-              "t": "2026-11-12 14:22:47",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-12 14:35:29",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-12 14:35:30",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (BOTANIK • 72 Kalem)"
-            },
-            {
-              "t": "2026-11-12 14:35:30",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-12 14:35:39",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-12 14:35:41",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): SALOFALK 500MG 30 SUPOZITUAR x3"
-            },
             {
               "t": "2026-11-12 14:36:04",
               "type": "mf_resolve",
@@ -31335,6 +31295,46 @@
               "t": "2026-11-12 14:46:11",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (4 Ürün)"
+            },
+            {
+              "t": "2026-11-12 15:30:18",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-12 15:30:19",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (BOTANIK • 92 Kalem)"
+            },
+            {
+              "t": "2026-11-12 15:30:19",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-12 15:30:47",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (30 Ürün)"
+            },
+            {
+              "t": "2026-11-12 15:30:47",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-12 15:31:14",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (30 Ürün)"
+            },
+            {
+              "t": "2026-11-12 15:31:14",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-12 15:31:31",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (22 Ürün)"
             }
           ]
         },
