@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 17:18:17",
+  "updated_at": "2026-11-12 17:18:25",
   "count": 4,
   "items": [
     {
@@ -13,11 +13,11 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D719-CEB2-1542",
-      "last_pc_name": "DESKTOP-M530BBB",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.8.2",
-      "last_seen_at": "2026-11-12 17:18:14",
-      "last_action": "[DESKTOP-M530BBB] Canlı MF Sorgulama (15 Ürün)",
+      "last_seen_at": "2026-11-12 17:18:25",
+      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları Yenileme (TRIA • 86 Kalem)",
       "today_date": "2026-11-12",
       "today_searches": 101,
       "today_cart_adds": 168,
@@ -128,7 +128,7 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.8.2",
-          "last_seen_at": "2026-11-12 17:16:54",
+          "last_seen_at": "2026-11-12 17:18:25",
           "last_action": "Günün Çıkışları Yenileme (TRIA • 86 Kalem)",
           "today_date": "2026-11-12",
           "today_searches": 24,
