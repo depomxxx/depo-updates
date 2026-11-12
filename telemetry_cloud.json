@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 14:38:07",
+  "updated_at": "2026-11-12 14:38:27",
   "count": 69,
   "items": [
     {
@@ -13,20 +13,20 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D719-CEB2-1542",
-      "last_pc_name": "DESKTOP-M530BBB",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.8.1",
-      "last_seen_at": "2026-11-12 14:38:07",
-      "last_action": "[DESKTOP-M530BBB] Canlı MF Sorgulama (9 Ürün)",
+      "last_seen_at": "2026-11-12 14:38:27",
+      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-12",
-      "today_searches": 85,
-      "today_cart_adds": 125,
-      "today_smart_orders": 151,
-      "total_searches": 396,
-      "total_cart_adds": 649,
-      "total_smart_orders": 321,
-      "total_days_used": 9,
-      "pc_count": 8,
+      "today_searches": 63,
+      "today_cart_adds": 59,
+      "today_smart_orders": 110,
+      "total_searches": 302,
+      "total_cart_adds": 532,
+      "total_smart_orders": 257,
+      "total_days_used": 8,
+      "pc_count": 6,
       "devices": {
         "83F3-13F8-E632": {
           "hwid": "83F3-13F8-E632",
@@ -128,7 +128,7 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.8.1",
-          "last_seen_at": "2026-11-12 14:33:53",
+          "last_seen_at": "2026-11-12 14:38:27",
           "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-12",
           "today_searches": 12,
@@ -221,8 +221,8 @@
           "pc_name": "Eda-Bilgin",
           "desk_name": "Eda-Bilgin",
           "local_ip": "192.168.1.114",
-          "app_version": "1.8.1",
-          "last_seen_at": "2026-11-12 14:37:33",
+          "app_version": "1.8.0",
+          "last_seen_at": "2026-11-12 00:46:46",
           "last_action": "Program Açık (Canlı)",
           "today_date": "2026-11-12",
           "today_searches": 0,
@@ -315,90 +315,90 @@
           "pc_name": "DESKTOP-5PFFU5S",
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
-          "app_version": "1.8.1",
-          "last_seen_at": "2026-11-12 14:37:22",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "app_version": "1.7.10",
+          "last_seen_at": "2026-11-12 00:46:12",
+          "last_action": "Program Açık (Canlı)",
           "today_date": "2026-11-12",
-          "today_searches": 4,
-          "today_cart_adds": 54,
-          "today_smart_orders": 22,
-          "total_searches": 91,
-          "total_cart_adds": 205,
-          "total_smart_orders": 25,
+          "today_searches": 0,
+          "today_cart_adds": 0,
+          "today_smart_orders": 0,
+          "total_searches": 87,
+          "total_cart_adds": 151,
+          "total_smart_orders": 3,
           "total_days_used": 6,
           "recent_actions": [
             {
-              "t": "2026-11-12 14:06:45",
+              "t": "2026-11-11 14:53:58",
+              "type": "search",
+              "detail": "Depo Sorgu: STERIMAR BABY DENİZ SUYU BURUN SPREYİ "
+            },
+            {
+              "t": "2026-11-11 14:53:58",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-11 14:54:03",
+              "type": "search",
+              "detail": "Depo Sorgu: STERIMAR BABY DENİZ SUYU BURUN SPREYİ "
+            },
+            {
+              "t": "2026-11-11 14:54:03",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-11 14:54:07",
+              "type": "search",
+              "detail": "Depo Sorgu: STERIMAR BABY DENİZ SUYU BURUN SPREYİ "
+            },
+            {
+              "t": "2026-11-11 15:19:41",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-11 15:19:48",
+              "type": "search",
+              "detail": "Depo Sorgu: CITOLES 15 MG 28 TB."
+            },
+            {
+              "t": "2026-11-11 15:19:48",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-11 15:19:49",
+              "type": "search",
+              "detail": "Depo Sorgu: CITOLES 15 MG 28 TB."
+            },
+            {
+              "t": "2026-11-11 15:20:05",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
             },
             {
-              "t": "2026-11-12 14:06:48",
+              "t": "2026-11-11 15:20:05",
               "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): TERRAMYCIN 3.5 G GOZ MERHEMI x5"
+              "detail": "Sepete Ekle (NEVZAT): CITOLES 15 MG.28 FILM TB. x8"
             },
             {
-              "t": "2026-11-12 14:06:50",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-12 14:06:52",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): BETASERC 24 MG 60 TABLET x3"
-            },
-            {
-              "t": "2026-11-12 14:06:56",
+              "t": "2026-11-11 15:20:07",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
             },
             {
-              "t": "2026-11-12 14:06:58",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): LEVOTIRON 50 MCG 50 TABLET x6"
+              "t": "2026-11-11 17:20:59",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             },
             {
-              "t": "2026-11-12 14:07:03",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
+              "t": "2026-11-11 17:21:06",
+              "type": "search",
+              "detail": "Depo Sorgu: AFERIN 300/2/10 MG 30 CAP *"
             },
             {
-              "t": "2026-11-12 14:07:28",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): LERCADIP 20 MG 30 FILM TABLE x5"
-            },
-            {
-              "t": "2026-11-12 14:07:34",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-12 14:07:37",
-              "type": "cart",
-              "detail": "Sepete Ekle (ISKOOP): OMESEK 20 MG 28 MIKROPELLET  x3"
-            },
-            {
-              "t": "2026-11-12 14:07:50",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-12 14:07:52",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): GYNO-TARDYFERON 80 MG 30 DEP x2"
-            },
-            {
-              "t": "2026-11-12 14:12:03",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-12 14:12:06",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): NORVASC 10 MG 90 TABLET x2"
-            },
-            {
-              "t": "2026-11-12 14:13:26",
+              "t": "2026-11-11 17:21:50",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
@@ -589,179 +589,6 @@
               "t": "2026-11-12 00:48:37",
               "type": "cart",
               "detail": "EczaneTakas Kampanya Açıldı: TUSCOD 7.5 MG 100 ML SRP. (30+33)"
-            }
-          ]
-        },
-        "D719-CEB2-1542": {
-          "hwid": "D719-CEB2-1542",
-          "pc_name": "DESKTOP-M530BBB",
-          "desk_name": "DESKTOP-M530BBB",
-          "local_ip": "192.168.1.112",
-          "app_version": "1.8.1",
-          "last_seen_at": "2026-11-12 14:38:07",
-          "last_action": "Canlı MF Sorgulama (9 Ürün)",
-          "today_date": "2026-11-12",
-          "today_searches": 14,
-          "today_cart_adds": 12,
-          "today_smart_orders": 7,
-          "total_searches": 69,
-          "total_cart_adds": 63,
-          "total_smart_orders": 34,
-          "total_days_used": 9,
-          "recent_actions": [
-            {
-              "t": "2026-11-12 12:01:45",
-              "type": "cart",
-              "detail": "Sepete Ekle (NEVZAT): KETYA 100 MG 30 FILM TB. x1"
-            },
-            {
-              "t": "2026-11-12 12:01:56",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-12 12:01:58",
-              "type": "search",
-              "detail": "Depo Sorgu: DOENZA 5 MG 28 FTB"
-            },
-            {
-              "t": "2026-11-12 12:02:09",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-12 12:02:09",
-              "type": "cart",
-              "detail": "Sepete Ekle (NEVZAT): DOENZA 5 MG 28 TB. x1"
-            },
-            {
-              "t": "2026-11-12 12:03:12",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-12 12:03:23",
-              "type": "search",
-              "detail": "Depo Sorgu: SELINCRO 18 MG 14 FTB."
-            },
-            {
-              "t": "2026-11-12 12:03:30",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-12 12:03:32",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): SELINCRO 18 MG 14 TB x1"
-            },
-            {
-              "t": "2026-11-12 12:03:35",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-12 14:05:37",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-12 14:05:37",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-12 14:05:50",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (30 Ürün)"
-            },
-            {
-              "t": "2026-11-12 14:05:51",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-12 14:05:59",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (9 Ürün)"
-            }
-          ]
-        },
-        "D2E4-AA57-C021": {
-          "hwid": "D2E4-AA57-C021",
-          "pc_name": "DESKTOP-1N3LQF0",
-          "desk_name": "DESKTOP-1N3LQF0",
-          "local_ip": "192.168.1.123",
-          "app_version": "1.8.1",
-          "last_seen_at": "2026-11-12 14:37:41",
-          "last_action": "Canlı MF Sorgulama (16 Ürün)",
-          "today_date": "2026-11-12",
-          "today_searches": 4,
-          "today_cart_adds": 0,
-          "today_smart_orders": 12,
-          "total_searches": 21,
-          "total_cart_adds": 0,
-          "total_smart_orders": 8,
-          "total_days_used": 6,
-          "recent_actions": [
-            {
-              "t": "2026-11-12 11:08:13",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-12 11:08:14",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-12 11:08:58",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (24 Ürün)"
-            },
-            {
-              "t": "2026-11-12 11:09:17",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-12 11:09:26",
-              "type": "search",
-              "detail": "Depo Sorgu: JETEX %5 5 GR KR."
-            },
-            {
-              "t": "2026-11-12 11:09:26",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-12 11:09:28",
-              "type": "search",
-              "detail": "Depo Sorgu: JETEX %5 5 GR KR."
-            },
-            {
-              "t": "2026-11-12 13:56:41",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-12 13:56:42",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-12 13:57:22",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (30 Ürün)"
-            },
-            {
-              "t": "2026-11-12 13:57:22",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-12 13:57:44",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (16 Ürün)"
             }
           ]
         }
@@ -31331,16 +31158,16 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.8.1",
-      "last_seen_at": "2026-11-12 14:40:08",
-      "last_action": "[DESKTOP-T4EAUS3] Canlı MF Sorgulama (1 Ürün)",
+      "last_seen_at": "2026-11-12 14:26:24",
+      "last_action": "[DESKTOP-T4EAUS3] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-12",
       "today_searches": 17,
-      "today_cart_adds": 40,
-      "today_smart_orders": 70,
+      "today_cart_adds": 38,
+      "today_smart_orders": 64,
       "total_searches": 115,
-      "total_cart_adds": 500,
+      "total_cart_adds": 498,
       "total_days_used": 9,
-      "total_smart_orders": 116,
+      "total_smart_orders": 110,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -31423,17 +31250,57 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.8.1",
-          "last_seen_at": "2026-11-12 14:40:08",
-          "last_action": "Canlı MF Sorgulama (1 Ürün)",
+          "last_seen_at": "2026-11-12 14:26:24",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-12",
           "today_searches": 13,
-          "today_cart_adds": 40,
-          "today_smart_orders": 49,
+          "today_cart_adds": 38,
+          "today_smart_orders": 43,
           "total_searches": 43,
-          "total_cart_adds": 242,
-          "total_smart_orders": 64,
+          "total_cart_adds": 240,
+          "total_smart_orders": 58,
           "total_days_used": 7,
           "recent_actions": [
+            {
+              "t": "2026-11-12 13:17:24",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-12 13:17:49",
+              "type": "cart",
+              "detail": "Toplu Sepet (ISKOOP): 1 Kalem"
+            },
+            {
+              "t": "2026-11-12 13:17:50",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-12 14:20:20",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-12 14:20:21",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-12 14:20:52",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (30 Ürün)"
+            },
+            {
+              "t": "2026-11-12 14:21:00",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-12 14:21:21",
+              "type": "cart",
+              "detail": "Toplu Sepet (ISKOOP): 6 Kalem"
+            },
             {
               "t": "2026-11-12 14:21:38",
               "type": "cart",
@@ -31468,46 +31335,6 @@
               "t": "2026-11-12 14:22:47",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-12 14:35:29",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-12 14:35:30",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (BOTANIK • 72 Kalem)"
-            },
-            {
-              "t": "2026-11-12 14:35:30",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-12 14:35:39",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-12 14:35:41",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): SALOFALK 500MG 30 SUPOZITUAR x3"
-            },
-            {
-              "t": "2026-11-12 14:36:04",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (30 Ürün)"
-            },
-            {
-              "t": "2026-11-12 14:36:05",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-12 14:36:06",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (1 Ürün)"
             }
           ]
         },
