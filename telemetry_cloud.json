@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 16:29:33",
+  "updated_at": "2026-11-12 16:30:10",
   "count": 69,
   "items": [
     {
@@ -30249,16 +30249,16 @@
       "hwid": "2DED-CFF9-D593",
       "last_pc_name": "DESKTOP-8JN0NE5",
       "app_version": "1.8.1",
-      "last_seen_at": "2026-11-12 16:29:33",
-      "last_action": "Toplu Sepet (ALLIANCE): 21 Kalem",
+      "last_seen_at": "2026-11-12 16:30:10",
+      "last_action": "Toplu Sipariş Planlama",
       "today_date": "2026-11-12",
       "today_searches": 8,
-      "today_cart_adds": 35,
-      "today_smart_orders": 108,
+      "today_cart_adds": 37,
+      "today_smart_orders": 109,
       "total_searches": 24,
-      "total_cart_adds": 76,
+      "total_cart_adds": 78,
       "total_days_used": 5,
-      "total_smart_orders": 130,
+      "total_smart_orders": 131,
       "pc_count": 1,
       "devices": {
         "2DED-CFF9-D593": {
@@ -30267,27 +30267,17 @@
           "desk_name": "DESKTOP-8JN0NE5",
           "local_ip": "192.168.1.37",
           "app_version": "1.8.1",
-          "last_seen_at": "2026-11-12 16:29:33",
-          "last_action": "Toplu Sepet (ALLIANCE): 21 Kalem",
+          "last_seen_at": "2026-11-12 16:30:10",
+          "last_action": "Toplu Sipariş Planlama",
           "today_date": "2026-11-12",
           "today_searches": 8,
-          "today_cart_adds": 35,
-          "today_smart_orders": 108,
+          "today_cart_adds": 37,
+          "today_smart_orders": 109,
           "total_searches": 24,
-          "total_cart_adds": 76,
-          "total_smart_orders": 130,
+          "total_cart_adds": 78,
+          "total_smart_orders": 131,
           "total_days_used": 5,
           "recent_actions": [
-            {
-              "t": "2026-11-12 15:42:34",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (35 Ürün)"
-            },
-            {
-              "t": "2026-11-12 15:42:36",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-12 15:42:48",
               "type": "mf_resolve",
@@ -30352,6 +30342,16 @@
               "t": "2026-11-12 16:29:33",
               "type": "cart",
               "detail": "Toplu Sepet (ALLIANCE): 21 Kalem"
+            },
+            {
+              "t": "2026-11-12 16:29:38",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-12 16:30:10",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş Planlama"
             }
           ]
         }
