@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 11:17:17",
+  "updated_at": "2026-11-12 11:17:37",
   "count": 69,
   "items": [
     {
@@ -13,17 +13,17 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "5834-FAC9-B71F",
-      "last_pc_name": "DESKTOP-OTHNDUE",
+      "hwid": "83F3-13F8-E632",
+      "last_pc_name": "Eskienes",
       "app_version": "1.8.0",
-      "last_seen_at": "2026-11-12 11:17:17",
-      "last_action": "[DESKTOP-OTHNDUE] Canlı MF Sorgulama (1 Ürün)",
+      "last_seen_at": "2026-11-12 11:17:37",
+      "last_action": "[Eskienes] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-12",
-      "today_searches": 62,
-      "today_cart_adds": 55,
+      "today_searches": 63,
+      "today_cart_adds": 56,
       "today_smart_orders": 108,
-      "total_searches": 301,
-      "total_cart_adds": 528,
+      "total_searches": 302,
+      "total_cart_adds": 529,
       "total_smart_orders": 255,
       "total_days_used": 8,
       "pc_count": 6,
@@ -34,27 +34,17 @@
           "desk_name": "Eskienes",
           "local_ip": "192.168.1.117",
           "app_version": "1.8.0",
-          "last_seen_at": "2026-11-12 11:17:17",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-12 11:17:37",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-12",
-          "today_searches": 7,
-          "today_cart_adds": 0,
+          "today_searches": 8,
+          "today_cart_adds": 1,
           "today_smart_orders": 17,
-          "total_searches": 55,
-          "total_cart_adds": 48,
+          "total_searches": 56,
+          "total_cart_adds": 49,
           "total_smart_orders": 29,
           "total_days_used": 7,
           "recent_actions": [
-            {
-              "t": "2026-11-12 00:45:11",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-12 00:45:37",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (6 Ürün)"
-            },
             {
               "t": "2026-11-12 11:12:34",
               "type": "critical_stock",
@@ -119,6 +109,16 @@
               "t": "2026-11-12 11:17:17",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-12 11:17:19",
+              "type": "search",
+              "detail": "Depo Sorgu: ATTEX 25 MG 28 CAP."
+            },
+            {
+              "t": "2026-11-12 11:17:37",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
