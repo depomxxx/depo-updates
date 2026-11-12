@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 09:03:48",
+  "updated_at": "2026-11-12 09:03:53",
   "count": 69,
   "items": [
     {
@@ -8,7 +8,7 @@
       "pharmacist_name": "EDA BİLGİN",
       "phone": "05077034200",
       "city": "SAMSUN/İLKADIM",
-      "gln_no": "8680001112258",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
@@ -16,13 +16,13 @@
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.8.0",
-      "last_seen_at": "2026-11-12 09:03:48",
-      "last_action": "[DESKTOP-OTHNDUE] Depo Fiyat Sorgulama",
+      "last_seen_at": "2026-11-12 09:03:53",
+      "last_action": "[DESKTOP-OTHNDUE] Depo Sorgu: COLDAWAY COLD FLU 200/30 MG 24",
       "today_date": "2026-11-12",
-      "today_searches": 52,
+      "today_searches": 53,
       "today_cart_adds": 9,
       "today_smart_orders": 58,
-      "total_searches": 291,
+      "total_searches": 292,
       "total_cart_adds": 482,
       "total_smart_orders": 205,
       "total_days_used": 8,
@@ -128,22 +128,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.8.0",
-          "last_seen_at": "2026-11-12 09:03:48",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-12 09:03:53",
+          "last_action": "Depo Sorgu: COLDAWAY COLD FLU 200/30 MG 24",
           "today_date": "2026-11-12",
-          "today_searches": 9,
+          "today_searches": 10,
           "today_cart_adds": 2,
           "today_smart_orders": 8,
-          "total_searches": 50,
+          "total_searches": 51,
           "total_cart_adds": 200,
           "total_smart_orders": 73,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-12 08:59:48",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-12 08:59:49",
               "type": "critical_stock",
@@ -213,6 +208,11 @@
               "t": "2026-11-12 09:03:48",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-12 09:03:53",
+              "type": "search",
+              "detail": "Depo Sorgu: COLDAWAY COLD FLU 200/30 MG 24"
             }
           ]
         },
