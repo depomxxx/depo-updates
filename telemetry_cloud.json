@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 17:32:47",
+  "updated_at": "2026-11-12 17:30:43",
   "count": 4,
   "items": [
     {
@@ -8,23 +8,23 @@
       "pharmacist_name": "EDA BİLGİN",
       "phone": "05077034200",
       "city": "SAMSUN/İLKADIM",
-      "gln_no": "8680001000000",
+      "gln_no": "8680001112258",
       "otomasyon": "TRIA",
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "5834-FAC9-B71F",
-      "last_pc_name": "DESKTOP-OTHNDUE",
-      "app_version": "1.8.3",
-      "last_seen_at": "2026-11-12 17:30:39",
-      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları / Kritik Stok",
+      "hwid": "8FD3-5823-91F4",
+      "last_pc_name": "Eda-Bilgin",
+      "app_version": "1.8.2",
+      "last_seen_at": "2026-11-12 17:30:43",
+      "last_action": "[Eda-Bilgin] Canlı MF Sorgulama (7 Ürün)",
       "today_date": "2026-11-12",
       "today_searches": 103,
       "today_cart_adds": 168,
-      "today_smart_orders": 222,
+      "today_smart_orders": 224,
       "total_searches": 414,
       "total_cart_adds": 692,
-      "total_smart_orders": 392,
+      "total_smart_orders": 394,
       "total_days_used": 9,
       "pc_count": 8,
       "devices": {
@@ -222,7 +222,7 @@
           "desk_name": "Eda-Bilgin",
           "local_ip": "192.168.1.114",
           "app_version": "1.8.2",
-          "last_seen_at": "2026-11-12 17:30:18",
+          "last_seen_at": "2026-11-12 17:30:43",
           "last_action": "Canlı MF Sorgulama (7 Ürün)",
           "today_date": "2026-11-12",
           "today_searches": 2,
@@ -598,27 +598,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.112",
           "app_version": "1.8.3",
-          "last_seen_at": "2026-11-12 17:30:30",
-          "last_action": "Depo Sorgu: BEFIXO 3 ML 5 AMP.",
+          "last_seen_at": "2026-11-12 17:30:40",
+          "last_action": "Canlı MF Taraması",
           "today_date": "2026-11-12",
           "today_searches": 18,
           "today_cart_adds": 35,
-          "today_smart_orders": 18,
+          "today_smart_orders": 20,
           "total_searches": 73,
           "total_cart_adds": 86,
-          "total_smart_orders": 45,
+          "total_smart_orders": 47,
           "total_days_used": 9,
           "recent_actions": [
-            {
-              "t": "2026-11-12 14:47:04",
-              "type": "cart",
-              "detail": "Toplu Sepet (ALLIANCE): 6 Kalem"
-            },
-            {
-              "t": "2026-11-12 14:47:04",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-12 14:47:44",
               "type": "smart_order",
@@ -683,6 +673,16 @@
               "t": "2026-11-12 17:27:55",
               "type": "search",
               "detail": "Depo Sorgu: BEFIXO 3 ML 5 AMP."
+            },
+            {
+              "t": "2026-11-12 17:30:38",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-12 17:30:38",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
             }
           ]
         },
@@ -692,7 +692,7 @@
           "desk_name": "DESKTOP-1N3LQF0",
           "local_ip": "192.168.1.123",
           "app_version": "1.8.2",
-          "last_seen_at": "2026-11-12 17:29:42",
+          "last_seen_at": "2026-11-12 17:30:42",
           "last_action": "Canlı MF Sorgulama (2 Ürün)",
           "today_date": "2026-11-12",
           "today_searches": 4,
