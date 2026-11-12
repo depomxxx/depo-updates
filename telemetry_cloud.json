@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 12:26:07",
+  "updated_at": "2026-11-12 12:26:29",
   "count": 69,
   "items": [
     {
@@ -30264,13 +30264,13 @@
       "hwid": "2DED-CFF9-D593",
       "last_pc_name": "DESKTOP-8JN0NE5",
       "app_version": "1.8.0",
-      "last_seen_at": "2026-11-12 12:26:07",
-      "last_action": "Depo Sorgu: REPARIL GEL N %1+5 50 GR JEL",
+      "last_seen_at": "2026-11-12 12:26:29",
+      "last_action": "Depo Fiyat Sorgulama",
       "today_date": "2026-11-12",
-      "today_searches": 2,
+      "today_searches": 3,
       "today_cart_adds": 0,
       "today_smart_orders": 18,
-      "total_searches": 18,
+      "total_searches": 19,
       "total_cart_adds": 41,
       "total_days_used": 5,
       "total_smart_orders": 40,
@@ -30282,22 +30282,17 @@
           "desk_name": "DESKTOP-8JN0NE5",
           "local_ip": "192.168.1.37",
           "app_version": "1.8.0",
-          "last_seen_at": "2026-11-12 12:26:07",
-          "last_action": "Depo Sorgu: REPARIL GEL N %1+5 50 GR JEL",
+          "last_seen_at": "2026-11-12 12:26:29",
+          "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-12",
-          "today_searches": 2,
+          "today_searches": 3,
           "today_cart_adds": 0,
           "today_smart_orders": 18,
-          "total_searches": 18,
+          "total_searches": 19,
           "total_cart_adds": 41,
           "total_smart_orders": 40,
           "total_days_used": 5,
           "recent_actions": [
-            {
-              "t": "2026-11-12 12:25:00",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-12 12:25:03",
               "type": "mf_resolve",
@@ -30367,6 +30362,11 @@
               "t": "2026-11-12 12:26:07",
               "type": "search",
               "detail": "Depo Sorgu: REPARIL GEL N %1+5 50 GR JEL"
+            },
+            {
+              "t": "2026-11-12 12:26:29",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ]
         }
