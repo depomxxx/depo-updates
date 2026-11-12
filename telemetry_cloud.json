@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 12:01:32",
+  "updated_at": "2026-11-12 12:01:56",
   "count": 69,
   "items": [
     {
@@ -16,14 +16,14 @@
       "hwid": "D719-CEB2-1542",
       "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.8.0",
-      "last_seen_at": "2026-11-12 12:01:32",
+      "last_seen_at": "2026-11-12 12:01:56",
       "last_action": "[DESKTOP-M530BBB] Depo Fiyat Sorgulama",
       "today_date": "2026-11-12",
-      "today_searches": 80,
-      "today_cart_adds": 67,
+      "today_searches": 82,
+      "today_cart_adds": 69,
       "today_smart_orders": 120,
-      "total_searches": 391,
-      "total_cart_adds": 591,
+      "total_searches": 393,
+      "total_cart_adds": 593,
       "total_smart_orders": 290,
       "total_days_used": 9,
       "pc_count": 8,
@@ -598,37 +598,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.112",
           "app_version": "1.8.0",
-          "last_seen_at": "2026-11-12 12:01:32",
+          "last_seen_at": "2026-11-12 12:01:56",
           "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-12",
-          "today_searches": 9,
-          "today_cart_adds": 2,
+          "today_searches": 11,
+          "today_cart_adds": 4,
           "today_smart_orders": 2,
-          "total_searches": 64,
-          "total_cart_adds": 53,
+          "total_searches": 66,
+          "total_cart_adds": 55,
           "total_smart_orders": 29,
           "total_days_used": 9,
           "recent_actions": [
-            {
-              "t": "2026-11-11 18:08:34",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-11 18:08:36",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-11 18:08:43",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (26 Ürün)"
-            },
-            {
-              "t": "2026-11-12 08:45:24",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-12 08:46:54",
               "type": "critical_stock",
@@ -683,6 +663,26 @@
               "t": "2026-11-12 12:01:32",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-12 12:01:39",
+              "type": "search",
+              "detail": "Depo Sorgu: KETYA 100 MG 30 FTB."
+            },
+            {
+              "t": "2026-11-12 12:01:45",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-12 12:01:45",
+              "type": "cart",
+              "detail": "Sepete Ekle (NEVZAT): KETYA 100 MG 30 FILM TB. x1"
+            },
+            {
+              "t": "2026-11-12 12:01:56",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ]
         },
@@ -692,7 +692,7 @@
           "desk_name": "DESKTOP-1N3LQF0",
           "local_ip": "192.168.1.123",
           "app_version": "1.8.0",
-          "last_seen_at": "2026-11-12 12:01:09",
+          "last_seen_at": "2026-11-12 12:01:41",
           "last_action": "Depo Sorgu: JETEX %5 5 GR KR.",
           "today_date": "2026-11-12",
           "today_searches": 4,
