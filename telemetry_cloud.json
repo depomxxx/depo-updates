@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 16:26:45",
+  "updated_at": "2026-11-12 16:27:14",
   "count": 69,
   "items": [
     {
@@ -30249,16 +30249,16 @@
       "hwid": "2DED-CFF9-D593",
       "last_pc_name": "DESKTOP-8JN0NE5",
       "app_version": "1.8.1",
-      "last_seen_at": "2026-11-12 16:26:45",
-      "last_action": "Canlı MF Sorgulama (13 Ürün)",
+      "last_seen_at": "2026-11-12 16:27:14",
+      "last_action": "Canlı MF Sorgulama (30 Ürün)",
       "today_date": "2026-11-12",
       "today_searches": 6,
       "today_cart_adds": 33,
-      "today_smart_orders": 100,
+      "today_smart_orders": 104,
       "total_searches": 22,
       "total_cart_adds": 74,
       "total_days_used": 5,
-      "total_smart_orders": 122,
+      "total_smart_orders": 126,
       "pc_count": 1,
       "devices": {
         "2DED-CFF9-D593": {
@@ -30267,37 +30267,17 @@
           "desk_name": "DESKTOP-8JN0NE5",
           "local_ip": "192.168.1.37",
           "app_version": "1.8.1",
-          "last_seen_at": "2026-11-12 16:26:45",
-          "last_action": "Canlı MF Sorgulama (13 Ürün)",
+          "last_seen_at": "2026-11-12 16:27:14",
+          "last_action": "Canlı MF Sorgulama (30 Ürün)",
           "today_date": "2026-11-12",
           "today_searches": 6,
           "today_cart_adds": 33,
-          "today_smart_orders": 100,
+          "today_smart_orders": 104,
           "total_searches": 22,
           "total_cart_adds": 74,
-          "total_smart_orders": 122,
+          "total_smart_orders": 126,
           "total_days_used": 5,
           "recent_actions": [
-            {
-              "t": "2026-11-12 14:03:05",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (2 Ürün)"
-            },
-            {
-              "t": "2026-11-12 15:39:26",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-12 15:39:36",
-              "type": "search",
-              "detail": "Depo Sorgu: JINKONID 7 VAG. OVUL"
-            },
-            {
-              "t": "2026-11-12 15:39:42",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-12 15:40:02",
               "type": "cart",
@@ -30352,6 +30332,26 @@
               "t": "2026-11-12 15:42:48",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (13 Ürün)"
+            },
+            {
+              "t": "2026-11-12 16:26:47",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-12 16:26:48",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (BOTANIK • 77 Kalem)"
+            },
+            {
+              "t": "2026-11-12 16:26:48",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-12 16:27:14",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (30 Ürün)"
             }
           ]
         }
