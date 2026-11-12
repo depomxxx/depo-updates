@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 16:38:26",
+  "updated_at": "2026-11-12 16:36:34",
   "count": 4,
   "items": [
     {
@@ -900,20 +900,20 @@
       "plan": "DENEME_30GUN",
       "expires_at": "2026-12-10",
       "status": "AKTIF",
-      "hwid": "2F66-9873-3F47",
-      "last_pc_name": "DESKTOP-7U0I99G",
-      "app_version": "1.7.7",
-      "last_seen_at": "2026-11-11 18:25:50",
-      "last_action": "[DESKTOP-7U0I99G] Canlı MF Sorgulama (6 Ürün)",
-      "today_date": "2026-11-11",
-      "today_searches": 4,
-      "today_cart_adds": 0,
-      "today_smart_orders": 25,
-      "total_searches": 17,
-      "total_cart_adds": 7,
+      "hwid": "47CB-2231-637D",
+      "last_pc_name": "DESKTOP-F1KQPJ2",
+      "app_version": "1.8.2",
+      "last_seen_at": "2026-11-12 16:36:34",
+      "last_action": "[DESKTOP-F1KQPJ2] Sepete Ürün / Sipariş Aktarımı",
+      "today_date": "2026-11-12",
+      "today_searches": 28,
+      "today_cart_adds": 3,
+      "today_smart_orders": 16,
+      "total_searches": 68,
+      "total_cart_adds": 32,
       "total_days_used": 2,
-      "total_smart_orders": 15,
-      "pc_count": 2,
+      "total_smart_orders": 25,
+      "pc_count": 3,
       "devices": {
         "2F66-9873-3F47": {
           "hwid": "2F66-9873-3F47",
@@ -1045,6 +1045,100 @@
               "t": "2026-11-11 17:43:41",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (19 Ürün)"
+            }
+          ]
+        },
+        "47CB-2231-637D": {
+          "hwid": "47CB-2231-637D",
+          "pc_name": "DESKTOP-F1KQPJ2",
+          "desk_name": "DESKTOP-F1KQPJ2",
+          "local_ip": "192.168.1.28",
+          "app_version": "1.8.2",
+          "last_seen_at": "2026-11-12 16:36:34",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "today_date": "2026-11-12",
+          "today_searches": 28,
+          "today_cart_adds": 3,
+          "today_smart_orders": 16,
+          "total_searches": 51,
+          "total_cart_adds": 25,
+          "total_smart_orders": 10,
+          "total_days_used": 2,
+          "recent_actions": [
+            {
+              "t": "2026-11-12 09:48:57",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş Planlama"
+            },
+            {
+              "t": "2026-11-12 09:48:57",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş (TEBEOS • 11 Kalem)"
+            },
+            {
+              "t": "2026-11-12 09:48:57",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-12 09:48:58",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (2 Ürün)"
+            },
+            {
+              "t": "2026-11-12 13:56:54",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-12 13:56:54",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-12 13:56:54",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (1 Ürün)"
+            },
+            {
+              "t": "2026-11-12 14:21:28",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-12 14:21:31",
+              "type": "search",
+              "detail": "Depo Sorgu: BALMOIL YAĞ BANYOSU"
+            },
+            {
+              "t": "2026-11-12 14:26:10",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-12 14:26:12",
+              "type": "search",
+              "detail": "Depo Sorgu: NEO PENOTRAN FORT L 7 VAG. OVU"
+            },
+            {
+              "t": "2026-11-12 14:29:47",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-12 14:29:49",
+              "type": "search",
+              "detail": "Depo Sorgu: ERDOBIL 175 MG/5 SUSP 100 ML."
+            },
+            {
+              "t": "2026-11-12 14:36:46",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-12 15:39:13",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         }
