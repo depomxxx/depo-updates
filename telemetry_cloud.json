@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 16:44:47",
+  "updated_at": "2026-11-12 16:46:55",
   "count": 4,
   "items": [
     {
@@ -1173,16 +1173,16 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.8.2",
-      "last_seen_at": "2026-11-12 16:46:35",
-      "last_action": "[DESKTOP-T4EAUS3] Sepete Ekle (ALLIANCE): XARELTO 20MG 28 FİLM TABLET x4",
+      "last_seen_at": "2026-11-12 16:46:55",
+      "last_action": "[DESKTOP-T4EAUS3] Toplu Sipariş Planlama",
       "today_date": "2026-11-12",
       "today_searches": 17,
-      "today_cart_adds": 52,
-      "today_smart_orders": 107,
+      "today_cart_adds": 53,
+      "today_smart_orders": 108,
       "total_searches": 115,
-      "total_cart_adds": 512,
+      "total_cart_adds": 513,
       "total_days_used": 9,
-      "total_smart_orders": 153,
+      "total_smart_orders": 154,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -1265,22 +1265,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.8.2",
-          "last_seen_at": "2026-11-12 16:46:35",
-          "last_action": "Sepete Ekle (ALLIANCE): XARELTO 20MG 28 FİLM TABLET x4",
+          "last_seen_at": "2026-11-12 16:46:55",
+          "last_action": "Toplu Sipariş Planlama",
           "today_date": "2026-11-12",
           "today_searches": 13,
-          "today_cart_adds": 52,
-          "today_smart_orders": 86,
+          "today_cart_adds": 53,
+          "today_smart_orders": 87,
           "total_searches": 43,
-          "total_cart_adds": 254,
-          "total_smart_orders": 101,
+          "total_cart_adds": 255,
+          "total_smart_orders": 102,
           "total_days_used": 7,
           "recent_actions": [
-            {
-              "t": "2026-11-12 16:45:46",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş (BOTANIK • 176 Kalem)"
-            },
             {
               "t": "2026-11-12 16:45:46",
               "type": "mf_resolve",
@@ -1350,6 +1345,11 @@
               "t": "2026-11-12 16:46:35",
               "type": "cart",
               "detail": "Sepete Ekle (ALLIANCE): XARELTO 20MG 28 FİLM TABLET x4"
+            },
+            {
+              "t": "2026-11-12 16:46:55",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş Planlama"
             }
           ]
         },
