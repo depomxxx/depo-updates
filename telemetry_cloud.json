@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 12:34:45",
+  "updated_at": "2026-11-12 12:35:28",
   "count": 69,
   "items": [
     {
@@ -30264,14 +30264,14 @@
       "hwid": "2DED-CFF9-D593",
       "last_pc_name": "DESKTOP-8JN0NE5",
       "app_version": "1.8.0",
-      "last_seen_at": "2026-11-12 12:34:39",
-      "last_action": "Canlı MF Sorgulama (15 Ürün)",
+      "last_seen_at": "2026-11-12 12:35:28",
+      "last_action": "Toplu Sepet (ISKOOP): 17 Kalem",
       "today_date": "2026-11-12",
       "today_searches": 4,
-      "today_cart_adds": 8,
+      "today_cart_adds": 10,
       "today_smart_orders": 48,
       "total_searches": 20,
-      "total_cart_adds": 49,
+      "total_cart_adds": 51,
       "total_days_used": 5,
       "total_smart_orders": 70,
       "pc_count": 1,
@@ -30282,27 +30282,17 @@
           "desk_name": "DESKTOP-8JN0NE5",
           "local_ip": "192.168.1.37",
           "app_version": "1.8.0",
-          "last_seen_at": "2026-11-12 12:34:39",
-          "last_action": "Canlı MF Sorgulama (15 Ürün)",
+          "last_seen_at": "2026-11-12 12:35:28",
+          "last_action": "Toplu Sepet (ISKOOP): 17 Kalem",
           "today_date": "2026-11-12",
           "today_searches": 4,
-          "today_cart_adds": 8,
+          "today_cart_adds": 10,
           "today_smart_orders": 48,
           "total_searches": 20,
-          "total_cart_adds": 49,
+          "total_cart_adds": 51,
           "total_smart_orders": 70,
           "total_days_used": 5,
           "recent_actions": [
-            {
-              "t": "2026-11-12 12:30:26",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş (BOTANIK • 100 Kalem)"
-            },
-            {
-              "t": "2026-11-12 12:30:26",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-12 12:30:27",
               "type": "mf_resolve",
@@ -30367,6 +30357,16 @@
               "t": "2026-11-12 12:33:32",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (15 Ürün)"
+            },
+            {
+              "t": "2026-11-12 12:34:55",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-12 12:35:28",
+              "type": "cart",
+              "detail": "Toplu Sepet (ISKOOP): 17 Kalem"
             }
           ]
         }
