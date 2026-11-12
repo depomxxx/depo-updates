@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 18:06:24",
+  "updated_at": "2026-11-12 18:06:41",
   "count": 4,
   "items": [
     {
@@ -8,23 +8,23 @@
       "pharmacist_name": "EDA BİLGİN",
       "phone": "05077034200",
       "city": "SAMSUN/İLKADIM",
-      "gln_no": "8680001112258",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "8FD3-5823-91F4",
-      "last_pc_name": "Eda-Bilgin",
+      "hwid": "B446-9737-94C4",
+      "last_pc_name": "DESKTOP-5PFFU5S",
       "app_version": "1.8.3",
-      "last_seen_at": "2026-11-12 18:06:24",
-      "last_action": "[Eda-Bilgin] Canlı MF Sorgulama (12 Ürün)",
+      "last_seen_at": "2026-11-12 18:06:41",
+      "last_action": "[DESKTOP-5PFFU5S] Canlı MF Sorgulama (21 Ürün)",
       "today_date": "2026-11-12",
-      "today_searches": 103,
+      "today_searches": 104,
       "today_cart_adds": 178,
-      "today_smart_orders": 249,
-      "total_searches": 414,
+      "today_smart_orders": 251,
+      "total_searches": 415,
       "total_cart_adds": 702,
-      "total_smart_orders": 419,
+      "total_smart_orders": 421,
       "total_days_used": 9,
       "pc_count": 8,
       "devices": {
@@ -222,32 +222,17 @@
           "desk_name": "Eda-Bilgin",
           "local_ip": "192.168.1.114",
           "app_version": "1.8.3",
-          "last_seen_at": "2026-11-12 18:06:24",
-          "last_action": "Canlı MF Sorgulama (12 Ürün)",
+          "last_seen_at": "2026-11-12 18:06:38",
+          "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-12",
-          "today_searches": 2,
+          "today_searches": 3,
           "today_cart_adds": 0,
-          "today_smart_orders": 27,
-          "total_searches": 47,
+          "today_smart_orders": 29,
+          "total_searches": 48,
           "total_cart_adds": 9,
-          "total_smart_orders": 45,
+          "total_smart_orders": 47,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-12 16:32:22",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-12 16:32:26",
-              "type": "search",
-              "detail": "Depo Sorgu: MAGNORM 365 MG 30 EFF TB."
-            },
-            {
-              "t": "2026-11-12 16:36:41",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-12 16:36:42",
               "type": "mf_resolve",
@@ -307,6 +292,21 @@
               "t": "2026-11-12 17:31:44",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (12 Ürün)"
+            },
+            {
+              "t": "2026-11-12 18:06:28",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-12 18:06:29",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-12 18:06:38",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ]
         },
@@ -316,7 +316,7 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.8.3",
-          "last_seen_at": "2026-11-12 18:06:23",
+          "last_seen_at": "2026-11-12 18:06:41",
           "last_action": "Canlı MF Sorgulama (21 Ürün)",
           "today_date": "2026-11-12",
           "today_searches": 4,
@@ -598,7 +598,7 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.112",
           "app_version": "1.8.3",
-          "last_seen_at": "2026-11-12 18:06:03",
+          "last_seen_at": "2026-11-12 18:06:28",
           "last_action": "Canlı MF Sorgulama (5 Ürün)",
           "today_date": "2026-11-12",
           "today_searches": 18,
