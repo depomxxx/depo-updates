@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-11-12 10:55:33",
+  "updated_at": "2026-11-12 10:55:35",
   "count": 69,
   "items": [
     {
-      "id": "D0EFA284",
-      "pharmacy_name": "ARAŞTIRMA ECZANESI",
+      "id": "48F632F1",
+      "pharmacy_name": "EDA ECZANESI",
       "pharmacist_name": "EDA BİLGİN",
       "phone": "05077034200",
       "city": "SAMSUN/İLKADIM",
       "gln_no": "8680001000000",
       "otomasyon": "TRIA",
-      "plan": "PRO_YILLIK",
-      "expires_at": "2027-10-24",
+      "plan": "KURUMSAL_SINIRSIZ",
+      "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "E6B1-5698-273E",
-      "last_pc_name": "DESKTOP-6KFO8IF",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.8.0",
-      "last_seen_at": "2026-11-12 10:55:33",
-      "last_action": "[DESKTOP-6KFO8IF] EczaneTakas Kampanya Açıldı: PULCET 40 MG 28 TB (30+4)",
+      "last_seen_at": "2026-11-12 10:55:35",
+      "last_action": "[DESKTOP-OTHNDUE] Toplu Sepet (SELCUK): 2 Kalem",
       "today_date": "2026-11-12",
       "today_searches": 53,
-      "today_cart_adds": 25,
+      "today_cart_adds": 27,
       "today_smart_orders": 60,
       "total_searches": 292,
-      "total_cart_adds": 498,
+      "total_cart_adds": 500,
       "total_smart_orders": 207,
       "total_days_used": 8,
       "pc_count": 6,
@@ -128,27 +128,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.8.0",
-          "last_seen_at": "2026-11-12 10:55:30",
-          "last_action": "Toplu Sepet (ALLIANCE): 4 Kalem",
+          "last_seen_at": "2026-11-12 10:55:35",
+          "last_action": "Toplu Sepet (SELCUK): 2 Kalem",
           "today_date": "2026-11-12",
           "today_searches": 10,
-          "today_cart_adds": 18,
+          "today_cart_adds": 20,
           "today_smart_orders": 10,
           "total_searches": 51,
-          "total_cart_adds": 216,
+          "total_cart_adds": 218,
           "total_smart_orders": 75,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-12 09:02:06",
-              "type": "search",
-              "detail": "Depo Sorgu: VENTOLIN NEB 2.5 MG 2.5 ML20 F"
-            },
-            {
-              "t": "2026-11-12 09:03:48",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-12 09:03:53",
               "type": "search",
@@ -213,6 +203,16 @@
               "t": "2026-11-12 10:55:30",
               "type": "cart",
               "detail": "Toplu Sepet (ALLIANCE): 4 Kalem"
+            },
+            {
+              "t": "2026-11-12 10:55:34",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-12 10:55:35",
+              "type": "cart",
+              "detail": "Toplu Sepet (SELCUK): 2 Kalem"
             }
           ]
         },
