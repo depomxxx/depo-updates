@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 13:21:36",
+  "updated_at": "2026-11-12 13:21:38",
   "count": 69,
   "items": [
     {
@@ -31158,16 +31158,16 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.8.0",
-      "last_seen_at": "2026-11-12 13:22:24",
+      "last_seen_at": "2026-11-12 13:23:41",
       "last_action": "[DESKTOP-T4EAUS3] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-12",
       "today_searches": 15,
       "today_cart_adds": 30,
-      "today_smart_orders": 36,
+      "today_smart_orders": 41,
       "total_searches": 113,
       "total_cart_adds": 490,
       "total_days_used": 9,
-      "total_smart_orders": 82,
+      "total_smart_orders": 87,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -31250,7 +31250,7 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.8.0",
-          "last_seen_at": "2026-11-12 13:22:24",
+          "last_seen_at": "2026-11-12 13:23:41",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-12",
           "today_searches": 13,
@@ -31344,32 +31344,17 @@
           "desk_name": "Cicobey",
           "local_ip": "192.168.1.43",
           "app_version": "1.5.9",
-          "last_seen_at": "2026-11-12 13:20:18",
-          "last_action": "Depo Sorgu: TYLOL HOT DAY 12 POS",
+          "last_seen_at": "2026-11-12 13:21:38",
+          "last_action": "Canlı MF Sorgulama (30 Ürün)",
           "today_date": "2026-11-12",
           "today_searches": 2,
           "today_cart_adds": 0,
-          "today_smart_orders": 0,
+          "today_smart_orders": 5,
           "total_searches": 36,
           "total_cart_adds": 62,
-          "total_smart_orders": 19,
+          "total_smart_orders": 24,
           "total_days_used": 9,
           "recent_actions": [
-            {
-              "t": "2026-11-11 13:56:10",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-11 13:56:19",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-11 13:56:21",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-11 13:56:59",
               "type": "mf_resolve",
@@ -31429,6 +31414,21 @@
               "t": "2026-11-12 00:28:39",
               "type": "search",
               "detail": "Depo Sorgu: TYLOL HOT DAY 12 POS"
+            },
+            {
+              "t": "2026-11-12 13:20:20",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-12 13:20:21",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-12 13:21:38",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (30 Ürün)"
             }
           ]
         }
