@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 11:17:05",
+  "updated_at": "2026-11-12 11:17:17",
   "count": 69,
   "items": [
     {
@@ -8,7 +8,7 @@
       "pharmacist_name": "EDA BİLGİN",
       "phone": "05077034200",
       "city": "SAMSUN/İLKADIM",
-      "gln_no": "8680001000000",
+      "gln_no": "8680001112258",
       "otomasyon": "TRIA",
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
@@ -16,13 +16,13 @@
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.8.0",
-      "last_seen_at": "2026-11-12 11:17:05",
+      "last_seen_at": "2026-11-12 11:17:17",
       "last_action": "[DESKTOP-OTHNDUE] Canlı MF Sorgulama (1 Ürün)",
       "today_date": "2026-11-12",
-      "today_searches": 61,
+      "today_searches": 62,
       "today_cart_adds": 55,
       "today_smart_orders": 108,
-      "total_searches": 300,
+      "total_searches": 301,
       "total_cart_adds": 528,
       "total_smart_orders": 255,
       "total_days_used": 8,
@@ -34,22 +34,17 @@
           "desk_name": "Eskienes",
           "local_ip": "192.168.1.117",
           "app_version": "1.8.0",
-          "last_seen_at": "2026-11-12 11:16:57",
-          "last_action": "Depo Sorgu: ATTEX 25 MG 28 CAP.",
+          "last_seen_at": "2026-11-12 11:17:17",
+          "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-12",
-          "today_searches": 6,
+          "today_searches": 7,
           "today_cart_adds": 0,
           "today_smart_orders": 17,
-          "total_searches": 54,
+          "total_searches": 55,
           "total_cart_adds": 48,
           "total_smart_orders": 29,
           "total_days_used": 7,
           "recent_actions": [
-            {
-              "t": "2026-11-12 00:45:11",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-12 00:45:11",
               "type": "mf_resolve",
@@ -119,6 +114,11 @@
               "t": "2026-11-12 11:16:57",
               "type": "search",
               "detail": "Depo Sorgu: ATTEX 25 MG 28 CAP."
+            },
+            {
+              "t": "2026-11-12 11:17:17",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ]
         },
@@ -128,7 +128,7 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.8.0",
-          "last_seen_at": "2026-11-12 11:17:05",
+          "last_seen_at": "2026-11-12 11:17:17",
           "last_action": "Canlı MF Sorgulama (1 Ürün)",
           "today_date": "2026-11-12",
           "today_searches": 12,
