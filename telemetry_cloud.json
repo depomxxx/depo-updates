@@ -3,15 +3,15 @@
   "count": 69,
   "items": [
     {
-      "id": "D0EFA284",
-      "pharmacy_name": "ARAŞTIRMA ECZANESI",
+      "id": "48F632F1",
+      "pharmacy_name": "EDA ECZANESI",
       "pharmacist_name": "EDA BİLGİN",
       "phone": "05077034200",
       "city": "SAMSUN/İLKADIM",
       "gln_no": "8680001000000",
       "otomasyon": "TRIA",
-      "plan": "PRO_YILLIK",
-      "expires_at": "2027-10-24",
+      "plan": "KURUMSAL_SINIRSIZ",
+      "expires_at": "2031-10-26",
       "status": "AKTIF",
       "hwid": "E6B1-5698-273E",
       "last_pc_name": "DESKTOP-6KFO8IF",
@@ -20,10 +20,10 @@
       "last_action": "[DESKTOP-6KFO8IF] EczaneTakas Kampanya Açıldı: PULCET 40 MG 28 TB (30+4)",
       "today_date": "2026-11-12",
       "today_searches": 55,
-      "today_cart_adds": 40,
+      "today_cart_adds": 41,
       "today_smart_orders": 82,
       "total_searches": 294,
-      "total_cart_adds": 513,
+      "total_cart_adds": 514,
       "total_smart_orders": 229,
       "total_days_used": 8,
       "pc_count": 6,
@@ -128,22 +128,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.8.0",
-          "last_seen_at": "2026-11-12 11:07:20",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-12 11:07:42",
+          "last_action": "Toplu Sepet (ALLIANCE): 9 Kalem",
           "today_date": "2026-11-12",
           "today_searches": 12,
-          "today_cart_adds": 33,
+          "today_cart_adds": 34,
           "today_smart_orders": 32,
           "total_searches": 53,
-          "total_cart_adds": 231,
+          "total_cart_adds": 232,
           "total_smart_orders": 97,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-12 10:57:11",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-12 10:57:12",
               "type": "cart",
@@ -213,6 +208,11 @@
               "t": "2026-11-12 11:07:20",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-12 11:07:42",
+              "type": "cart",
+              "detail": "Toplu Sepet (ALLIANCE): 9 Kalem"
             }
           ]
         },
