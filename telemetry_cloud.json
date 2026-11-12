@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 15:34:40",
+  "updated_at": "2026-11-12 15:34:58",
   "count": 69,
   "items": [
     {
@@ -16,14 +16,14 @@
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.8.1",
-      "last_seen_at": "2026-11-12 15:34:40",
-      "last_action": "[DESKTOP-OTHNDUE] Depo Fiyat Sorgulama",
+      "last_seen_at": "2026-11-12 15:34:58",
+      "last_action": "[DESKTOP-OTHNDUE] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-12",
-      "today_searches": 68,
-      "today_cart_adds": 67,
+      "today_searches": 69,
+      "today_cart_adds": 70,
       "today_smart_orders": 114,
-      "total_searches": 307,
-      "total_cart_adds": 540,
+      "total_searches": 308,
+      "total_cart_adds": 543,
       "total_smart_orders": 261,
       "total_days_used": 8,
       "pc_count": 6,
@@ -128,37 +128,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.8.1",
-          "last_seen_at": "2026-11-12 15:34:40",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-12 15:34:58",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-12",
-          "today_searches": 17,
-          "today_cart_adds": 56,
+          "today_searches": 18,
+          "today_cart_adds": 59,
           "today_smart_orders": 57,
-          "total_searches": 58,
-          "total_cart_adds": 254,
+          "total_searches": 59,
+          "total_cart_adds": 257,
           "total_smart_orders": 122,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-12 14:00:46",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-12 15:28:00",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-12 15:28:00",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 78 Kalem)"
-            },
-            {
-              "t": "2026-11-12 15:30:02",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-12 15:30:25",
               "type": "cart",
@@ -213,6 +193,26 @@
               "t": "2026-11-12 15:34:40",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-12 15:34:43",
+              "type": "search",
+              "detail": "Depo Sorgu: FAMODIN 40 MG 30 TB."
+            },
+            {
+              "t": "2026-11-12 15:34:52",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-12 15:34:56",
+              "type": "cart",
+              "detail": "Toplu Sepet (ALLIANCE): 2 Kalem"
+            },
+            {
+              "t": "2026-11-12 15:34:58",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
