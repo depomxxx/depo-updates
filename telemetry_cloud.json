@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 16:17:37",
+  "updated_at": "2026-11-12 16:15:50",
   "count": 69,
   "items": [
     {
@@ -16,15 +16,15 @@
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.8.1",
-      "last_seen_at": "2026-11-12 15:48:17",
-      "last_action": "[DESKTOP-OTHNDUE] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-12 16:15:50",
+      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları Yenileme (TRIA • 79 Kalem)",
       "today_date": "2026-11-12",
       "today_searches": 69,
       "today_cart_adds": 71,
-      "today_smart_orders": 114,
+      "today_smart_orders": 118,
       "total_searches": 308,
       "total_cart_adds": 544,
-      "total_smart_orders": 261,
+      "total_smart_orders": 265,
       "total_days_used": 8,
       "pc_count": 6,
       "devices": {
@@ -128,37 +128,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.8.1",
-          "last_seen_at": "2026-11-12 15:48:17",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-12 16:15:50",
+          "last_action": "Günün Çıkışları Yenileme (TRIA • 79 Kalem)",
           "today_date": "2026-11-12",
           "today_searches": 18,
           "today_cart_adds": 60,
-          "today_smart_orders": 57,
+          "today_smart_orders": 61,
           "total_searches": 59,
           "total_cart_adds": 258,
-          "total_smart_orders": 122,
+          "total_smart_orders": 126,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-12 15:30:27",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-12 15:30:28",
-              "type": "cart",
-              "detail": "Toplu Sepet (SELCUK): 2 Kalem"
-            },
-            {
-              "t": "2026-11-12 15:30:30",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-12 15:31:03",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-12 15:31:04",
               "type": "critical_stock",
@@ -213,6 +193,26 @@
               "t": "2026-11-12 15:35:01",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-12 15:49:00",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-12 15:49:00",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 79 Kalem)"
+            },
+            {
+              "t": "2026-11-12 15:49:03",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-12 15:49:03",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 79 Kalem)"
             }
           ]
         },
