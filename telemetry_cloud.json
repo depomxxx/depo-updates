@@ -1,30 +1,30 @@
 {
-  "updated_at": "2026-11-12 11:09:04",
+  "updated_at": "2026-11-12 11:09:13",
   "count": 69,
   "items": [
     {
-      "id": "48F632F1",
-      "pharmacy_name": "EDA ECZANESI",
+      "id": "D0EFA284",
+      "pharmacy_name": "ARAŞTIRMA ECZANESI",
       "pharmacist_name": "EDA BİLGİN",
       "phone": "05077034200",
       "city": "SAMSUN/İLKADIM",
       "gln_no": "8680001000000",
       "otomasyon": "TRIA",
-      "plan": "KURUMSAL_SINIRSIZ",
-      "expires_at": "2031-10-26",
+      "plan": "PRO_YILLIK",
+      "expires_at": "2027-10-24",
       "status": "AKTIF",
-      "hwid": "5834-FAC9-B71F",
-      "last_pc_name": "DESKTOP-OTHNDUE",
+      "hwid": "E6B1-5698-273E",
+      "last_pc_name": "DESKTOP-6KFO8IF",
       "app_version": "1.8.0",
-      "last_seen_at": "2026-11-12 11:09:04",
-      "last_action": "[DESKTOP-OTHNDUE] Toplu Sipariş Planlama",
+      "last_seen_at": "2026-11-12 11:09:13",
+      "last_action": "[DESKTOP-6KFO8IF] EczaneTakas Kampanya Açıldı: PULCET 40 MG 28 TB (30+4)",
       "today_date": "2026-11-12",
       "today_searches": 55,
-      "today_cart_adds": 51,
-      "today_smart_orders": 91,
+      "today_cart_adds": 53,
+      "today_smart_orders": 94,
       "total_searches": 294,
-      "total_cart_adds": 524,
-      "total_smart_orders": 238,
+      "total_cart_adds": 526,
+      "total_smart_orders": 241,
       "total_days_used": 8,
       "pc_count": 6,
       "devices": {
@@ -128,37 +128,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.8.0",
-          "last_seen_at": "2026-11-12 11:09:04",
-          "last_action": "Toplu Sipariş Planlama",
+          "last_seen_at": "2026-11-12 11:09:11",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-12",
           "today_searches": 12,
-          "today_cart_adds": 44,
-          "today_smart_orders": 41,
+          "today_cart_adds": 46,
+          "today_smart_orders": 44,
           "total_searches": 53,
-          "total_cart_adds": 242,
-          "total_smart_orders": 106,
+          "total_cart_adds": 244,
+          "total_smart_orders": 109,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-12 11:07:43",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-12 11:07:43",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (1 Ürün)"
-            },
-            {
-              "t": "2026-11-12 11:07:52",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-12 11:07:54",
-              "type": "cart",
-              "detail": "Toplu Sepet (SELCUK): 1 Kalem"
-            },
             {
               "t": "2026-11-12 11:07:58",
               "type": "cart",
@@ -213,6 +193,26 @@
               "t": "2026-11-12 11:09:04",
               "type": "smart_order",
               "detail": "Toplu Sipariş Planlama"
+            },
+            {
+              "t": "2026-11-12 11:09:05",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş (TRIA • 246 Kalem)"
+            },
+            {
+              "t": "2026-11-12 11:09:05",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-12 11:09:06",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (1 Ürün)"
+            },
+            {
+              "t": "2026-11-12 11:09:06",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
@@ -410,7 +410,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.8.0",
-          "last_seen_at": "2026-11-12 11:07:42",
+          "last_seen_at": "2026-11-12 11:09:13",
           "last_action": "EczaneTakas Kampanya Açıldı: PULCET 40 MG 28 TB (30+4)",
           "today_date": "2026-11-12",
           "today_searches": 4,
