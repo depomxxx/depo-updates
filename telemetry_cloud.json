@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 17:02:46",
+  "updated_at": "2026-11-12 17:03:04",
   "count": 4,
   "items": [
     {
@@ -8,23 +8,23 @@
       "pharmacist_name": "EDA BİLGİN",
       "phone": "05077034200",
       "city": "SAMSUN/İLKADIM",
-      "gln_no": "8680001112258",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "B446-9737-94C4",
-      "last_pc_name": "DESKTOP-5PFFU5S",
+      "hwid": "D719-CEB2-1542",
+      "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.8.2",
-      "last_seen_at": "2026-11-12 17:02:28",
-      "last_action": "[DESKTOP-5PFFU5S] Canlı MF Taraması",
+      "last_seen_at": "2026-11-12 17:03:04",
+      "last_action": "[DESKTOP-M530BBB] Canlı MF Sorgulama (15 Ürün)",
       "today_date": "2026-11-12",
       "today_searches": 101,
       "today_cart_adds": 168,
-      "today_smart_orders": 207,
+      "today_smart_orders": 209,
       "total_searches": 412,
       "total_cart_adds": 692,
-      "total_smart_orders": 377,
+      "total_smart_orders": 379,
       "total_days_used": 9,
       "pc_count": 8,
       "devices": {
@@ -316,27 +316,17 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.8.2",
-          "last_seen_at": "2026-11-12 17:02:28",
+          "last_seen_at": "2026-11-12 17:02:53",
           "last_action": "Canlı MF Taraması",
           "today_date": "2026-11-12",
           "today_searches": 4,
           "today_cart_adds": 54,
-          "today_smart_orders": 24,
+          "today_smart_orders": 26,
           "total_searches": 91,
           "total_cart_adds": 205,
-          "total_smart_orders": 27,
+          "total_smart_orders": 29,
           "total_days_used": 6,
           "recent_actions": [
-            {
-              "t": "2026-11-12 14:06:50",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-12 14:06:52",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): BETASERC 24 MG 60 TABLET x3"
-            },
             {
               "t": "2026-11-12 14:06:56",
               "type": "cart",
@@ -399,6 +389,16 @@
             },
             {
               "t": "2026-11-12 16:42:24",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-12 17:02:52",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-12 17:02:53",
               "type": "mf_resolve",
               "detail": "Canlı MF Taraması"
             }
@@ -598,7 +598,7 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.112",
           "app_version": "1.8.2",
-          "last_seen_at": "2026-11-12 17:02:19",
+          "last_seen_at": "2026-11-12 17:03:04",
           "last_action": "Canlı MF Sorgulama (15 Ürün)",
           "today_date": "2026-11-12",
           "today_searches": 16,
@@ -692,7 +692,7 @@
           "desk_name": "DESKTOP-1N3LQF0",
           "local_ip": "192.168.1.123",
           "app_version": "1.8.2",
-          "last_seen_at": "2026-11-12 17:02:05",
+          "last_seen_at": "2026-11-12 17:02:42",
           "last_action": "Canlı MF Sorgulama (2 Ürün)",
           "today_date": "2026-11-12",
           "today_searches": 4,
