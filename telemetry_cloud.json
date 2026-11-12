@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 12:25:48",
+  "updated_at": "2026-11-12 12:26:07",
   "count": 69,
   "items": [
     {
@@ -30264,16 +30264,16 @@
       "hwid": "2DED-CFF9-D593",
       "last_pc_name": "DESKTOP-8JN0NE5",
       "app_version": "1.8.0",
-      "last_seen_at": "2026-11-12 12:25:47",
-      "last_action": "Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-12 12:26:07",
+      "last_action": "Depo Sorgu: REPARIL GEL N %1+5 50 GR JEL",
       "today_date": "2026-11-12",
-      "today_searches": 0,
+      "today_searches": 2,
       "today_cart_adds": 0,
-      "today_smart_orders": 11,
-      "total_searches": 16,
+      "today_smart_orders": 18,
+      "total_searches": 18,
       "total_cart_adds": 41,
       "total_days_used": 5,
-      "total_smart_orders": 33,
+      "total_smart_orders": 40,
       "pc_count": 1,
       "devices": {
         "2DED-CFF9-D593": {
@@ -30282,47 +30282,17 @@
           "desk_name": "DESKTOP-8JN0NE5",
           "local_ip": "192.168.1.37",
           "app_version": "1.8.0",
-          "last_seen_at": "2026-11-12 12:25:47",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-12 12:26:07",
+          "last_action": "Depo Sorgu: REPARIL GEL N %1+5 50 GR JEL",
           "today_date": "2026-11-12",
-          "today_searches": 0,
+          "today_searches": 2,
           "today_cart_adds": 0,
-          "today_smart_orders": 11,
-          "total_searches": 16,
+          "today_smart_orders": 18,
+          "total_searches": 18,
           "total_cart_adds": 41,
-          "total_smart_orders": 33,
+          "total_smart_orders": 40,
           "total_days_used": 5,
           "recent_actions": [
-            {
-              "t": "2026-11-11 16:58:19",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (BOTANIK • 45 Kalem)"
-            },
-            {
-              "t": "2026-11-11 17:20:30",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-11 17:20:32",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (BOTANIK • 45 Kalem)"
-            },
-            {
-              "t": "2026-11-11 17:20:32",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-11 17:20:34",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (1 Ürün)"
-            },
-            {
-              "t": "2026-11-12 12:24:59",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-12 12:25:00",
               "type": "critical_stock",
@@ -30367,6 +30337,36 @@
               "t": "2026-11-12 12:25:47",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-12 12:25:49",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (BOTANIK • 51 Kalem)"
+            },
+            {
+              "t": "2026-11-12 12:25:56",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-12 12:26:01",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (30 Ürün)"
+            },
+            {
+              "t": "2026-11-12 12:26:02",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-12 12:26:04",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (21 Ürün)"
+            },
+            {
+              "t": "2026-11-12 12:26:07",
+              "type": "search",
+              "detail": "Depo Sorgu: REPARIL GEL N %1+5 50 GR JEL"
             }
           ]
         }
