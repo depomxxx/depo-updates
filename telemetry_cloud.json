@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 09:51:10",
+  "updated_at": "2026-11-12 09:51:17",
   "count": 69,
   "items": [
     {
@@ -8,25 +8,25 @@
       "pharmacist_name": "EDA BİLGİN",
       "phone": "05077034200",
       "city": "SAMSUN/İLKADIM",
-      "gln_no": "8680001112258",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "83F3-13F8-E632",
-      "last_pc_name": "Eskienes",
+      "hwid": "D719-CEB2-1542",
+      "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.8.0",
-      "last_seen_at": "2026-11-12 09:51:10",
-      "last_action": "[Eskienes] Canlı MF Sorgulama (6 Ürün)",
+      "last_seen_at": "2026-11-12 09:51:17",
+      "last_action": "[DESKTOP-M530BBB] Depo Sorgu: BEFIXO 3 ML 5 AMP.",
       "today_date": "2026-11-12",
-      "today_searches": 53,
+      "today_searches": 55,
       "today_cart_adds": 23,
-      "today_smart_orders": 58,
-      "total_searches": 292,
-      "total_cart_adds": 496,
-      "total_smart_orders": 205,
-      "total_days_used": 8,
-      "pc_count": 6,
+      "today_smart_orders": 63,
+      "total_searches": 349,
+      "total_cart_adds": 547,
+      "total_smart_orders": 237,
+      "total_days_used": 9,
+      "pc_count": 7,
       "devices": {
         "83F3-13F8-E632": {
           "hwid": "83F3-13F8-E632",
@@ -222,7 +222,7 @@
           "desk_name": "Eda-Bilgin",
           "local_ip": "192.168.1.114",
           "app_version": "1.8.0",
-          "last_seen_at": "2026-11-12 08:44:42",
+          "last_seen_at": "2026-11-12 09:50:07",
           "last_action": "Program Açık (Canlı)",
           "today_date": "2026-11-12",
           "today_searches": 0,
@@ -316,32 +316,17 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.8.0",
-          "last_seen_at": "2026-11-12 08:44:42",
-          "last_action": "Program Açık (Canlı)",
+          "last_seen_at": "2026-11-12 09:51:08",
+          "last_action": "Canlı MF Sorgulama (14 Ürün)",
           "today_date": "2026-11-12",
           "today_searches": 0,
           "today_cart_adds": 0,
-          "today_smart_orders": 0,
+          "today_smart_orders": 3,
           "total_searches": 87,
           "total_cart_adds": 151,
-          "total_smart_orders": 3,
+          "total_smart_orders": 6,
           "total_days_used": 6,
           "recent_actions": [
-            {
-              "t": "2026-11-11 14:53:58",
-              "type": "search",
-              "detail": "Depo Sorgu: STERIMAR BABY DENİZ SUYU BURUN SPREYİ "
-            },
-            {
-              "t": "2026-11-11 14:53:58",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-11 14:54:03",
-              "type": "search",
-              "detail": "Depo Sorgu: STERIMAR BABY DENİZ SUYU BURUN SPREYİ "
-            },
             {
               "t": "2026-11-11 14:54:03",
               "type": "search",
@@ -401,6 +386,21 @@
               "t": "2026-11-11 17:21:50",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-12 09:46:34",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-12 09:46:35",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-12 09:46:41",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (14 Ürün)"
             }
           ]
         },
@@ -589,6 +589,100 @@
               "t": "2026-11-12 00:48:37",
               "type": "cart",
               "detail": "EczaneTakas Kampanya Açıldı: TUSCOD 7.5 MG 100 ML SRP. (30+33)"
+            }
+          ]
+        },
+        "D719-CEB2-1542": {
+          "hwid": "D719-CEB2-1542",
+          "pc_name": "DESKTOP-M530BBB",
+          "desk_name": "DESKTOP-M530BBB",
+          "local_ip": "192.168.1.112",
+          "app_version": "1.8.0",
+          "last_seen_at": "2026-11-12 09:51:17",
+          "last_action": "Depo Sorgu: BEFIXO 3 ML 5 AMP.",
+          "today_date": "2026-11-12",
+          "today_searches": 2,
+          "today_cart_adds": 0,
+          "today_smart_orders": 2,
+          "total_searches": 57,
+          "total_cart_adds": 51,
+          "total_smart_orders": 29,
+          "total_days_used": 9,
+          "recent_actions": [
+            {
+              "t": "2026-11-11 18:08:11",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-11 18:08:14",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-11 18:08:18",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (30 Ürün)"
+            },
+            {
+              "t": "2026-11-11 18:08:19",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-11 18:08:21",
+              "type": "search",
+              "detail": "Depo Sorgu: AFERIN 300/2/10 MG 30 CAP *"
+            },
+            {
+              "t": "2026-11-11 18:08:23",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (30 Ürün)"
+            },
+            {
+              "t": "2026-11-11 18:08:23",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-11 18:08:34",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (30 Ürün)"
+            },
+            {
+              "t": "2026-11-11 18:08:34",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-11 18:08:36",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-11 18:08:43",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (26 Ürün)"
+            },
+            {
+              "t": "2026-11-12 08:45:24",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-12 08:46:54",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-12 09:38:52",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-12 09:39:02",
+              "type": "search",
+              "detail": "Depo Sorgu: BEFIXO 3 ML 5 AMP."
             }
           ]
         }
