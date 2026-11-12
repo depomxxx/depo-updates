@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 16:32:16",
+  "updated_at": "2026-11-12 16:32:23",
   "count": 4,
   "items": [
     {
@@ -781,16 +781,16 @@
       "hwid": "2DED-CFF9-D593",
       "last_pc_name": "DESKTOP-8JN0NE5",
       "app_version": "1.8.1",
-      "last_seen_at": "2026-11-12 16:31:20",
-      "last_action": "Canlı MF Sorgulama (35 Ürün)",
+      "last_seen_at": "2026-11-12 16:32:23",
+      "last_action": "Depo Fiyat Sorgulama",
       "today_date": "2026-11-12",
-      "today_searches": 8,
+      "today_searches": 9,
       "today_cart_adds": 37,
-      "today_smart_orders": 114,
-      "total_searches": 24,
+      "today_smart_orders": 116,
+      "total_searches": 25,
       "total_cart_adds": 78,
       "total_days_used": 5,
-      "total_smart_orders": 136,
+      "total_smart_orders": 138,
       "pc_count": 1,
       "devices": {
         "2DED-CFF9-D593": {
@@ -799,32 +799,17 @@
           "desk_name": "DESKTOP-8JN0NE5",
           "local_ip": "192.168.1.37",
           "app_version": "1.8.1",
-          "last_seen_at": "2026-11-12 16:31:20",
-          "last_action": "Canlı MF Sorgulama (35 Ürün)",
+          "last_seen_at": "2026-11-12 16:32:23",
+          "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-12",
-          "today_searches": 8,
+          "today_searches": 9,
           "today_cart_adds": 37,
-          "today_smart_orders": 114,
-          "total_searches": 24,
+          "today_smart_orders": 116,
+          "total_searches": 25,
           "total_cart_adds": 78,
-          "total_smart_orders": 136,
+          "total_smart_orders": 138,
           "total_days_used": 5,
           "recent_actions": [
-            {
-              "t": "2026-11-12 16:27:14",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-12 16:27:34",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-12 16:27:37",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (30 Ürün)"
-            },
             {
               "t": "2026-11-12 16:27:37",
               "type": "mf_resolve",
@@ -884,6 +869,21 @@
               "t": "2026-11-12 16:31:20",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (35 Ürün)"
+            },
+            {
+              "t": "2026-11-12 16:31:20",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-12 16:31:24",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (4 Ürün)"
+            },
+            {
+              "t": "2026-11-12 16:32:23",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ]
         }
