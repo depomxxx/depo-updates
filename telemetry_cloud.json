@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 15:33:33",
+  "updated_at": "2026-11-12 15:33:50",
   "count": 69,
   "items": [
     {
@@ -16,15 +16,15 @@
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.8.1",
-      "last_seen_at": "2026-11-12 15:30:25",
-      "last_action": "[DESKTOP-OTHNDUE] Toplu Sepet (ALLIANCE): 10 Kalem",
+      "last_seen_at": "2026-11-12 15:33:50",
+      "last_action": "[DESKTOP-OTHNDUE] Depo Fiyat Sorgulama",
       "today_date": "2026-11-12",
-      "today_searches": 63,
-      "today_cart_adds": 61,
-      "today_smart_orders": 112,
-      "total_searches": 302,
-      "total_cart_adds": 534,
-      "total_smart_orders": 259,
+      "today_searches": 64,
+      "today_cart_adds": 67,
+      "today_smart_orders": 114,
+      "total_searches": 303,
+      "total_cart_adds": 540,
+      "total_smart_orders": 261,
       "total_days_used": 8,
       "pc_count": 6,
       "devices": {
@@ -128,47 +128,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.8.1",
-          "last_seen_at": "2026-11-12 15:30:25",
-          "last_action": "Toplu Sepet (ALLIANCE): 10 Kalem",
+          "last_seen_at": "2026-11-12 15:33:50",
+          "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-12",
-          "today_searches": 12,
-          "today_cart_adds": 50,
-          "today_smart_orders": 55,
-          "total_searches": 53,
-          "total_cart_adds": 248,
-          "total_smart_orders": 120,
+          "today_searches": 13,
+          "today_cart_adds": 56,
+          "today_smart_orders": 57,
+          "total_searches": 54,
+          "total_cart_adds": 254,
+          "total_smart_orders": 122,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-12 11:09:13",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş Planlama"
-            },
-            {
-              "t": "2026-11-12 11:09:13",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş (TRIA • 247 Kalem)"
-            },
-            {
-              "t": "2026-11-12 11:09:13",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-12 11:09:14",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-12 11:09:14",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (2 Ürün)"
-            },
-            {
-              "t": "2026-11-12 11:09:15",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-12 11:09:26",
               "type": "smart_order",
@@ -213,6 +183,36 @@
               "t": "2026-11-12 15:30:25",
               "type": "cart",
               "detail": "Toplu Sepet (ALLIANCE): 10 Kalem"
+            },
+            {
+              "t": "2026-11-12 15:30:27",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-12 15:30:28",
+              "type": "cart",
+              "detail": "Toplu Sepet (SELCUK): 2 Kalem"
+            },
+            {
+              "t": "2026-11-12 15:30:30",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-12 15:31:03",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-12 15:31:04",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 79 Kalem)"
+            },
+            {
+              "t": "2026-11-12 15:33:50",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ]
         },
