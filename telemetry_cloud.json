@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 16:36:53",
+  "updated_at": "2026-11-12 16:36:57",
   "count": 4,
   "items": [
     {
@@ -8,23 +8,23 @@
       "pharmacist_name": "EDA BİLGİN",
       "phone": "05077034200",
       "city": "SAMSUN/İLKADIM",
-      "gln_no": "8680001112258",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "8FD3-5823-91F4",
-      "last_pc_name": "Eda-Bilgin",
+      "hwid": "D719-CEB2-1542",
+      "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.8.1",
-      "last_seen_at": "2026-11-12 16:36:35",
-      "last_action": "[Eda-Bilgin] Depo Sorgu: MAGNORM 365 MG 30 EFF TB.",
+      "last_seen_at": "2026-11-12 16:36:57",
+      "last_action": "[DESKTOP-M530BBB] Canlı MF Sorgulama (24 Ürün)",
       "today_date": "2026-11-12",
       "today_searches": 95,
       "today_cart_adds": 160,
-      "today_smart_orders": 177,
+      "today_smart_orders": 180,
       "total_searches": 406,
       "total_cart_adds": 684,
-      "total_smart_orders": 347,
+      "total_smart_orders": 350,
       "total_days_used": 9,
       "pc_count": 8,
       "devices": {
@@ -222,32 +222,17 @@
           "desk_name": "Eda-Bilgin",
           "local_ip": "192.168.1.114",
           "app_version": "1.8.1",
-          "last_seen_at": "2026-11-12 16:36:35",
-          "last_action": "Depo Sorgu: MAGNORM 365 MG 30 EFF TB.",
+          "last_seen_at": "2026-11-12 16:36:52",
+          "last_action": "Canlı MF Sorgulama (12 Ürün)",
           "today_date": "2026-11-12",
           "today_searches": 2,
           "today_cart_adds": 0,
-          "today_smart_orders": 12,
+          "today_smart_orders": 15,
           "total_searches": 47,
           "total_cart_adds": 9,
-          "total_smart_orders": 30,
+          "total_smart_orders": 33,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-11 16:51:31",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (5 Ürün)"
-            },
-            {
-              "t": "2026-11-12 16:31:37",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-12 16:31:39",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-12 16:31:51",
               "type": "critical_stock",
@@ -307,6 +292,21 @@
               "t": "2026-11-12 16:32:26",
               "type": "search",
               "detail": "Depo Sorgu: MAGNORM 365 MG 30 EFF TB."
+            },
+            {
+              "t": "2026-11-12 16:36:41",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-12 16:36:42",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-12 16:36:51",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (12 Ürün)"
             }
           ]
         },
@@ -598,7 +598,7 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.112",
           "app_version": "1.8.1",
-          "last_seen_at": "2026-11-12 16:36:17",
+          "last_seen_at": "2026-11-12 16:36:57",
           "last_action": "Canlı MF Sorgulama (24 Ürün)",
           "today_date": "2026-11-12",
           "today_searches": 16,
@@ -692,7 +692,7 @@
           "desk_name": "DESKTOP-1N3LQF0",
           "local_ip": "192.168.1.123",
           "app_version": "1.8.1",
-          "last_seen_at": "2026-11-12 16:35:55",
+          "last_seen_at": "2026-11-12 16:36:41",
           "last_action": "Canlı MF Sorgulama (16 Ürün)",
           "today_date": "2026-11-12",
           "today_searches": 4,
