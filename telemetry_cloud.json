@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 16:35:55",
+  "updated_at": "2026-11-12 16:33:52",
   "count": 4,
   "items": [
     {
@@ -781,13 +781,13 @@
       "hwid": "2DED-CFF9-D593",
       "last_pc_name": "DESKTOP-8JN0NE5",
       "app_version": "1.8.1",
-      "last_seen_at": "2026-11-12 16:32:23",
-      "last_action": "Depo Fiyat Sorgulama",
+      "last_seen_at": "2026-11-12 16:33:52",
+      "last_action": "Depo Sorgu: DODEX 1000 MCG 1 ML 5 AMP.",
       "today_date": "2026-11-12",
-      "today_searches": 9,
+      "today_searches": 10,
       "today_cart_adds": 37,
       "today_smart_orders": 116,
-      "total_searches": 25,
+      "total_searches": 26,
       "total_cart_adds": 78,
       "total_days_used": 5,
       "total_smart_orders": 138,
@@ -799,22 +799,17 @@
           "desk_name": "DESKTOP-8JN0NE5",
           "local_ip": "192.168.1.37",
           "app_version": "1.8.1",
-          "last_seen_at": "2026-11-12 16:32:23",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-12 16:33:52",
+          "last_action": "Depo Sorgu: DODEX 1000 MCG 1 ML 5 AMP.",
           "today_date": "2026-11-12",
-          "today_searches": 9,
+          "today_searches": 10,
           "today_cart_adds": 37,
           "today_smart_orders": 116,
-          "total_searches": 25,
+          "total_searches": 26,
           "total_cart_adds": 78,
           "total_smart_orders": 138,
           "total_days_used": 5,
           "recent_actions": [
-            {
-              "t": "2026-11-12 16:27:37",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-12 16:27:38",
               "type": "mf_resolve",
@@ -884,6 +879,11 @@
               "t": "2026-11-12 16:32:23",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-12 16:32:27",
+              "type": "search",
+              "detail": "Depo Sorgu: DODEX 1000 MCG 1 ML 5 AMP."
             }
           ]
         }
