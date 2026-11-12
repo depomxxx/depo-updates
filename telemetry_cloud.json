@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 14:43:11",
+  "updated_at": "2026-11-12 14:41:30",
   "count": 69,
   "items": [
     {
@@ -16,7 +16,7 @@
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.8.1",
-      "last_seen_at": "2026-11-12 14:33:53",
+      "last_seen_at": "2026-11-12 14:41:29",
       "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-12",
       "today_searches": 63,
@@ -128,7 +128,7 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.8.1",
-          "last_seen_at": "2026-11-12 14:33:53",
+          "last_seen_at": "2026-11-12 14:41:29",
           "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-12",
           "today_searches": 12,
