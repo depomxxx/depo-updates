@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 16:44:44",
+  "updated_at": "2026-11-12 16:44:47",
   "count": 4,
   "items": [
     {
@@ -13,18 +13,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D2E4-AA57-C021",
-      "last_pc_name": "DESKTOP-1N3LQF0",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.8.2",
-      "last_seen_at": "2026-11-12 16:44:31",
-      "last_action": "[DESKTOP-1N3LQF0] Canlı MF Sorgulama (30 Ürün)",
+      "last_seen_at": "2026-11-12 16:44:47",
+      "last_action": "[DESKTOP-OTHNDUE] Depo Fiyat Sorgulama",
       "today_date": "2026-11-12",
-      "today_searches": 97,
+      "today_searches": 98,
       "today_cart_adds": 160,
-      "today_smart_orders": 197,
-      "total_searches": 408,
+      "today_smart_orders": 199,
+      "total_searches": 409,
       "total_cart_adds": 684,
-      "total_smart_orders": 367,
+      "total_smart_orders": 369,
       "total_days_used": 9,
       "pc_count": 8,
       "devices": {
@@ -128,32 +128,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.8.2",
-          "last_seen_at": "2026-11-12 16:44:09",
-          "last_action": "Depo Sorgu: GYREX 200 MG 30 FTB.",
+          "last_seen_at": "2026-11-12 16:44:47",
+          "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-12",
-          "today_searches": 20,
+          "today_searches": 21,
           "today_cart_adds": 60,
-          "today_smart_orders": 66,
-          "total_searches": 61,
+          "today_smart_orders": 68,
+          "total_searches": 62,
           "total_cart_adds": 258,
-          "total_smart_orders": 131,
+          "total_smart_orders": 133,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-12 15:34:40",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-12 15:34:43",
-              "type": "search",
-              "detail": "Depo Sorgu: FAMODIN 40 MG 30 TB."
-            },
-            {
-              "t": "2026-11-12 15:34:52",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-12 15:34:56",
               "type": "cart",
@@ -213,6 +198,21 @@
               "t": "2026-11-12 16:42:30",
               "type": "search",
               "detail": "Depo Sorgu: GYREX 200 MG 30 FTB."
+            },
+            {
+              "t": "2026-11-12 16:44:20",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-12 16:44:21",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 84 Kalem)"
+            },
+            {
+              "t": "2026-11-12 16:44:47",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ]
         },
