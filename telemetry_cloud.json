@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 14:44:00",
+  "updated_at": "2026-11-12 14:44:28",
   "count": 69,
   "items": [
     {
@@ -16,14 +16,14 @@
       "hwid": "D719-CEB2-1542",
       "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.8.1",
-      "last_seen_at": "2026-11-12 14:44:00",
+      "last_seen_at": "2026-11-12 14:44:28",
       "last_action": "[DESKTOP-M530BBB] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-12",
       "today_searches": 87,
-      "today_cart_adds": 136,
+      "today_cart_adds": 142,
       "today_smart_orders": 151,
       "total_searches": 398,
-      "total_cart_adds": 660,
+      "total_cart_adds": 666,
       "total_smart_orders": 321,
       "total_days_used": 9,
       "pc_count": 8,
@@ -316,7 +316,7 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.8.1",
-          "last_seen_at": "2026-11-12 14:43:22",
+          "last_seen_at": "2026-11-12 14:44:22",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-12",
           "today_searches": 4,
@@ -598,27 +598,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.112",
           "app_version": "1.8.1",
-          "last_seen_at": "2026-11-12 14:44:00",
+          "last_seen_at": "2026-11-12 14:44:28",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-12",
           "today_searches": 16,
-          "today_cart_adds": 23,
+          "today_cart_adds": 29,
           "today_smart_orders": 7,
           "total_searches": 71,
-          "total_cart_adds": 74,
+          "total_cart_adds": 80,
           "total_smart_orders": 34,
           "total_days_used": 9,
           "recent_actions": [
-            {
-              "t": "2026-11-12 12:03:12",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-12 12:03:23",
-              "type": "search",
-              "detail": "Depo Sorgu: SELINCRO 18 MG 14 FTB."
-            },
             {
               "t": "2026-11-12 12:03:30",
               "type": "cart",
@@ -681,6 +671,16 @@
             },
             {
               "t": "2026-11-12 14:44:00",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-12 14:44:12",
+              "type": "cart",
+              "detail": "Toplu Sepet (ALLIANCE): 17 Kalem"
+            },
+            {
+              "t": "2026-11-12 14:44:12",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
