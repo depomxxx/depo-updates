@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 10:57:18",
+  "updated_at": "2026-11-12 11:00:24",
   "count": 69,
   "items": [
     {
@@ -31173,16 +31173,16 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.8.0",
-      "last_seen_at": "2026-11-12 10:46:41",
-      "last_action": "[DESKTOP-T4EAUS3] Depo Sorgu: URSACTIVE 250 MG 100 CAP.",
+      "last_seen_at": "2026-11-12 11:00:24",
+      "last_action": "[DESKTOP-T4EAUS3] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-12",
       "today_searches": 7,
-      "today_cart_adds": 0,
-      "today_smart_orders": 8,
+      "today_cart_adds": 4,
+      "today_smart_orders": 15,
       "total_searches": 105,
-      "total_cart_adds": 460,
+      "total_cart_adds": 464,
       "total_days_used": 9,
-      "total_smart_orders": 54,
+      "total_smart_orders": 61,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -31265,67 +31265,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.8.0",
-          "last_seen_at": "2026-11-12 10:46:41",
-          "last_action": "Depo Sorgu: URSACTIVE 250 MG 100 CAP.",
+          "last_seen_at": "2026-11-12 11:00:24",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-12",
           "today_searches": 5,
-          "today_cart_adds": 0,
-          "today_smart_orders": 8,
+          "today_cart_adds": 4,
+          "today_smart_orders": 15,
           "total_searches": 35,
-          "total_cart_adds": 202,
-          "total_smart_orders": 23,
+          "total_cart_adds": 206,
+          "total_smart_orders": 30,
           "total_days_used": 7,
           "recent_actions": [
-            {
-              "t": "2026-11-11 15:23:27",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-11 15:23:30",
-              "type": "cart",
-              "detail": "Toplu Sepet (ISKOOP): 1 Kalem"
-            },
-            {
-              "t": "2026-11-11 15:23:36",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-11 15:23:44",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-11 15:23:45",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (BOTANIK • 43 Kalem)"
-            },
-            {
-              "t": "2026-11-12 09:45:23",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-12 09:45:23",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-12 09:45:26",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-12 09:45:31",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-12 09:45:31",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-12 09:45:44",
               "type": "search",
@@ -31350,6 +31300,56 @@
               "t": "2026-11-12 10:32:10",
               "type": "search",
               "detail": "Depo Sorgu: URSACTIVE 250 MG 100 CAP."
+            },
+            {
+              "t": "2026-11-12 10:46:46",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-12 10:46:46",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (BOTANIK • 19 Kalem)"
+            },
+            {
+              "t": "2026-11-12 10:46:46",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-12 10:46:52",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-12 10:46:52",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-12 10:47:07",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (19 Ürün)"
+            },
+            {
+              "t": "2026-11-12 10:47:10",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (13 Ürün)"
+            },
+            {
+              "t": "2026-11-12 10:49:14",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-12 10:49:28",
+              "type": "cart",
+              "detail": "Toplu Sepet (ALLIANCE): 7 Kalem"
+            },
+            {
+              "t": "2026-11-12 10:49:36",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
