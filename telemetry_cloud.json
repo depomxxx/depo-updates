@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 10:55:58",
+  "updated_at": "2026-11-12 10:56:17",
   "count": 69,
   "items": [
     {
@@ -16,15 +16,15 @@
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.8.0",
-      "last_seen_at": "2026-11-12 10:55:58",
-      "last_action": "[DESKTOP-OTHNDUE] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-12 10:56:17",
+      "last_action": "[DESKTOP-OTHNDUE] Depo Fiyat Sorgulama",
       "today_date": "2026-11-12",
-      "today_searches": 53,
-      "today_cart_adds": 32,
-      "today_smart_orders": 60,
-      "total_searches": 292,
-      "total_cart_adds": 505,
-      "total_smart_orders": 207,
+      "today_searches": 54,
+      "today_cart_adds": 35,
+      "today_smart_orders": 62,
+      "total_searches": 293,
+      "total_cart_adds": 508,
+      "total_smart_orders": 209,
       "total_days_used": 8,
       "pc_count": 6,
       "devices": {
@@ -128,37 +128,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.8.0",
-          "last_seen_at": "2026-11-12 10:55:58",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-12 10:56:17",
+          "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-12",
-          "today_searches": 10,
-          "today_cart_adds": 25,
-          "today_smart_orders": 10,
-          "total_searches": 51,
-          "total_cart_adds": 223,
-          "total_smart_orders": 75,
+          "today_searches": 11,
+          "today_cart_adds": 28,
+          "today_smart_orders": 12,
+          "total_searches": 52,
+          "total_cart_adds": 226,
+          "total_smart_orders": 77,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-12 09:04:22",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-12 09:04:46",
-              "type": "cart",
-              "detail": "Toplu Sepet (ALLIANCE): 11 Kalem"
-            },
-            {
-              "t": "2026-11-12 09:04:54",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-12 09:04:57",
-              "type": "cart",
-              "detail": "Toplu Sepet (SELCUK): 5 Kalem"
-            },
             {
               "t": "2026-11-12 09:05:02",
               "type": "cart",
@@ -213,6 +193,26 @@
               "t": "2026-11-12 10:55:44",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-12 10:56:06",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-12 10:56:12",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-12 10:56:12",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 38 Kalem)"
+            },
+            {
+              "t": "2026-11-12 10:56:17",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ]
         },
