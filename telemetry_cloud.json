@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 13:55:25",
+  "updated_at": "2026-11-12 13:55:39",
   "count": 69,
   "items": [
     {
@@ -15,8 +15,8 @@
       "status": "AKTIF",
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
-      "app_version": "1.8.0",
-      "last_seen_at": "2026-11-12 13:55:25",
+      "app_version": "1.8.1",
+      "last_seen_at": "2026-11-12 13:55:39",
       "last_action": "[DESKTOP-OTHNDUE] Canlı MF Sorgulama (1 Ürün)",
       "today_date": "2026-11-12",
       "today_searches": 63,
@@ -34,7 +34,7 @@
           "desk_name": "Eskienes",
           "local_ip": "192.168.1.117",
           "app_version": "1.8.0",
-          "last_seen_at": "2026-11-12 13:54:45",
+          "last_seen_at": "2026-11-12 13:55:36",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-12",
           "today_searches": 8,
@@ -127,8 +127,8 @@
           "pc_name": "DESKTOP-OTHNDUE",
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
-          "app_version": "1.8.0",
-          "last_seen_at": "2026-11-12 13:55:25",
+          "app_version": "1.8.1",
+          "last_seen_at": "2026-11-12 13:55:39",
           "last_action": "Canlı MF Sorgulama (1 Ürün)",
           "today_date": "2026-11-12",
           "today_searches": 12,
