@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 10:48:13",
+  "updated_at": "2026-11-12 10:51:04",
   "count": 69,
   "items": [
     {
@@ -31173,14 +31173,14 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.8.0",
-      "last_seen_at": "2026-11-12 10:48:33",
-      "last_action": "[DESKTOP-T4EAUS3] Canlı MF Sorgulama (13 Ürün)",
+      "last_seen_at": "2026-11-12 10:51:04",
+      "last_action": "[DESKTOP-T4EAUS3] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-12",
       "today_searches": 7,
-      "today_cart_adds": 0,
+      "today_cart_adds": 4,
       "today_smart_orders": 15,
       "total_searches": 105,
-      "total_cart_adds": 460,
+      "total_cart_adds": 464,
       "total_days_used": 9,
       "total_smart_orders": 61,
       "pc_count": 3,
@@ -31265,32 +31265,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.8.0",
-          "last_seen_at": "2026-11-12 10:48:33",
-          "last_action": "Canlı MF Sorgulama (13 Ürün)",
+          "last_seen_at": "2026-11-12 10:51:04",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-12",
           "today_searches": 5,
-          "today_cart_adds": 0,
+          "today_cart_adds": 4,
           "today_smart_orders": 15,
           "total_searches": 35,
-          "total_cart_adds": 202,
+          "total_cart_adds": 206,
           "total_smart_orders": 30,
           "total_days_used": 7,
           "recent_actions": [
-            {
-              "t": "2026-11-12 09:45:26",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-12 09:45:31",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-12 09:45:31",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-12 09:45:44",
               "type": "search",
@@ -31350,6 +31335,21 @@
               "t": "2026-11-12 10:47:10",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (13 Ürün)"
+            },
+            {
+              "t": "2026-11-12 10:49:14",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-12 10:49:28",
+              "type": "cart",
+              "detail": "Toplu Sepet (ALLIANCE): 7 Kalem"
+            },
+            {
+              "t": "2026-11-12 10:49:36",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
