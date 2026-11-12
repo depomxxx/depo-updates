@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 14:18:39",
+  "updated_at": "2026-11-12 14:20:52",
   "count": 69,
   "items": [
     {
@@ -31158,16 +31158,16 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.8.1",
-      "last_seen_at": "2026-11-12 14:03:33",
-      "last_action": "[DESKTOP-T4EAUS3] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-12 14:20:52",
+      "last_action": "[DESKTOP-T4EAUS3] Canlı MF Sorgulama (30 Ürün)",
       "today_date": "2026-11-12",
       "today_searches": 17,
       "today_cart_adds": 30,
-      "today_smart_orders": 57,
+      "today_smart_orders": 60,
       "total_searches": 115,
       "total_cart_adds": 490,
       "total_days_used": 9,
-      "total_smart_orders": 103,
+      "total_smart_orders": 106,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -31250,32 +31250,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.8.1",
-          "last_seen_at": "2026-11-12 14:03:33",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-12 14:20:52",
+          "last_action": "Canlı MF Sorgulama (30 Ürün)",
           "today_date": "2026-11-12",
           "today_searches": 13,
           "today_cart_adds": 30,
-          "today_smart_orders": 36,
+          "today_smart_orders": 39,
           "total_searches": 43,
           "total_cart_adds": 232,
-          "total_smart_orders": 51,
+          "total_smart_orders": 54,
           "total_days_used": 7,
           "recent_actions": [
-            {
-              "t": "2026-11-12 12:16:52",
-              "type": "cart",
-              "detail": "Toplu Sepet (ALLIANCE): 1 Kalem"
-            },
-            {
-              "t": "2026-11-12 12:17:05",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-12 12:20:30",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-12 12:20:39",
               "type": "search",
@@ -31335,6 +31320,21 @@
               "t": "2026-11-12 13:17:50",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-12 14:20:20",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-12 14:20:21",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-12 14:20:52",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (30 Ürün)"
             }
           ]
         },
