@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 16:45:13",
+  "updated_at": "2026-11-12 16:45:33",
   "count": 4,
   "items": [
     {
@@ -16,14 +16,14 @@
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.8.2",
-      "last_seen_at": "2026-11-12 16:45:13",
-      "last_action": "[DESKTOP-OTHNDUE] Depo Fiyat Sorgulama",
+      "last_seen_at": "2026-11-12 16:45:33",
+      "last_action": "[DESKTOP-OTHNDUE] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-12",
-      "today_searches": 100,
-      "today_cart_adds": 160,
+      "today_searches": 101,
+      "today_cart_adds": 161,
       "today_smart_orders": 199,
-      "total_searches": 411,
-      "total_cart_adds": 684,
+      "total_searches": 412,
+      "total_cart_adds": 685,
       "total_smart_orders": 369,
       "total_days_used": 9,
       "pc_count": 8,
@@ -128,27 +128,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.8.2",
-          "last_seen_at": "2026-11-12 16:45:13",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-12 16:45:33",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-12",
-          "today_searches": 23,
-          "today_cart_adds": 60,
+          "today_searches": 24,
+          "today_cart_adds": 61,
           "today_smart_orders": 68,
-          "total_searches": 64,
-          "total_cart_adds": 258,
+          "total_searches": 65,
+          "total_cart_adds": 259,
           "total_smart_orders": 133,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-12 15:35:01",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-12 15:49:00",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-12 15:49:00",
               "type": "critical_stock",
@@ -213,6 +203,16 @@
               "t": "2026-11-12 16:45:13",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-12 16:45:21",
+              "type": "search",
+              "detail": "Depo Sorgu: ABILIFY 1 MG 150 ML ORAL SOL."
+            },
+            {
+              "t": "2026-11-12 16:45:33",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
