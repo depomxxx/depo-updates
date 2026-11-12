@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 11:39:39",
+  "updated_at": "2026-11-12 11:41:49",
   "count": 69,
   "items": [
     {
@@ -31173,16 +31173,16 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.8.0",
-      "last_seen_at": "2026-11-12 11:38:30",
-      "last_action": "[DESKTOP-T4EAUS3] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-12 11:41:49",
+      "last_action": "[DESKTOP-T4EAUS3] Canlı MF Sorgulama (28 Ürün)",
       "today_date": "2026-11-12",
       "today_searches": 9,
       "today_cart_adds": 8,
-      "today_smart_orders": 20,
+      "today_smart_orders": 23,
       "total_searches": 107,
       "total_cart_adds": 468,
       "total_days_used": 9,
-      "total_smart_orders": 66,
+      "total_smart_orders": 69,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -31265,32 +31265,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.8.0",
-          "last_seen_at": "2026-11-12 11:38:30",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-12 11:41:49",
+          "last_action": "Canlı MF Sorgulama (28 Ürün)",
           "today_date": "2026-11-12",
           "today_searches": 7,
           "today_cart_adds": 8,
-          "today_smart_orders": 20,
+          "today_smart_orders": 23,
           "total_searches": 37,
           "total_cart_adds": 210,
-          "total_smart_orders": 35,
+          "total_smart_orders": 38,
           "total_days_used": 7,
           "recent_actions": [
-            {
-              "t": "2026-11-12 10:47:07",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (19 Ürün)"
-            },
-            {
-              "t": "2026-11-12 10:47:10",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (13 Ürün)"
-            },
-            {
-              "t": "2026-11-12 10:49:14",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-12 10:49:28",
               "type": "cart",
@@ -31350,6 +31335,21 @@
               "t": "2026-11-12 11:21:07",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-12 11:41:18",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-12 11:41:19",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-12 11:41:49",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (28 Ürün)"
             }
           ]
         },
