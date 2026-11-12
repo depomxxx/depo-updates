@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 08:45:18",
+  "updated_at": "2026-11-12 08:45:40",
   "count": 69,
   "items": [
     {
@@ -15,16 +15,16 @@
       "status": "AKTIF",
       "hwid": "D719-CEB2-1542",
       "last_pc_name": "DESKTOP-M530BBB",
-      "app_version": "1.7.7",
-      "last_seen_at": "2026-11-12 08:45:18",
-      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları Yenileme (TRIA • 12 Kalem)",
+      "app_version": "1.8.0",
+      "last_seen_at": "2026-11-12 08:45:40",
+      "last_action": "[DESKTOP-M530BBB] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-12",
       "today_searches": 43,
       "today_cart_adds": 7,
-      "today_smart_orders": 53,
+      "today_smart_orders": 54,
       "total_searches": 337,
       "total_cart_adds": 531,
-      "total_smart_orders": 227,
+      "total_smart_orders": 228,
       "total_days_used": 9,
       "pc_count": 7,
       "devices": {
@@ -597,23 +597,18 @@
           "pc_name": "DESKTOP-M530BBB",
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.112",
-          "app_version": "1.7.7",
-          "last_seen_at": "2026-11-12 08:45:18",
-          "last_action": "Program Açık (Canlı)",
+          "app_version": "1.8.0",
+          "last_seen_at": "2026-11-12 08:45:40",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-12",
           "today_searches": 0,
           "today_cart_adds": 0,
-          "today_smart_orders": 0,
+          "today_smart_orders": 1,
           "total_searches": 55,
           "total_cart_adds": 51,
-          "total_smart_orders": 27,
+          "total_smart_orders": 28,
           "total_days_used": 9,
           "recent_actions": [
-            {
-              "t": "2026-11-11 16:00:14",
-              "type": "search",
-              "detail": "Depo Sorgu: HYZAAR 100/12.5 MG 28 FTB."
-            },
             {
               "t": "2026-11-11 16:00:20",
               "type": "mf_resolve",
@@ -683,6 +678,11 @@
               "t": "2026-11-11 18:08:43",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (26 Ürün)"
+            },
+            {
+              "t": "2026-11-12 08:45:24",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         }
