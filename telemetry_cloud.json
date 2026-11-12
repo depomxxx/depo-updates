@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 16:31:36",
+  "updated_at": "2026-11-12 16:33:50",
   "count": 4,
   "items": [
     {
@@ -1064,16 +1064,16 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.8.1",
-      "last_seen_at": "2026-11-12 16:33:24",
-      "last_action": "[DESKTOP-T4EAUS3] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-12 16:33:50",
+      "last_action": "[DESKTOP-T4EAUS3] Canlı MF Sorgulama (30 Ürün)",
       "today_date": "2026-11-12",
       "today_searches": 17,
       "today_cart_adds": 44,
-      "today_smart_orders": 83,
+      "today_smart_orders": 86,
       "total_searches": 115,
       "total_cart_adds": 504,
       "total_days_used": 9,
-      "total_smart_orders": 129,
+      "total_smart_orders": 132,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -1156,32 +1156,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.8.1",
-          "last_seen_at": "2026-11-12 16:33:24",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-12 16:33:50",
+          "last_action": "Canlı MF Sorgulama (30 Ürün)",
           "today_date": "2026-11-12",
           "today_searches": 13,
           "today_cart_adds": 44,
-          "today_smart_orders": 62,
+          "today_smart_orders": 65,
           "total_searches": 43,
           "total_cart_adds": 246,
-          "total_smart_orders": 77,
+          "total_smart_orders": 80,
           "total_days_used": 7,
           "recent_actions": [
-            {
-              "t": "2026-11-12 14:46:08",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (BOTANIK • 75 Kalem)"
-            },
-            {
-              "t": "2026-11-12 14:46:08",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-12 14:46:11",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (4 Ürün)"
-            },
             {
               "t": "2026-11-12 15:30:18",
               "type": "critical_stock",
@@ -1241,6 +1226,21 @@
               "t": "2026-11-12 16:33:24",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-12 16:33:25",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (BOTANIK • 77 Kalem)"
+            },
+            {
+              "t": "2026-11-12 16:33:25",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-12 16:33:50",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (30 Ürün)"
             }
           ]
         },
