@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 15:30:02",
+  "updated_at": "2026-11-12 15:30:25",
   "count": 69,
   "items": [
     {
@@ -16,14 +16,14 @@
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.8.1",
-      "last_seen_at": "2026-11-12 15:30:02",
-      "last_action": "[DESKTOP-OTHNDUE] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-12 15:30:25",
+      "last_action": "[DESKTOP-OTHNDUE] Toplu Sepet (ALLIANCE): 10 Kalem",
       "today_date": "2026-11-12",
       "today_searches": 63,
-      "today_cart_adds": 60,
+      "today_cart_adds": 61,
       "today_smart_orders": 112,
       "total_searches": 302,
-      "total_cart_adds": 533,
+      "total_cart_adds": 534,
       "total_smart_orders": 259,
       "total_days_used": 8,
       "pc_count": 6,
@@ -128,22 +128,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.8.1",
-          "last_seen_at": "2026-11-12 15:30:02",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-12 15:30:25",
+          "last_action": "Toplu Sepet (ALLIANCE): 10 Kalem",
           "today_date": "2026-11-12",
           "today_searches": 12,
-          "today_cart_adds": 49,
+          "today_cart_adds": 50,
           "today_smart_orders": 55,
           "total_searches": 53,
-          "total_cart_adds": 247,
+          "total_cart_adds": 248,
           "total_smart_orders": 120,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-12 11:09:06",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-12 11:09:13",
               "type": "smart_order",
@@ -213,6 +208,11 @@
               "t": "2026-11-12 15:30:02",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-12 15:30:25",
+              "type": "cart",
+              "detail": "Toplu Sepet (ALLIANCE): 10 Kalem"
             }
           ]
         },
