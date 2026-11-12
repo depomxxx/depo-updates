@@ -1,11 +1,11 @@
 {
-  "version": "1.8.0",
+  "version": "1.8.1",
   "app_name": "Farma Radar",
-  "release_date": "2026-11-12 00:44:58",
+  "release_date": "2026-11-12 13:54:42",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.8.0.zip?t=1794433499",
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.8.1.zip?t=1794480883",
   "sha256": "",
-  "package_sha256": "0ad864b5858c6ab1c0c4cbe37e9b33b992a4b906b6984379a15544c7f79e2b3c",
-  "size_kb": 798.4,
-  "changelog": "v1.8.0: Eczane Karti Stok:0 urunlerde simQtyInput null referansindan kaynaklanan depo sorgu hatasi giderildi; EczaneTakas urun eslestirme motoru ve 2116 urunluk katalog sozlugu (TYLOL HOT DAY vs C vb. tum varyant ayrimlariyla) bastan sona yenilendi; Kampanya baz fiyati Kredi Karti yerine sabit 90 Gun Vade depo birim fiyatina sabitlendi."
+  "package_sha256": "8399c07433e4f2c36f756cf909fca641f98169658c148e5f104e2c420425bbc9",
+  "size_kb": 813.6,
+  "changelog": "v1.8.1: 1) Depo sepetine listeden eklenen ürünlerin yanlışlıkla 'Önceden Sepette Kalmış / Yabancı Ürün' (kırmızı uyarı) görünmesi sorunu kökünden çözüldü (depo içi malzeme kodu + katalog barkod/isim eşanlamlıları + çoklu depo '+' takibi + Türkçe UTF-8 karakter ve binlik nokta/tireli marka eşleştirme); 2) Toplu gönderimde '17 kalem atıldı görünüp sonlandırmada 15 kalem çıkması' sorunu giderildi (Alliance sıralı sepet yazımı + tam /Sales/Cart okuma, İSKOOP birebir MATNR doğrulaması, tüm depolarda canlı sepet doğrulaması + otomatik yeniden deneme ve sonlandırma ekranında eksik kalem mutabakat kartı ile tek tıkla tekrar deneme / Yok-Aktarım listesine ayırma); 3) Toplu Sipariş ekranının en sağındaki sepet ikonu ve Sipariş & Depo sütunu hizalaması ve görselliği düzeltildi."
 }
