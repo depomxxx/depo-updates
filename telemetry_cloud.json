@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 16:42:10",
+  "updated_at": "2026-11-12 16:42:17",
   "count": 4,
   "items": [
     {
@@ -13,18 +13,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D2E4-AA57-C021",
-      "last_pc_name": "DESKTOP-1N3LQF0",
+      "hwid": "D719-CEB2-1542",
+      "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.8.2",
-      "last_seen_at": "2026-11-12 16:42:10",
-      "last_action": "[DESKTOP-1N3LQF0] Canlı MF Sorgulama (16 Ürün)",
+      "last_seen_at": "2026-11-12 16:42:17",
+      "last_action": "[DESKTOP-M530BBB] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-12",
       "today_searches": 95,
       "today_cart_adds": 160,
-      "today_smart_orders": 182,
+      "today_smart_orders": 183,
       "total_searches": 406,
       "total_cart_adds": 684,
-      "total_smart_orders": 352,
+      "total_smart_orders": 353,
       "total_days_used": 9,
       "pc_count": 8,
       "devices": {
@@ -598,22 +598,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.112",
           "app_version": "1.8.2",
-          "last_seen_at": "2026-11-12 16:41:50",
-          "last_action": "Canlı MF Sorgulama (24 Ürün)",
+          "last_seen_at": "2026-11-12 16:42:17",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-12",
           "today_searches": 16,
           "today_cart_adds": 35,
-          "today_smart_orders": 13,
+          "today_smart_orders": 14,
           "total_searches": 71,
           "total_cart_adds": 86,
-          "total_smart_orders": 40,
+          "total_smart_orders": 41,
           "total_days_used": 9,
           "recent_actions": [
-            {
-              "t": "2026-11-12 14:39:34",
-              "type": "search",
-              "detail": "Depo Sorgu: OLAXINN 10 MG 28 TB"
-            },
             {
               "t": "2026-11-12 14:42:41",
               "type": "cart",
@@ -683,6 +678,11 @@
               "t": "2026-11-12 14:48:04",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (24 Ürün)"
+            },
+            {
+              "t": "2026-11-12 16:42:17",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         },
