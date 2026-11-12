@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 10:32:17",
+  "updated_at": "2026-11-12 10:34:24",
   "count": 69,
   "items": [
     {
@@ -13,20 +13,20 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D719-CEB2-1542",
-      "last_pc_name": "DESKTOP-M530BBB",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.8.0",
-      "last_seen_at": "2026-11-12 10:32:17",
-      "last_action": "[DESKTOP-M530BBB] Depo Sorgu: BEFIXO 3 ML 5 AMP.",
+      "last_seen_at": "2026-11-12 10:31:28",
+      "last_action": "[DESKTOP-OTHNDUE] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-12",
-      "today_searches": 59,
-      "today_cart_adds": 29,
-      "today_smart_orders": 63,
-      "total_searches": 353,
-      "total_cart_adds": 553,
-      "total_smart_orders": 237,
-      "total_days_used": 9,
-      "pc_count": 7,
+      "today_searches": 53,
+      "today_cart_adds": 23,
+      "today_smart_orders": 58,
+      "total_searches": 292,
+      "total_cart_adds": 496,
+      "total_smart_orders": 205,
+      "total_days_used": 8,
+      "pc_count": 6,
       "devices": {
         "83F3-13F8-E632": {
           "hwid": "83F3-13F8-E632",
@@ -222,7 +222,7 @@
           "desk_name": "Eda-Bilgin",
           "local_ip": "192.168.1.114",
           "app_version": "1.8.0",
-          "last_seen_at": "2026-11-12 10:31:14",
+          "last_seen_at": "2026-11-12 08:44:42",
           "last_action": "Program Açık (Canlı)",
           "today_date": "2026-11-12",
           "today_searches": 0,
@@ -316,17 +316,82 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.8.0",
-          "last_seen_at": "2026-11-12 10:31:22",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-12 08:44:42",
+          "last_action": "Program Açık (Canlı)",
           "today_date": "2026-11-12",
-          "today_searches": 4,
-          "today_cart_adds": 6,
-          "today_smart_orders": 3,
-          "total_searches": 91,
-          "total_cart_adds": 157,
-          "total_smart_orders": 6,
+          "today_searches": 0,
+          "today_cart_adds": 0,
+          "today_smart_orders": 0,
+          "total_searches": 87,
+          "total_cart_adds": 151,
+          "total_smart_orders": 3,
           "total_days_used": 6,
           "recent_actions": [
+            {
+              "t": "2026-11-11 14:53:58",
+              "type": "search",
+              "detail": "Depo Sorgu: STERIMAR BABY DENİZ SUYU BURUN SPREYİ "
+            },
+            {
+              "t": "2026-11-11 14:53:58",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-11 14:54:03",
+              "type": "search",
+              "detail": "Depo Sorgu: STERIMAR BABY DENİZ SUYU BURUN SPREYİ "
+            },
+            {
+              "t": "2026-11-11 14:54:03",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-11 14:54:07",
+              "type": "search",
+              "detail": "Depo Sorgu: STERIMAR BABY DENİZ SUYU BURUN SPREYİ "
+            },
+            {
+              "t": "2026-11-11 15:19:41",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-11 15:19:48",
+              "type": "search",
+              "detail": "Depo Sorgu: CITOLES 15 MG 28 TB."
+            },
+            {
+              "t": "2026-11-11 15:19:48",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-11 15:19:49",
+              "type": "search",
+              "detail": "Depo Sorgu: CITOLES 15 MG 28 TB."
+            },
+            {
+              "t": "2026-11-11 15:20:05",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-11 15:20:05",
+              "type": "cart",
+              "detail": "Sepete Ekle (NEVZAT): CITOLES 15 MG.28 FILM TB. x8"
+            },
+            {
+              "t": "2026-11-11 15:20:07",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-11 17:20:59",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
             {
               "t": "2026-11-11 17:21:06",
               "type": "search",
@@ -334,71 +399,6 @@
             },
             {
               "t": "2026-11-11 17:21:50",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-12 09:46:34",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-12 09:46:35",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-12 09:46:41",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (14 Ürün)"
-            },
-            {
-              "t": "2026-11-12 09:57:09",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-12 09:57:19",
-              "type": "search",
-              "detail": "Depo Sorgu: RELAMAX 10 ML"
-            },
-            {
-              "t": "2026-11-12 09:57:30",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-12 09:57:31",
-              "type": "cart",
-              "detail": "Sepete Ekle (NEVZAT): RELAMAX 10 ML DAMLA x5"
-            },
-            {
-              "t": "2026-11-12 09:57:40",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-12 09:57:43",
-              "type": "search",
-              "detail": "Depo Sorgu: PEITEL 2.5 MG 30 GR KR."
-            },
-            {
-              "t": "2026-11-12 09:57:53",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-12 09:57:54",
-              "type": "cart",
-              "detail": "Sepete Ekle (NEVZAT): PEITEL KREM %0.25 30GR. x2"
-            },
-            {
-              "t": "2026-11-12 09:57:58",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-12 09:58:00",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
@@ -589,100 +589,6 @@
               "t": "2026-11-12 00:48:37",
               "type": "cart",
               "detail": "EczaneTakas Kampanya Açıldı: TUSCOD 7.5 MG 100 ML SRP. (30+33)"
-            }
-          ]
-        },
-        "D719-CEB2-1542": {
-          "hwid": "D719-CEB2-1542",
-          "pc_name": "DESKTOP-M530BBB",
-          "desk_name": "DESKTOP-M530BBB",
-          "local_ip": "192.168.1.112",
-          "app_version": "1.8.0",
-          "last_seen_at": "2026-11-12 10:32:17",
-          "last_action": "Depo Sorgu: BEFIXO 3 ML 5 AMP.",
-          "today_date": "2026-11-12",
-          "today_searches": 2,
-          "today_cart_adds": 0,
-          "today_smart_orders": 2,
-          "total_searches": 57,
-          "total_cart_adds": 51,
-          "total_smart_orders": 29,
-          "total_days_used": 9,
-          "recent_actions": [
-            {
-              "t": "2026-11-11 18:08:11",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-11 18:08:14",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-11 18:08:18",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (30 Ürün)"
-            },
-            {
-              "t": "2026-11-11 18:08:19",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-11 18:08:21",
-              "type": "search",
-              "detail": "Depo Sorgu: AFERIN 300/2/10 MG 30 CAP *"
-            },
-            {
-              "t": "2026-11-11 18:08:23",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (30 Ürün)"
-            },
-            {
-              "t": "2026-11-11 18:08:23",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-11 18:08:34",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (30 Ürün)"
-            },
-            {
-              "t": "2026-11-11 18:08:34",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-11 18:08:36",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-11 18:08:43",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (26 Ürün)"
-            },
-            {
-              "t": "2026-11-12 08:45:24",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-12 08:46:54",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-12 09:38:52",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-12 09:39:02",
-              "type": "search",
-              "detail": "Depo Sorgu: BEFIXO 3 ML 5 AMP."
             }
           ]
         }
@@ -31267,13 +31173,13 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.8.0",
-      "last_seen_at": "2026-11-12 09:53:23",
-      "last_action": "[DESKTOP-T4EAUS3] Depo Sorgu: ENDOL 25 MG 25 CAP.",
+      "last_seen_at": "2026-11-12 10:34:24",
+      "last_action": "[DESKTOP-T4EAUS3] Depo Sorgu: URSACTIVE 250 MG 100 CAP.",
       "today_date": "2026-11-12",
-      "today_searches": 5,
+      "today_searches": 7,
       "today_cart_adds": 0,
       "today_smart_orders": 8,
-      "total_searches": 103,
+      "total_searches": 105,
       "total_cart_adds": 460,
       "total_days_used": 9,
       "total_smart_orders": 54,
@@ -31359,27 +31265,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.8.0",
-          "last_seen_at": "2026-11-12 09:53:23",
-          "last_action": "Depo Sorgu: ENDOL 25 MG 25 CAP.",
+          "last_seen_at": "2026-11-12 10:34:24",
+          "last_action": "Depo Sorgu: URSACTIVE 250 MG 100 CAP.",
           "today_date": "2026-11-12",
-          "today_searches": 3,
+          "today_searches": 5,
           "today_cart_adds": 0,
           "today_smart_orders": 8,
-          "total_searches": 33,
+          "total_searches": 35,
           "total_cart_adds": 202,
           "total_smart_orders": 23,
           "total_days_used": 7,
           "recent_actions": [
-            {
-              "t": "2026-11-11 15:23:20",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-11 15:23:23",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (4 Ürün)"
-            },
             {
               "t": "2026-11-11 15:23:27",
               "type": "cart",
@@ -31444,6 +31340,16 @@
               "t": "2026-11-12 09:45:57",
               "type": "search",
               "detail": "Depo Sorgu: ENDOL 25 MG 25 CAP."
+            },
+            {
+              "t": "2026-11-12 10:32:07",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-12 10:32:10",
+              "type": "search",
+              "detail": "Depo Sorgu: URSACTIVE 250 MG 100 CAP."
             }
           ]
         },
