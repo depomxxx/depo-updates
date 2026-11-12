@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 16:42:17",
+  "updated_at": "2026-11-12 16:42:27",
   "count": 4,
   "items": [
     {
@@ -13,18 +13,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D719-CEB2-1542",
-      "last_pc_name": "DESKTOP-M530BBB",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.8.2",
-      "last_seen_at": "2026-11-12 16:42:17",
-      "last_action": "[DESKTOP-M530BBB] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-12 16:42:27",
+      "last_action": "[DESKTOP-OTHNDUE] Depo Fiyat Sorgulama",
       "today_date": "2026-11-12",
-      "today_searches": 95,
+      "today_searches": 96,
       "today_cart_adds": 160,
-      "today_smart_orders": 183,
-      "total_searches": 406,
+      "today_smart_orders": 186,
+      "total_searches": 407,
       "total_cart_adds": 684,
-      "total_smart_orders": 353,
+      "total_smart_orders": 356,
       "total_days_used": 9,
       "pc_count": 8,
       "devices": {
@@ -128,32 +128,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.8.2",
-          "last_seen_at": "2026-11-12 16:41:52",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-12 16:42:27",
+          "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-12",
-          "today_searches": 18,
+          "today_searches": 19,
           "today_cart_adds": 60,
-          "today_smart_orders": 63,
-          "total_searches": 59,
+          "today_smart_orders": 66,
+          "total_searches": 60,
           "total_cart_adds": 258,
-          "total_smart_orders": 128,
+          "total_smart_orders": 131,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-12 15:33:50",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-12 15:33:54",
-              "type": "search",
-              "detail": "Depo Sorgu: BEPANTHOL SENSİDERM KAŞINTI GİDERİCİ K"
-            },
-            {
-              "t": "2026-11-12 15:34:09",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-12 15:34:13",
               "type": "search",
@@ -213,6 +198,21 @@
               "t": "2026-11-12 16:41:45",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-12 16:42:04",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-12 16:42:08",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 84 Kalem)"
+            },
+            {
+              "t": "2026-11-12 16:42:27",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ]
         },
