@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 16:43:37",
+  "updated_at": "2026-11-12 16:45:53",
   "count": 4,
   "items": [
     {
@@ -1173,16 +1173,16 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.8.2",
-      "last_seen_at": "2026-11-12 16:45:33",
-      "last_action": "[DESKTOP-T4EAUS3] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-12 16:45:53",
+      "last_action": "[DESKTOP-T4EAUS3] Toplu Sipariş Planlama",
       "today_date": "2026-11-12",
       "today_searches": 17,
       "today_cart_adds": 44,
-      "today_smart_orders": 94,
+      "today_smart_orders": 101,
       "total_searches": 115,
       "total_cart_adds": 504,
       "total_days_used": 9,
-      "total_smart_orders": 140,
+      "total_smart_orders": 147,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -1265,52 +1265,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.8.2",
-          "last_seen_at": "2026-11-12 16:45:33",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-12 16:45:53",
+          "last_action": "Toplu Sipariş Planlama",
           "today_date": "2026-11-12",
           "today_searches": 13,
           "today_cart_adds": 44,
-          "today_smart_orders": 73,
+          "today_smart_orders": 80,
           "total_searches": 43,
           "total_cart_adds": 246,
-          "total_smart_orders": 88,
+          "total_smart_orders": 95,
           "total_days_used": 7,
           "recent_actions": [
-            {
-              "t": "2026-11-12 15:46:02",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-12 15:46:05",
-              "type": "cart",
-              "detail": "Toplu Sepet (ALLIANCE): 1 Kalem"
-            },
-            {
-              "t": "2026-11-12 15:46:06",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-12 16:33:24",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-12 16:33:25",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (BOTANIK • 77 Kalem)"
-            },
-            {
-              "t": "2026-11-12 16:33:25",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-12 16:33:50",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (30 Ürün)"
-            },
             {
               "t": "2026-11-12 16:33:51",
               "type": "mf_resolve",
@@ -1350,6 +1315,41 @@
               "t": "2026-11-12 16:45:33",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-12 16:45:33",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (BOTANIK • 77 Kalem)"
+            },
+            {
+              "t": "2026-11-12 16:45:33",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-12 16:45:34",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (1 Ürün)"
+            },
+            {
+              "t": "2026-11-12 16:45:45",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş Planlama"
+            },
+            {
+              "t": "2026-11-12 16:45:46",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş (BOTANIK • 176 Kalem)"
+            },
+            {
+              "t": "2026-11-12 16:45:46",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-12 16:45:53",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş Planlama"
             }
           ]
         },
