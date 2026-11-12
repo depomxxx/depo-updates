@@ -1,11 +1,11 @@
 {
-  "version": "1.8.2",
+  "version": "1.8.3",
   "app_name": "Farma Radar",
-  "release_date": "2026-11-12 17:16:15",
+  "release_date": "2026-11-12 17:29:59",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.8.2.zip?t=1794492977",
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.8.3.zip?t=1794493801",
   "sha256": "",
-  "package_sha256": "8ce3b2571e8f52c0eb224071f605513cc8fd8b405b60ac743d242de9e0a6c29d",
-  "size_kb": 817.5,
-  "changelog": "v1.8.2 — Alliance ve Tüm Depolarda Canlı Sepet Boşalma Doğrulaması, Yetkilendirilmiş Otomatik Güncelleyici ve Tek Tıkla Online Kurulum Paketi."
+  "package_sha256": "cc477eb1e4e90cad8b50976c42cbe83f9780597c884796889cba516d9269b6f3",
+  "size_kb": 817.7,
+  "changelog": "v1.8.3 — Kurulum sihirbazinda acik olan Farma Radar uzerine yeniden kurulum (WinError 32 kilitli DLL gecme) destegi ve Alliance sepet bosalma dogrulamasi."
 }
