@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 08:00:33",
+  "updated_at": "2026-11-12 08:00:39",
   "count": 69,
   "items": [
     {
@@ -933,10 +933,10 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "B446-9737-94C4",
-      "last_pc_name": "DESKTOP-5PFFU5S",
+      "hwid": "83F3-13F8-E632",
+      "last_pc_name": "Eskienes",
       "app_version": "1.8.0",
-      "last_seen_at": "2026-11-12 08:00:33",
+      "last_seen_at": "2026-11-12 08:00:39",
       "last_action": "[Eskienes] Canlı MF Sorgulama (6 Ürün)",
       "today_date": "2026-11-12",
       "today_searches": 4,
@@ -954,7 +954,7 @@
           "desk_name": "Eskienes",
           "local_ip": "192.168.1.117",
           "app_version": "1.8.0",
-          "last_seen_at": "2026-11-12 07:57:36",
+          "last_seen_at": "2026-11-12 08:00:39",
           "last_action": "Canlı MF Sorgulama (6 Ürün)",
           "today_date": "2026-11-12",
           "today_searches": 0,
@@ -1048,7 +1048,7 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.8.0",
-          "last_seen_at": "2026-11-12 07:56:12",
+          "last_seen_at": "2026-11-12 07:59:14",
           "last_action": "Günün Çıkışları Yenileme (TRIA • 12 Kalem)",
           "today_date": "2026-11-12",
           "today_searches": 0,
