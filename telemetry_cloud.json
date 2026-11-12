@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 16:53:46",
+  "updated_at": "2026-11-12 16:51:44",
   "count": 4,
   "items": [
     {
@@ -13,18 +13,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D2E4-AA57-C021",
-      "last_pc_name": "DESKTOP-1N3LQF0",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.8.2",
-      "last_seen_at": "2026-11-12 16:51:26",
-      "last_action": "[DESKTOP-1N3LQF0] Canlı MF Sorgulama (2 Ürün)",
+      "last_seen_at": "2026-11-12 16:51:44",
+      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları Yenileme (TRIA • 86 Kalem)",
       "today_date": "2026-11-12",
       "today_searches": 101,
       "today_cart_adds": 168,
-      "today_smart_orders": 203,
+      "today_smart_orders": 207,
       "total_searches": 412,
       "total_cart_adds": 692,
-      "total_smart_orders": 373,
+      "total_smart_orders": 377,
       "total_days_used": 9,
       "pc_count": 8,
       "devices": {
@@ -128,37 +128,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.8.2",
-          "last_seen_at": "2026-11-12 16:50:15",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-12 16:51:44",
+          "last_action": "Günün Çıkışları Yenileme (TRIA • 86 Kalem)",
           "today_date": "2026-11-12",
           "today_searches": 24,
           "today_cart_adds": 68,
-          "today_smart_orders": 70,
+          "today_smart_orders": 74,
           "total_searches": 65,
           "total_cart_adds": 266,
-          "total_smart_orders": 135,
+          "total_smart_orders": 139,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-12 16:44:20",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-12 16:44:21",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 84 Kalem)"
-            },
-            {
-              "t": "2026-11-12 16:44:47",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-12 16:44:51",
-              "type": "search",
-              "detail": "Depo Sorgu: REXAPIN EASYTAB 10 MG 28 TB."
-            },
             {
               "t": "2026-11-12 16:45:13",
               "type": "search",
@@ -213,6 +193,26 @@
               "t": "2026-11-12 16:47:27",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-12 16:50:15",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-12 16:50:15",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 86 Kalem)"
+            },
+            {
+              "t": "2026-11-12 16:50:17",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-12 16:50:18",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 86 Kalem)"
             }
           ]
         },
