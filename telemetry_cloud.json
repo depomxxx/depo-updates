@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 12:25:45",
+  "updated_at": "2026-11-12 12:25:48",
   "count": 69,
   "items": [
     {
@@ -30263,17 +30263,17 @@
       "status": "AKTIF",
       "hwid": "2DED-CFF9-D593",
       "last_pc_name": "DESKTOP-8JN0NE5",
-      "app_version": "1.7.7",
-      "last_seen_at": "2026-11-11 17:46:00",
-      "last_action": "Canlı MF Sorgulama (1 Ürün)",
-      "today_date": "2026-11-11",
-      "today_searches": 14,
-      "today_cart_adds": 27,
-      "today_smart_orders": 51,
+      "app_version": "1.8.0",
+      "last_seen_at": "2026-11-12 12:25:47",
+      "last_action": "Günün Çıkışları / Kritik Stok",
+      "today_date": "2026-11-12",
+      "today_searches": 0,
+      "today_cart_adds": 0,
+      "today_smart_orders": 11,
       "total_searches": 16,
       "total_cart_adds": 41,
-      "total_days_used": 4,
-      "total_smart_orders": 22,
+      "total_days_used": 5,
+      "total_smart_orders": 33,
       "pc_count": 1,
       "devices": {
         "2DED-CFF9-D593": {
@@ -30281,68 +30281,18 @@
           "pc_name": "DESKTOP-8JN0NE5",
           "desk_name": "DESKTOP-8JN0NE5",
           "local_ip": "192.168.1.37",
-          "app_version": "1.7.7",
-          "last_seen_at": "2026-11-11 17:46:00",
-          "last_action": "Canlı MF Sorgulama (1 Ürün)",
-          "today_date": "2026-11-11",
-          "today_searches": 14,
-          "today_cart_adds": 27,
-          "today_smart_orders": 51,
+          "app_version": "1.8.0",
+          "last_seen_at": "2026-11-12 12:25:47",
+          "last_action": "Günün Çıkışları / Kritik Stok",
+          "today_date": "2026-11-12",
+          "today_searches": 0,
+          "today_cart_adds": 0,
+          "today_smart_orders": 11,
           "total_searches": 16,
           "total_cart_adds": 41,
-          "total_smart_orders": 22,
-          "total_days_used": 4,
+          "total_smart_orders": 33,
+          "total_days_used": 5,
           "recent_actions": [
-            {
-              "t": "2026-11-11 16:55:39",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-11 16:55:49",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (11 Ürün)"
-            },
-            {
-              "t": "2026-11-11 16:56:14",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-11 16:56:15",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (BOTANIK • 45 Kalem)"
-            },
-            {
-              "t": "2026-11-11 16:56:34",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-11 16:56:36",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): KATARIN 30 KAPSÜL x2"
-            },
-            {
-              "t": "2026-11-11 16:57:55",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-11 16:57:58",
-              "type": "cart",
-              "detail": "Toplu Sepet (ALLIANCE): 2 Kalem"
-            },
-            {
-              "t": "2026-11-11 16:58:04",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-11 16:58:18",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-11 16:58:19",
               "type": "critical_stock",
@@ -30367,6 +30317,56 @@
               "t": "2026-11-11 17:20:34",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (1 Ürün)"
+            },
+            {
+              "t": "2026-11-12 12:24:59",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-12 12:25:00",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-12 12:25:03",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-12 12:25:10",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-12 12:25:11",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-12 12:25:23",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-12 12:25:27",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-12 12:25:28",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-12 12:25:29",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-12 12:25:47",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         }
