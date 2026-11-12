@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 11:35:27",
+  "updated_at": "2026-11-12 11:33:34",
   "count": 69,
   "items": [
     {
@@ -608,16 +608,16 @@
       "hwid": "E6B1-5698-273E",
       "last_pc_name": "DESKTOP-6KFO8IF",
       "app_version": "1.8.0",
-      "last_seen_at": "2026-11-12 09:56:12",
+      "last_seen_at": "2026-11-12 11:33:34",
       "last_action": "[DESKTOP-6KFO8IF] EczaneTakas Kampanya Açıldı: PULCET 40 MG 28 TB (30+4)",
       "today_date": "2026-11-12",
-      "today_searches": 53,
-      "today_cart_adds": 23,
-      "today_smart_orders": 47,
-      "total_searches": 343,
-      "total_cart_adds": 731,
+      "today_searches": 55,
+      "today_cart_adds": 55,
+      "today_smart_orders": 91,
+      "total_searches": 345,
+      "total_cart_adds": 763,
       "total_days_used": 8,
-      "total_smart_orders": 161,
+      "total_smart_orders": 205,
       "pc_count": 4,
       "devices": {
         "18C1-4ECE-8490": {
@@ -644,7 +644,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.8.0",
-          "last_seen_at": "2026-11-12 09:56:12",
+          "last_seen_at": "2026-11-12 11:33:34",
           "last_action": "EczaneTakas Kampanya Açıldı: PULCET 40 MG 28 TB (30+4)",
           "today_date": "2026-11-12",
           "today_searches": 4,
@@ -738,91 +738,91 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.8.0",
-          "last_seen_at": "2026-11-12 09:56:03",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-12 11:32:44",
+          "last_action": "Canlı MF Sorgulama (1 Ürün)",
           "today_date": "2026-11-12",
-          "today_searches": 10,
-          "today_cart_adds": 16,
-          "today_smart_orders": 8,
-          "total_searches": 51,
-          "total_cart_adds": 214,
-          "total_smart_orders": 73,
+          "today_searches": 12,
+          "today_cart_adds": 48,
+          "today_smart_orders": 52,
+          "total_searches": 53,
+          "total_cart_adds": 246,
+          "total_smart_orders": 117,
           "total_days_used": 8,
           "recent_actions": [
             {
-              "t": "2026-11-12 09:01:50",
-              "type": "search",
-              "detail": "Depo Sorgu: CIPRO 500 MG 14 FTB."
+              "t": "2026-11-12 11:09:04",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş Planlama"
             },
             {
-              "t": "2026-11-12 09:01:59",
+              "t": "2026-11-12 11:09:05",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş (TRIA • 246 Kalem)"
+            },
+            {
+              "t": "2026-11-12 11:09:05",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-12 11:09:06",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (1 Ürün)"
+            },
+            {
+              "t": "2026-11-12 11:09:06",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
             },
             {
-              "t": "2026-11-12 09:02:00",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): CIPRO 500 MG 14 TB x5"
+              "t": "2026-11-12 11:09:13",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş Planlama"
             },
             {
-              "t": "2026-11-12 09:02:03",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
+              "t": "2026-11-12 11:09:13",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş (TRIA • 247 Kalem)"
             },
             {
-              "t": "2026-11-12 09:02:06",
-              "type": "search",
-              "detail": "Depo Sorgu: VENTOLIN NEB 2.5 MG 2.5 ML20 F"
+              "t": "2026-11-12 11:09:13",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
             },
             {
-              "t": "2026-11-12 09:03:48",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-12 09:03:53",
-              "type": "search",
-              "detail": "Depo Sorgu: COLDAWAY COLD FLU 200/30 MG 24"
-            },
-            {
-              "t": "2026-11-12 09:04:06",
+              "t": "2026-11-12 11:09:14",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
             },
             {
-              "t": "2026-11-12 09:04:07",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): COLDAWAY COLD FLU 24 TB x5"
+              "t": "2026-11-12 11:09:14",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (2 Ürün)"
             },
             {
-              "t": "2026-11-12 09:04:22",
+              "t": "2026-11-12 11:09:15",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
             },
             {
-              "t": "2026-11-12 09:04:46",
-              "type": "cart",
-              "detail": "Toplu Sepet (ALLIANCE): 11 Kalem"
+              "t": "2026-11-12 11:09:26",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş Planlama"
             },
             {
-              "t": "2026-11-12 09:04:54",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
+              "t": "2026-11-12 11:09:26",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş (TRIA • 247 Kalem)"
             },
             {
-              "t": "2026-11-12 09:04:57",
-              "type": "cart",
-              "detail": "Toplu Sepet (SELCUK): 5 Kalem"
+              "t": "2026-11-12 11:09:26",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
             },
             {
-              "t": "2026-11-12 09:05:02",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-12 09:06:02",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
+              "t": "2026-11-12 11:09:27",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (1 Ürün)"
             }
           ]
         },
