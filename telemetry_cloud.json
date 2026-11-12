@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 17:32:39",
+  "updated_at": "2026-11-12 17:30:39",
   "count": 4,
   "items": [
     {
@@ -13,18 +13,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D719-CEB2-1542",
-      "last_pc_name": "DESKTOP-M530BBB",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.8.3",
-      "last_seen_at": "2026-11-12 17:30:30",
-      "last_action": "[DESKTOP-M530BBB] Depo Sorgu: BEFIXO 3 ML 5 AMP.",
+      "last_seen_at": "2026-11-12 17:30:39",
+      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-12",
       "today_searches": 103,
       "today_cart_adds": 168,
-      "today_smart_orders": 221,
+      "today_smart_orders": 222,
       "total_searches": 414,
       "total_cart_adds": 692,
-      "total_smart_orders": 391,
+      "total_smart_orders": 392,
       "total_days_used": 9,
       "pc_count": 8,
       "devices": {
@@ -127,23 +127,18 @@
           "pc_name": "DESKTOP-OTHNDUE",
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
-          "app_version": "1.8.2",
-          "last_seen_at": "2026-11-12 17:30:24",
-          "last_action": "Günün Çıkışları Yenileme (TRIA • 86 Kalem)",
+          "app_version": "1.8.3",
+          "last_seen_at": "2026-11-12 17:30:39",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-12",
           "today_searches": 24,
           "today_cart_adds": 68,
-          "today_smart_orders": 74,
+          "today_smart_orders": 75,
           "total_searches": 65,
           "total_cart_adds": 266,
-          "total_smart_orders": 139,
+          "total_smart_orders": 140,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-12 16:45:13",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-12 16:45:21",
               "type": "search",
@@ -213,6 +208,11 @@
               "t": "2026-11-12 16:50:18",
               "type": "critical_stock",
               "detail": "Günün Çıkışları Yenileme (TRIA • 86 Kalem)"
+            },
+            {
+              "t": "2026-11-12 17:30:33",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         },
