@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 11:43:47",
+  "updated_at": "2026-11-12 11:44:07",
   "count": 69,
   "items": [
     {
@@ -31173,14 +31173,14 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.8.0",
-      "last_seen_at": "2026-11-12 11:43:47",
-      "last_action": "[DESKTOP-T4EAUS3] Toplu Sepet (ISKOOP): 10 Kalem",
+      "last_seen_at": "2026-11-12 11:44:07",
+      "last_action": "[DESKTOP-T4EAUS3] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-12",
       "today_searches": 9,
-      "today_cart_adds": 10,
+      "today_cart_adds": 11,
       "today_smart_orders": 23,
       "total_searches": 107,
-      "total_cart_adds": 470,
+      "total_cart_adds": 471,
       "total_days_used": 9,
       "total_smart_orders": 69,
       "pc_count": 3,
@@ -31265,22 +31265,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.8.0",
-          "last_seen_at": "2026-11-12 11:43:47",
-          "last_action": "Toplu Sepet (ISKOOP): 10 Kalem",
+          "last_seen_at": "2026-11-12 11:44:07",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-12",
           "today_searches": 7,
-          "today_cart_adds": 10,
+          "today_cart_adds": 11,
           "today_smart_orders": 23,
           "total_searches": 37,
-          "total_cart_adds": 212,
+          "total_cart_adds": 213,
           "total_smart_orders": 38,
           "total_days_used": 7,
           "recent_actions": [
-            {
-              "t": "2026-11-12 11:20:22",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-12 11:20:22",
               "type": "mf_resolve",
@@ -31350,6 +31345,11 @@
               "t": "2026-11-12 11:43:47",
               "type": "cart",
               "detail": "Toplu Sepet (ISKOOP): 10 Kalem"
+            },
+            {
+              "t": "2026-11-12 11:44:07",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
