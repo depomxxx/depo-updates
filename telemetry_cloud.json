@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 16:50:44",
+  "updated_at": "2026-11-12 16:48:44",
   "count": 4,
   "items": [
     {
@@ -13,17 +13,17 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D2E4-AA57-C021",
-      "last_pc_name": "DESKTOP-1N3LQF0",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.8.2",
-      "last_seen_at": "2026-11-12 16:48:24",
-      "last_action": "[DESKTOP-1N3LQF0] Canlı MF Sorgulama (2 Ürün)",
+      "last_seen_at": "2026-11-12 16:48:44",
+      "last_action": "[DESKTOP-OTHNDUE] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-12",
       "today_searches": 101,
-      "today_cart_adds": 166,
+      "today_cart_adds": 168,
       "today_smart_orders": 203,
       "total_searches": 412,
-      "total_cart_adds": 690,
+      "total_cart_adds": 692,
       "total_smart_orders": 373,
       "total_days_used": 9,
       "pc_count": 8,
@@ -128,22 +128,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.8.2",
-          "last_seen_at": "2026-11-12 16:47:23",
-          "last_action": "Toplu Sepet (ALLIANCE): 2 Kalem",
+          "last_seen_at": "2026-11-12 16:48:44",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-12",
           "today_searches": 24,
-          "today_cart_adds": 66,
+          "today_cart_adds": 68,
           "today_smart_orders": 70,
           "total_searches": 65,
-          "total_cart_adds": 264,
+          "total_cart_adds": 266,
           "total_smart_orders": 135,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-12 16:42:30",
-              "type": "search",
-              "detail": "Depo Sorgu: GYREX 200 MG 30 FTB."
-            },
             {
               "t": "2026-11-12 16:44:20",
               "type": "critical_stock",
@@ -213,6 +208,11 @@
               "t": "2026-11-12 16:47:23",
               "type": "cart",
               "detail": "Toplu Sepet (ALLIANCE): 2 Kalem"
+            },
+            {
+              "t": "2026-11-12 16:47:27",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
