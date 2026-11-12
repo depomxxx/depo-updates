@@ -1,30 +1,30 @@
 {
-  "updated_at": "2026-11-12 13:20:22",
+  "updated_at": "2026-11-12 13:20:25",
   "count": 69,
   "items": [
     {
-      "id": "D0EFA284",
-      "pharmacy_name": "ARAŞTIRMA ECZANESI",
+      "id": "48F632F1",
+      "pharmacy_name": "EDA ECZANESI",
       "pharmacist_name": "GAMZE ASLAN",
       "phone": "05344064108",
       "city": "SAMSUN/ATAKUM",
       "gln_no": "8680001000000",
       "otomasyon": "TRIA",
-      "plan": "PRO_YILLIK",
-      "expires_at": "2027-10-24",
+      "plan": "KURUMSAL_SINIRSIZ",
+      "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "E6B1-5698-273E",
-      "last_pc_name": "DESKTOP-6KFO8IF",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.8.0",
-      "last_seen_at": "2026-11-12 00:51:32",
-      "last_action": "[DESKTOP-6KFO8IF] EczaneTakas Kampanya Açıldı: PULCET 40 MG 28 TB (30+4)",
+      "last_seen_at": "2026-11-12 13:20:25",
+      "last_action": "[DESKTOP-OTHNDUE] Canlı MF Sorgulama (1 Ürün)",
       "today_date": "2026-11-12",
-      "today_searches": 43,
-      "today_cart_adds": 7,
-      "today_smart_orders": 53,
-      "total_searches": 282,
-      "total_cart_adds": 480,
-      "total_smart_orders": 200,
+      "today_searches": 63,
+      "today_cart_adds": 59,
+      "today_smart_orders": 108,
+      "total_searches": 302,
+      "total_cart_adds": 532,
+      "total_smart_orders": 255,
       "total_days_used": 8,
       "pc_count": 6,
       "devices": {
@@ -34,91 +34,91 @@
           "desk_name": "Eskienes",
           "local_ip": "192.168.1.117",
           "app_version": "1.8.0",
-          "last_seen_at": "2026-11-12 00:48:08",
-          "last_action": "Canlı MF Sorgulama (6 Ürün)",
+          "last_seen_at": "2026-11-12 13:19:45",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-12",
-          "today_searches": 0,
-          "today_cart_adds": 0,
-          "today_smart_orders": 11,
-          "total_searches": 48,
-          "total_cart_adds": 48,
-          "total_smart_orders": 23,
+          "today_searches": 8,
+          "today_cart_adds": 4,
+          "today_smart_orders": 17,
+          "total_searches": 56,
+          "total_cart_adds": 52,
+          "total_smart_orders": 29,
           "total_days_used": 7,
           "recent_actions": [
             {
-              "t": "2026-11-11 15:38:00",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
+              "t": "2026-11-12 11:12:35",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             },
             {
-              "t": "2026-11-11 15:38:03",
+              "t": "2026-11-12 11:13:03",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (30 Ürün)"
             },
             {
-              "t": "2026-11-11 15:38:03",
+              "t": "2026-11-12 11:13:04",
               "type": "mf_resolve",
               "detail": "Canlı MF Taraması"
             },
             {
-              "t": "2026-11-11 15:38:03",
+              "t": "2026-11-12 11:13:11",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (13 Ürün)"
+            },
+            {
+              "t": "2026-11-12 11:16:30",
               "type": "search",
-              "detail": "Depo Sorgu: ALATAB 600 MG 30 FTB."
+              "detail": "Depo Fiyat Sorgulama"
             },
             {
-              "t": "2026-11-11 15:38:12",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (7 Ürün)"
+              "t": "2026-11-12 11:16:35",
+              "type": "search",
+              "detail": "Depo Sorgu: ATTEX 18 MG 28 CAP."
             },
             {
-              "t": "2026-11-12 00:02:27",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
+              "t": "2026-11-12 11:16:35",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             },
             {
-              "t": "2026-11-12 00:11:42",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
+              "t": "2026-11-12 11:16:37",
+              "type": "search",
+              "detail": "Depo Sorgu: ATTEX 18 MG 28 CAP."
             },
             {
-              "t": "2026-11-12 00:11:42",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
+              "t": "2026-11-12 11:16:54",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             },
             {
-              "t": "2026-11-12 00:11:50",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (2 Ürün)"
+              "t": "2026-11-12 11:16:57",
+              "type": "search",
+              "detail": "Depo Sorgu: ATTEX 25 MG 28 CAP."
             },
             {
-              "t": "2026-11-12 00:22:27",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
+              "t": "2026-11-12 11:17:17",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             },
             {
-              "t": "2026-11-12 00:22:27",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
+              "t": "2026-11-12 11:17:19",
+              "type": "search",
+              "detail": "Depo Sorgu: ATTEX 25 MG 28 CAP."
             },
             {
-              "t": "2026-11-12 00:22:35",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (5 Ürün)"
+              "t": "2026-11-12 11:17:37",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             },
             {
-              "t": "2026-11-12 00:45:11",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
+              "t": "2026-11-12 11:17:38",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): ATTEX 25 MG 28 KAP x1"
             },
             {
-              "t": "2026-11-12 00:45:11",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-12 00:45:37",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (6 Ürün)"
+              "t": "2026-11-12 11:17:43",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
@@ -128,91 +128,91 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.8.0",
-          "last_seen_at": "2026-11-12 00:50:44",
-          "last_action": "Günün Çıkışları Yenileme (TRIA • 12 Kalem)",
+          "last_seen_at": "2026-11-12 13:20:25",
+          "last_action": "Canlı MF Sorgulama (1 Ürün)",
           "today_date": "2026-11-12",
-          "today_searches": 0,
-          "today_cart_adds": 0,
-          "today_smart_orders": 3,
-          "total_searches": 41,
-          "total_cart_adds": 198,
-          "total_smart_orders": 68,
+          "today_searches": 12,
+          "today_cart_adds": 48,
+          "today_smart_orders": 52,
+          "total_searches": 53,
+          "total_cart_adds": 246,
+          "total_smart_orders": 117,
           "total_days_used": 8,
           "recent_actions": [
             {
-              "t": "2026-11-11 22:06:41",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 98 Kalem)"
+              "t": "2026-11-12 11:09:04",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş Planlama"
             },
             {
-              "t": "2026-11-11 22:07:44",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
+              "t": "2026-11-12 11:09:05",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş (TRIA • 246 Kalem)"
             },
             {
-              "t": "2026-11-11 22:07:44",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 98 Kalem)"
+              "t": "2026-11-12 11:09:05",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
             },
             {
-              "t": "2026-11-11 22:08:07",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
+              "t": "2026-11-12 11:09:06",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (1 Ürün)"
             },
             {
-              "t": "2026-11-11 22:08:07",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 98 Kalem)"
+              "t": "2026-11-12 11:09:06",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             },
             {
-              "t": "2026-11-11 22:15:37",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
+              "t": "2026-11-12 11:09:13",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş Planlama"
             },
             {
-              "t": "2026-11-11 22:15:38",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 98 Kalem)"
+              "t": "2026-11-12 11:09:13",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş (TRIA • 247 Kalem)"
             },
             {
-              "t": "2026-11-11 22:16:03",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
+              "t": "2026-11-12 11:09:13",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
             },
             {
-              "t": "2026-11-11 22:16:04",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 98 Kalem)"
+              "t": "2026-11-12 11:09:14",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             },
             {
-              "t": "2026-11-11 22:25:50",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
+              "t": "2026-11-12 11:09:14",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (2 Ürün)"
             },
             {
-              "t": "2026-11-11 22:25:50",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 110 Kalem)"
+              "t": "2026-11-12 11:09:15",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             },
             {
-              "t": "2026-11-11 22:52:23",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
+              "t": "2026-11-12 11:09:26",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş Planlama"
             },
             {
-              "t": "2026-11-11 22:52:23",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 117 Kalem)"
+              "t": "2026-11-12 11:09:26",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş (TRIA • 247 Kalem)"
             },
             {
-              "t": "2026-11-12 00:47:11",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
+              "t": "2026-11-12 11:09:26",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
             },
             {
-              "t": "2026-11-12 00:47:13",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 12 Kalem)"
+              "t": "2026-11-12 11:09:27",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (1 Ürün)"
             }
           ]
         },
@@ -410,7 +410,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.8.0",
-          "last_seen_at": "2026-11-12 00:51:32",
+          "last_seen_at": "2026-11-12 13:20:04",
           "last_action": "EczaneTakas Kampanya Açıldı: PULCET 40 MG 28 TB (30+4)",
           "today_date": "2026-11-12",
           "today_searches": 4,
