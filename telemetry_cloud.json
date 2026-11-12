@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 17:39:44",
+  "updated_at": "2026-11-12 17:40:07",
   "count": 4,
   "items": [
     {
@@ -796,16 +796,16 @@
       "hwid": "2DED-CFF9-D593",
       "last_pc_name": "DESKTOP-8JN0NE5",
       "app_version": "1.8.3",
-      "last_seen_at": "2026-11-12 17:39:40",
-      "last_action": "Canlı MF Sorgulama (4 Ürün)",
+      "last_seen_at": "2026-11-12 17:40:07",
+      "last_action": "Canlı MF Sorgulama (10 Ürün)",
       "today_date": "2026-11-12",
       "today_searches": 10,
       "today_cart_adds": 37,
-      "today_smart_orders": 129,
+      "today_smart_orders": 133,
       "total_searches": 26,
       "total_cart_adds": 78,
       "total_days_used": 5,
-      "total_smart_orders": 151,
+      "total_smart_orders": 155,
       "pc_count": 1,
       "devices": {
         "2DED-CFF9-D593": {
@@ -814,37 +814,17 @@
           "desk_name": "DESKTOP-8JN0NE5",
           "local_ip": "192.168.1.37",
           "app_version": "1.8.3",
-          "last_seen_at": "2026-11-12 17:39:40",
-          "last_action": "Canlı MF Sorgulama (4 Ürün)",
+          "last_seen_at": "2026-11-12 17:40:07",
+          "last_action": "Canlı MF Sorgulama (10 Ürün)",
           "today_date": "2026-11-12",
           "today_searches": 10,
           "today_cart_adds": 37,
-          "today_smart_orders": 129,
+          "today_smart_orders": 133,
           "total_searches": 26,
           "total_cart_adds": 78,
-          "total_smart_orders": 151,
+          "total_smart_orders": 155,
           "total_days_used": 5,
           "recent_actions": [
-            {
-              "t": "2026-11-12 16:32:23",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-12 16:32:27",
-              "type": "search",
-              "detail": "Depo Sorgu: DODEX 1000 MCG 1 ML 5 AMP."
-            },
-            {
-              "t": "2026-11-12 16:41:23",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-12 16:42:46",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-12 16:42:46",
               "type": "mf_resolve",
@@ -899,6 +879,26 @@
               "t": "2026-11-12 17:34:28",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (4 Ürün)"
+            },
+            {
+              "t": "2026-11-12 17:39:57",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş Planlama"
+            },
+            {
+              "t": "2026-11-12 17:39:58",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş (BOTANIK • 176 Kalem)"
+            },
+            {
+              "t": "2026-11-12 17:39:58",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-12 17:40:07",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (10 Ürün)"
             }
           ]
         }
