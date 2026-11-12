@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 16:46:55",
+  "updated_at": "2026-11-12 16:45:13",
   "count": 4,
   "items": [
     {
@@ -16,13 +16,13 @@
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.8.2",
-      "last_seen_at": "2026-11-12 16:44:47",
+      "last_seen_at": "2026-11-12 16:45:13",
       "last_action": "[DESKTOP-OTHNDUE] Depo Fiyat Sorgulama",
       "today_date": "2026-11-12",
-      "today_searches": 98,
+      "today_searches": 100,
       "today_cart_adds": 160,
       "today_smart_orders": 199,
-      "total_searches": 409,
+      "total_searches": 411,
       "total_cart_adds": 684,
       "total_smart_orders": 369,
       "total_days_used": 9,
@@ -128,27 +128,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.8.2",
-          "last_seen_at": "2026-11-12 16:44:47",
+          "last_seen_at": "2026-11-12 16:45:13",
           "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-12",
-          "today_searches": 21,
+          "today_searches": 23,
           "today_cart_adds": 60,
           "today_smart_orders": 68,
-          "total_searches": 62,
+          "total_searches": 64,
           "total_cart_adds": 258,
           "total_smart_orders": 133,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-12 15:34:56",
-              "type": "cart",
-              "detail": "Toplu Sepet (ALLIANCE): 2 Kalem"
-            },
-            {
-              "t": "2026-11-12 15:34:58",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-12 15:35:01",
               "type": "cart",
@@ -211,6 +201,16 @@
             },
             {
               "t": "2026-11-12 16:44:47",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-12 16:44:51",
+              "type": "search",
+              "detail": "Depo Sorgu: REXAPIN EASYTAB 10 MG 28 TB."
+            },
+            {
+              "t": "2026-11-12 16:45:13",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
             }
