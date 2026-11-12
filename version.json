@@ -1,11 +1,11 @@
 {
   "version": "1.8.2",
   "app_name": "Farma Radar",
-  "release_date": "2026-11-12 17:04:56",
+  "release_date": "2026-11-12 17:16:15",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.8.2.zip?t=1794492297",
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.8.2.zip?t=1794492977",
   "sha256": "",
-  "package_sha256": "20c89dd61d16836ab3d5862807ceb42d3058206e7c08b0e8c980f49367afcfd3",
+  "package_sha256": "8ce3b2571e8f52c0eb224071f605513cc8fd8b405b60ac743d242de9e0a6c29d",
   "size_kb": 817.5,
-  "changelog": "v1.8.2 — Alliance ve Tüm Depolarda Canlı Sepet Boşalma Doğrulaması, Yetkilendirilmiş Otomatik Güncelleyici ve Tek Tıkla Online Kurulum Düzeltmesi."
+  "changelog": "v1.8.2 — Alliance ve Tüm Depolarda Canlı Sepet Boşalma Doğrulaması, Yetkilendirilmiş Otomatik Güncelleyici ve Tek Tıkla Online Kurulum Paketi."
 }
