@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 17:33:36",
+  "updated_at": "2026-11-12 17:33:37",
   "count": 4,
   "items": [
     {
@@ -8,23 +8,23 @@
       "pharmacist_name": "EDA BİLGİN",
       "phone": "05077034200",
       "city": "SAMSUN/İLKADIM",
-      "gln_no": "8680001112258",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "8FD3-5823-91F4",
-      "last_pc_name": "Eda-Bilgin",
+      "hwid": "B446-9737-94C4",
+      "last_pc_name": "DESKTOP-5PFFU5S",
       "app_version": "1.8.3",
-      "last_seen_at": "2026-11-12 17:33:09",
-      "last_action": "[Eda-Bilgin] Canlı MF Sorgulama (12 Ürün)",
+      "last_seen_at": "2026-11-12 17:33:37",
+      "last_action": "[DESKTOP-5PFFU5S] Canlı MF Sorgulama (30 Ürün)",
       "today_date": "2026-11-12",
       "today_searches": 103,
       "today_cart_adds": 168,
-      "today_smart_orders": 238,
+      "today_smart_orders": 241,
       "total_searches": 414,
       "total_cart_adds": 692,
-      "total_smart_orders": 408,
+      "total_smart_orders": 411,
       "total_days_used": 9,
       "pc_count": 8,
       "devices": {
@@ -222,7 +222,7 @@
           "desk_name": "Eda-Bilgin",
           "local_ip": "192.168.1.114",
           "app_version": "1.8.3",
-          "last_seen_at": "2026-11-12 17:33:09",
+          "last_seen_at": "2026-11-12 17:33:24",
           "last_action": "Canlı MF Sorgulama (12 Ürün)",
           "today_date": "2026-11-12",
           "today_searches": 2,
@@ -316,32 +316,17 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.8.3",
-          "last_seen_at": "2026-11-12 17:33:07",
-          "last_action": "Canlı MF Sorgulama (20 Ürün)",
+          "last_seen_at": "2026-11-12 17:33:37",
+          "last_action": "Canlı MF Sorgulama (30 Ürün)",
           "today_date": "2026-11-12",
           "today_searches": 4,
           "today_cart_adds": 54,
-          "today_smart_orders": 29,
+          "today_smart_orders": 32,
           "total_searches": 91,
           "total_cart_adds": 205,
-          "total_smart_orders": 32,
+          "total_smart_orders": 35,
           "total_days_used": 6,
           "recent_actions": [
-            {
-              "t": "2026-11-12 14:07:28",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): LERCADIP 20 MG 30 FILM TABLE x5"
-            },
-            {
-              "t": "2026-11-12 14:07:34",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-12 14:07:37",
-              "type": "cart",
-              "detail": "Sepete Ekle (ISKOOP): OMESEK 20 MG 28 MIKROPELLET  x3"
-            },
             {
               "t": "2026-11-12 14:07:50",
               "type": "cart",
@@ -401,6 +386,21 @@
               "t": "2026-11-12 17:03:17",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (20 Ürün)"
+            },
+            {
+              "t": "2026-11-12 17:33:22",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-12 17:33:22",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-12 17:33:37",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (30 Ürün)"
             }
           ]
         },
@@ -692,7 +692,7 @@
           "desk_name": "DESKTOP-1N3LQF0",
           "local_ip": "192.168.1.123",
           "app_version": "1.8.3",
-          "last_seen_at": "2026-11-12 17:33:05",
+          "last_seen_at": "2026-11-12 17:33:23",
           "last_action": "Canlı MF Sorgulama (29 Ürün)",
           "today_date": "2026-11-12",
           "today_searches": 4,
