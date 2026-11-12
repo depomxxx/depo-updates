@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 11:12:30",
+  "updated_at": "2026-11-12 11:13:03",
   "count": 69,
   "items": [
     {
@@ -13,18 +13,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "5834-FAC9-B71F",
-      "last_pc_name": "DESKTOP-OTHNDUE",
+      "hwid": "83F3-13F8-E632",
+      "last_pc_name": "Eskienes",
       "app_version": "1.8.0",
-      "last_seen_at": "2026-11-12 11:12:31",
-      "last_action": "[DESKTOP-OTHNDUE] Canlı MF Sorgulama (1 Ürün)",
+      "last_seen_at": "2026-11-12 11:13:03",
+      "last_action": "[Eskienes] Canlı MF Sorgulama (30 Ürün)",
       "today_date": "2026-11-12",
       "today_searches": 55,
       "today_cart_adds": 55,
-      "today_smart_orders": 102,
+      "today_smart_orders": 106,
       "total_searches": 294,
       "total_cart_adds": 528,
-      "total_smart_orders": 249,
+      "total_smart_orders": 253,
       "total_days_used": 8,
       "pc_count": 6,
       "devices": {
@@ -34,37 +34,17 @@
           "desk_name": "Eskienes",
           "local_ip": "192.168.1.117",
           "app_version": "1.8.0",
-          "last_seen_at": "2026-11-12 11:12:30",
-          "last_action": "Canlı MF Sorgulama (6 Ürün)",
+          "last_seen_at": "2026-11-12 11:13:03",
+          "last_action": "Canlı MF Sorgulama (30 Ürün)",
           "today_date": "2026-11-12",
           "today_searches": 0,
           "today_cart_adds": 0,
-          "today_smart_orders": 11,
+          "today_smart_orders": 15,
           "total_searches": 48,
           "total_cart_adds": 48,
-          "total_smart_orders": 23,
+          "total_smart_orders": 27,
           "total_days_used": 7,
           "recent_actions": [
-            {
-              "t": "2026-11-11 15:38:00",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-11 15:38:03",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (30 Ürün)"
-            },
-            {
-              "t": "2026-11-11 15:38:03",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-11 15:38:03",
-              "type": "search",
-              "detail": "Depo Sorgu: ALATAB 600 MG 30 FTB."
-            },
             {
               "t": "2026-11-11 15:38:12",
               "type": "mf_resolve",
@@ -119,6 +99,26 @@
               "t": "2026-11-12 00:45:37",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (6 Ürün)"
+            },
+            {
+              "t": "2026-11-12 11:12:34",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-12 11:12:34",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-12 11:12:35",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-12 11:13:03",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (30 Ürün)"
             }
           ]
         },
@@ -128,7 +128,7 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.8.0",
-          "last_seen_at": "2026-11-12 11:12:31",
+          "last_seen_at": "2026-11-12 11:12:42",
           "last_action": "Canlı MF Sorgulama (1 Ürün)",
           "today_date": "2026-11-12",
           "today_searches": 12,
