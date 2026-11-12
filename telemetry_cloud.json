@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 15:39:57",
+  "updated_at": "2026-11-12 15:40:02",
   "count": 69,
   "items": [
     {
@@ -30249,14 +30249,14 @@
       "hwid": "2DED-CFF9-D593",
       "last_pc_name": "DESKTOP-8JN0NE5",
       "app_version": "1.8.1",
-      "last_seen_at": "2026-11-12 15:39:26",
-      "last_action": "Depo Fiyat Sorgulama",
+      "last_seen_at": "2026-11-12 15:40:02",
+      "last_action": "Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-12",
-      "today_searches": 5,
-      "today_cart_adds": 29,
+      "today_searches": 6,
+      "today_cart_adds": 31,
       "today_smart_orders": 90,
-      "total_searches": 21,
-      "total_cart_adds": 70,
+      "total_searches": 22,
+      "total_cart_adds": 72,
       "total_days_used": 5,
       "total_smart_orders": 112,
       "pc_count": 1,
@@ -30267,32 +30267,17 @@
           "desk_name": "DESKTOP-8JN0NE5",
           "local_ip": "192.168.1.37",
           "app_version": "1.8.1",
-          "last_seen_at": "2026-11-12 15:39:26",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-12 15:40:02",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-12",
-          "today_searches": 5,
-          "today_cart_adds": 29,
+          "today_searches": 6,
+          "today_cart_adds": 31,
           "today_smart_orders": 90,
-          "total_searches": 21,
-          "total_cart_adds": 70,
+          "total_searches": 22,
+          "total_cart_adds": 72,
           "total_smart_orders": 112,
           "total_days_used": 5,
           "recent_actions": [
-            {
-              "t": "2026-11-12 14:02:21",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (35 Ürün)"
-            },
-            {
-              "t": "2026-11-12 14:02:22",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-12 14:02:29",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-12 14:02:37",
               "type": "cart",
@@ -30352,6 +30337,21 @@
               "t": "2026-11-12 15:39:26",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-12 15:39:36",
+              "type": "search",
+              "detail": "Depo Sorgu: JINKONID 7 VAG. OVUL"
+            },
+            {
+              "t": "2026-11-12 15:39:42",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-12 15:40:02",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         }
