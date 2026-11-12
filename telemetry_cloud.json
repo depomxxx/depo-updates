@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 13:14:29",
+  "updated_at": "2026-11-12 13:16:43",
   "count": 69,
   "items": [
     {
@@ -31173,16 +31173,16 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.8.0",
-      "last_seen_at": "2026-11-12 13:14:32",
-      "last_action": "[DESKTOP-T4EAUS3] Depo Sorgu: HUPPEX FLY 30 KAPSÜL",
+      "last_seen_at": "2026-11-12 13:16:43",
+      "last_action": "[DESKTOP-T4EAUS3] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-12",
       "today_searches": 15,
       "today_cart_adds": 22,
-      "today_smart_orders": 31,
+      "today_smart_orders": 32,
       "total_searches": 113,
       "total_cart_adds": 482,
       "total_days_used": 9,
-      "total_smart_orders": 77,
+      "total_smart_orders": 78,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -31265,22 +31265,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.8.0",
-          "last_seen_at": "2026-11-12 13:14:32",
-          "last_action": "Depo Sorgu: HUPPEX FLY 30 KAPSÜL",
+          "last_seen_at": "2026-11-12 13:16:43",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-12",
           "today_searches": 13,
           "today_cart_adds": 22,
-          "today_smart_orders": 31,
+          "today_smart_orders": 32,
           "total_searches": 43,
           "total_cart_adds": 224,
-          "total_smart_orders": 46,
+          "total_smart_orders": 47,
           "total_days_used": 7,
           "recent_actions": [
-            {
-              "t": "2026-11-12 11:57:23",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-12 11:57:23",
               "type": "mf_resolve",
@@ -31350,6 +31345,11 @@
               "t": "2026-11-12 12:20:39",
               "type": "search",
               "detail": "Depo Sorgu: HUPPEX FLY 30 KAPSÜL"
+            },
+            {
+              "t": "2026-11-12 13:16:43",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         },
