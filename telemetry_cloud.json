@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 09:49:39",
+  "updated_at": "2026-11-12 09:51:52",
   "count": 69,
   "items": [
     {
@@ -31170,19 +31170,19 @@
       "plan": "DENEME_30GUN",
       "expires_at": "2026-12-02",
       "status": "AKTIF",
-      "hwid": "1A4A-8625-6A54",
-      "last_pc_name": "Cicobey",
-      "app_version": "1.5.9",
-      "last_seen_at": "2026-11-12 00:51:34",
-      "last_action": "[Cicobey] Depo Sorgu: TYLOL HOT DAY 12 POS",
+      "hwid": "4F8E-903D-4844",
+      "last_pc_name": "DESKTOP-T4EAUS3",
+      "app_version": "1.8.0",
+      "last_seen_at": "2026-11-12 09:51:52",
+      "last_action": "[DESKTOP-T4EAUS3] Depo Sorgu: ENDOL 25 MG 25 CAP.",
       "today_date": "2026-11-12",
-      "today_searches": 2,
+      "today_searches": 5,
       "today_cart_adds": 0,
-      "today_smart_orders": 0,
-      "total_searches": 100,
+      "today_smart_orders": 8,
+      "total_searches": 103,
       "total_cart_adds": 460,
       "total_days_used": 9,
-      "total_smart_orders": 46,
+      "total_smart_orders": 54,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -31264,58 +31264,18 @@
           "pc_name": "DESKTOP-T4EAUS3",
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
-          "app_version": "1.7.7",
-          "last_seen_at": "2026-11-11 17:21:30",
-          "last_action": "Günün Çıkışları Yenileme (BOTANIK • 43 Kalem)",
-          "today_date": "2026-11-11",
-          "today_searches": 5,
-          "today_cart_adds": 6,
-          "today_smart_orders": 21,
-          "total_searches": 30,
+          "app_version": "1.8.0",
+          "last_seen_at": "2026-11-12 09:51:52",
+          "last_action": "Depo Sorgu: ENDOL 25 MG 25 CAP.",
+          "today_date": "2026-11-12",
+          "today_searches": 3,
+          "today_cart_adds": 0,
+          "today_smart_orders": 8,
+          "total_searches": 33,
           "total_cart_adds": 202,
-          "total_smart_orders": 15,
-          "total_days_used": 6,
+          "total_smart_orders": 23,
+          "total_days_used": 7,
           "recent_actions": [
-            {
-              "t": "2026-11-11 13:56:02",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-11 13:56:20",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-11 13:56:24",
-              "type": "search",
-              "detail": "Depo Sorgu: FIXHALER 12/500 MCG 60 INH CAP"
-            },
-            {
-              "t": "2026-11-11 14:05:08",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-11 15:22:48",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-11 15:22:49",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (BOTANIK • 43 Kalem)"
-            },
-            {
-              "t": "2026-11-11 15:22:49",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-11 15:23:19",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (30 Ürün)"
-            },
             {
               "t": "2026-11-11 15:23:20",
               "type": "mf_resolve",
@@ -31350,6 +31310,46 @@
               "t": "2026-11-11 15:23:45",
               "type": "critical_stock",
               "detail": "Günün Çıkışları Yenileme (BOTANIK • 43 Kalem)"
+            },
+            {
+              "t": "2026-11-12 09:45:23",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-12 09:45:23",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-12 09:45:26",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-12 09:45:31",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-12 09:45:31",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-12 09:45:44",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-12 09:45:50",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (7 Ürün)"
+            },
+            {
+              "t": "2026-11-12 09:45:57",
+              "type": "search",
+              "detail": "Depo Sorgu: ENDOL 25 MG 25 CAP."
             }
           ]
         },
