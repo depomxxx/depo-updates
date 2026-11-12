@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 16:42:41",
+  "updated_at": "2026-11-12 16:42:46",
   "count": 4,
   "items": [
     {
@@ -786,16 +786,16 @@
       "hwid": "2DED-CFF9-D593",
       "last_pc_name": "DESKTOP-8JN0NE5",
       "app_version": "1.8.2",
-      "last_seen_at": "2026-11-12 16:41:31",
+      "last_seen_at": "2026-11-12 16:42:46",
       "last_action": "Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-12",
       "today_searches": 10,
       "today_cart_adds": 37,
-      "today_smart_orders": 117,
+      "today_smart_orders": 118,
       "total_searches": 26,
       "total_cart_adds": 78,
       "total_days_used": 5,
-      "total_smart_orders": 139,
+      "total_smart_orders": 140,
       "pc_count": 1,
       "devices": {
         "2DED-CFF9-D593": {
@@ -804,22 +804,17 @@
           "desk_name": "DESKTOP-8JN0NE5",
           "local_ip": "192.168.1.37",
           "app_version": "1.8.2",
-          "last_seen_at": "2026-11-12 16:41:31",
+          "last_seen_at": "2026-11-12 16:42:46",
           "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-12",
           "today_searches": 10,
           "today_cart_adds": 37,
-          "today_smart_orders": 117,
+          "today_smart_orders": 118,
           "total_searches": 26,
           "total_cart_adds": 78,
-          "total_smart_orders": 139,
+          "total_smart_orders": 140,
           "total_days_used": 5,
           "recent_actions": [
-            {
-              "t": "2026-11-12 16:27:38",
-              "type": "search",
-              "detail": "Depo Sorgu: BEVIT B12 250/250/1 MG 30 FTB."
-            },
             {
               "t": "2026-11-12 16:29:01",
               "type": "cart",
@@ -887,6 +882,11 @@
             },
             {
               "t": "2026-11-12 16:41:23",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-12 16:42:46",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
             }
