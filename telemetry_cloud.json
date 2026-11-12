@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 09:00:10",
+  "updated_at": "2026-11-12 09:00:47",
   "count": 69,
   "items": [
     {
@@ -16,15 +16,15 @@
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.8.0",
-      "last_seen_at": "2026-11-12 09:00:10",
-      "last_action": "[DESKTOP-OTHNDUE] Depo Sorgu: CORTAIR 0.25 MG 2 ML 20 FLK.",
+      "last_seen_at": "2026-11-12 09:00:47",
+      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-12",
       "today_searches": 45,
       "today_cart_adds": 7,
-      "today_smart_orders": 56,
+      "today_smart_orders": 57,
       "total_searches": 284,
       "total_cart_adds": 480,
-      "total_smart_orders": 203,
+      "total_smart_orders": 204,
       "total_days_used": 8,
       "pc_count": 6,
       "devices": {
@@ -128,22 +128,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.8.0",
-          "last_seen_at": "2026-11-12 09:00:10",
-          "last_action": "Depo Sorgu: CORTAIR 0.25 MG 2 ML 20 FLK.",
+          "last_seen_at": "2026-11-12 09:00:47",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-12",
           "today_searches": 2,
           "today_cart_adds": 0,
-          "today_smart_orders": 6,
+          "today_smart_orders": 7,
           "total_searches": 43,
           "total_cart_adds": 198,
-          "total_smart_orders": 71,
+          "total_smart_orders": 72,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-11 22:08:07",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 98 Kalem)"
-            },
             {
               "t": "2026-11-11 22:15:37",
               "type": "critical_stock",
@@ -213,6 +208,11 @@
               "t": "2026-11-12 09:00:10",
               "type": "search",
               "detail": "Depo Sorgu: CORTAIR 0.25 MG 2 ML 20 FLK."
+            },
+            {
+              "t": "2026-11-12 09:00:47",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         },
