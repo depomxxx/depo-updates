@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 15:50:38",
+  "updated_at": "2026-11-13 15:48:40",
   "count": 6,
   "items": [
     {
@@ -445,18 +445,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D719-CEB2-1542",
-      "last_pc_name": "DESKTOP-M530BBB",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.8.9",
-      "last_seen_at": "2026-11-13 15:47:26",
-      "last_action": "[DESKTOP-M530BBB] Canlı MF Taraması",
+      "last_seen_at": "2026-11-13 15:48:40",
+      "last_action": "[DESKTOP-OTHNDUE] Canlı MF Sorgulama (27 Ürün)",
       "today_date": "2026-11-13",
       "today_searches": 26,
       "today_cart_adds": 52,
-      "today_smart_orders": 124,
+      "today_smart_orders": 129,
       "total_searches": 446,
       "total_cart_adds": 754,
-      "total_smart_orders": 552,
+      "total_smart_orders": 557,
       "total_days_used": 10,
       "pc_count": 8,
       "devices": {
@@ -560,42 +560,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.8.9",
-          "last_seen_at": "2026-11-13 15:46:26",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-13 15:48:40",
+          "last_action": "Canlı MF Sorgulama (27 Ürün)",
           "today_date": "2026-11-13",
           "today_searches": 10,
           "today_cart_adds": 28,
-          "today_smart_orders": 68,
+          "today_smart_orders": 73,
           "total_searches": 75,
           "total_cart_adds": 304,
-          "total_smart_orders": 217,
+          "total_smart_orders": 222,
           "total_days_used": 9,
           "recent_actions": [
-            {
-              "t": "2026-11-13 15:29:43",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-13 15:29:43",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 41 Kalem)"
-            },
-            {
-              "t": "2026-11-13 15:29:43",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-13 15:29:47",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (1 Ürün)"
-            },
-            {
-              "t": "2026-11-13 15:29:48",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-13 15:29:48",
               "type": "critical_stock",
@@ -645,6 +620,31 @@
               "t": "2026-11-13 15:46:26",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-13 15:46:26",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 42 Kalem)"
+            },
+            {
+              "t": "2026-11-13 15:46:34",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-13 15:46:34",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 42 Kalem)"
+            },
+            {
+              "t": "2026-11-13 15:46:34",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-13 15:46:43",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (27 Ürün)"
             }
           ]
         },
@@ -842,7 +842,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.8.9",
-          "last_seen_at": "2026-11-13 15:45:50",
+          "last_seen_at": "2026-11-13 15:47:21",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-13",
           "today_searches": 0,
