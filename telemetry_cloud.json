@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 15:21:22",
+  "updated_at": "2026-11-13 15:21:35",
   "count": 6,
   "items": [
     {
@@ -130,21 +130,21 @@
       "pharmacist_name": "GAMZE ASLAN",
       "phone": "05344064108",
       "city": "SAMSUN/ATAKUM",
-      "gln_no": "8680001134861",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "PRO_YILLIK",
       "expires_at": "2027-10-24",
       "status": "AKTIF",
-      "hwid": "E4F7-229A-BABD",
-      "last_pc_name": "ChagriBeg",
+      "hwid": "E6B1-5698-273E",
+      "last_pc_name": "DESKTOP-6KFO8IF",
       "app_version": "1.8.9",
-      "last_seen_at": "2026-11-13 15:21:03",
-      "last_action": "[ChagriBeg] Depo Fiyat Sorgulama",
+      "last_seen_at": "2026-11-13 15:21:35",
+      "last_action": "[DESKTOP-6KFO8IF] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-13",
-      "today_searches": 29,
+      "today_searches": 30,
       "today_cart_adds": 33,
       "today_smart_orders": 194,
-      "total_searches": 155,
+      "total_searches": 156,
       "total_cart_adds": 383,
       "total_smart_orders": 431,
       "total_days_used": 9,
@@ -156,22 +156,17 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.8.9",
-          "last_seen_at": "2026-11-13 15:21:03",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-13 15:21:35",
+          "last_action": "Depo Sorgu: BIODERMA ATODERM LIP BALM",
           "today_date": "2026-11-13",
-          "today_searches": 25,
+          "today_searches": 26,
           "today_cart_adds": 0,
           "today_smart_orders": 106,
-          "total_searches": 72,
+          "total_searches": 73,
           "total_cart_adds": 36,
           "total_smart_orders": 177,
           "total_days_used": 9,
           "recent_actions": [
-            {
-              "t": "2026-11-13 14:10:43",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-13 14:10:43",
               "type": "critical_stock",
@@ -241,6 +236,11 @@
               "t": "2026-11-13 15:21:03",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-13 15:21:11",
+              "type": "search",
+              "detail": "Depo Sorgu: BIODERMA ATODERM LIP BALM"
             }
           ]
         },
@@ -250,7 +250,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.8.9",
-          "last_seen_at": "2026-11-13 15:20:04",
+          "last_seen_at": "2026-11-13 15:21:35",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-13",
           "today_searches": 0,
@@ -344,7 +344,7 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.8.9",
-          "last_seen_at": "2026-11-13 15:19:46",
+          "last_seen_at": "2026-11-13 15:20:40",
           "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-13",
           "today_searches": 4,
