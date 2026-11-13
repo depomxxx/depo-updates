@@ -1,11 +1,11 @@
 {
-  "version": "1.8.5",
+  "version": "1.8.6",
   "app_name": "Farma Radar",
-  "release_date": "2026-11-13 13:23:17",
+  "release_date": "2026-11-13 13:55:03",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.8.5.zip?t=1794565398",
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.8.6.zip?t=1794567305",
   "sha256": "",
-  "package_sha256": "9b6af3231316b492baa1a8b852a448e35175d0e7c65a6d5cb8b8a45783c20e95",
-  "size_kb": 825.6,
-  "changelog": "TEBEOS 6 aylık ay-ay satış çıkışları, 30/90 günlük çıkışlar ve kritik stok sorguları TEBEOS aktif satış tablosu (satis.satis_ms + satis_hareket_stok_hareket_ju_ms) ile %100 birebir eşleştirildi (Emanet ve ay başı Medula reçete/karekod kaymaları giderildi)."
+  "package_sha256": "12ef72b6c709b9da3834faf7635ae090ab0914187f8583cdc963367497320270",
+  "size_kb": 829.4,
+  "changelog": "Ürün detay kartına (Alışlar ve Muadiller yanına) yeni Takaslar sekmesi eklendi: Takastan gelen (+Alınan) ve takasa verilen (-Verilen) eczane hareketleri, karşı eczane adı, kutu adedi, birim tutar ve Gelen/Giden hızlı filtresiyle canlı listelenir."
 }
