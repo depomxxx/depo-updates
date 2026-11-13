@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 10:17:46",
+  "updated_at": "2026-11-13 10:17:49",
   "count": 5,
   "items": [
     {
@@ -1040,16 +1040,16 @@
       "hwid": "47CB-2231-637D",
       "last_pc_name": "DESKTOP-F1KQPJ2",
       "app_version": "1.8.3",
-      "last_seen_at": "2026-11-13 10:17:28",
-      "last_action": "Program Açık (Canlı)",
+      "last_seen_at": "2026-11-13 10:17:49",
+      "last_action": "[DESKTOP-F1KQPJ2] Canlı MF Sorgulama (8 Ürün)",
       "today_date": "2026-11-13",
       "today_searches": 0,
       "today_cart_adds": 0,
-      "today_smart_orders": 0,
+      "today_smart_orders": 5,
       "total_searches": 68,
       "total_cart_adds": 32,
       "total_days_used": 3,
-      "total_smart_orders": 31,
+      "total_smart_orders": 36,
       "pc_count": 3,
       "devices": {
         "2F66-9873-3F47": {
@@ -1191,32 +1191,17 @@
           "desk_name": "DESKTOP-F1KQPJ2",
           "local_ip": "192.168.1.28",
           "app_version": "1.8.3",
-          "last_seen_at": "2026-11-13 10:17:28",
-          "last_action": "Program Açık (Canlı)",
+          "last_seen_at": "2026-11-13 10:17:49",
+          "last_action": "Canlı MF Sorgulama (8 Ürün)",
           "today_date": "2026-11-13",
           "today_searches": 0,
           "today_cart_adds": 0,
-          "today_smart_orders": 0,
+          "today_smart_orders": 5,
           "total_searches": 51,
           "total_cart_adds": 25,
-          "total_smart_orders": 16,
+          "total_smart_orders": 21,
           "total_days_used": 3,
           "recent_actions": [
-            {
-              "t": "2026-11-12 13:56:54",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (1 Ürün)"
-            },
-            {
-              "t": "2026-11-12 14:21:28",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-12 14:21:31",
-              "type": "search",
-              "detail": "Depo Sorgu: BALMOIL YAĞ BANYOSU"
-            },
             {
               "t": "2026-11-12 14:26:10",
               "type": "search",
@@ -1276,6 +1261,21 @@
               "t": "2026-11-12 17:31:56",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (7 Ürün)"
+            },
+            {
+              "t": "2026-11-13 10:17:33",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-13 10:17:33",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-13 10:17:49",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (8 Ürün)"
             }
           ]
         }
