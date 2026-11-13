@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 13:55:29",
+  "updated_at": "2026-11-13 13:55:42",
   "count": 5,
   "items": [
     {
@@ -8,23 +8,23 @@
       "pharmacist_name": "GAMZE ASLAN",
       "phone": "05344064108",
       "city": "SAMSUN/ATAKUM",
-      "gln_no": "8680001000000",
-      "otomasyon": "TRIA",
+      "gln_no": "8680001134861",
+      "otomasyon": "TEBEOS",
       "plan": "PRO_YILLIK",
       "expires_at": "2027-10-24",
       "status": "AKTIF",
-      "hwid": "E6B1-5698-273E",
-      "last_pc_name": "DESKTOP-6KFO8IF",
+      "hwid": "E4F7-229A-BABD",
+      "last_pc_name": "ChagriBeg",
       "app_version": "1.8.6",
-      "last_seen_at": "2026-11-13 13:55:21",
-      "last_action": "[DESKTOP-6KFO8IF] Canlı MF Sorgulama (1 Ürün)",
+      "last_seen_at": "2026-11-13 13:55:42",
+      "last_action": "[ChagriBeg] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-13",
       "today_searches": 14,
       "today_cart_adds": 12,
-      "today_smart_orders": 137,
+      "today_smart_orders": 138,
       "total_searches": 140,
       "total_cart_adds": 362,
-      "total_smart_orders": 374,
+      "total_smart_orders": 375,
       "total_days_used": 9,
       "pc_count": 3,
       "devices": {
@@ -34,22 +34,17 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.8.6",
-          "last_seen_at": "2026-11-13 13:55:21",
-          "last_action": "Depo Sorgu: KLAMOKS BID 1 GR 14 FTB.",
+          "last_seen_at": "2026-11-13 13:55:42",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-13",
           "today_searches": 12,
           "today_cart_adds": 0,
-          "today_smart_orders": 86,
+          "today_smart_orders": 87,
           "total_searches": 59,
           "total_cart_adds": 36,
-          "total_smart_orders": 157,
+          "total_smart_orders": 158,
           "total_days_used": 9,
           "recent_actions": [
-            {
-              "t": "2026-11-13 13:41:46",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (35 Ürün)"
-            },
             {
               "t": "2026-11-13 13:41:47",
               "type": "mf_resolve",
@@ -119,6 +114,11 @@
               "t": "2026-11-13 13:45:09",
               "type": "search",
               "detail": "Depo Sorgu: KLAMOKS BID 1 GR 14 FTB."
+            },
+            {
+              "t": "2026-11-13 13:55:42",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         },
@@ -128,7 +128,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.8.6",
-          "last_seen_at": "2026-11-13 13:55:21",
+          "last_seen_at": "2026-11-13 13:55:31",
           "last_action": "Canlı MF Sorgulama (1 Ürün)",
           "today_date": "2026-11-13",
           "today_searches": 0,
