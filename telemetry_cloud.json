@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 12:57:10",
+  "updated_at": "2026-11-13 12:57:11",
   "count": 5,
   "items": [
     {
@@ -8,23 +8,23 @@
       "pharmacist_name": "GAMZE ASLAN",
       "phone": "05344064108",
       "city": "SAMSUN/ATAKUM",
-      "gln_no": "8680001134861",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "PRO_YILLIK",
       "expires_at": "2027-10-24",
       "status": "AKTIF",
-      "hwid": "E4F7-229A-BABD",
-      "last_pc_name": "ChagriBeg",
+      "hwid": "E6B1-5698-273E",
+      "last_pc_name": "DESKTOP-6KFO8IF",
       "app_version": "1.8.4",
-      "last_seen_at": "2026-11-13 12:56:39",
-      "last_action": "[ChagriBeg] Canlı MF Sorgulama (2 Ürün)",
+      "last_seen_at": "2026-11-13 12:57:11",
+      "last_action": "[DESKTOP-6KFO8IF] Canlı MF Sorgulama (1 Ürün)",
       "today_date": "2026-11-13",
       "today_searches": 6,
       "today_cart_adds": 12,
-      "today_smart_orders": 88,
+      "today_smart_orders": 96,
       "total_searches": 132,
       "total_cart_adds": 362,
-      "total_smart_orders": 325,
+      "total_smart_orders": 333,
       "total_days_used": 9,
       "pc_count": 3,
       "devices": {
@@ -34,42 +34,17 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.8.4",
-          "last_seen_at": "2026-11-13 12:56:39",
-          "last_action": "Canlı MF Sorgulama (2 Ürün)",
+          "last_seen_at": "2026-11-13 12:57:04",
+          "last_action": "Günün Çıkışları Yenileme (TEBEOS • 2 Kalem)",
           "today_date": "2026-11-13",
           "today_searches": 4,
           "today_cart_adds": 0,
-          "today_smart_orders": 43,
+          "today_smart_orders": 48,
           "total_searches": 51,
           "total_cart_adds": 36,
-          "total_smart_orders": 114,
+          "total_smart_orders": 119,
           "total_days_used": 9,
           "recent_actions": [
-            {
-              "t": "2026-11-13 11:12:29",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-13 11:12:31",
-              "type": "search",
-              "detail": "Depo Sorgu: OCEAN D3 K2 DAMLA  20ML SISE/KUTU"
-            },
-            {
-              "t": "2026-11-13 11:14:37",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-13 11:14:40",
-              "type": "search",
-              "detail": "Depo Sorgu: BARACLUDE 0.5 MG 30 FTB."
-            },
-            {
-              "t": "2026-11-13 12:36:21",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-13 12:36:21",
               "type": "mf_resolve",
@@ -119,6 +94,31 @@
               "t": "2026-11-13 12:37:30",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (2 Ürün)"
+            },
+            {
+              "t": "2026-11-13 12:56:39",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-13 12:56:40",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-13 12:56:40",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (1 Ürün)"
+            },
+            {
+              "t": "2026-11-13 12:56:55",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-13 12:56:55",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TEBEOS • 2 Kalem)"
             }
           ]
         },
@@ -128,7 +128,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.8.4",
-          "last_seen_at": "2026-11-13 12:56:21",
+          "last_seen_at": "2026-11-13 12:57:11",
           "last_action": "Canlı MF Sorgulama (1 Ürün)",
           "today_date": "2026-11-13",
           "today_searches": 0,
@@ -222,32 +222,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.8.4",
-          "last_seen_at": "2026-11-13 12:55:25",
-          "last_action": "Canlı MF Sorgulama (12 Ürün)",
+          "last_seen_at": "2026-11-13 12:56:58",
+          "last_action": "Canlı MF Sorgulama (1 Ürün)",
           "today_date": "2026-11-13",
           "today_searches": 2,
           "today_cart_adds": 4,
-          "today_smart_orders": 24,
+          "today_smart_orders": 27,
           "total_searches": 67,
           "total_cart_adds": 280,
-          "total_smart_orders": 173,
+          "total_smart_orders": 176,
           "total_days_used": 9,
           "recent_actions": [
-            {
-              "t": "2026-11-13 11:44:08",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-13 11:44:19",
-              "type": "cart",
-              "detail": "Toplu Sepet (ALLIANCE): 6 Kalem"
-            },
-            {
-              "t": "2026-11-13 11:44:32",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-13 11:44:53",
               "type": "critical_stock",
@@ -307,6 +292,21 @@
               "t": "2026-11-13 12:14:37",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (12 Ürün)"
+            },
+            {
+              "t": "2026-11-13 12:55:40",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-13 12:55:41",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-13 12:55:41",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (1 Ürün)"
             }
           ]
         }
