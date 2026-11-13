@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 15:16:54",
+  "updated_at": "2026-11-13 15:16:55",
   "count": 6,
   "items": [
     {
@@ -445,18 +445,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "5834-FAC9-B71F",
-      "last_pc_name": "DESKTOP-OTHNDUE",
+      "hwid": "D719-CEB2-1542",
+      "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.8.9",
-      "last_seen_at": "2026-11-13 15:16:54",
-      "last_action": "[DESKTOP-OTHNDUE] Canlı MF Sorgulama (2 Ürün)",
+      "last_seen_at": "2026-11-13 15:16:55",
+      "last_action": "[DESKTOP-M530BBB] Canlı MF Taraması",
       "today_date": "2026-11-13",
       "today_searches": 20,
       "today_cart_adds": 41,
-      "today_smart_orders": 99,
+      "today_smart_orders": 101,
       "total_searches": 440,
       "total_cart_adds": 743,
-      "total_smart_orders": 527,
+      "total_smart_orders": 529,
       "total_days_used": 10,
       "pc_count": 8,
       "devices": {
@@ -1029,28 +1029,18 @@
           "pc_name": "DESKTOP-M530BBB",
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.112",
-          "app_version": "1.8.8",
-          "last_seen_at": "2026-11-13 15:16:22",
-          "last_action": "Depo Sorgu: FOREVER GARCINIA PLUS",
+          "app_version": "1.8.9",
+          "last_seen_at": "2026-11-13 15:16:55",
+          "last_action": "Canlı MF Taraması",
           "today_date": "2026-11-13",
           "today_searches": 16,
           "today_cart_adds": 8,
-          "today_smart_orders": 8,
+          "today_smart_orders": 10,
           "total_searches": 89,
           "total_cart_adds": 94,
-          "total_smart_orders": 60,
+          "total_smart_orders": 62,
           "total_days_used": 10,
           "recent_actions": [
-            {
-              "t": "2026-11-13 11:45:15",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-13 11:45:16",
-              "type": "search",
-              "detail": "Depo Sorgu: PAXERA 10 MG 28 FTB."
-            },
             {
               "t": "2026-11-13 11:49:07",
               "type": "cart",
@@ -1115,6 +1105,16 @@
               "t": "2026-11-13 14:26:38",
               "type": "search",
               "detail": "Depo Sorgu: FOREVER GARCINIA PLUS"
+            },
+            {
+              "t": "2026-11-13 15:16:47",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-13 15:16:47",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
             }
           ]
         },
