@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 14:42:47",
+  "updated_at": "2026-11-13 14:42:52",
   "count": 6,
   "items": [
     {
@@ -16,15 +16,15 @@
       "hwid": "3C0F-6FF9-862F",
       "last_pc_name": "Berkay",
       "app_version": "1.8.7",
-      "last_seen_at": "2026-11-13 14:42:19",
-      "last_action": "Depo Sorgu: ARVELES 25 MG 20 FTB.",
+      "last_seen_at": "2026-11-13 14:42:52",
+      "last_action": "Toplu Sipariş Planlama",
       "today_date": "2026-11-13",
       "today_searches": 17,
       "today_cart_adds": 14,
-      "today_smart_orders": 61,
+      "today_smart_orders": 62,
       "total_searches": 17,
       "total_cart_adds": 14,
-      "total_smart_orders": 61,
+      "total_smart_orders": 62,
       "total_days_used": 1,
       "pc_count": 1,
       "devices": {
@@ -34,22 +34,17 @@
           "desk_name": "Berkay",
           "local_ip": "192.168.1.103",
           "app_version": "1.8.7",
-          "last_seen_at": "2026-11-13 14:42:19",
-          "last_action": "Depo Sorgu: ARVELES 25 MG 20 FTB.",
+          "last_seen_at": "2026-11-13 14:42:52",
+          "last_action": "Toplu Sipariş Planlama",
           "today_date": "2026-11-13",
           "today_searches": 17,
           "today_cart_adds": 14,
-          "today_smart_orders": 61,
+          "today_smart_orders": 62,
           "total_searches": 17,
           "total_cart_adds": 14,
-          "total_smart_orders": 61,
+          "total_smart_orders": 62,
           "total_days_used": 1,
           "recent_actions": [
-            {
-              "t": "2026-11-13 14:38:18",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-13 14:38:30",
               "type": "cart",
@@ -119,6 +114,11 @@
               "t": "2026-11-13 14:42:19",
               "type": "search",
               "detail": "Depo Sorgu: ARVELES 25 MG 20 FTB."
+            },
+            {
+              "t": "2026-11-13 14:42:52",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş Planlama"
             }
           ]
         }
