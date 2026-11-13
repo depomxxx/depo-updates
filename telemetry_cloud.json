@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 10:14:28",
+  "updated_at": "2026-11-13 10:14:44",
   "count": 5,
   "items": [
     {
@@ -15,16 +15,16 @@
       "status": "AKTIF",
       "hwid": "E4F7-229A-BABD",
       "last_pc_name": "ChagriBeg",
-      "app_version": "1.8.0",
-      "last_seen_at": "2026-11-13 10:14:28",
-      "last_action": "Program Açık (Canlı)",
+      "app_version": "1.8.3",
+      "last_seen_at": "2026-11-13 10:14:44",
+      "last_action": "Canlı MF Taraması",
       "today_date": "2026-11-13",
       "today_searches": 0,
       "today_cart_adds": 0,
-      "today_smart_orders": 0,
+      "today_smart_orders": 4,
       "total_searches": 47,
       "total_cart_adds": 36,
-      "total_smart_orders": 71,
+      "total_smart_orders": 75,
       "total_days_used": 9,
       "pc_count": 1,
       "devices": {
@@ -33,28 +33,18 @@
           "pc_name": "ChagriBeg",
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
-          "app_version": "1.8.0",
-          "last_seen_at": "2026-11-13 10:14:28",
-          "last_action": "Program Açık (Canlı)",
+          "app_version": "1.8.3",
+          "last_seen_at": "2026-11-13 10:14:44",
+          "last_action": "Canlı MF Taraması",
           "today_date": "2026-11-13",
           "today_searches": 0,
           "today_cart_adds": 0,
-          "today_smart_orders": 0,
+          "today_smart_orders": 4,
           "total_searches": 47,
           "total_cart_adds": 36,
-          "total_smart_orders": 71,
+          "total_smart_orders": 75,
           "total_days_used": 9,
           "recent_actions": [
-            {
-              "t": "2026-11-12 00:44:09",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş (TRIA • 245 Kalem)"
-            },
-            {
-              "t": "2026-11-12 00:44:09",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-12 00:44:21",
               "type": "mf_resolve",
@@ -119,6 +109,16 @@
               "t": "2026-11-12 00:48:37",
               "type": "cart",
               "detail": "EczaneTakas Kampanya Açıldı: TUSCOD 7.5 MG 100 ML SRP. (30+33)"
+            },
+            {
+              "t": "2026-11-13 10:14:31",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-13 10:14:31",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
             }
           ]
         }
