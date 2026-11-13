@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 11:43:02",
+  "updated_at": "2026-11-13 11:45:40",
   "count": 5,
   "items": [
     {
@@ -1295,13 +1295,13 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.8.3",
-      "last_seen_at": "2026-11-13 11:44:45",
-      "last_action": "[DESKTOP-T4EAUS3] Canlı MF Sorgulama (1 Ürün)",
+      "last_seen_at": "2026-11-13 11:45:40",
+      "last_action": "[DESKTOP-T4EAUS3] Depo Fiyat Sorgulama",
       "today_date": "2026-11-13",
-      "today_searches": 0,
+      "today_searches": 1,
       "today_cart_adds": 12,
       "today_smart_orders": 22,
-      "total_searches": 115,
+      "total_searches": 116,
       "total_cart_adds": 529,
       "total_days_used": 9,
       "total_smart_orders": 204,
@@ -1387,22 +1387,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.8.3",
-          "last_seen_at": "2026-11-13 11:44:45",
-          "last_action": "Canlı MF Sorgulama (1 Ürün)",
+          "last_seen_at": "2026-11-13 11:45:40",
+          "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-13",
-          "today_searches": 0,
+          "today_searches": 1,
           "today_cart_adds": 12,
           "today_smart_orders": 22,
-          "total_searches": 43,
+          "total_searches": 44,
           "total_cart_adds": 271,
           "total_smart_orders": 135,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-13 11:30:31",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-13 11:30:31",
               "type": "critical_stock",
@@ -1472,6 +1467,11 @@
               "t": "2026-11-13 11:34:24",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (1 Ürün)"
+            },
+            {
+              "t": "2026-11-13 11:45:40",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ]
         },
