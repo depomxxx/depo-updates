@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 15:26:53",
+  "updated_at": "2026-11-13 15:27:08",
   "count": 6,
   "items": [
     {
@@ -448,13 +448,13 @@
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.8.9",
-      "last_seen_at": "2026-11-13 15:26:48",
-      "last_action": "[DESKTOP-OTHNDUE] Depo Fiyat Sorgulama",
+      "last_seen_at": "2026-11-13 15:27:08",
+      "last_action": "[DESKTOP-OTHNDUE] Depo Sorgu: CIPRO 500 MG 14 FTB.",
       "today_date": "2026-11-13",
-      "today_searches": 23,
+      "today_searches": 26,
       "today_cart_adds": 41,
       "today_smart_orders": 109,
-      "total_searches": 443,
+      "total_searches": 446,
       "total_cart_adds": 743,
       "total_smart_orders": 537,
       "total_days_used": 10,
@@ -560,32 +560,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.8.9",
-          "last_seen_at": "2026-11-13 15:26:48",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-13 15:27:08",
+          "last_action": "Depo Sorgu: CIPRO 500 MG 14 FTB.",
           "today_date": "2026-11-13",
-          "today_searches": 7,
+          "today_searches": 10,
           "today_cart_adds": 17,
           "today_smart_orders": 53,
-          "total_searches": 72,
+          "total_searches": 75,
           "total_cart_adds": 293,
           "total_smart_orders": 202,
           "total_days_used": 9,
           "recent_actions": [
-            {
-              "t": "2026-11-13 15:12:07",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 38 Kalem)"
-            },
-            {
-              "t": "2026-11-13 15:15:00",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-13 15:15:39",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-13 15:15:40",
               "type": "mf_resolve",
@@ -645,6 +630,21 @@
               "t": "2026-11-13 15:26:48",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-13 15:26:52",
+              "type": "search",
+              "detail": "Depo Sorgu: KONTIL 250 MG 15 ML SUSP."
+            },
+            {
+              "t": "2026-11-13 15:27:05",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-13 15:27:08",
+              "type": "search",
+              "detail": "Depo Sorgu: CIPRO 500 MG 14 FTB."
             }
           ]
         },
