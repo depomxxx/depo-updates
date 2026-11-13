@@ -1,8 +1,26 @@
 {
-  "updated_at": "2026-11-11 13:10:00",
-  "count": 5,
-  "signature": "63E132B723EBC124A73970C5146937A5",
+  "updated_at": "2026-11-13 14:18:09",
+  "count": 6,
+  "signature": "5141C037BAE8B5DE5ABBAC3D05EAF67F",
   "items": [
+    {
+      "id": "F4E0EFDE",
+      "pharmacy_name": "BERKAY",
+      "pharmacist_name": "BERKAY UZUNOĞLU",
+      "phone": "5443662108",
+      "city": "BOYABAT/SİNOP",
+      "gln_no": "8680001672936",
+      "otomasyon": "BOTANIK",
+      "plan": "DENEME_30GUN",
+      "expires_at": "2026-12-13",
+      "max_pcs": 15,
+      "hwid_lock": "ANY",
+      "registered_hwid": "3C0F-6FF9-862F",
+      "status": "AKTIF",
+      "license_key": "FR-eyJlIjoiQkVSS0FZIiwiZm4iOiJCRVJLQVkgVVpVTk_EnkxVIiwidGVsIjoiNTQ0MzY2MjEwOCIsImN0IjoiQk9ZQUJBVC9TxLBOT1AiLCJnIjoiODY4MDAwMTY3MjkzNiIsIngiOiIyMDI2LTEyLTEzIiwibSI6MTUsImgiOiJBTlkiLCJwIjoiREVORU1FXzMwR1VOIn0.F979E6EB548785A4",
+      "created_at": "2026-11-13 14:18:07",
+      "updated_at": "2026-11-13 14:18:09"
+    },
     {
       "id": "406CFA01",
       "pharmacy_name": "ÇAĞRI ECZANESI",
