@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 12:07:03",
+  "updated_at": "2026-11-13 12:07:24",
   "count": 5,
   "items": [
     {
@@ -323,18 +323,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D719-CEB2-1542",
-      "last_pc_name": "DESKTOP-M530BBB",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.8.3",
-      "last_seen_at": "2026-11-13 12:06:15",
-      "last_action": "[DESKTOP-M530BBB] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-13 12:07:24",
+      "last_action": "[DESKTOP-OTHNDUE] Canlı MF Sorgulama (3 Ürün)",
       "today_date": "2026-11-13",
       "today_searches": 14,
       "today_cart_adds": 12,
-      "today_smart_orders": 25,
+      "today_smart_orders": 41,
       "total_searches": 434,
       "total_cart_adds": 714,
-      "total_smart_orders": 453,
+      "total_smart_orders": 469,
       "total_days_used": 10,
       "pc_count": 8,
       "devices": {
@@ -438,37 +438,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.8.3",
-          "last_seen_at": "2026-11-13 12:05:47",
-          "last_action": "Canlı MF Sorgulama (2 Ürün)",
+          "last_seen_at": "2026-11-13 12:07:24",
+          "last_action": "Canlı MF Sorgulama (3 Ürün)",
           "today_date": "2026-11-13",
           "today_searches": 2,
           "today_cart_adds": 4,
-          "today_smart_orders": 16,
+          "today_smart_orders": 20,
           "total_searches": 67,
           "total_cart_adds": 280,
-          "total_smart_orders": 165,
+          "total_smart_orders": 169,
           "total_days_used": 9,
           "recent_actions": [
-            {
-              "t": "2026-11-13 09:27:10",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-13 09:27:10",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 3 Kalem)"
-            },
-            {
-              "t": "2026-11-13 11:43:02",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-13 11:43:02",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 19 Kalem)"
-            },
             {
               "t": "2026-11-13 11:43:02",
               "type": "mf_resolve",
@@ -523,6 +503,26 @@
               "t": "2026-11-13 11:44:54",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (2 Ürün)"
+            },
+            {
+              "t": "2026-11-13 12:06:02",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-13 12:06:02",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 22 Kalem)"
+            },
+            {
+              "t": "2026-11-13 12:06:02",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-13 12:06:04",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (3 Ürün)"
             }
           ]
         },
@@ -719,68 +719,18 @@
           "pc_name": "DESKTOP-6KFO8IF",
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
-          "app_version": "1.8.1",
-          "last_seen_at": "2026-11-12 14:03:02",
-          "last_action": "EczaneTakas Kampanya Açıldı: PULCET 40 MG 28 TB (30+4)",
-          "today_date": "2026-11-12",
-          "today_searches": 4,
-          "today_cart_adds": 1,
-          "today_smart_orders": 8,
+          "app_version": "1.8.3",
+          "last_seen_at": "2026-11-13 12:07:20",
+          "last_action": "Canlı MF Sorgulama (18 Ürün)",
+          "today_date": "2026-11-13",
+          "today_searches": 0,
+          "today_cart_adds": 0,
+          "today_smart_orders": 12,
           "total_searches": 14,
           "total_cart_adds": 38,
-          "total_smart_orders": 17,
-          "total_days_used": 8,
+          "total_smart_orders": 29,
+          "total_days_used": 9,
           "recent_actions": [
-            {
-              "t": "2026-11-11 18:26:07",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-11 18:26:10",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (8 Ürün)"
-            },
-            {
-              "t": "2026-11-12 00:13:32",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-12 00:13:38",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-12 00:13:42",
-              "type": "search",
-              "detail": "Depo Sorgu: TYLOL HOT DAY 12 POS"
-            },
-            {
-              "t": "2026-11-12 00:22:31",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-12 00:22:32",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-12 00:22:36",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (2 Ürün)"
-            },
-            {
-              "t": "2026-11-12 00:49:12",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-12 00:49:13",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 13 Kalem)"
-            },
             {
               "t": "2026-11-12 00:49:13",
               "type": "mf_resolve",
@@ -805,6 +755,56 @@
               "t": "2026-11-12 00:50:09",
               "type": "cart",
               "detail": "EczaneTakas Kampanya Açıldı: PULCET 40 MG 28 TB (30+4)"
+            },
+            {
+              "t": "2026-11-13 12:06:12",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-13 12:06:13",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-13 12:06:13",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-13 12:06:14",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-13 12:06:29",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-13 12:06:29",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-13 12:06:30",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-13 12:06:35",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-13 12:06:35",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 22 Kalem)"
+            },
+            {
+              "t": "2026-11-13 12:06:46",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (18 Ürün)"
             }
           ]
         },
