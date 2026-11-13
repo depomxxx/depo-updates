@@ -1,11 +1,11 @@
 {
-  "version": "1.8.6",
+  "version": "1.8.7",
   "app_name": "Farma Radar",
-  "release_date": "2026-11-13 13:55:03",
+  "release_date": "2026-11-13 14:14:01",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.8.6.zip?t=1794567305",
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.8.7.zip?t=1794568442",
   "sha256": "",
-  "package_sha256": "12ef72b6c709b9da3834faf7635ae090ab0914187f8583cdc963367497320270",
-  "size_kb": 829.4,
-  "changelog": "Ürün detay kartına (Alışlar ve Muadiller yanına) yeni Takaslar sekmesi eklendi: Takastan gelen (+Alınan) ve takasa verilen (-Verilen) eczane hareketleri, karşı eczane adı, kutu adedi, birim tutar ve Gelen/Giden hızlı filtresiyle canlı listelenir."
+  "package_sha256": "3c23294fd6e00d7373c6972c0b3292911c6be91a6680fbd0042efc26da1833df",
+  "size_kb": 833.8,
+  "changelog": "v1.8.7: TRIA (TBL_TAKAS + TBL_TAKAS_DETAY ve TGF/TÇF/TCF faturalı takas) ile Botanik şema duyarlı Takaslar sekmesi entegrasyonu"
 }
