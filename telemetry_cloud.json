@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 13:51:29",
+  "updated_at": "2026-11-13 13:51:32",
   "count": 5,
   "items": [
     {
@@ -1106,16 +1106,16 @@
       "hwid": "2DED-CFF9-D593",
       "last_pc_name": "DESKTOP-8JN0NE5",
       "app_version": "1.8.5",
-      "last_seen_at": "2026-11-13 13:51:13",
-      "last_action": "Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-13 13:51:32",
+      "last_action": "Canlı MF Taraması",
       "today_date": "2026-11-13",
       "today_searches": 0,
       "today_cart_adds": 0,
-      "today_smart_orders": 1,
+      "today_smart_orders": 3,
       "total_searches": 26,
       "total_cart_adds": 78,
       "total_days_used": 6,
-      "total_smart_orders": 156,
+      "total_smart_orders": 158,
       "pc_count": 1,
       "devices": {
         "2DED-CFF9-D593": {
@@ -1124,22 +1124,17 @@
           "desk_name": "DESKTOP-8JN0NE5",
           "local_ip": "192.168.1.37",
           "app_version": "1.8.5",
-          "last_seen_at": "2026-11-13 13:51:13",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-13 13:51:32",
+          "last_action": "Canlı MF Taraması",
           "today_date": "2026-11-13",
           "today_searches": 0,
           "today_cart_adds": 0,
-          "today_smart_orders": 1,
+          "today_smart_orders": 3,
           "total_searches": 26,
           "total_cart_adds": 78,
-          "total_smart_orders": 156,
+          "total_smart_orders": 158,
           "total_days_used": 6,
           "recent_actions": [
-            {
-              "t": "2026-11-12 16:42:57",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş Planlama"
-            },
             {
               "t": "2026-11-12 16:42:58",
               "type": "smart_order",
@@ -1209,6 +1204,11 @@
               "t": "2026-11-13 13:51:13",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-13 13:51:16",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
             }
           ]
         }
