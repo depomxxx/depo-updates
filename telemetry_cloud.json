@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 14:26:37",
+  "updated_at": "2026-11-13 14:26:38",
   "count": 6,
   "items": [
     {
@@ -448,13 +448,13 @@
       "hwid": "D719-CEB2-1542",
       "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.8.7",
-      "last_seen_at": "2026-11-13 14:26:17",
-      "last_action": "[DESKTOP-M530BBB] Depo Sorgu: BEFIXO 3 ML 5 AMP.",
+      "last_seen_at": "2026-11-13 14:26:38",
+      "last_action": "[DESKTOP-M530BBB] Depo Sorgu: FOREVER GARCINIA PLUS",
       "today_date": "2026-11-13",
-      "today_searches": 16,
+      "today_searches": 18,
       "today_cart_adds": 24,
       "today_smart_orders": 86,
-      "total_searches": 436,
+      "total_searches": 438,
       "total_cart_adds": 726,
       "total_smart_orders": 514,
       "total_days_used": 10,
@@ -1030,27 +1030,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.112",
           "app_version": "1.8.7",
-          "last_seen_at": "2026-11-13 14:26:17",
-          "last_action": "Depo Sorgu: BEFIXO 3 ML 5 AMP.",
+          "last_seen_at": "2026-11-13 14:26:38",
+          "last_action": "Depo Sorgu: FOREVER GARCINIA PLUS",
           "today_date": "2026-11-13",
-          "today_searches": 14,
+          "today_searches": 16,
           "today_cart_adds": 8,
           "today_smart_orders": 8,
-          "total_searches": 87,
+          "total_searches": 89,
           "total_cart_adds": 94,
           "total_smart_orders": 60,
           "total_days_used": 10,
           "recent_actions": [
-            {
-              "t": "2026-11-13 11:45:08",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-13 11:45:15",
-              "type": "search",
-              "detail": "Depo Sorgu: PAXERA 10 MG 28 FTB."
-            },
             {
               "t": "2026-11-13 11:45:15",
               "type": "search",
@@ -1115,6 +1105,16 @@
               "t": "2026-11-13 14:24:46",
               "type": "search",
               "detail": "Depo Sorgu: BEFIXO 3 ML 5 AMP."
+            },
+            {
+              "t": "2026-11-13 14:26:29",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-13 14:26:38",
+              "type": "search",
+              "detail": "Depo Sorgu: FOREVER GARCINIA PLUS"
             }
           ]
         },
