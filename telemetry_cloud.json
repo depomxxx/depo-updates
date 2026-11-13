@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 11:55:39",
+  "updated_at": "2026-11-13 11:57:57",
   "count": 5,
   "items": [
     {
@@ -1295,14 +1295,14 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.8.3",
-      "last_seen_at": "2026-11-13 11:57:38",
-      "last_action": "[DESKTOP-T4EAUS3] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-13 11:57:57",
+      "last_action": "[DESKTOP-T4EAUS3] Toplu Sepet (ISKOOP): 4 Kalem",
       "today_date": "2026-11-13",
       "today_searches": 4,
-      "today_cart_adds": 17,
+      "today_cart_adds": 18,
       "today_smart_orders": 32,
       "total_searches": 119,
-      "total_cart_adds": 534,
+      "total_cart_adds": 535,
       "total_days_used": 9,
       "total_smart_orders": 214,
       "pc_count": 3,
@@ -1387,22 +1387,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.8.3",
-          "last_seen_at": "2026-11-13 11:57:38",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-13 11:57:57",
+          "last_action": "Toplu Sepet (ISKOOP): 4 Kalem",
           "today_date": "2026-11-13",
           "today_searches": 4,
-          "today_cart_adds": 17,
+          "today_cart_adds": 18,
           "today_smart_orders": 32,
           "total_searches": 47,
-          "total_cart_adds": 276,
+          "total_cart_adds": 277,
           "total_smart_orders": 145,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-13 11:46:02",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (BOTANIK • 34 Kalem)"
-            },
             {
               "t": "2026-11-13 11:46:02",
               "type": "mf_resolve",
@@ -1472,6 +1467,11 @@
               "t": "2026-11-13 11:57:38",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-13 11:57:57",
+              "type": "cart",
+              "detail": "Toplu Sepet (ISKOOP): 4 Kalem"
             }
           ]
         },
