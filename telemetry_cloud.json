@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 16:49:12",
+  "updated_at": "2026-11-13 16:49:14",
   "count": 6,
   "items": [
     {
@@ -16,15 +16,15 @@
       "hwid": "3C0F-6FF9-862F",
       "last_pc_name": "Berkay",
       "app_version": "1.8.9",
-      "last_seen_at": "2026-11-13 16:48:06",
-      "last_action": "Canlı MF Sorgulama (35 Ürün)",
+      "last_seen_at": "2026-11-13 16:49:14",
+      "last_action": "Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-13",
       "today_searches": 45,
       "today_cart_adds": 87,
-      "today_smart_orders": 104,
+      "today_smart_orders": 107,
       "total_searches": 45,
       "total_cart_adds": 87,
-      "total_smart_orders": 104,
+      "total_smart_orders": 107,
       "total_days_used": 1,
       "pc_count": 1,
       "devices": {
@@ -34,32 +34,17 @@
           "desk_name": "Berkay",
           "local_ip": "192.168.1.103",
           "app_version": "1.8.9",
-          "last_seen_at": "2026-11-13 16:48:06",
-          "last_action": "Canlı MF Sorgulama (35 Ürün)",
+          "last_seen_at": "2026-11-13 16:49:14",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-13",
           "today_searches": 45,
           "today_cart_adds": 87,
-          "today_smart_orders": 104,
+          "today_smart_orders": 107,
           "total_searches": 45,
           "total_cart_adds": 87,
-          "total_smart_orders": 104,
+          "total_smart_orders": 107,
           "total_days_used": 1,
           "recent_actions": [
-            {
-              "t": "2026-11-13 16:40:12",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-13 16:40:14",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): REDOXON 3 LÜ ETKİ 15 EFERVES x1"
-            },
-            {
-              "t": "2026-11-13 16:40:23",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-13 16:43:31",
               "type": "smart_order",
@@ -119,6 +104,21 @@
               "t": "2026-11-13 16:48:06",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (35 Ürün)"
+            },
+            {
+              "t": "2026-11-13 16:48:07",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-13 16:48:12",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (8 Ürün)"
+            },
+            {
+              "t": "2026-11-13 16:49:14",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         }
