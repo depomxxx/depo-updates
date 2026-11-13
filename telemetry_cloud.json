@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 12:59:21",
+  "updated_at": "2026-11-13 12:57:21",
   "count": 5,
   "items": [
     {
@@ -8,23 +8,23 @@
       "pharmacist_name": "GAMZE ASLAN",
       "phone": "05344064108",
       "city": "SAMSUN/ATAKUM",
-      "gln_no": "8680001000000",
-      "otomasyon": "TRIA",
+      "gln_no": "8680001134861",
+      "otomasyon": "TEBEOS",
       "plan": "PRO_YILLIK",
       "expires_at": "2027-10-24",
       "status": "AKTIF",
-      "hwid": "E6B1-5698-273E",
-      "last_pc_name": "DESKTOP-6KFO8IF",
+      "hwid": "E4F7-229A-BABD",
+      "last_pc_name": "ChagriBeg",
       "app_version": "1.8.4",
-      "last_seen_at": "2026-11-13 12:57:11",
-      "last_action": "[DESKTOP-6KFO8IF] Canlı MF Sorgulama (1 Ürün)",
+      "last_seen_at": "2026-11-13 12:57:21",
+      "last_action": "[ChagriBeg] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-13",
       "today_searches": 6,
       "today_cart_adds": 12,
-      "today_smart_orders": 96,
+      "today_smart_orders": 97,
       "total_searches": 132,
       "total_cart_adds": 362,
-      "total_smart_orders": 333,
+      "total_smart_orders": 334,
       "total_days_used": 9,
       "pc_count": 3,
       "devices": {
@@ -34,22 +34,17 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.8.4",
-          "last_seen_at": "2026-11-13 12:57:04",
-          "last_action": "Günün Çıkışları Yenileme (TEBEOS • 2 Kalem)",
+          "last_seen_at": "2026-11-13 12:57:21",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-13",
           "today_searches": 4,
           "today_cart_adds": 0,
-          "today_smart_orders": 48,
+          "today_smart_orders": 49,
           "total_searches": 51,
           "total_cart_adds": 36,
-          "total_smart_orders": 119,
+          "total_smart_orders": 120,
           "total_days_used": 9,
           "recent_actions": [
-            {
-              "t": "2026-11-13 12:36:21",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-13 12:36:22",
               "type": "mf_resolve",
@@ -119,6 +114,11 @@
               "t": "2026-11-13 12:56:55",
               "type": "critical_stock",
               "detail": "Günün Çıkışları Yenileme (TEBEOS • 2 Kalem)"
+            },
+            {
+              "t": "2026-11-13 12:57:21",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         },
