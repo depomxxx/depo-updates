@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 11:48:52",
+  "updated_at": "2026-11-13 11:49:07",
   "count": 5,
   "items": [
     {
@@ -135,17 +135,17 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "5834-FAC9-B71F",
-      "last_pc_name": "DESKTOP-OTHNDUE",
+      "hwid": "D719-CEB2-1542",
+      "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.8.3",
-      "last_seen_at": "2026-11-13 11:48:42",
-      "last_action": "[DESKTOP-OTHNDUE] Canlı MF Sorgulama (2 Ürün)",
+      "last_seen_at": "2026-11-13 11:49:07",
+      "last_action": "[DESKTOP-M530BBB] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-13",
       "today_searches": 14,
-      "today_cart_adds": 8,
+      "today_cart_adds": 9,
       "today_smart_orders": 25,
       "total_searches": 434,
-      "total_cart_adds": 710,
+      "total_cart_adds": 711,
       "total_smart_orders": 453,
       "total_days_used": 10,
       "pc_count": 8,
@@ -720,22 +720,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.112",
           "app_version": "1.8.3",
-          "last_seen_at": "2026-11-13 11:48:04",
-          "last_action": "Depo Sorgu: PAXERA 10 MG 28 FTB.",
+          "last_seen_at": "2026-11-13 11:49:07",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-13",
           "today_searches": 12,
-          "today_cart_adds": 4,
+          "today_cart_adds": 5,
           "today_smart_orders": 2,
           "total_searches": 85,
-          "total_cart_adds": 90,
+          "total_cart_adds": 91,
           "total_smart_orders": 54,
           "total_days_used": 10,
           "recent_actions": [
-            {
-              "t": "2026-11-13 08:50:40",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-13 08:59:31",
               "type": "search",
@@ -805,6 +800,11 @@
               "t": "2026-11-13 11:45:16",
               "type": "search",
               "detail": "Depo Sorgu: PAXERA 10 MG 28 FTB."
+            },
+            {
+              "t": "2026-11-13 11:49:07",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
