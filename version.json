@@ -1,11 +1,11 @@
 {
-  "version": "1.8.3",
+  "version": "1.8.4",
   "app_name": "Farma Radar",
-  "release_date": "2026-11-12 17:44:27",
+  "release_date": "2026-11-13 12:54:50",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.8.3.zip?t=1794494669",
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.8.4.zip?t=1794563691",
   "sha256": "",
-  "package_sha256": "d37e1c6157fac07cc08a7a8e3c76ab46a467a7db8309bac4db5cff35aec85eba",
-  "size_kb": 817.8,
-  "changelog": "v1.8.3 — Kurulum sihirbazi WinError 32/1224 kilitli dosya korumasi ve Alliance sepet dogrulamasi."
+  "package_sha256": "bc83beb67b07a83a915fb4936e113d4ab013f7a97d7b719bf3bf5e963063ed3f",
+  "size_kb": 824.6,
+  "changelog": "v1.8.4 — TEBEOS stok ve çıkış motoru %100 birebir doğrulama: kart bazlı (urun_id/idu_bilgi_id) net stok hesabı, 11/12/13/14 hane OTC/takviye barkod sıfır-format eşleştirme, Medula/nakit satış iptal düşümü ve katalog ayrıştırma koruması."
 }
