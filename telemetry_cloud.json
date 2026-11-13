@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 13:07:54",
+  "updated_at": "2026-11-13 13:08:55",
   "count": 5,
   "items": [
     {
@@ -8,21 +8,21 @@
       "pharmacist_name": "GAMZE ASLAN",
       "phone": "05344064108",
       "city": "SAMSUN/ATAKUM",
-      "gln_no": "8680001134861",
-      "otomasyon": "TEBEOS",
+      "gln_no": "8680001000000",
+      "otomasyon": "TRIA",
       "plan": "PRO_YILLIK",
       "expires_at": "2027-10-24",
       "status": "AKTIF",
-      "hwid": "E4F7-229A-BABD",
-      "last_pc_name": "ChagriBeg",
+      "hwid": "E6B1-5698-273E",
+      "last_pc_name": "DESKTOP-6KFO8IF",
       "app_version": "1.8.4",
-      "last_seen_at": "2026-11-13 13:07:53",
-      "last_action": "[ChagriBeg] Depo Fiyat Sorgulama",
+      "last_seen_at": "2026-11-13 13:08:55",
+      "last_action": "[DESKTOP-6KFO8IF] Canlı MF Sorgulama (1 Ürün)",
       "today_date": "2026-11-13",
-      "today_searches": 9,
+      "today_searches": 10,
       "today_cart_adds": 12,
       "today_smart_orders": 112,
-      "total_searches": 135,
+      "total_searches": 136,
       "total_cart_adds": 362,
       "total_smart_orders": 349,
       "total_days_used": 9,
@@ -34,22 +34,17 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.8.4",
-          "last_seen_at": "2026-11-13 13:07:53",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-13 13:08:54",
+          "last_action": "Depo Sorgu: JARDIANCE 10 MG 30 FTB.",
           "today_date": "2026-11-13",
-          "today_searches": 7,
+          "today_searches": 8,
           "today_cart_adds": 0,
           "today_smart_orders": 64,
-          "total_searches": 54,
+          "total_searches": 55,
           "total_cart_adds": 36,
           "total_smart_orders": 135,
           "total_days_used": 9,
           "recent_actions": [
-            {
-              "t": "2026-11-13 13:04:56",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş (TEBEOS • 2 Kalem)"
-            },
             {
               "t": "2026-11-13 13:04:59",
               "type": "smart_order",
@@ -119,6 +114,11 @@
               "t": "2026-11-13 13:07:53",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-13 13:07:56",
+              "type": "search",
+              "detail": "Depo Sorgu: JARDIANCE 10 MG 30 FTB."
             }
           ]
         },
@@ -128,7 +128,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.8.4",
-          "last_seen_at": "2026-11-13 13:07:30",
+          "last_seen_at": "2026-11-13 13:08:55",
           "last_action": "Canlı MF Sorgulama (1 Ürün)",
           "today_date": "2026-11-13",
           "today_searches": 0,
@@ -222,7 +222,7 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.8.4",
-          "last_seen_at": "2026-11-13 13:06:42",
+          "last_seen_at": "2026-11-13 13:08:42",
           "last_action": "Canlı MF Sorgulama (1 Ürün)",
           "today_date": "2026-11-13",
           "today_searches": 2,
