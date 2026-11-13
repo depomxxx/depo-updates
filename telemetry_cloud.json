@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 16:33:15",
+  "updated_at": "2026-11-13 16:33:34",
   "count": 6,
   "items": [
     {
@@ -1228,13 +1228,13 @@
       "hwid": "2DED-CFF9-D593",
       "last_pc_name": "DESKTOP-8JN0NE5",
       "app_version": "1.8.9",
-      "last_seen_at": "2026-11-13 16:32:09",
-      "last_action": "Depo Fiyat Sorgulama",
+      "last_seen_at": "2026-11-13 16:33:34",
+      "last_action": "Depo Sorgu: ALVITA KAN ŞEKERİ ÖLÇÜM ÇUBUĞU 50 ADET",
       "today_date": "2026-11-13",
-      "today_searches": 5,
+      "today_searches": 6,
       "today_cart_adds": 5,
       "today_smart_orders": 27,
-      "total_searches": 31,
+      "total_searches": 32,
       "total_cart_adds": 83,
       "total_days_used": 6,
       "total_smart_orders": 182,
@@ -1246,22 +1246,17 @@
           "desk_name": "DESKTOP-8JN0NE5",
           "local_ip": "192.168.1.37",
           "app_version": "1.8.9",
-          "last_seen_at": "2026-11-13 16:32:09",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-13 16:33:34",
+          "last_action": "Depo Sorgu: ALVITA KAN ŞEKERİ ÖLÇÜM ÇUBUĞU 50 ADET",
           "today_date": "2026-11-13",
-          "today_searches": 5,
+          "today_searches": 6,
           "today_cart_adds": 5,
           "today_smart_orders": 27,
-          "total_searches": 31,
+          "total_searches": 32,
           "total_cart_adds": 83,
           "total_smart_orders": 182,
           "total_days_used": 6,
           "recent_actions": [
-            {
-              "t": "2026-11-13 15:17:13",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (26 Ürün)"
-            },
             {
               "t": "2026-11-13 15:17:30",
               "type": "critical_stock",
@@ -1331,6 +1326,11 @@
               "t": "2026-11-13 16:32:09",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-13 16:32:11",
+              "type": "search",
+              "detail": "Depo Sorgu: ALVITA KAN ŞEKERİ ÖLÇÜM ÇUBUĞU 50 ADET"
             }
           ]
         }
