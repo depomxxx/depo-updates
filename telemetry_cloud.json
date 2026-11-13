@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 13:48:15",
+  "updated_at": "2026-11-13 13:46:22",
   "count": 5,
   "items": [
     {
@@ -16,13 +16,13 @@
       "hwid": "E4F7-229A-BABD",
       "last_pc_name": "ChagriBeg",
       "app_version": "1.8.5",
-      "last_seen_at": "2026-11-13 13:45:00",
-      "last_action": "[ChagriBeg] Depo Sorgu: AUGMENTIN BID 1 GR 14 FTB.",
+      "last_seen_at": "2026-11-13 13:46:22",
+      "last_action": "[ChagriBeg] Depo Sorgu: KLAMOKS BID 1 GR 14 FTB.",
       "today_date": "2026-11-13",
-      "today_searches": 12,
+      "today_searches": 14,
       "today_cart_adds": 12,
       "today_smart_orders": 137,
-      "total_searches": 138,
+      "total_searches": 140,
       "total_cart_adds": 362,
       "total_smart_orders": 374,
       "total_days_used": 9,
@@ -34,27 +34,17 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.8.5",
-          "last_seen_at": "2026-11-13 13:45:00",
-          "last_action": "Depo Sorgu: AUGMENTIN BID 1 GR 14 FTB.",
+          "last_seen_at": "2026-11-13 13:46:22",
+          "last_action": "Depo Sorgu: KLAMOKS BID 1 GR 14 FTB.",
           "today_date": "2026-11-13",
-          "today_searches": 10,
+          "today_searches": 12,
           "today_cart_adds": 0,
           "today_smart_orders": 86,
-          "total_searches": 57,
+          "total_searches": 59,
           "total_cart_adds": 36,
           "total_smart_orders": 157,
           "total_days_used": 9,
           "recent_actions": [
-            {
-              "t": "2026-11-13 13:41:34",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (35 Ürün)"
-            },
-            {
-              "t": "2026-11-13 13:41:34",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-13 13:41:46",
               "type": "mf_resolve",
@@ -119,6 +109,16 @@
               "t": "2026-11-13 13:43:28",
               "type": "search",
               "detail": "Depo Sorgu: AUGMENTIN BID 1 GR 14 FTB."
+            },
+            {
+              "t": "2026-11-13 13:45:05",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-13 13:45:09",
+              "type": "search",
+              "detail": "Depo Sorgu: KLAMOKS BID 1 GR 14 FTB."
             }
           ]
         },
