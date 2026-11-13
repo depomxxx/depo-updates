@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 15:05:02",
+  "updated_at": "2026-11-13 15:07:41",
   "count": 6,
   "items": [
     {
@@ -1605,16 +1605,16 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.8.7",
-      "last_seen_at": "2026-11-13 15:07:07",
-      "last_action": "[DESKTOP-T4EAUS3] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-13 15:07:41",
+      "last_action": "[DESKTOP-T4EAUS3] Canlı MF Sorgulama (30 Ürün)",
       "today_date": "2026-11-13",
       "today_searches": 18,
       "today_cart_adds": 27,
-      "today_smart_orders": 48,
+      "today_smart_orders": 51,
       "total_searches": 133,
       "total_cart_adds": 544,
       "total_days_used": 9,
-      "total_smart_orders": 230,
+      "total_smart_orders": 233,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -1697,32 +1697,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.8.7",
-          "last_seen_at": "2026-11-13 15:07:07",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-13 15:07:41",
+          "last_action": "Canlı MF Sorgulama (30 Ürün)",
           "today_date": "2026-11-13",
           "today_searches": 18,
           "today_cart_adds": 27,
-          "today_smart_orders": 48,
+          "today_smart_orders": 51,
           "total_searches": 61,
           "total_cart_adds": 286,
-          "total_smart_orders": 161,
+          "total_smart_orders": 164,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-13 13:56:30",
-              "type": "search",
-              "detail": "Depo Sorgu: 01086997950911132164000079093648172903"
-            },
-            {
-              "t": "2026-11-13 13:56:33",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-13 13:56:33",
-              "type": "search",
-              "detail": "Depo Sorgu: 01086997950911132164000079093648172903"
-            },
             {
               "t": "2026-11-13 13:56:35",
               "type": "search",
@@ -1782,6 +1767,21 @@
               "t": "2026-11-13 15:07:07",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-13 15:07:07",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (BOTANIK • 67 Kalem)"
+            },
+            {
+              "t": "2026-11-13 15:07:07",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-13 15:07:41",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (30 Ürün)"
             }
           ]
         },
