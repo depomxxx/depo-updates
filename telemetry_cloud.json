@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 15:09:01",
+  "updated_at": "2026-11-13 15:09:02",
   "count": 6,
   "items": [
     {
@@ -130,23 +130,23 @@
       "pharmacist_name": "GAMZE ASLAN",
       "phone": "05344064108",
       "city": "SAMSUN/ATAKUM",
-      "gln_no": "8680001134861",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "PRO_YILLIK",
       "expires_at": "2027-10-24",
       "status": "AKTIF",
-      "hwid": "E4F7-229A-BABD",
-      "last_pc_name": "ChagriBeg",
+      "hwid": "E6B1-5698-273E",
+      "last_pc_name": "DESKTOP-6KFO8IF",
       "app_version": "1.8.7",
-      "last_seen_at": "2026-11-13 15:09:01",
-      "last_action": "[ChagriBeg] Depo Sorgu: ARVELES 25 MG 20 FTB.",
+      "last_seen_at": "2026-11-13 15:09:02",
+      "last_action": "[DESKTOP-6KFO8IF] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-13",
-      "today_searches": 26,
+      "today_searches": 27,
       "today_cart_adds": 20,
-      "today_smart_orders": 178,
-      "total_searches": 152,
+      "today_smart_orders": 181,
+      "total_searches": 153,
       "total_cart_adds": 370,
-      "total_smart_orders": 415,
+      "total_smart_orders": 418,
       "total_days_used": 9,
       "pc_count": 3,
       "devices": {
@@ -250,7 +250,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.8.7",
-          "last_seen_at": "2026-11-13 15:07:31",
+          "last_seen_at": "2026-11-13 15:09:02",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-13",
           "today_searches": 0,
@@ -344,32 +344,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.8.7",
-          "last_seen_at": "2026-11-13 15:06:40",
-          "last_action": "Canlı MF Sorgulama (1 Ürün)",
+          "last_seen_at": "2026-11-13 15:09:01",
+          "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-13",
-          "today_searches": 2,
+          "today_searches": 3,
           "today_cart_adds": 4,
-          "today_smart_orders": 36,
-          "total_searches": 67,
+          "today_smart_orders": 39,
+          "total_searches": 68,
           "total_cart_adds": 280,
-          "total_smart_orders": 185,
+          "total_smart_orders": 188,
           "total_days_used": 9,
           "recent_actions": [
-            {
-              "t": "2026-11-13 12:14:31",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 22 Kalem)"
-            },
-            {
-              "t": "2026-11-13 12:14:31",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-13 12:14:37",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (12 Ürün)"
-            },
             {
               "t": "2026-11-13 12:55:40",
               "type": "critical_stock",
@@ -429,6 +414,21 @@
               "t": "2026-11-13 14:14:39",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (1 Ürün)"
+            },
+            {
+              "t": "2026-11-13 15:08:47",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-13 15:08:49",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 38 Kalem)"
+            },
+            {
+              "t": "2026-11-13 15:09:01",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ]
         }
