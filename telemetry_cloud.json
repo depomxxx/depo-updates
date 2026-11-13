@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 11:15:57",
+  "updated_at": "2026-11-13 11:14:01",
   "count": 5,
   "items": [
     {
@@ -16,13 +16,13 @@
       "hwid": "E4F7-229A-BABD",
       "last_pc_name": "ChagriBeg",
       "app_version": "1.8.3",
-      "last_seen_at": "2026-11-13 11:12:29",
-      "last_action": "Depo Fiyat Sorgulama",
+      "last_seen_at": "2026-11-13 11:14:01",
+      "last_action": "Depo Sorgu: OCEAN D3 K2 DAMLA  20ML SISE/KUTU",
       "today_date": "2026-11-13",
-      "today_searches": 1,
+      "today_searches": 2,
       "today_cart_adds": 0,
       "today_smart_orders": 32,
-      "total_searches": 48,
+      "total_searches": 49,
       "total_cart_adds": 36,
       "total_smart_orders": 103,
       "total_days_used": 9,
@@ -34,22 +34,17 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.8.3",
-          "last_seen_at": "2026-11-13 11:12:29",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-13 11:14:01",
+          "last_action": "Depo Sorgu: OCEAN D3 K2 DAMLA  20ML SISE/KUTU",
           "today_date": "2026-11-13",
-          "today_searches": 1,
+          "today_searches": 2,
           "today_cart_adds": 0,
           "today_smart_orders": 32,
-          "total_searches": 48,
+          "total_searches": 49,
           "total_cart_adds": 36,
           "total_smart_orders": 103,
           "total_days_used": 9,
           "recent_actions": [
-            {
-              "t": "2026-11-13 11:04:43",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-13 11:04:43",
               "type": "critical_stock",
@@ -119,6 +114,11 @@
               "t": "2026-11-13 11:12:29",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-13 11:12:31",
+              "type": "search",
+              "detail": "Depo Sorgu: OCEAN D3 K2 DAMLA  20ML SISE/KUTU"
             }
           ]
         }
