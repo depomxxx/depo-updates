@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 15:51:56",
+  "updated_at": "2026-11-13 15:51:54",
   "count": 6,
   "items": [
     {
@@ -130,7 +130,7 @@
       "pharmacist_name": "GAMZE ASLAN",
       "phone": "05344064108",
       "city": "SAMSUN/ATAKUM",
-      "gln_no": "8680001134861",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "PRO_YILLIK",
       "expires_at": "2027-10-24",
@@ -138,15 +138,15 @@
       "hwid": "E6B1-5698-273E",
       "last_pc_name": "DESKTOP-6KFO8IF",
       "app_version": "1.8.9",
-      "last_seen_at": "2026-11-13 15:50:23",
+      "last_seen_at": "2026-11-13 15:51:54",
       "last_action": "[DESKTOP-6KFO8IF] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-13",
       "today_searches": 36,
       "today_cart_adds": 44,
-      "today_smart_orders": 212,
+      "today_smart_orders": 218,
       "total_searches": 162,
       "total_cart_adds": 394,
-      "total_smart_orders": 449,
+      "total_smart_orders": 455,
       "total_days_used": 9,
       "pc_count": 3,
       "devices": {
@@ -156,7 +156,7 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.8.9",
-          "last_seen_at": "2026-11-13 15:50:23",
+          "last_seen_at": "2026-11-13 15:51:54",
           "last_action": "Depo Sorgu: BIODERMA ATODERM LIP BALM",
           "today_date": "2026-11-13",
           "today_searches": 26,
@@ -250,7 +250,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.8.9",
-          "last_seen_at": "2026-11-13 15:50:23",
+          "last_seen_at": "2026-11-13 15:51:54",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-13",
           "today_searches": 0,
@@ -344,47 +344,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.8.9",
-          "last_seen_at": "2026-11-13 15:43:40",
-          "last_action": "Canlı MF Sorgulama (2 Ürün)",
+          "last_seen_at": "2026-11-13 15:51:40",
+          "last_action": "Canlı MF Sorgulama (27 Ürün)",
           "today_date": "2026-11-13",
           "today_searches": 10,
           "today_cart_adds": 28,
-          "today_smart_orders": 67,
+          "today_smart_orders": 73,
           "total_searches": 75,
           "total_cart_adds": 304,
-          "total_smart_orders": 216,
+          "total_smart_orders": 222,
           "total_days_used": 9,
           "recent_actions": [
-            {
-              "t": "2026-11-13 15:29:26",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-13 15:29:43",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-13 15:29:43",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 41 Kalem)"
-            },
-            {
-              "t": "2026-11-13 15:29:43",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-13 15:29:47",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (1 Ürün)"
-            },
-            {
-              "t": "2026-11-13 15:29:48",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-13 15:29:48",
               "type": "critical_stock",
@@ -429,6 +399,36 @@
               "t": "2026-11-13 15:40:33",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (2 Ürün)"
+            },
+            {
+              "t": "2026-11-13 15:46:26",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-13 15:46:26",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 42 Kalem)"
+            },
+            {
+              "t": "2026-11-13 15:46:34",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-13 15:46:34",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 42 Kalem)"
+            },
+            {
+              "t": "2026-11-13 15:46:34",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-13 15:46:43",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (27 Ürün)"
             }
           ]
         }
