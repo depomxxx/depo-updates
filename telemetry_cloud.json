@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 14:21:47",
+  "updated_at": "2026-11-13 14:22:02",
   "count": 6,
   "items": [
     {
@@ -383,15 +383,15 @@
       "hwid": "D719-CEB2-1542",
       "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.8.7",
-      "last_seen_at": "2026-11-13 14:21:44",
-      "last_action": "[DESKTOP-M530BBB] Canlı MF Sorgulama (17 Ürün)",
+      "last_seen_at": "2026-11-13 14:22:02",
+      "last_action": "[DESKTOP-M530BBB] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-13",
       "today_searches": 14,
       "today_cart_adds": 24,
-      "today_smart_orders": 83,
+      "today_smart_orders": 84,
       "total_searches": 434,
       "total_cart_adds": 726,
-      "total_smart_orders": 511,
+      "total_smart_orders": 512,
       "total_days_used": 10,
       "pc_count": 8,
       "devices": {
@@ -965,22 +965,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.112",
           "app_version": "1.8.7",
-          "last_seen_at": "2026-11-13 14:21:44",
-          "last_action": "Canlı MF Sorgulama (17 Ürün)",
+          "last_seen_at": "2026-11-13 14:22:02",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-13",
           "today_searches": 12,
           "today_cart_adds": 8,
-          "today_smart_orders": 5,
+          "today_smart_orders": 6,
           "total_searches": 85,
           "total_cart_adds": 94,
-          "total_smart_orders": 57,
+          "total_smart_orders": 58,
           "total_days_used": 10,
           "recent_actions": [
-            {
-              "t": "2026-11-13 10:44:36",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-13 10:44:43",
               "type": "search",
@@ -1050,6 +1045,11 @@
               "t": "2026-11-13 13:24:00",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (17 Ürün)"
+            },
+            {
+              "t": "2026-11-13 14:22:02",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         },
