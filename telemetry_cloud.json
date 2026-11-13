@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 16:14:36",
+  "updated_at": "2026-11-13 16:12:39",
   "count": 6,
   "items": [
     {
@@ -16,15 +16,15 @@
       "hwid": "3C0F-6FF9-862F",
       "last_pc_name": "Berkay",
       "app_version": "1.8.9",
-      "last_seen_at": "2026-11-13 16:10:06",
-      "last_action": "Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-13 16:12:39",
+      "last_action": "Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-13",
       "today_searches": 43,
       "today_cart_adds": 18,
-      "today_smart_orders": 80,
+      "today_smart_orders": 81,
       "total_searches": 43,
       "total_cart_adds": 18,
-      "total_smart_orders": 80,
+      "total_smart_orders": 81,
       "total_days_used": 1,
       "pc_count": 1,
       "devices": {
@@ -34,22 +34,17 @@
           "desk_name": "Berkay",
           "local_ip": "192.168.1.103",
           "app_version": "1.8.9",
-          "last_seen_at": "2026-11-13 16:10:06",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-13 16:12:39",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-13",
           "today_searches": 43,
           "today_cart_adds": 18,
-          "today_smart_orders": 80,
+          "today_smart_orders": 81,
           "total_searches": 43,
           "total_cart_adds": 18,
-          "total_smart_orders": 80,
+          "total_smart_orders": 81,
           "total_days_used": 1,
           "recent_actions": [
-            {
-              "t": "2026-11-13 15:07:12",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-13 15:07:18",
               "type": "search",
@@ -119,6 +114,11 @@
               "t": "2026-11-13 15:55:21",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-13 16:12:39",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         }
