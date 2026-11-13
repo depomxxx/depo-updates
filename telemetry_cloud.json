@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 14:00:40",
+  "updated_at": "2026-11-13 13:58:35",
   "count": 5,
   "items": [
     {
@@ -16,15 +16,15 @@
       "hwid": "E4F7-229A-BABD",
       "last_pc_name": "ChagriBeg",
       "app_version": "1.8.6",
-      "last_seen_at": "2026-11-13 13:58:03",
-      "last_action": "[ChagriBeg] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-13 13:58:35",
+      "last_action": "[ChagriBeg] Depo Fiyat Sorgulama",
       "today_date": "2026-11-13",
-      "today_searches": 16,
+      "today_searches": 21,
       "today_cart_adds": 14,
-      "today_smart_orders": 149,
-      "total_searches": 142,
+      "today_smart_orders": 155,
+      "total_searches": 147,
       "total_cart_adds": 364,
-      "total_smart_orders": 386,
+      "total_smart_orders": 392,
       "total_days_used": 9,
       "pc_count": 3,
       "devices": {
@@ -34,72 +34,17 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.8.6",
-          "last_seen_at": "2026-11-13 13:58:03",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-13 13:58:35",
+          "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-13",
-          "today_searches": 14,
+          "today_searches": 19,
           "today_cart_adds": 0,
-          "today_smart_orders": 88,
-          "total_searches": 61,
+          "today_smart_orders": 94,
+          "total_searches": 66,
           "total_cart_adds": 36,
-          "total_smart_orders": 159,
+          "total_smart_orders": 165,
           "total_days_used": 9,
           "recent_actions": [
-            {
-              "t": "2026-11-13 13:42:09",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (35 Ürün)"
-            },
-            {
-              "t": "2026-11-13 13:42:10",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-13 13:42:18",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (35 Ürün)"
-            },
-            {
-              "t": "2026-11-13 13:42:19",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-13 13:42:30",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (35 Ürün)"
-            },
-            {
-              "t": "2026-11-13 13:42:31",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-13 13:42:37",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (18 Ürün)"
-            },
-            {
-              "t": "2026-11-13 13:43:24",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-13 13:43:28",
-              "type": "search",
-              "detail": "Depo Sorgu: AUGMENTIN BID 1 GR 14 FTB."
-            },
-            {
-              "t": "2026-11-13 13:45:05",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-13 13:45:09",
-              "type": "search",
-              "detail": "Depo Sorgu: KLAMOKS BID 1 GR 14 FTB."
-            },
             {
               "t": "2026-11-13 13:55:42",
               "type": "critical_stock",
@@ -119,6 +64,61 @@
               "t": "2026-11-13 13:58:03",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-13 13:58:03",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 31 Kalem)"
+            },
+            {
+              "t": "2026-11-13 13:58:03",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-13 13:58:09",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-13 13:58:10",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (18 Ürün)"
+            },
+            {
+              "t": "2026-11-13 13:58:13",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-13 13:58:13",
+              "type": "search",
+              "detail": "Depo Sorgu: JARDIANCE 10 MG 30 FTB."
+            },
+            {
+              "t": "2026-11-13 13:58:13",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-13 13:58:13",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-13 13:58:14",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (6 Ürün)"
+            },
+            {
+              "t": "2026-11-13 13:58:16",
+              "type": "search",
+              "detail": "Depo Sorgu: JARDIANCE 10 MG 30 FTB."
+            },
+            {
+              "t": "2026-11-13 13:58:35",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ]
         },
@@ -128,7 +128,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.8.6",
-          "last_seen_at": "2026-11-13 13:57:58",
+          "last_seen_at": "2026-11-13 13:58:33",
           "last_action": "Sepete Ekle (ALLIANCE): VERMİDON TABLET 30 TABLET/KU x5",
           "today_date": "2026-11-13",
           "today_searches": 0,
