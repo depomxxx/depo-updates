@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 14:28:16",
+  "updated_at": "2026-11-13 14:26:17",
   "count": 6,
   "items": [
     {
@@ -445,16 +445,16 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "5834-FAC9-B71F",
-      "last_pc_name": "DESKTOP-OTHNDUE",
+      "hwid": "D719-CEB2-1542",
+      "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.8.7",
-      "last_seen_at": "2026-11-13 14:25:07",
-      "last_action": "[DESKTOP-OTHNDUE] Canlı MF Sorgulama (1 Ürün)",
+      "last_seen_at": "2026-11-13 14:26:17",
+      "last_action": "[DESKTOP-M530BBB] Depo Sorgu: BEFIXO 3 ML 5 AMP.",
       "today_date": "2026-11-13",
-      "today_searches": 15,
+      "today_searches": 16,
       "today_cart_adds": 24,
       "today_smart_orders": 86,
-      "total_searches": 435,
+      "total_searches": 436,
       "total_cart_adds": 726,
       "total_smart_orders": 514,
       "total_days_used": 10,
@@ -1030,22 +1030,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.112",
           "app_version": "1.8.7",
-          "last_seen_at": "2026-11-13 14:24:36",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-13 14:26:17",
+          "last_action": "Depo Sorgu: BEFIXO 3 ML 5 AMP.",
           "today_date": "2026-11-13",
-          "today_searches": 13,
+          "today_searches": 14,
           "today_cart_adds": 8,
           "today_smart_orders": 8,
-          "total_searches": 86,
+          "total_searches": 87,
           "total_cart_adds": 94,
           "total_smart_orders": 60,
           "total_days_used": 10,
           "recent_actions": [
-            {
-              "t": "2026-11-13 11:12:50",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-13 11:45:08",
               "type": "search",
@@ -1115,6 +1110,11 @@
               "t": "2026-11-13 14:24:36",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-13 14:24:46",
+              "type": "search",
+              "detail": "Depo Sorgu: BEFIXO 3 ML 5 AMP."
             }
           ]
         },
