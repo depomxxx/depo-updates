@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 16:26:40",
+  "updated_at": "2026-11-13 16:26:45",
   "count": 6,
   "items": [
     {
@@ -130,7 +130,7 @@
       "pharmacist_name": "GAMZE ASLAN",
       "phone": "05344064108",
       "city": "SAMSUN/ATAKUM",
-      "gln_no": "8680001134861",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "PRO_YILLIK",
       "expires_at": "2027-10-24",
@@ -138,7 +138,7 @@
       "hwid": "E6B1-5698-273E",
       "last_pc_name": "DESKTOP-6KFO8IF",
       "app_version": "1.8.9",
-      "last_seen_at": "2026-11-13 16:25:14",
+      "last_seen_at": "2026-11-13 16:26:45",
       "last_action": "[DESKTOP-6KFO8IF] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-13",
       "today_searches": 40,
@@ -250,7 +250,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.8.9",
-          "last_seen_at": "2026-11-13 16:25:14",
+          "last_seen_at": "2026-11-13 16:26:45",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-13",
           "today_searches": 0,
@@ -344,7 +344,7 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.8.9",
-          "last_seen_at": "2026-11-13 16:24:40",
+          "last_seen_at": "2026-11-13 16:26:40",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-13",
           "today_searches": 14,
