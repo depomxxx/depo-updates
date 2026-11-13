@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 09:41:56",
+  "updated_at": "2026-11-13 09:42:48",
   "count": 4,
   "items": [
     {
@@ -13,16 +13,16 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "5834-FAC9-B71F",
-      "last_pc_name": "DESKTOP-OTHNDUE",
+      "hwid": "D719-CEB2-1542",
+      "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.8.3",
-      "last_seen_at": "2026-11-13 09:41:56",
-      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları Yenileme (TRIA • 3 Kalem)",
+      "last_seen_at": "2026-11-13 09:42:48",
+      "last_action": "[DESKTOP-M530BBB] Depo Sorgu: WELLBIOTIC 10 SAŞE LACTOBACILLUS RHAMN",
       "today_date": "2026-11-13",
-      "today_searches": 3,
+      "today_searches": 4,
       "today_cart_adds": 2,
       "today_smart_orders": 17,
-      "total_searches": 423,
+      "total_searches": 424,
       "total_cart_adds": 704,
       "total_smart_orders": 445,
       "total_days_used": 10,
@@ -598,22 +598,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.112",
           "app_version": "1.8.3",
-          "last_seen_at": "2026-11-13 09:41:21",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-13 09:42:48",
+          "last_action": "Depo Sorgu: WELLBIOTIC 10 SAŞE LACTOBACILLUS RHAMN",
           "today_date": "2026-11-13",
-          "today_searches": 3,
+          "today_searches": 4,
           "today_cart_adds": 2,
           "today_smart_orders": 2,
-          "total_searches": 76,
+          "total_searches": 77,
           "total_cart_adds": 88,
           "total_smart_orders": 54,
           "total_days_used": 10,
           "recent_actions": [
-            {
-              "t": "2026-11-12 16:42:33",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (15 Ürün)"
-            },
             {
               "t": "2026-11-12 17:27:47",
               "type": "search",
@@ -683,6 +678,11 @@
               "t": "2026-11-13 09:41:21",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-13 09:41:30",
+              "type": "search",
+              "detail": "Depo Sorgu: WELLBIOTIC 10 SAŞE LACTOBACILLUS RHAMN"
             }
           ]
         },
