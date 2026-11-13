@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 13:42:23",
+  "updated_at": "2026-11-13 13:42:37",
   "count": 5,
   "items": [
     {
@@ -16,15 +16,15 @@
       "hwid": "E4F7-229A-BABD",
       "last_pc_name": "ChagriBeg",
       "app_version": "1.8.5",
-      "last_seen_at": "2026-11-13 13:42:18",
-      "last_action": "[ChagriBeg] Canlı MF Sorgulama (35 Ürün)",
+      "last_seen_at": "2026-11-13 13:42:37",
+      "last_action": "[ChagriBeg] Canlı MF Sorgulama (18 Ürün)",
       "today_date": "2026-11-13",
       "today_searches": 10,
       "today_cart_adds": 12,
-      "today_smart_orders": 133,
+      "today_smart_orders": 137,
       "total_searches": 136,
       "total_cart_adds": 362,
-      "total_smart_orders": 370,
+      "total_smart_orders": 374,
       "total_days_used": 9,
       "pc_count": 3,
       "devices": {
@@ -34,37 +34,17 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.8.5",
-          "last_seen_at": "2026-11-13 13:42:18",
-          "last_action": "Canlı MF Sorgulama (35 Ürün)",
+          "last_seen_at": "2026-11-13 13:42:37",
+          "last_action": "Canlı MF Sorgulama (18 Ürün)",
           "today_date": "2026-11-13",
           "today_searches": 8,
           "today_cart_adds": 0,
-          "today_smart_orders": 82,
+          "today_smart_orders": 86,
           "total_searches": 55,
           "total_cart_adds": 36,
-          "total_smart_orders": 153,
+          "total_smart_orders": 157,
           "total_days_used": 9,
           "recent_actions": [
-            {
-              "t": "2026-11-13 13:41:15",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-13 13:41:17",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş Planlama"
-            },
-            {
-              "t": "2026-11-13 13:41:17",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş (TEBEOS • 2 Kalem)"
-            },
-            {
-              "t": "2026-11-13 13:41:21",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş Planlama"
-            },
             {
               "t": "2026-11-13 13:41:22",
               "type": "smart_order",
@@ -119,6 +99,26 @@
               "t": "2026-11-13 13:42:18",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (35 Ürün)"
+            },
+            {
+              "t": "2026-11-13 13:42:19",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-13 13:42:30",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (35 Ürün)"
+            },
+            {
+              "t": "2026-11-13 13:42:31",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-13 13:42:37",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (18 Ürün)"
             }
           ]
         },
