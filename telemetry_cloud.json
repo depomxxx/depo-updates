@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 12:06:15",
+  "updated_at": "2026-11-13 12:06:24",
   "count": 5,
   "items": [
     {
@@ -13,18 +13,18 @@
       "plan": "PRO_YILLIK",
       "expires_at": "2027-10-24",
       "status": "AKTIF",
-      "hwid": "5834-FAC9-B71F",
-      "last_pc_name": "DESKTOP-OTHNDUE",
+      "hwid": "E6B1-5698-273E",
+      "last_pc_name": "DESKTOP-6KFO8IF",
       "app_version": "1.8.3",
-      "last_seen_at": "2026-11-13 12:06:11",
-      "last_action": "[DESKTOP-OTHNDUE] Canlı MF Sorgulama (3 Ürün)",
+      "last_seen_at": "2026-11-13 12:06:24",
+      "last_action": "[DESKTOP-6KFO8IF] Canlı MF Taraması",
       "today_date": "2026-11-13",
       "today_searches": 6,
       "today_cart_adds": 4,
-      "today_smart_orders": 52,
+      "today_smart_orders": 56,
       "total_searches": 132,
       "total_cart_adds": 354,
-      "total_smart_orders": 289,
+      "total_smart_orders": 293,
       "total_days_used": 9,
       "pc_count": 3,
       "devices": {
@@ -127,38 +127,18 @@
           "pc_name": "DESKTOP-6KFO8IF",
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
-          "app_version": "1.8.1",
-          "last_seen_at": "2026-11-13 12:06:10",
-          "last_action": "Program Açık (Canlı)",
+          "app_version": "1.8.3",
+          "last_seen_at": "2026-11-13 12:06:24",
+          "last_action": "Canlı MF Taraması",
           "today_date": "2026-11-13",
           "today_searches": 0,
           "today_cart_adds": 0,
-          "today_smart_orders": 0,
+          "today_smart_orders": 4,
           "total_searches": 14,
           "total_cart_adds": 38,
-          "total_smart_orders": 17,
+          "total_smart_orders": 21,
           "total_days_used": 9,
           "recent_actions": [
-            {
-              "t": "2026-11-11 18:26:07",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-11 18:26:10",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (8 Ürün)"
-            },
-            {
-              "t": "2026-11-12 00:13:32",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-12 00:13:38",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-12 00:13:42",
               "type": "search",
@@ -213,6 +193,26 @@
               "t": "2026-11-12 00:50:09",
               "type": "cart",
               "detail": "EczaneTakas Kampanya Açıldı: PULCET 40 MG 28 TB (30+4)"
+            },
+            {
+              "t": "2026-11-13 12:06:12",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-13 12:06:13",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-13 12:06:13",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-13 12:06:14",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
             }
           ]
         },
