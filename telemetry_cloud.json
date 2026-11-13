@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 15:29:20",
+  "updated_at": "2026-11-13 15:29:26",
   "count": 6,
   "items": [
     {
@@ -445,17 +445,17 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D719-CEB2-1542",
-      "last_pc_name": "DESKTOP-M530BBB",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.8.9",
-      "last_seen_at": "2026-11-13 15:29:13",
-      "last_action": "[DESKTOP-M530BBB] Canlı MF Taraması",
+      "last_seen_at": "2026-11-13 15:29:26",
+      "last_action": "[DESKTOP-OTHNDUE] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-13",
       "today_searches": 26,
-      "today_cart_adds": 47,
+      "today_cart_adds": 51,
       "today_smart_orders": 109,
       "total_searches": 446,
-      "total_cart_adds": 749,
+      "total_cart_adds": 753,
       "total_smart_orders": 537,
       "total_days_used": 10,
       "pc_count": 8,
@@ -560,32 +560,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.8.9",
-          "last_seen_at": "2026-11-13 15:28:50",
+          "last_seen_at": "2026-11-13 15:29:26",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-13",
           "today_searches": 10,
-          "today_cart_adds": 23,
+          "today_cart_adds": 27,
           "today_smart_orders": 53,
           "total_searches": 75,
-          "total_cart_adds": 299,
+          "total_cart_adds": 303,
           "total_smart_orders": 202,
           "total_days_used": 9,
           "recent_actions": [
-            {
-              "t": "2026-11-13 15:17:10",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (1 Ürün)"
-            },
-            {
-              "t": "2026-11-13 15:17:39",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-13 15:25:39",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-13 15:25:39",
               "type": "critical_stock",
@@ -643,6 +628,21 @@
             },
             {
               "t": "2026-11-13 15:28:25",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-13 15:28:51",
+              "type": "cart",
+              "detail": "Toplu Sepet (NEVZAT): 1 Kalem"
+            },
+            {
+              "t": "2026-11-13 15:28:53",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-13 15:29:26",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
@@ -842,7 +842,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.8.9",
-          "last_seen_at": "2026-11-13 15:27:38",
+          "last_seen_at": "2026-11-13 15:29:09",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-13",
           "today_searches": 0,
