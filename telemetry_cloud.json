@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 16:52:37",
+  "updated_at": "2026-11-13 16:52:43",
   "count": 6,
   "items": [
     {
@@ -16,15 +16,15 @@
       "hwid": "3C0F-6FF9-862F",
       "last_pc_name": "Berkay",
       "app_version": "1.8.9",
-      "last_seen_at": "2026-11-13 16:52:16",
-      "last_action": "Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-13 16:52:43",
+      "last_action": "Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-13",
       "today_searches": 45,
-      "today_cart_adds": 87,
-      "today_smart_orders": 110,
+      "today_cart_adds": 92,
+      "today_smart_orders": 112,
       "total_searches": 45,
-      "total_cart_adds": 87,
-      "total_smart_orders": 110,
+      "total_cart_adds": 92,
+      "total_smart_orders": 112,
       "total_days_used": 1,
       "pc_count": 1,
       "devices": {
@@ -34,52 +34,17 @@
           "desk_name": "Berkay",
           "local_ip": "192.168.1.103",
           "app_version": "1.8.9",
-          "last_seen_at": "2026-11-13 16:52:16",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-13 16:52:43",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-13",
           "today_searches": 45,
-          "today_cart_adds": 87,
-          "today_smart_orders": 110,
+          "today_cart_adds": 92,
+          "today_smart_orders": 112,
           "total_searches": 45,
-          "total_cart_adds": 87,
-          "total_smart_orders": 110,
+          "total_cart_adds": 92,
+          "total_smart_orders": 112,
           "total_days_used": 1,
           "recent_actions": [
-            {
-              "t": "2026-11-13 16:43:37",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (11 Ürün)"
-            },
-            {
-              "t": "2026-11-13 16:47:14",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş Planlama"
-            },
-            {
-              "t": "2026-11-13 16:47:15",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş (BOTANIK • 250 Kalem)"
-            },
-            {
-              "t": "2026-11-13 16:47:16",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-13 16:47:32",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (35 Ürün)"
-            },
-            {
-              "t": "2026-11-13 16:47:33",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-13 16:47:49",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (35 Ürün)"
-            },
             {
               "t": "2026-11-13 16:47:49",
               "type": "mf_resolve",
@@ -119,6 +84,41 @@
               "t": "2026-11-13 16:52:16",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-13 16:52:16",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-13 16:52:17",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (1 Ürün)"
+            },
+            {
+              "t": "2026-11-13 16:52:23",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-13 16:52:25",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): AVODART 0.5MG 30 YUMUŞAK KAP x3"
+            },
+            {
+              "t": "2026-11-13 16:52:27",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-13 16:52:29",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): COLEDAN-D3 25.000IU/ML ORAL  x1"
+            },
+            {
+              "t": "2026-11-13 16:52:43",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         }
