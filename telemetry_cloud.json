@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 15:26:11",
+  "updated_at": "2026-11-13 15:26:48",
   "count": 6,
   "items": [
     {
@@ -445,18 +445,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D719-CEB2-1542",
-      "last_pc_name": "DESKTOP-M530BBB",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.8.9",
-      "last_seen_at": "2026-11-13 15:26:11",
-      "last_action": "[DESKTOP-M530BBB] Canlı MF Taraması",
+      "last_seen_at": "2026-11-13 15:26:48",
+      "last_action": "[DESKTOP-OTHNDUE] Depo Fiyat Sorgulama",
       "today_date": "2026-11-13",
-      "today_searches": 20,
+      "today_searches": 23,
       "today_cart_adds": 41,
-      "today_smart_orders": 106,
-      "total_searches": 440,
+      "today_smart_orders": 109,
+      "total_searches": 443,
       "total_cart_adds": 743,
-      "total_smart_orders": 534,
+      "total_smart_orders": 537,
       "total_days_used": 10,
       "pc_count": 8,
       "devices": {
@@ -560,47 +560,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.8.9",
-          "last_seen_at": "2026-11-13 15:25:39",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-13 15:26:48",
+          "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-13",
-          "today_searches": 4,
+          "today_searches": 7,
           "today_cart_adds": 17,
-          "today_smart_orders": 50,
-          "total_searches": 69,
+          "today_smart_orders": 53,
+          "total_searches": 72,
           "total_cart_adds": 293,
-          "total_smart_orders": 199,
+          "total_smart_orders": 202,
           "total_days_used": 9,
           "recent_actions": [
-            {
-              "t": "2026-11-13 15:10:25",
-              "type": "cart",
-              "detail": "Toplu Sepet (SELCUK): 1 Kalem"
-            },
-            {
-              "t": "2026-11-13 15:10:30",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-13 15:11:16",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-13 15:11:38",
-              "type": "cart",
-              "detail": "Toplu Sepet (ALLIANCE): 7 Kalem"
-            },
-            {
-              "t": "2026-11-13 15:11:38",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-13 15:12:07",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-13 15:12:07",
               "type": "critical_stock",
@@ -645,6 +615,36 @@
               "t": "2026-11-13 15:25:39",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-13 15:25:39",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 42 Kalem)"
+            },
+            {
+              "t": "2026-11-13 15:25:39",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-13 15:25:42",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (5 Ürün)"
+            },
+            {
+              "t": "2026-11-13 15:25:53",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-13 15:25:56",
+              "type": "search",
+              "detail": "Depo Sorgu: RABBY D 10 MG 28 TB."
+            },
+            {
+              "t": "2026-11-13 15:26:48",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ]
         },
@@ -842,7 +842,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.8.9",
-          "last_seen_at": "2026-11-13 15:24:37",
+          "last_seen_at": "2026-11-13 15:26:08",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-13",
           "today_searches": 0,
