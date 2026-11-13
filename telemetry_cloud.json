@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 16:57:10",
+  "updated_at": "2026-11-13 16:57:08",
   "count": 6,
   "items": [
     {
@@ -440,7 +440,7 @@
       "pharmacist_name": "EDA BİLGİN",
       "phone": "05077034200",
       "city": "SAMSUN/İLKADIM",
-      "gln_no": "8680001000000",
+      "gln_no": "8680001112258",
       "otomasyon": "TRIA",
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
@@ -453,10 +453,10 @@
       "today_date": "2026-11-13",
       "today_searches": 30,
       "today_cart_adds": 64,
-      "today_smart_orders": 160,
+      "today_smart_orders": 162,
       "total_searches": 450,
       "total_cart_adds": 766,
-      "total_smart_orders": 588,
+      "total_smart_orders": 590,
       "total_days_used": 10,
       "pc_count": 8,
       "devices": {
@@ -465,28 +465,18 @@
           "pc_name": "Eskienes",
           "desk_name": "Eskienes",
           "local_ip": "192.168.1.117",
-          "app_version": "1.8.3",
-          "last_seen_at": "2026-11-13 16:56:58",
+          "app_version": "1.8.9",
+          "last_seen_at": "2026-11-13 16:57:08",
           "last_action": "Canlı MF Taraması",
           "today_date": "2026-11-13",
           "today_searches": 0,
           "today_cart_adds": 0,
-          "today_smart_orders": 12,
+          "today_smart_orders": 14,
           "total_searches": 56,
           "total_cart_adds": 52,
-          "total_smart_orders": 42,
+          "total_smart_orders": 44,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-12 11:17:17",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-12 11:17:19",
-              "type": "search",
-              "detail": "Depo Sorgu: ATTEX 25 MG 28 CAP."
-            },
             {
               "t": "2026-11-12 11:17:37",
               "type": "cart",
@@ -549,6 +539,16 @@
             },
             {
               "t": "2026-11-13 16:56:56",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-13 16:57:03",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-13 16:57:03",
               "type": "mf_resolve",
               "detail": "Canlı MF Taraması"
             }
