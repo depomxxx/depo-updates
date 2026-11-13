@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 16:47:14",
+  "updated_at": "2026-11-13 16:47:32",
   "count": 6,
   "items": [
     {
@@ -16,15 +16,15 @@
       "hwid": "3C0F-6FF9-862F",
       "last_pc_name": "Berkay",
       "app_version": "1.8.9",
-      "last_seen_at": "2026-11-13 16:47:14",
-      "last_action": "Toplu Sipariş Planlama",
+      "last_seen_at": "2026-11-13 16:47:32",
+      "last_action": "Canlı MF Sorgulama (35 Ürün)",
       "today_date": "2026-11-13",
       "today_searches": 45,
       "today_cart_adds": 87,
-      "today_smart_orders": 97,
+      "today_smart_orders": 100,
       "total_searches": 45,
       "total_cart_adds": 87,
-      "total_smart_orders": 97,
+      "total_smart_orders": 100,
       "total_days_used": 1,
       "pc_count": 1,
       "devices": {
@@ -34,32 +34,17 @@
           "desk_name": "Berkay",
           "local_ip": "192.168.1.103",
           "app_version": "1.8.9",
-          "last_seen_at": "2026-11-13 16:47:14",
-          "last_action": "Toplu Sipariş Planlama",
+          "last_seen_at": "2026-11-13 16:47:32",
+          "last_action": "Canlı MF Sorgulama (35 Ürün)",
           "today_date": "2026-11-13",
           "today_searches": 45,
           "today_cart_adds": 87,
-          "today_smart_orders": 97,
+          "today_smart_orders": 100,
           "total_searches": 45,
           "total_cart_adds": 87,
-          "total_smart_orders": 97,
+          "total_smart_orders": 100,
           "total_days_used": 1,
           "recent_actions": [
-            {
-              "t": "2026-11-13 16:38:06",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): AYRA 16MG 28 TABLET x1"
-            },
-            {
-              "t": "2026-11-13 16:38:38",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-13 16:39:52",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-13 16:39:52",
               "type": "mf_resolve",
@@ -119,6 +104,21 @@
               "t": "2026-11-13 16:47:14",
               "type": "smart_order",
               "detail": "Toplu Sipariş Planlama"
+            },
+            {
+              "t": "2026-11-13 16:47:15",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş (BOTANIK • 250 Kalem)"
+            },
+            {
+              "t": "2026-11-13 16:47:16",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-13 16:47:32",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (35 Ürün)"
             }
           ]
         }
