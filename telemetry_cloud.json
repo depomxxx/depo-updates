@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 14:30:14",
+  "updated_at": "2026-11-13 14:30:39",
   "count": 6,
   "items": [
     {
@@ -16,15 +16,15 @@
       "hwid": "3C0F-6FF9-862F",
       "last_pc_name": "Berkay",
       "app_version": "1.8.7",
-      "last_seen_at": "2026-11-13 14:30:14",
-      "last_action": "Piyasa Fiyat Kıyaslama: OCEAN VITAMIN C 30 TABLET",
+      "last_seen_at": "2026-11-13 14:30:39",
+      "last_action": "Toplu Sipariş Planlama",
       "today_date": "2026-11-13",
       "today_searches": 13,
       "today_cart_adds": 0,
-      "today_smart_orders": 18,
+      "today_smart_orders": 19,
       "total_searches": 13,
       "total_cart_adds": 0,
-      "total_smart_orders": 18,
+      "total_smart_orders": 19,
       "total_days_used": 1,
       "pc_count": 1,
       "devices": {
@@ -34,22 +34,17 @@
           "desk_name": "Berkay",
           "local_ip": "192.168.1.103",
           "app_version": "1.8.7",
-          "last_seen_at": "2026-11-13 14:30:14",
-          "last_action": "Piyasa Fiyat Kıyaslama: OCEAN VITAMIN C 30 TABLET",
+          "last_seen_at": "2026-11-13 14:30:39",
+          "last_action": "Toplu Sipariş Planlama",
           "today_date": "2026-11-13",
           "today_searches": 13,
           "today_cart_adds": 0,
-          "today_smart_orders": 18,
+          "today_smart_orders": 19,
           "total_searches": 13,
           "total_cart_adds": 0,
-          "total_smart_orders": 18,
+          "total_smart_orders": 19,
           "total_days_used": 1,
           "recent_actions": [
-            {
-              "t": "2026-11-13 14:24:07",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-13 14:24:08",
               "type": "search",
@@ -119,6 +114,11 @@
               "t": "2026-11-13 14:30:14",
               "type": "search",
               "detail": "Piyasa Fiyat Kıyaslama: OCEAN VITAMIN C 30 TABLET"
+            },
+            {
+              "t": "2026-11-13 14:30:39",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş Planlama"
             }
           ]
         }
