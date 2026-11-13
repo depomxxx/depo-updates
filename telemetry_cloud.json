@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 11:05:17",
+  "updated_at": "2026-11-13 11:05:37",
   "count": 5,
   "items": [
     {
@@ -16,15 +16,15 @@
       "hwid": "E4F7-229A-BABD",
       "last_pc_name": "ChagriBeg",
       "app_version": "1.8.3",
-      "last_seen_at": "2026-11-13 11:04:43",
+      "last_seen_at": "2026-11-13 11:05:37",
       "last_action": "Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-13",
       "today_searches": 0,
       "today_cart_adds": 0,
-      "today_smart_orders": 19,
+      "today_smart_orders": 23,
       "total_searches": 47,
       "total_cart_adds": 36,
-      "total_smart_orders": 90,
+      "total_smart_orders": 94,
       "total_days_used": 9,
       "pc_count": 1,
       "devices": {
@@ -34,37 +34,17 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.8.3",
-          "last_seen_at": "2026-11-13 11:04:43",
+          "last_seen_at": "2026-11-13 11:05:37",
           "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-13",
           "today_searches": 0,
           "today_cart_adds": 0,
-          "today_smart_orders": 19,
+          "today_smart_orders": 23,
           "total_searches": 47,
           "total_cart_adds": 36,
-          "total_smart_orders": 90,
+          "total_smart_orders": 94,
           "total_days_used": 9,
           "recent_actions": [
-            {
-              "t": "2026-11-13 10:14:51",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-13 10:14:51",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-13 10:14:53",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (3 Ürün)"
-            },
-            {
-              "t": "2026-11-13 10:15:00",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş Planlama"
-            },
             {
               "t": "2026-11-13 10:15:00",
               "type": "smart_order",
@@ -117,6 +97,26 @@
             },
             {
               "t": "2026-11-13 11:04:43",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-13 11:04:43",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TEBEOS • 1 Kalem)"
+            },
+            {
+              "t": "2026-11-13 11:04:43",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-13 11:04:44",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (1 Ürün)"
+            },
+            {
+              "t": "2026-11-13 11:05:37",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
             }
