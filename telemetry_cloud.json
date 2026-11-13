@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 10:44:24",
+  "updated_at": "2026-11-13 10:44:43",
   "count": 5,
   "items": [
     {
@@ -138,13 +138,13 @@
       "hwid": "D719-CEB2-1542",
       "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.8.3",
-      "last_seen_at": "2026-11-13 10:44:24",
-      "last_action": "[DESKTOP-M530BBB] Depo Sorgu: WELLBIOTIC 10 SAŞE LACTOBACILLUS RHAMN",
+      "last_seen_at": "2026-11-13 10:44:43",
+      "last_action": "[DESKTOP-M530BBB] Depo Sorgu: PULCET 40 MG 28 TB",
       "today_date": "2026-11-13",
-      "today_searches": 4,
+      "today_searches": 6,
       "today_cart_adds": 2,
       "today_smart_orders": 17,
-      "total_searches": 424,
+      "total_searches": 426,
       "total_cart_adds": 704,
       "total_smart_orders": 445,
       "total_days_used": 10,
@@ -720,27 +720,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.112",
           "app_version": "1.8.3",
-          "last_seen_at": "2026-11-13 10:44:24",
-          "last_action": "Depo Sorgu: WELLBIOTIC 10 SAŞE LACTOBACILLUS RHAMN",
+          "last_seen_at": "2026-11-13 10:44:43",
+          "last_action": "Depo Sorgu: PULCET 40 MG 28 TB",
           "today_date": "2026-11-13",
-          "today_searches": 4,
+          "today_searches": 6,
           "today_cart_adds": 2,
           "today_smart_orders": 2,
-          "total_searches": 77,
+          "total_searches": 79,
           "total_cart_adds": 88,
           "total_smart_orders": 54,
           "total_days_used": 10,
           "recent_actions": [
-            {
-              "t": "2026-11-12 17:27:47",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-12 17:27:55",
-              "type": "search",
-              "detail": "Depo Sorgu: BEFIXO 3 ML 5 AMP."
-            },
             {
               "t": "2026-11-12 17:30:38",
               "type": "critical_stock",
@@ -805,6 +795,16 @@
               "t": "2026-11-13 09:41:30",
               "type": "search",
               "detail": "Depo Sorgu: WELLBIOTIC 10 SAŞE LACTOBACILLUS RHAMN"
+            },
+            {
+              "t": "2026-11-13 10:44:36",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-13 10:44:43",
+              "type": "search",
+              "detail": "Depo Sorgu: PULCET 40 MG 28 TB"
             }
           ]
         },
