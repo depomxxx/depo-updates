@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 16:57:03",
+  "updated_at": "2026-11-13 16:57:04",
   "count": 6,
   "items": [
     {
@@ -440,23 +440,23 @@
       "pharmacist_name": "EDA BİLGİN",
       "phone": "05077034200",
       "city": "SAMSUN/İLKADIM",
-      "gln_no": "8680001112258",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "83F3-13F8-E632",
-      "last_pc_name": "Eskienes",
-      "app_version": "1.8.3",
-      "last_seen_at": "2026-11-13 16:56:48",
-      "last_action": "[Eskienes] Canlı MF Sorgulama (1 Ürün)",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
+      "app_version": "1.8.9",
+      "last_seen_at": "2026-11-13 16:57:04",
+      "last_action": "[DESKTOP-OTHNDUE] Canlı MF Sorgulama (1 Ürün)",
       "today_date": "2026-11-13",
       "today_searches": 30,
       "today_cart_adds": 64,
-      "today_smart_orders": 155,
+      "today_smart_orders": 160,
       "total_searches": 450,
       "total_cart_adds": 766,
-      "total_smart_orders": 583,
+      "total_smart_orders": 588,
       "total_days_used": 10,
       "pc_count": 8,
       "devices": {
@@ -466,37 +466,17 @@
           "desk_name": "Eskienes",
           "local_ip": "192.168.1.117",
           "app_version": "1.8.3",
-          "last_seen_at": "2026-11-13 16:56:48",
-          "last_action": "Canlı MF Sorgulama (1 Ürün)",
+          "last_seen_at": "2026-11-13 16:56:58",
+          "last_action": "Canlı MF Taraması",
           "today_date": "2026-11-13",
           "today_searches": 0,
           "today_cart_adds": 0,
-          "today_smart_orders": 7,
+          "today_smart_orders": 12,
           "total_searches": 56,
           "total_cart_adds": 52,
-          "total_smart_orders": 37,
+          "total_smart_orders": 42,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-12 11:16:35",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-12 11:16:37",
-              "type": "search",
-              "detail": "Depo Sorgu: ATTEX 18 MG 28 CAP."
-            },
-            {
-              "t": "2026-11-12 11:16:54",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-12 11:16:57",
-              "type": "search",
-              "detail": "Depo Sorgu: ATTEX 25 MG 28 CAP."
-            },
             {
               "t": "2026-11-12 11:17:17",
               "type": "search",
@@ -551,6 +531,26 @@
               "t": "2026-11-13 08:35:43",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (1 Ürün)"
+            },
+            {
+              "t": "2026-11-13 16:56:52",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-13 16:56:53",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-13 16:56:56",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-13 16:56:56",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
             }
           ]
         },
@@ -560,7 +560,7 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.8.9",
-          "last_seen_at": "2026-11-13 16:56:40",
+          "last_seen_at": "2026-11-13 16:57:04",
           "last_action": "Canlı MF Sorgulama (1 Ürün)",
           "today_date": "2026-11-13",
           "today_searches": 14,
@@ -842,7 +842,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.8.9",
-          "last_seen_at": "2026-11-13 16:55:32",
+          "last_seen_at": "2026-11-13 16:57:03",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-13",
           "today_searches": 0,
