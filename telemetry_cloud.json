@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 13:49:54",
+  "updated_at": "2026-11-13 13:52:47",
   "count": 5,
   "items": [
     {
@@ -1483,16 +1483,16 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.8.5",
-      "last_seen_at": "2026-11-13 13:51:17",
-      "last_action": "[DESKTOP-T4EAUS3] Depo Sorgu: SCHWARZKOPF GLISS HAIR REPAIR",
+      "last_seen_at": "2026-11-13 13:52:47",
+      "last_action": "[DESKTOP-T4EAUS3] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-13",
       "today_searches": 6,
       "today_cart_adds": 20,
-      "today_smart_orders": 36,
+      "today_smart_orders": 37,
       "total_searches": 121,
       "total_cart_adds": 537,
       "total_days_used": 9,
-      "total_smart_orders": 218,
+      "total_smart_orders": 219,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -1575,22 +1575,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.8.5",
-          "last_seen_at": "2026-11-13 13:51:17",
-          "last_action": "Depo Sorgu: SCHWARZKOPF GLISS HAIR REPAIR",
+          "last_seen_at": "2026-11-13 13:52:47",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-13",
           "today_searches": 6,
           "today_cart_adds": 20,
-          "today_smart_orders": 36,
+          "today_smart_orders": 37,
           "total_searches": 49,
           "total_cart_adds": 279,
-          "total_smart_orders": 149,
+          "total_smart_orders": 150,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-13 11:54:48",
-              "type": "search",
-              "detail": "Depo Sorgu: PROCTOLOG %5.8+%0.5 30 GR KR."
-            },
             {
               "t": "2026-11-13 11:57:09",
               "type": "critical_stock",
@@ -1660,6 +1655,11 @@
               "t": "2026-11-13 12:14:26",
               "type": "search",
               "detail": "Depo Sorgu: SCHWARZKOPF GLISS HAIR REPAIR"
+            },
+            {
+              "t": "2026-11-13 13:52:47",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         },
