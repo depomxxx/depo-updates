@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 16:59:35",
+  "updated_at": "2026-11-13 17:01:48",
   "count": 6,
   "items": [
     {
@@ -1605,16 +1605,16 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.8.9",
-      "last_seen_at": "2026-11-13 17:00:57",
-      "last_action": "[DESKTOP-T4EAUS3] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-13 17:01:48",
+      "last_action": "[DESKTOP-T4EAUS3] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-13",
       "today_searches": 18,
-      "today_cart_adds": 41,
-      "today_smart_orders": 78,
+      "today_cart_adds": 44,
+      "today_smart_orders": 82,
       "total_searches": 133,
-      "total_cart_adds": 558,
+      "total_cart_adds": 561,
       "total_days_used": 9,
-      "total_smart_orders": 260,
+      "total_smart_orders": 264,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -1697,47 +1697,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.8.9",
-          "last_seen_at": "2026-11-13 17:00:57",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-13 17:01:48",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-13",
           "today_searches": 18,
-          "today_cart_adds": 41,
-          "today_smart_orders": 78,
+          "today_cart_adds": 44,
+          "today_smart_orders": 82,
           "total_searches": 61,
-          "total_cart_adds": 300,
-          "total_smart_orders": 191,
+          "total_cart_adds": 303,
+          "total_smart_orders": 195,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-13 16:13:38",
-              "type": "cart",
-              "detail": "Toplu Sepet (ALLIANCE): 6 Kalem"
-            },
-            {
-              "t": "2026-11-13 16:13:40",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-13 16:14:17",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-13 16:14:19",
-              "type": "cart",
-              "detail": "Sepete Ekle (ISKOOP): ASEKET 25/500MG 20 FİLM TABL x3"
-            },
-            {
-              "t": "2026-11-13 16:14:25",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-13 16:14:36",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-13 16:14:36",
               "type": "critical_stock",
@@ -1782,6 +1752,36 @@
               "t": "2026-11-13 17:00:57",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-13 17:01:00",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (30 Ürün)"
+            },
+            {
+              "t": "2026-11-13 17:01:00",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-13 17:01:02",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (2 Ürün)"
+            },
+            {
+              "t": "2026-11-13 17:01:09",
+              "type": "cart",
+              "detail": "Toplu Sepet (ISKOOP): 3 Kalem"
+            },
+            {
+              "t": "2026-11-13 17:01:11",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-13 17:01:48",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         },
