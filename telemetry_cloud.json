@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 10:51:16",
+  "updated_at": "2026-11-13 10:51:38",
   "count": 5,
   "items": [
     {
@@ -138,7 +138,7 @@
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.8.3",
-      "last_seen_at": "2026-11-13 10:50:07",
+      "last_seen_at": "2026-11-13 10:51:38",
       "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları Yenileme (TRIA • 3 Kalem)",
       "today_date": "2026-11-13",
       "today_searches": 6,
@@ -250,7 +250,7 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.8.3",
-          "last_seen_at": "2026-11-13 10:50:07",
+          "last_seen_at": "2026-11-13 10:51:38",
           "last_action": "Günün Çıkışları Yenileme (TRIA • 3 Kalem)",
           "today_date": "2026-11-13",
           "today_searches": 0,
