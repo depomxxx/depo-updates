@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 16:57:20",
+  "updated_at": "2026-11-13 16:57:29",
   "count": 6,
   "items": [
     {
@@ -445,18 +445,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D719-CEB2-1542",
-      "last_pc_name": "DESKTOP-M530BBB",
+      "hwid": "83F3-13F8-E632",
+      "last_pc_name": "Eskienes",
       "app_version": "1.8.9",
-      "last_seen_at": "2026-11-13 16:57:10",
-      "last_action": "[DESKTOP-M530BBB] Canlı MF Taraması",
+      "last_seen_at": "2026-11-13 16:57:29",
+      "last_action": "[Eskienes] Depo Sorgu: BREQUAL 100/50 MCG 60 INH CAP",
       "today_date": "2026-11-13",
-      "today_searches": 30,
+      "today_searches": 32,
       "today_cart_adds": 64,
-      "today_smart_orders": 162,
-      "total_searches": 450,
+      "today_smart_orders": 163,
+      "total_searches": 452,
       "total_cart_adds": 766,
-      "total_smart_orders": 590,
+      "total_smart_orders": 591,
       "total_days_used": 10,
       "pc_count": 8,
       "devices": {
@@ -466,32 +466,17 @@
           "desk_name": "Eskienes",
           "local_ip": "192.168.1.117",
           "app_version": "1.8.9",
-          "last_seen_at": "2026-11-13 16:57:08",
-          "last_action": "Canlı MF Taraması",
+          "last_seen_at": "2026-11-13 16:57:29",
+          "last_action": "Depo Sorgu: BREQUAL 100/50 MCG 60 INH CAP",
           "today_date": "2026-11-13",
-          "today_searches": 0,
+          "today_searches": 2,
           "today_cart_adds": 0,
-          "today_smart_orders": 14,
-          "total_searches": 56,
+          "today_smart_orders": 15,
+          "total_searches": 58,
           "total_cart_adds": 52,
-          "total_smart_orders": 44,
+          "total_smart_orders": 45,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-12 11:17:37",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-12 11:17:38",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): ATTEX 25 MG 28 KAP x1"
-            },
-            {
-              "t": "2026-11-12 11:17:43",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-12 13:56:44",
               "type": "critical_stock",
@@ -551,6 +536,21 @@
               "t": "2026-11-13 16:57:03",
               "type": "mf_resolve",
               "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-13 16:57:11",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-13 16:57:14",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-13 16:57:29",
+              "type": "search",
+              "detail": "Depo Sorgu: BREQUAL 100/50 MCG 60 INH CAP"
             }
           ]
         },
