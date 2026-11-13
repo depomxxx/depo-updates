@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 14:22:35",
+  "updated_at": "2026-11-13 14:22:40",
   "count": 6,
   "items": [
     {
@@ -15,16 +15,16 @@
       "status": "AKTIF",
       "hwid": "3C0F-6FF9-862F",
       "last_pc_name": "Berkay",
-      "app_version": "1.8.2",
-      "last_seen_at": "2026-11-13 14:21:47",
-      "last_action": "Lisans Anahtarı Etkinleştirildi",
+      "app_version": "1.8.7",
+      "last_seen_at": "2026-11-13 14:22:40",
+      "last_action": "Depo Fiyat Sorgulama",
       "today_date": "2026-11-13",
-      "today_searches": 0,
+      "today_searches": 1,
       "today_cart_adds": 0,
-      "today_smart_orders": 0,
-      "total_searches": 0,
+      "today_smart_orders": 8,
+      "total_searches": 1,
       "total_cart_adds": 0,
-      "total_smart_orders": 0,
+      "total_smart_orders": 8,
       "total_days_used": 1,
       "pc_count": 1,
       "devices": {
@@ -33,16 +33,16 @@
           "pc_name": "Berkay",
           "desk_name": "Berkay",
           "local_ip": "192.168.1.103",
-          "app_version": "1.8.2",
-          "last_seen_at": "2026-11-13 14:21:47",
-          "last_action": "Lisans Anahtarı Etkinleştirildi",
+          "app_version": "1.8.7",
+          "last_seen_at": "2026-11-13 14:22:40",
+          "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-13",
-          "today_searches": 0,
+          "today_searches": 1,
           "today_cart_adds": 0,
-          "today_smart_orders": 0,
-          "total_searches": 0,
+          "today_smart_orders": 8,
+          "total_searches": 1,
           "total_cart_adds": 0,
-          "total_smart_orders": 0,
+          "total_smart_orders": 8,
           "total_days_used": 1,
           "recent_actions": [
             {
@@ -54,6 +54,41 @@
               "t": "2026-11-13 14:21:06",
               "type": "activation",
               "detail": "Lisans Anahtarı Etkinleştirildi"
+            },
+            {
+              "t": "2026-11-13 14:21:52",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-13 14:21:52",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-13 14:21:57",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-13 14:21:57",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-13 14:22:08",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-13 14:22:08",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-13 14:22:40",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ]
         }
