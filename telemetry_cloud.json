@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 15:06:26",
+  "updated_at": "2026-11-13 15:06:44",
   "count": 6,
   "items": [
     {
@@ -16,13 +16,13 @@
       "hwid": "3C0F-6FF9-862F",
       "last_pc_name": "Berkay",
       "app_version": "1.8.7",
-      "last_seen_at": "2026-11-13 15:06:23",
+      "last_seen_at": "2026-11-13 15:06:44",
       "last_action": "Depo Sorgu: BIODERMA ATODERRM CREAM ULTRA  500 ML ",
       "today_date": "2026-11-13",
-      "today_searches": 30,
+      "today_searches": 37,
       "today_cart_adds": 15,
       "today_smart_orders": 72,
-      "total_searches": 30,
+      "total_searches": 37,
       "total_cart_adds": 15,
       "total_smart_orders": 72,
       "total_days_used": 1,
@@ -34,47 +34,17 @@
           "desk_name": "Berkay",
           "local_ip": "192.168.1.103",
           "app_version": "1.8.7",
-          "last_seen_at": "2026-11-13 15:06:23",
+          "last_seen_at": "2026-11-13 15:06:44",
           "last_action": "Depo Sorgu: BIODERMA ATODERRM CREAM ULTRA  500 ML ",
           "today_date": "2026-11-13",
-          "today_searches": 30,
+          "today_searches": 37,
           "today_cart_adds": 15,
           "today_smart_orders": 72,
-          "total_searches": 30,
+          "total_searches": 37,
           "total_cart_adds": 15,
           "total_smart_orders": 72,
           "total_days_used": 1,
           "recent_actions": [
-            {
-              "t": "2026-11-13 14:43:07",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (28 Ürün)"
-            },
-            {
-              "t": "2026-11-13 14:56:54",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-13 14:56:54",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-13 14:57:03",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (18 Ürün)"
-            },
-            {
-              "t": "2026-11-13 15:01:49",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-13 15:01:50",
-              "type": "search",
-              "detail": "Depo Sorgu: SOLGAR HYALURONİC ACİD COLLAGEN COMPLE"
-            },
             {
               "t": "2026-11-13 15:02:00",
               "type": "cart",
@@ -117,6 +87,36 @@
             },
             {
               "t": "2026-11-13 15:06:23",
+              "type": "search",
+              "detail": "Depo Sorgu: BIODERMA ATODERRM CREAM ULTRA  500 ML "
+            },
+            {
+              "t": "2026-11-13 15:06:23",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-13 15:06:30",
+              "type": "search",
+              "detail": "Depo Sorgu: BIODERMA ATODERRM CREAM ULTRA  500 ML "
+            },
+            {
+              "t": "2026-11-13 15:06:30",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-13 15:06:33",
+              "type": "search",
+              "detail": "Depo Sorgu: BIODERMA ATODERRM CREAM ULTRA  500 ML "
+            },
+            {
+              "t": "2026-11-13 15:06:33",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-13 15:06:40",
               "type": "search",
               "detail": "Depo Sorgu: BIODERMA ATODERRM CREAM ULTRA  500 ML "
             }
