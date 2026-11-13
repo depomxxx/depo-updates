@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 16:32:40",
+  "updated_at": "2026-11-13 16:32:49",
   "count": 6,
   "items": [
     {
@@ -16,14 +16,14 @@
       "hwid": "3C0F-6FF9-862F",
       "last_pc_name": "Berkay",
       "app_version": "1.8.9",
-      "last_seen_at": "2026-11-13 16:32:19",
+      "last_seen_at": "2026-11-13 16:32:49",
       "last_action": "Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-13",
       "today_searches": 43,
-      "today_cart_adds": 39,
+      "today_cart_adds": 43,
       "today_smart_orders": 89,
       "total_searches": 43,
-      "total_cart_adds": 39,
+      "total_cart_adds": 43,
       "total_smart_orders": 89,
       "total_days_used": 1,
       "pc_count": 1,
@@ -34,37 +34,17 @@
           "desk_name": "Berkay",
           "local_ip": "192.168.1.103",
           "app_version": "1.8.9",
-          "last_seen_at": "2026-11-13 16:32:19",
+          "last_seen_at": "2026-11-13 16:32:49",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-13",
           "today_searches": 43,
-          "today_cart_adds": 39,
+          "today_cart_adds": 43,
           "today_smart_orders": 89,
           "total_searches": 43,
-          "total_cart_adds": 39,
+          "total_cart_adds": 43,
           "total_smart_orders": 89,
           "total_days_used": 1,
           "recent_actions": [
-            {
-              "t": "2026-11-13 16:27:00",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-13 16:27:02",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): IRDAPIN PLUS 150/10/12.5MG 2 x4"
-            },
-            {
-              "t": "2026-11-13 16:27:11",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-13 16:27:14",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): KEDAY XR 50MG UZATILMIS SALI x3"
-            },
             {
               "t": "2026-11-13 16:27:19",
               "type": "cart",
@@ -117,6 +97,26 @@
             },
             {
               "t": "2026-11-13 16:32:19",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-13 16:32:22",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): DEPALEX XR 500MG UZUN ETKILI x5"
+            },
+            {
+              "t": "2026-11-13 16:32:27",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-13 16:32:30",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): PRATIN 4MG 30 FİLM TABLET x3"
+            },
+            {
+              "t": "2026-11-13 16:32:49",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
