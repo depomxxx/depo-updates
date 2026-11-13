@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 15:25:22",
+  "updated_at": "2026-11-13 15:25:39",
   "count": 6,
   "items": [
     {
@@ -445,18 +445,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D719-CEB2-1542",
-      "last_pc_name": "DESKTOP-M530BBB",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.8.9",
-      "last_seen_at": "2026-11-13 15:24:40",
-      "last_action": "[DESKTOP-M530BBB] Canlı MF Taraması",
+      "last_seen_at": "2026-11-13 15:25:39",
+      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-13",
       "today_searches": 20,
       "today_cart_adds": 41,
-      "today_smart_orders": 105,
+      "today_smart_orders": 106,
       "total_searches": 440,
       "total_cart_adds": 743,
-      "total_smart_orders": 533,
+      "total_smart_orders": 534,
       "total_days_used": 10,
       "pc_count": 8,
       "devices": {
@@ -560,22 +560,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.8.9",
-          "last_seen_at": "2026-11-13 15:24:39",
+          "last_seen_at": "2026-11-13 15:25:39",
           "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-13",
           "today_searches": 4,
           "today_cart_adds": 17,
-          "today_smart_orders": 49,
+          "today_smart_orders": 50,
           "total_searches": 69,
           "total_cart_adds": 293,
-          "total_smart_orders": 198,
+          "total_smart_orders": 199,
           "total_days_used": 9,
           "recent_actions": [
-            {
-              "t": "2026-11-13 15:10:24",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-13 15:10:25",
               "type": "cart",
@@ -643,6 +638,11 @@
             },
             {
               "t": "2026-11-13 15:17:39",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-13 15:25:39",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
             }
