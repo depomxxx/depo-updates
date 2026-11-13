@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 14:49:20",
+  "updated_at": "2026-11-13 14:49:22",
   "count": 6,
   "items": [
     {
@@ -445,18 +445,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D719-CEB2-1542",
-      "last_pc_name": "DESKTOP-M530BBB",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.8.7",
-      "last_seen_at": "2026-11-13 14:49:01",
-      "last_action": "[DESKTOP-M530BBB] Depo Sorgu: FOREVER GARCINIA PLUS",
+      "last_seen_at": "2026-11-13 14:49:22",
+      "last_action": "[DESKTOP-OTHNDUE] Canlı MF Sorgulama (1 Ürün)",
       "today_date": "2026-11-13",
       "today_searches": 18,
-      "today_cart_adds": 24,
-      "today_smart_orders": 86,
+      "today_cart_adds": 28,
+      "today_smart_orders": 90,
       "total_searches": 438,
-      "total_cart_adds": 726,
-      "total_smart_orders": 514,
+      "total_cart_adds": 730,
+      "total_smart_orders": 518,
       "total_days_used": 10,
       "pc_count": 8,
       "devices": {
@@ -560,7 +560,7 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.8.7",
-          "last_seen_at": "2026-11-13 14:47:51",
+          "last_seen_at": "2026-11-13 14:49:22",
           "last_action": "Canlı MF Sorgulama (1 Ürün)",
           "today_date": "2026-11-13",
           "today_searches": 2,
@@ -842,52 +842,17 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.8.7",
-          "last_seen_at": "2026-11-13 14:47:49",
-          "last_action": "Canlı MF Sorgulama (1 Ürün)",
+          "last_seen_at": "2026-11-13 14:49:20",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-13",
           "today_searches": 0,
-          "today_cart_adds": 12,
-          "today_smart_orders": 35,
+          "today_cart_adds": 16,
+          "today_smart_orders": 39,
           "total_searches": 14,
-          "total_cart_adds": 50,
-          "total_smart_orders": 52,
+          "total_cart_adds": 54,
+          "total_smart_orders": 56,
           "total_days_used": 9,
           "recent_actions": [
-            {
-              "t": "2026-11-13 13:57:44",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (2 Ürün)"
-            },
-            {
-              "t": "2026-11-13 13:57:46",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-13 13:57:46",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 31 Kalem)"
-            },
-            {
-              "t": "2026-11-13 13:57:46",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-13 13:57:47",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (1 Ürün)"
-            },
-            {
-              "t": "2026-11-13 13:57:57",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-13 13:57:58",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): VERMİDON TABLET 30 TABLET/KU x5"
-            },
             {
               "t": "2026-11-13 13:58:54",
               "type": "critical_stock",
@@ -927,6 +892,41 @@
               "t": "2026-11-13 14:14:29",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (1 Ürün)"
+            },
+            {
+              "t": "2026-11-13 14:48:25",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-13 14:48:26",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 35 Kalem)"
+            },
+            {
+              "t": "2026-11-13 14:48:26",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-13 14:48:34",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (24 Ürün)"
+            },
+            {
+              "t": "2026-11-13 14:48:59",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-13 14:49:02",
+              "type": "cart",
+              "detail": "Toplu Sepet (ALLIANCE): 1 Kalem"
+            },
+            {
+              "t": "2026-11-13 14:49:05",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
