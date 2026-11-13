@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 11:45:50",
+  "updated_at": "2026-11-13 11:46:31",
   "count": 5,
   "items": [
     {
@@ -138,13 +138,13 @@
       "hwid": "D719-CEB2-1542",
       "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.8.3",
-      "last_seen_at": "2026-11-13 11:45:02",
-      "last_action": "[DESKTOP-M530BBB] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-13 11:46:31",
+      "last_action": "[DESKTOP-M530BBB] Depo Sorgu: PAXERA 10 MG 28 FTB.",
       "today_date": "2026-11-13",
-      "today_searches": 10,
+      "today_searches": 14,
       "today_cart_adds": 8,
       "today_smart_orders": 22,
-      "total_searches": 430,
+      "total_searches": 434,
       "total_cart_adds": 710,
       "total_smart_orders": 450,
       "total_days_used": 10,
@@ -720,37 +720,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.112",
           "app_version": "1.8.3",
-          "last_seen_at": "2026-11-13 11:45:02",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-13 11:46:31",
+          "last_action": "Depo Sorgu: PAXERA 10 MG 28 FTB.",
           "today_date": "2026-11-13",
-          "today_searches": 8,
+          "today_searches": 12,
           "today_cart_adds": 4,
           "today_smart_orders": 2,
-          "total_searches": 81,
+          "total_searches": 85,
           "total_cart_adds": 90,
           "total_smart_orders": 54,
           "total_days_used": 10,
           "recent_actions": [
-            {
-              "t": "2026-11-12 17:30:59",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-12 17:31:08",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (30 Ürün)"
-            },
-            {
-              "t": "2026-11-12 17:31:09",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-12 17:31:16",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (5 Ürün)"
-            },
             {
               "t": "2026-11-13 08:50:40",
               "type": "critical_stock",
@@ -805,6 +785,26 @@
               "t": "2026-11-13 11:12:50",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-13 11:45:08",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-13 11:45:15",
+              "type": "search",
+              "detail": "Depo Sorgu: PAXERA 10 MG 28 FTB."
+            },
+            {
+              "t": "2026-11-13 11:45:15",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-13 11:45:16",
+              "type": "search",
+              "detail": "Depo Sorgu: PAXERA 10 MG 28 FTB."
             }
           ]
         },
