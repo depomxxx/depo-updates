@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 17:00:06",
+  "updated_at": "2026-11-13 16:58:13",
   "count": 6,
   "items": [
     {
@@ -448,14 +448,14 @@
       "hwid": "83F3-13F8-E632",
       "last_pc_name": "Eskienes",
       "app_version": "1.8.9",
-      "last_seen_at": "2026-11-13 16:57:50",
-      "last_action": "[Eskienes] Depo Fiyat Sorgulama",
+      "last_seen_at": "2026-11-13 16:58:13",
+      "last_action": "[Eskienes] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-13",
-      "today_searches": 35,
-      "today_cart_adds": 64,
+      "today_searches": 36,
+      "today_cart_adds": 65,
       "today_smart_orders": 167,
-      "total_searches": 455,
-      "total_cart_adds": 766,
+      "total_searches": 456,
+      "total_cart_adds": 767,
       "total_smart_orders": 595,
       "total_days_used": 10,
       "pc_count": 8,
@@ -466,27 +466,17 @@
           "desk_name": "Eskienes",
           "local_ip": "192.168.1.117",
           "app_version": "1.8.9",
-          "last_seen_at": "2026-11-13 16:57:50",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-13 16:58:13",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-13",
-          "today_searches": 5,
-          "today_cart_adds": 0,
+          "today_searches": 6,
+          "today_cart_adds": 1,
           "today_smart_orders": 19,
-          "total_searches": 61,
-          "total_cart_adds": 52,
+          "total_searches": 62,
+          "total_cart_adds": 53,
           "total_smart_orders": 49,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-13 16:56:53",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-13 16:56:56",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-13 16:56:56",
               "type": "mf_resolve",
@@ -551,6 +541,16 @@
               "t": "2026-11-13 16:57:50",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-13 16:57:52",
+              "type": "search",
+              "detail": "Depo Sorgu: BREQUAL 500/50 MCG 60 INH CAP."
+            },
+            {
+              "t": "2026-11-13 16:58:13",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
