@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 12:57:02",
+  "updated_at": "2026-11-13 12:57:10",
   "count": 5,
   "items": [
     {
@@ -1228,16 +1228,16 @@
       "hwid": "47CB-2231-637D",
       "last_pc_name": "DESKTOP-F1KQPJ2",
       "app_version": "1.8.4",
-      "last_seen_at": "2026-11-13 12:55:37",
-      "last_action": "[DESKTOP-F1KQPJ2] Canlı MF Sorgulama (8 Ürün)",
+      "last_seen_at": "2026-11-13 12:57:10",
+      "last_action": "[DESKTOP-F1KQPJ2] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-13",
       "today_searches": 0,
       "today_cart_adds": 0,
-      "today_smart_orders": 6,
+      "today_smart_orders": 7,
       "total_searches": 68,
       "total_cart_adds": 32,
       "total_days_used": 3,
-      "total_smart_orders": 37,
+      "total_smart_orders": 38,
       "pc_count": 3,
       "devices": {
         "2F66-9873-3F47": {
@@ -1379,22 +1379,17 @@
           "desk_name": "DESKTOP-F1KQPJ2",
           "local_ip": "192.168.1.28",
           "app_version": "1.8.4",
-          "last_seen_at": "2026-11-13 12:55:37",
-          "last_action": "Canlı MF Sorgulama (8 Ürün)",
+          "last_seen_at": "2026-11-13 12:57:10",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-13",
           "today_searches": 0,
           "today_cart_adds": 0,
-          "today_smart_orders": 6,
+          "today_smart_orders": 7,
           "total_searches": 51,
           "total_cart_adds": 25,
-          "total_smart_orders": 22,
+          "total_smart_orders": 23,
           "total_days_used": 3,
           "recent_actions": [
-            {
-              "t": "2026-11-12 14:26:10",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-12 14:26:12",
               "type": "search",
@@ -1464,6 +1459,11 @@
               "t": "2026-11-13 10:17:49",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (8 Ürün)"
+            },
+            {
+              "t": "2026-11-13 12:55:52",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         }
