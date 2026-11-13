@@ -130,7 +130,7 @@
       "pharmacist_name": "GAMZE ASLAN",
       "phone": "05344064108",
       "city": "SAMSUN/ATAKUM",
-      "gln_no": "8680001134861",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "PRO_YILLIK",
       "expires_at": "2027-10-24",
@@ -143,10 +143,10 @@
       "today_date": "2026-11-13",
       "today_searches": 40,
       "today_cart_adds": 56,
-      "today_smart_orders": 232,
+      "today_smart_orders": 244,
       "total_searches": 166,
       "total_cart_adds": 406,
-      "total_smart_orders": 469,
+      "total_smart_orders": 481,
       "total_days_used": 9,
       "pc_count": 3,
       "devices": {
@@ -344,77 +344,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.8.9",
-          "last_seen_at": "2026-11-13 16:50:57",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-13 16:52:16",
+          "last_action": "Canlı MF Sorgulama (1 Ürün)",
           "today_date": "2026-11-13",
           "today_searches": 14,
           "today_cart_adds": 40,
-          "today_smart_orders": 87,
+          "today_smart_orders": 99,
           "total_searches": 79,
           "total_cart_adds": 316,
-          "total_smart_orders": 236,
+          "total_smart_orders": 248,
           "total_days_used": 9,
           "recent_actions": [
-            {
-              "t": "2026-11-13 16:33:15",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-13 16:33:27",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-13 16:33:28",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 48 Kalem)"
-            },
-            {
-              "t": "2026-11-13 16:33:28",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-13 16:33:37",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (25 Ürün)"
-            },
-            {
-              "t": "2026-11-13 16:48:23",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-13 16:48:24",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 49 Kalem)"
-            },
-            {
-              "t": "2026-11-13 16:48:38",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-13 16:48:39",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 49 Kalem)"
-            },
-            {
-              "t": "2026-11-13 16:48:39",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-13 16:48:46",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (13 Ürün)"
-            },
-            {
-              "t": "2026-11-13 16:48:56",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-13 16:49:01",
               "type": "cart",
@@ -429,6 +369,66 @@
               "t": "2026-11-13 16:50:19",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-13 16:51:45",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-13 16:51:45",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 50 Kalem)"
+            },
+            {
+              "t": "2026-11-13 16:51:45",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-13 16:51:46",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (2 Ürün)"
+            },
+            {
+              "t": "2026-11-13 16:52:02",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-13 16:52:02",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 50 Kalem)"
+            },
+            {
+              "t": "2026-11-13 16:52:02",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-13 16:52:02",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (1 Ürün)"
+            },
+            {
+              "t": "2026-11-13 16:52:16",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-13 16:52:16",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 50 Kalem)"
+            },
+            {
+              "t": "2026-11-13 16:52:16",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-13 16:52:16",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (1 Ürün)"
             }
           ]
         }
