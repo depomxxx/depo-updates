@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 17:27:15",
+  "updated_at": "2026-11-13 17:27:21",
   "count": 6,
   "items": [
     {
@@ -138,15 +138,15 @@
       "hwid": "E6B1-5698-273E",
       "last_pc_name": "DESKTOP-6KFO8IF",
       "app_version": "1.8.9",
-      "last_seen_at": "2026-11-13 17:25:50",
+      "last_seen_at": "2026-11-13 17:27:21",
       "last_action": "[DESKTOP-6KFO8IF] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-13",
       "today_searches": 40,
       "today_cart_adds": 56,
-      "today_smart_orders": 250,
+      "today_smart_orders": 254,
       "total_searches": 166,
       "total_cart_adds": 406,
-      "total_smart_orders": 487,
+      "total_smart_orders": 491,
       "total_days_used": 9,
       "pc_count": 3,
       "devices": {
@@ -156,7 +156,7 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.8.9",
-          "last_seen_at": "2026-11-13 17:25:50",
+          "last_seen_at": "2026-11-13 17:27:21",
           "last_action": "Depo Sorgu: BIODERMA ATODERM LIP BALM",
           "today_date": "2026-11-13",
           "today_searches": 26,
@@ -250,7 +250,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.8.9",
-          "last_seen_at": "2026-11-13 17:25:50",
+          "last_seen_at": "2026-11-13 17:27:21",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-13",
           "today_searches": 0,
@@ -344,37 +344,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.8.9",
-          "last_seen_at": "2026-11-13 17:25:36",
-          "last_action": "Canlı MF Sorgulama (8 Ürün)",
+          "last_seen_at": "2026-11-13 17:27:18",
+          "last_action": "Canlı MF Sorgulama (7 Ürün)",
           "today_date": "2026-11-13",
           "today_searches": 14,
           "today_cart_adds": 40,
-          "today_smart_orders": 105,
+          "today_smart_orders": 109,
           "total_searches": 79,
           "total_cart_adds": 316,
-          "total_smart_orders": 254,
+          "total_smart_orders": 258,
           "total_days_used": 9,
           "recent_actions": [
-            {
-              "t": "2026-11-13 16:51:46",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (2 Ürün)"
-            },
-            {
-              "t": "2026-11-13 16:52:02",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-13 16:52:02",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 50 Kalem)"
-            },
-            {
-              "t": "2026-11-13 16:52:02",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-13 16:52:02",
               "type": "mf_resolve",
@@ -429,6 +409,26 @@
               "t": "2026-11-13 17:23:33",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (8 Ürün)"
+            },
+            {
+              "t": "2026-11-13 17:27:15",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-13 17:27:15",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 56 Kalem)"
+            },
+            {
+              "t": "2026-11-13 17:27:15",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-13 17:27:17",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (7 Ürün)"
             }
           ]
         }
