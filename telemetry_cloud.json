@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 16:57:48",
+  "updated_at": "2026-11-13 16:57:50",
   "count": 6,
   "items": [
     {
@@ -448,15 +448,15 @@
       "hwid": "83F3-13F8-E632",
       "last_pc_name": "Eskienes",
       "app_version": "1.8.9",
-      "last_seen_at": "2026-11-13 16:57:29",
-      "last_action": "[Eskienes] Depo Sorgu: BREQUAL 100/50 MCG 60 INH CAP",
+      "last_seen_at": "2026-11-13 16:57:50",
+      "last_action": "[Eskienes] Depo Fiyat Sorgulama",
       "today_date": "2026-11-13",
-      "today_searches": 32,
+      "today_searches": 35,
       "today_cart_adds": 64,
-      "today_smart_orders": 163,
-      "total_searches": 452,
+      "today_smart_orders": 167,
+      "total_searches": 455,
       "total_cart_adds": 766,
-      "total_smart_orders": 591,
+      "total_smart_orders": 595,
       "total_days_used": 10,
       "pc_count": 8,
       "devices": {
@@ -466,52 +466,17 @@
           "desk_name": "Eskienes",
           "local_ip": "192.168.1.117",
           "app_version": "1.8.9",
-          "last_seen_at": "2026-11-13 16:57:29",
-          "last_action": "Depo Sorgu: BREQUAL 100/50 MCG 60 INH CAP",
+          "last_seen_at": "2026-11-13 16:57:50",
+          "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-13",
-          "today_searches": 2,
+          "today_searches": 5,
           "today_cart_adds": 0,
-          "today_smart_orders": 15,
-          "total_searches": 58,
+          "today_smart_orders": 19,
+          "total_searches": 61,
           "total_cart_adds": 52,
-          "total_smart_orders": 45,
+          "total_smart_orders": 49,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-12 13:56:44",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-13 08:35:15",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-13 08:35:23",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-13 08:35:25",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-13 08:35:36",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-13 08:35:43",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (1 Ürün)"
-            },
-            {
-              "t": "2026-11-13 16:56:52",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-13 16:56:53",
               "type": "mf_resolve",
@@ -551,6 +516,41 @@
               "t": "2026-11-13 16:57:29",
               "type": "search",
               "detail": "Depo Sorgu: BREQUAL 100/50 MCG 60 INH CAP"
+            },
+            {
+              "t": "2026-11-13 16:57:31",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-13 16:57:37",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (30 Ürün)"
+            },
+            {
+              "t": "2026-11-13 16:57:38",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-13 16:57:39",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-13 16:57:41",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (19 Ürün)"
+            },
+            {
+              "t": "2026-11-13 16:57:44",
+              "type": "search",
+              "detail": "Depo Sorgu: BREQUAL 250/50 MCG 60 INH CAP."
+            },
+            {
+              "t": "2026-11-13 16:57:50",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ]
         },
@@ -560,7 +560,7 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.8.9",
-          "last_seen_at": "2026-11-13 16:57:04",
+          "last_seen_at": "2026-11-13 16:57:40",
           "last_action": "Canlı MF Sorgulama (1 Ürün)",
           "today_date": "2026-11-13",
           "today_searches": 14,
