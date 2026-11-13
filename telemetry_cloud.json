@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 11:03:06",
+  "updated_at": "2026-11-13 11:03:31",
   "count": 5,
   "items": [
     {
@@ -9,22 +9,22 @@
       "phone": "05344064108",
       "city": "SAMSUN/ATAKUM",
       "gln_no": "8680001134861",
-      "otomasyon": "TRIA",
+      "otomasyon": "TEBEOS",
       "plan": "PRO_YILLIK",
       "expires_at": "2027-10-24",
       "status": "AKTIF",
       "hwid": "E4F7-229A-BABD",
       "last_pc_name": "ChagriBeg",
       "app_version": "1.8.3",
-      "last_seen_at": "2026-11-13 11:03:06",
+      "last_seen_at": "2026-11-13 11:03:31",
       "last_action": "Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-13",
       "today_searches": 0,
       "today_cart_adds": 0,
-      "today_smart_orders": 12,
+      "today_smart_orders": 15,
       "total_searches": 47,
       "total_cart_adds": 36,
-      "total_smart_orders": 83,
+      "total_smart_orders": 86,
       "total_days_used": 9,
       "pc_count": 1,
       "devices": {
@@ -34,32 +34,17 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.8.3",
-          "last_seen_at": "2026-11-13 11:03:06",
+          "last_seen_at": "2026-11-13 11:03:31",
           "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-13",
           "today_searches": 0,
           "today_cart_adds": 0,
-          "today_smart_orders": 12,
+          "today_smart_orders": 15,
           "total_searches": 47,
           "total_cart_adds": 36,
-          "total_smart_orders": 83,
+          "total_smart_orders": 86,
           "total_days_used": 9,
           "recent_actions": [
-            {
-              "t": "2026-11-12 00:46:42",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-12 00:46:51",
-              "type": "search",
-              "detail": "Depo Sorgu: EOS LİP BALIM"
-            },
-            {
-              "t": "2026-11-12 00:47:15",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-12 00:47:18",
               "type": "search",
@@ -117,6 +102,21 @@
             },
             {
               "t": "2026-11-13 11:03:06",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-13 11:03:07",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-13 11:03:11",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (13 Ürün)"
+            },
+            {
+              "t": "2026-11-13 11:03:31",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
             }
