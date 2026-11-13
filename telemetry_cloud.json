@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 17:21:15",
+  "updated_at": "2026-11-13 17:21:18",
   "count": 6,
   "items": [
     {
@@ -130,7 +130,7 @@
       "pharmacist_name": "GAMZE ASLAN",
       "phone": "05344064108",
       "city": "SAMSUN/ATAKUM",
-      "gln_no": "8680001000000",
+      "gln_no": "8680001134861",
       "otomasyon": "TRIA",
       "plan": "PRO_YILLIK",
       "expires_at": "2027-10-24",
@@ -156,7 +156,7 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.8.9",
-          "last_seen_at": "2026-11-13 17:19:47",
+          "last_seen_at": "2026-11-13 17:21:18",
           "last_action": "Depo Sorgu: BIODERMA ATODERM LIP BALM",
           "today_date": "2026-11-13",
           "today_searches": 26,
