@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 13:46:44",
+  "updated_at": "2026-11-13 13:44:57",
   "count": 5,
   "items": [
     {
@@ -16,13 +16,13 @@
       "hwid": "E6B1-5698-273E",
       "last_pc_name": "DESKTOP-6KFO8IF",
       "app_version": "1.8.5",
-      "last_seen_at": "2026-11-13 13:43:27",
+      "last_seen_at": "2026-11-13 13:44:57",
       "last_action": "[DESKTOP-6KFO8IF] Canlı MF Sorgulama (1 Ürün)",
       "today_date": "2026-11-13",
-      "today_searches": 11,
+      "today_searches": 12,
       "today_cart_adds": 12,
       "today_smart_orders": 137,
-      "total_searches": 137,
+      "total_searches": 138,
       "total_cart_adds": 362,
       "total_smart_orders": 374,
       "total_days_used": 9,
@@ -34,22 +34,17 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.8.5",
-          "last_seen_at": "2026-11-13 13:43:24",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-13 13:44:35",
+          "last_action": "Depo Sorgu: AUGMENTIN BID 1 GR 14 FTB.",
           "today_date": "2026-11-13",
-          "today_searches": 9,
+          "today_searches": 10,
           "today_cart_adds": 0,
           "today_smart_orders": 86,
-          "total_searches": 56,
+          "total_searches": 57,
           "total_cart_adds": 36,
           "total_smart_orders": 157,
           "total_days_used": 9,
           "recent_actions": [
-            {
-              "t": "2026-11-13 13:41:22",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-13 13:41:34",
               "type": "mf_resolve",
@@ -119,6 +114,11 @@
               "t": "2026-11-13 13:43:24",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-13 13:43:28",
+              "type": "search",
+              "detail": "Depo Sorgu: AUGMENTIN BID 1 GR 14 FTB."
             }
           ]
         },
@@ -128,7 +128,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.8.5",
-          "last_seen_at": "2026-11-13 13:43:27",
+          "last_seen_at": "2026-11-13 13:44:57",
           "last_action": "Canlı MF Sorgulama (1 Ürün)",
           "today_date": "2026-11-13",
           "today_searches": 0,
@@ -222,7 +222,7 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.8.5",
-          "last_seen_at": "2026-11-13 13:42:42",
+          "last_seen_at": "2026-11-13 13:44:42",
           "last_action": "Canlı MF Sorgulama (10 Ürün)",
           "today_date": "2026-11-13",
           "today_searches": 2,
