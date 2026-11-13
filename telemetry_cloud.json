@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 13:04:56",
+  "updated_at": "2026-11-13 13:05:18",
   "count": 5,
   "items": [
     {
@@ -16,15 +16,15 @@
       "hwid": "E4F7-229A-BABD",
       "last_pc_name": "ChagriBeg",
       "app_version": "1.8.4",
-      "last_seen_at": "2026-11-13 13:04:56",
-      "last_action": "[ChagriBeg] Toplu Sipariş Planlama",
+      "last_seen_at": "2026-11-13 13:05:18",
+      "last_action": "[ChagriBeg] Canlı MF Sorgulama (35 Ürün)",
       "today_date": "2026-11-13",
-      "today_searches": 6,
+      "today_searches": 8,
       "today_cart_adds": 12,
-      "today_smart_orders": 99,
-      "total_searches": 132,
+      "today_smart_orders": 108,
+      "total_searches": 134,
       "total_cart_adds": 362,
-      "total_smart_orders": 336,
+      "total_smart_orders": 345,
       "total_days_used": 9,
       "pc_count": 3,
       "devices": {
@@ -34,67 +34,17 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.8.4",
-          "last_seen_at": "2026-11-13 13:04:56",
-          "last_action": "Toplu Sipariş Planlama",
+          "last_seen_at": "2026-11-13 13:05:18",
+          "last_action": "Canlı MF Sorgulama (35 Ürün)",
           "today_date": "2026-11-13",
-          "today_searches": 4,
+          "today_searches": 6,
           "today_cart_adds": 0,
-          "today_smart_orders": 51,
-          "total_searches": 51,
+          "today_smart_orders": 60,
+          "total_searches": 53,
           "total_cart_adds": 36,
-          "total_smart_orders": 122,
+          "total_smart_orders": 131,
           "total_days_used": 9,
           "recent_actions": [
-            {
-              "t": "2026-11-13 12:36:40",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 24 Kalem)"
-            },
-            {
-              "t": "2026-11-13 12:36:40",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-13 12:37:03",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (18 Ürün)"
-            },
-            {
-              "t": "2026-11-13 12:37:28",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş Planlama"
-            },
-            {
-              "t": "2026-11-13 12:37:28",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş (TRIA • 61 Kalem)"
-            },
-            {
-              "t": "2026-11-13 12:37:29",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-13 12:37:30",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (2 Ürün)"
-            },
-            {
-              "t": "2026-11-13 12:56:39",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-13 12:56:40",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-13 12:56:40",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (1 Ürün)"
-            },
             {
               "t": "2026-11-13 12:56:55",
               "type": "critical_stock",
@@ -119,6 +69,56 @@
               "t": "2026-11-13 13:04:56",
               "type": "smart_order",
               "detail": "Toplu Sipariş Planlama"
+            },
+            {
+              "t": "2026-11-13 13:04:56",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş (TEBEOS • 2 Kalem)"
+            },
+            {
+              "t": "2026-11-13 13:04:59",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş Planlama"
+            },
+            {
+              "t": "2026-11-13 13:05:00",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş (TEBEOS • 250 Kalem)"
+            },
+            {
+              "t": "2026-11-13 13:05:00",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş Planlama"
+            },
+            {
+              "t": "2026-11-13 13:05:00",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-13 13:05:11",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-13 13:05:11",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (35 Ürün)"
+            },
+            {
+              "t": "2026-11-13 13:05:11",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-13 13:05:14",
+              "type": "search",
+              "detail": "Depo Sorgu: AFERIN FORT 650/4 MG 30 TB."
+            },
+            {
+              "t": "2026-11-13 13:05:18",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (35 Ürün)"
             }
           ]
         },
