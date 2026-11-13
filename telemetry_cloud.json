@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 11:54:56",
+  "updated_at": "2026-11-13 11:57:09",
   "count": 5,
   "items": [
     {
@@ -1295,16 +1295,16 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.8.3",
-      "last_seen_at": "2026-11-13 11:56:22",
-      "last_action": "[DESKTOP-T4EAUS3] Depo Sorgu: PROCTOLOG %5.8+%0.5 30 GR KR.",
+      "last_seen_at": "2026-11-13 11:57:09",
+      "last_action": "[DESKTOP-T4EAUS3] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-13",
       "today_searches": 4,
       "today_cart_adds": 16,
-      "today_smart_orders": 28,
+      "today_smart_orders": 29,
       "total_searches": 119,
       "total_cart_adds": 533,
       "total_days_used": 9,
-      "total_smart_orders": 210,
+      "total_smart_orders": 211,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -1387,22 +1387,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.8.3",
-          "last_seen_at": "2026-11-13 11:56:22",
-          "last_action": "Depo Sorgu: PROCTOLOG %5.8+%0.5 30 GR KR.",
+          "last_seen_at": "2026-11-13 11:57:09",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-13",
           "today_searches": 4,
           "today_cart_adds": 16,
-          "today_smart_orders": 28,
+          "today_smart_orders": 29,
           "total_searches": 47,
           "total_cart_adds": 275,
-          "total_smart_orders": 141,
+          "total_smart_orders": 142,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-13 11:34:17",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-13 11:34:24",
               "type": "mf_resolve",
@@ -1472,6 +1467,11 @@
               "t": "2026-11-13 11:54:48",
               "type": "search",
               "detail": "Depo Sorgu: PROCTOLOG %5.8+%0.5 30 GR KR."
+            },
+            {
+              "t": "2026-11-13 11:57:09",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         },
