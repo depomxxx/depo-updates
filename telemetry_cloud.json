@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 13:23:43",
+  "updated_at": "2026-11-13 13:24:01",
   "count": 5,
   "items": [
     {
@@ -1227,8 +1227,8 @@
       "status": "AKTIF",
       "hwid": "47CB-2231-637D",
       "last_pc_name": "DESKTOP-F1KQPJ2",
-      "app_version": "1.8.4",
-      "last_seen_at": "2026-11-13 13:23:06",
+      "app_version": "1.8.5",
+      "last_seen_at": "2026-11-13 13:24:01",
       "last_action": "[DESKTOP-F1KQPJ2] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-13",
       "today_searches": 0,
@@ -1378,8 +1378,8 @@
           "pc_name": "DESKTOP-F1KQPJ2",
           "desk_name": "DESKTOP-F1KQPJ2",
           "local_ip": "192.168.1.28",
-          "app_version": "1.8.4",
-          "last_seen_at": "2026-11-13 13:23:06",
+          "app_version": "1.8.5",
+          "last_seen_at": "2026-11-13 13:24:01",
           "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-13",
           "today_searches": 0,
