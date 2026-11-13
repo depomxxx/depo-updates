@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 11:46:02",
+  "updated_at": "2026-11-13 11:44:08",
   "count": 5,
   "items": [
     {
@@ -135,18 +135,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D719-CEB2-1542",
-      "last_pc_name": "DESKTOP-M530BBB",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.8.3",
-      "last_seen_at": "2026-11-13 11:43:31",
-      "last_action": "[DESKTOP-M530BBB] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-13 11:44:08",
+      "last_action": "[DESKTOP-OTHNDUE] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-13",
-      "today_searches": 8,
-      "today_cart_adds": 4,
-      "today_smart_orders": 18,
-      "total_searches": 428,
-      "total_cart_adds": 706,
-      "total_smart_orders": 446,
+      "today_searches": 10,
+      "today_cart_adds": 5,
+      "today_smart_orders": 21,
+      "total_searches": 430,
+      "total_cart_adds": 707,
+      "total_smart_orders": 449,
       "total_days_used": 10,
       "pc_count": 8,
       "devices": {
@@ -250,47 +250,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.8.3",
-          "last_seen_at": "2026-11-13 11:43:02",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-13 11:44:08",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-13",
-          "today_searches": 0,
-          "today_cart_adds": 0,
-          "today_smart_orders": 9,
-          "total_searches": 65,
-          "total_cart_adds": 276,
-          "total_smart_orders": 158,
+          "today_searches": 2,
+          "today_cart_adds": 1,
+          "today_smart_orders": 12,
+          "total_searches": 67,
+          "total_cart_adds": 277,
+          "total_smart_orders": 161,
           "total_days_used": 9,
           "recent_actions": [
-            {
-              "t": "2026-11-12 17:45:15",
-              "type": "cart",
-              "detail": "Toplu Sepet (SELCUK): 1 Kalem"
-            },
-            {
-              "t": "2026-11-12 17:45:17",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-12 17:46:24",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-12 17:46:24",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 88 Kalem)"
-            },
-            {
-              "t": "2026-11-12 17:46:45",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-12 17:46:46",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 88 Kalem)"
-            },
             {
               "t": "2026-11-12 18:15:43",
               "type": "critical_stock",
@@ -335,6 +305,36 @@
               "t": "2026-11-13 11:43:02",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-13 11:43:02",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 19 Kalem)"
+            },
+            {
+              "t": "2026-11-13 11:43:02",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-13 11:43:09",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-13 11:43:10",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (17 Ürün)"
+            },
+            {
+              "t": "2026-11-13 11:43:16",
+              "type": "search",
+              "detail": "Depo Sorgu: RICUS 1 MG 20 FTB."
+            },
+            {
+              "t": "2026-11-13 11:44:08",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
