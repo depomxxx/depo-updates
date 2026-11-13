@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 13:31:35",
+  "updated_at": "2026-11-13 13:31:54",
   "count": 5,
   "items": [
     {
@@ -1228,14 +1228,14 @@
       "hwid": "47CB-2231-637D",
       "last_pc_name": "DESKTOP-F1KQPJ2",
       "app_version": "1.8.5",
-      "last_seen_at": "2026-11-13 13:31:35",
+      "last_seen_at": "2026-11-13 13:31:54",
       "last_action": "[DESKTOP-F1KQPJ2] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-13",
       "today_searches": 0,
-      "today_cart_adds": 1,
+      "today_cart_adds": 3,
       "today_smart_orders": 10,
       "total_searches": 68,
-      "total_cart_adds": 33,
+      "total_cart_adds": 35,
       "total_days_used": 3,
       "total_smart_orders": 41,
       "pc_count": 3,
@@ -1379,27 +1379,17 @@
           "desk_name": "DESKTOP-F1KQPJ2",
           "local_ip": "192.168.1.28",
           "app_version": "1.8.5",
-          "last_seen_at": "2026-11-13 13:31:35",
+          "last_seen_at": "2026-11-13 13:31:54",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-13",
           "today_searches": 0,
-          "today_cart_adds": 1,
+          "today_cart_adds": 3,
           "today_smart_orders": 10,
           "total_searches": 51,
-          "total_cart_adds": 26,
+          "total_cart_adds": 28,
           "total_smart_orders": 26,
           "total_days_used": 3,
           "recent_actions": [
-            {
-              "t": "2026-11-12 15:39:13",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-12 16:36:53",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-12 16:36:54",
               "type": "mf_resolve",
@@ -1462,6 +1452,16 @@
             },
             {
               "t": "2026-11-13 13:31:35",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-13 13:31:43",
+              "type": "cart",
+              "detail": "Toplu Sepet (ISKOOP): 3 Kalem"
+            },
+            {
+              "t": "2026-11-13 13:31:54",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
