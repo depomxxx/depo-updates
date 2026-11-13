@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 11:43:31",
+  "updated_at": "2026-11-13 11:46:02",
   "count": 5,
   "items": [
     {
@@ -1295,16 +1295,16 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.8.3",
-      "last_seen_at": "2026-11-13 11:45:40",
-      "last_action": "[DESKTOP-T4EAUS3] Depo Fiyat Sorgulama",
+      "last_seen_at": "2026-11-13 11:46:02",
+      "last_action": "[DESKTOP-T4EAUS3] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-13",
-      "today_searches": 1,
+      "today_searches": 2,
       "today_cart_adds": 12,
-      "today_smart_orders": 22,
-      "total_searches": 116,
+      "today_smart_orders": 23,
+      "total_searches": 117,
       "total_cart_adds": 529,
       "total_days_used": 9,
-      "total_smart_orders": 204,
+      "total_smart_orders": 205,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -1387,27 +1387,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.8.3",
-          "last_seen_at": "2026-11-13 11:45:40",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-13 11:46:02",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-13",
-          "today_searches": 1,
+          "today_searches": 2,
           "today_cart_adds": 12,
-          "today_smart_orders": 22,
-          "total_searches": 44,
+          "today_smart_orders": 23,
+          "total_searches": 45,
           "total_cart_adds": 271,
-          "total_smart_orders": 135,
+          "total_smart_orders": 136,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-13 11:30:31",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (BOTANIK • 30 Kalem)"
-            },
-            {
-              "t": "2026-11-13 11:30:31",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-13 11:30:38",
               "type": "mf_resolve",
@@ -1472,6 +1462,16 @@
               "t": "2026-11-13 11:45:40",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-13 11:45:46",
+              "type": "search",
+              "detail": "Depo Sorgu: HIPOKORT %0.5 30 GR KR."
+            },
+            {
+              "t": "2026-11-13 11:46:02",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         },
