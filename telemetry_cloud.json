@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 13:56:37",
+  "updated_at": "2026-11-13 13:58:49",
   "count": 5,
   "items": [
     {
@@ -1483,16 +1483,16 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.8.6",
-      "last_seen_at": "2026-11-13 13:57:28",
-      "last_action": "[DESKTOP-T4EAUS3] Depo Sorgu: CIPRALEX 20 MG 28 FTB.",
+      "last_seen_at": "2026-11-13 13:58:49",
+      "last_action": "[DESKTOP-T4EAUS3] Canlı MF Sorgulama (2 Ürün)",
       "today_date": "2026-11-13",
       "today_searches": 16,
       "today_cart_adds": 25,
-      "today_smart_orders": 41,
+      "today_smart_orders": 44,
       "total_searches": 131,
       "total_cart_adds": 542,
       "total_days_used": 9,
-      "total_smart_orders": 223,
+      "total_smart_orders": 226,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -1575,32 +1575,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.8.6",
-          "last_seen_at": "2026-11-13 13:57:28",
-          "last_action": "Depo Sorgu: CIPRALEX 20 MG 28 FTB.",
+          "last_seen_at": "2026-11-13 13:58:49",
+          "last_action": "Canlı MF Sorgulama (2 Ürün)",
           "today_date": "2026-11-13",
           "today_searches": 16,
           "today_cart_adds": 25,
-          "today_smart_orders": 41,
+          "today_smart_orders": 44,
           "total_searches": 59,
           "total_cart_adds": 284,
-          "total_smart_orders": 154,
+          "total_smart_orders": 157,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-13 13:52:54",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-13 13:53:02",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-13 13:53:04",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): CARDURA XL 4MG 30 KONTROLLU  x5"
-            },
             {
               "t": "2026-11-13 13:53:17",
               "type": "mf_resolve",
@@ -1660,6 +1645,21 @@
               "t": "2026-11-13 13:56:36",
               "type": "search",
               "detail": "Depo Sorgu: CIPRALEX 20 MG 28 FTB."
+            },
+            {
+              "t": "2026-11-13 13:57:34",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-13 13:57:34",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-13 13:57:43",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (2 Ürün)"
             }
           ]
         },
