@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 12:55:28",
+  "updated_at": "2026-11-13 12:57:40",
   "count": 5,
   "items": [
     {
@@ -1482,8 +1482,8 @@
       "status": "AKTIF",
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
-      "app_version": "1.8.3",
-      "last_seen_at": "2026-11-13 12:57:22",
+      "app_version": "1.8.4",
+      "last_seen_at": "2026-11-13 12:57:40",
       "last_action": "[DESKTOP-T4EAUS3] Depo Sorgu: SCHWARZKOPF GLISS HAIR REPAIR",
       "today_date": "2026-11-13",
       "today_searches": 6,
@@ -1574,8 +1574,8 @@
           "pc_name": "DESKTOP-T4EAUS3",
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
-          "app_version": "1.8.3",
-          "last_seen_at": "2026-11-13 12:57:22",
+          "app_version": "1.8.4",
+          "last_seen_at": "2026-11-13 12:57:40",
           "last_action": "Depo Sorgu: SCHWARZKOPF GLISS HAIR REPAIR",
           "today_date": "2026-11-13",
           "today_searches": 6,
