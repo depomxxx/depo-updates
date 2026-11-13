@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 16:37:36",
+  "updated_at": "2026-11-13 16:37:44",
   "count": 6,
   "items": [
     {
@@ -16,14 +16,14 @@
       "hwid": "3C0F-6FF9-862F",
       "last_pc_name": "Berkay",
       "app_version": "1.8.9",
-      "last_seen_at": "2026-11-13 16:37:17",
+      "last_seen_at": "2026-11-13 16:37:44",
       "last_action": "Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-13",
       "today_searches": 45,
-      "today_cart_adds": 68,
+      "today_cart_adds": 76,
       "today_smart_orders": 89,
       "total_searches": 45,
-      "total_cart_adds": 68,
+      "total_cart_adds": 76,
       "total_smart_orders": 89,
       "total_days_used": 1,
       "pc_count": 1,
@@ -34,57 +34,17 @@
           "desk_name": "Berkay",
           "local_ip": "192.168.1.103",
           "app_version": "1.8.9",
-          "last_seen_at": "2026-11-13 16:37:17",
+          "last_seen_at": "2026-11-13 16:37:44",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-13",
           "today_searches": 45,
-          "today_cart_adds": 68,
+          "today_cart_adds": 76,
           "today_smart_orders": 89,
           "total_searches": 45,
-          "total_cart_adds": 68,
+          "total_cart_adds": 76,
           "total_smart_orders": 89,
           "total_days_used": 1,
           "recent_actions": [
-            {
-              "t": "2026-11-13 16:34:08",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-13 16:34:10",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): PROCTO-GLYVENOL 30GR KREM x2"
-            },
-            {
-              "t": "2026-11-13 16:34:24",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-13 16:34:26",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): BETASALIC MERHEM 30 GR x2"
-            },
-            {
-              "t": "2026-11-13 16:34:28",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-13 16:34:30",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): KLO-SAL %0.05+%3 30GR LOSYON x2"
-            },
-            {
-              "t": "2026-11-13 16:34:33",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-13 16:34:34",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): ADVANTAN M %0.1 EMÜLSİYON 50 x2"
-            },
             {
               "t": "2026-11-13 16:34:36",
               "type": "cart",
@@ -117,6 +77,46 @@
             },
             {
               "t": "2026-11-13 16:37:17",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-13 16:37:20",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): TELVIS PLUS 80/12.5 28 TABLE x1"
+            },
+            {
+              "t": "2026-11-13 16:37:22",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-13 16:37:24",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): M-FURO %1 30GR MERHEM x2"
+            },
+            {
+              "t": "2026-11-13 16:37:28",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-13 16:37:30",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): PAINOUT ICE %1 100ML AEROSOL x5"
+            },
+            {
+              "t": "2026-11-13 16:37:32",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-13 16:37:34",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): TIOPATI-B 600MG/250MG/1MG 30 x1"
+            },
+            {
+              "t": "2026-11-13 16:37:44",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
