@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 11:28:22",
+  "updated_at": "2026-11-13 11:30:31",
   "count": 5,
   "items": [
     {
@@ -1295,16 +1295,16 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.8.3",
-      "last_seen_at": "2026-11-13 11:30:06",
-      "last_action": "[DESKTOP-T4EAUS3] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-13 11:30:31",
+      "last_action": "[DESKTOP-T4EAUS3] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-13",
       "today_searches": 0,
-      "today_cart_adds": 5,
-      "today_smart_orders": 10,
+      "today_cart_adds": 8,
+      "today_smart_orders": 11,
       "total_searches": 115,
-      "total_cart_adds": 522,
+      "total_cart_adds": 525,
       "total_days_used": 9,
-      "total_smart_orders": 192,
+      "total_smart_orders": 193,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -1387,32 +1387,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.8.3",
-          "last_seen_at": "2026-11-13 11:30:06",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-13 11:30:31",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-13",
           "today_searches": 0,
-          "today_cart_adds": 5,
-          "today_smart_orders": 10,
+          "today_cart_adds": 8,
+          "today_smart_orders": 11,
           "total_searches": 43,
-          "total_cart_adds": 264,
-          "total_smart_orders": 123,
+          "total_cart_adds": 267,
+          "total_smart_orders": 124,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-12 16:49:08",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (4 Ürün)"
-            },
-            {
-              "t": "2026-11-13 11:09:48",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-13 11:09:48",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-13 11:09:49",
               "type": "critical_stock",
@@ -1472,6 +1457,21 @@
               "t": "2026-11-13 11:30:06",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-13 11:30:08",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): COLNAR 40MG 28 FİLM TABLET x5"
+            },
+            {
+              "t": "2026-11-13 11:30:17",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-13 11:30:31",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         },
