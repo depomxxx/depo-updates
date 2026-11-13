@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 13:57:28",
+  "updated_at": "2026-11-13 13:55:21",
   "count": 5,
   "items": [
     {
@@ -15,8 +15,8 @@
       "status": "AKTIF",
       "hwid": "E4F7-229A-BABD",
       "last_pc_name": "ChagriBeg",
-      "app_version": "1.8.5",
-      "last_seen_at": "2026-11-13 13:54:07",
+      "app_version": "1.8.6",
+      "last_seen_at": "2026-11-13 13:55:21",
       "last_action": "[ChagriBeg] Depo Sorgu: KLAMOKS BID 1 GR 14 FTB.",
       "today_date": "2026-11-13",
       "today_searches": 14,
@@ -33,8 +33,8 @@
           "pc_name": "ChagriBeg",
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
-          "app_version": "1.8.5",
-          "last_seen_at": "2026-11-13 13:54:07",
+          "app_version": "1.8.6",
+          "last_seen_at": "2026-11-13 13:55:21",
           "last_action": "Depo Sorgu: KLAMOKS BID 1 GR 14 FTB.",
           "today_date": "2026-11-13",
           "today_searches": 12,
