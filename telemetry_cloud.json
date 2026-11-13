@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 23:59:55",
+  "updated_at": "2026-11-14 00:01:26",
   "count": 6,
   "items": [
     {
@@ -138,16 +138,16 @@
       "hwid": "E4F7-229A-BABD",
       "last_pc_name": "ChagriBeg",
       "app_version": "1.8.9",
-      "last_seen_at": "2026-11-13 23:59:55",
-      "last_action": "[ChagriBeg] Depo Sorgu: BIODERMA ATODERM LIP BALM",
-      "today_date": "2026-11-13",
-      "today_searches": 40,
-      "today_cart_adds": 56,
-      "today_smart_orders": 254,
+      "last_seen_at": "2026-11-14 00:01:26",
+      "last_action": "Program Açık (Canlı)",
+      "today_date": "2026-11-14",
+      "today_searches": 0,
+      "today_cart_adds": 0,
+      "today_smart_orders": 0,
       "total_searches": 166,
       "total_cart_adds": 406,
       "total_smart_orders": 491,
-      "total_days_used": 9,
+      "total_days_used": 10,
       "pc_count": 3,
       "devices": {
         "E4F7-229A-BABD": {
@@ -156,16 +156,16 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.8.9",
-          "last_seen_at": "2026-11-13 23:59:55",
-          "last_action": "Depo Sorgu: BIODERMA ATODERM LIP BALM",
-          "today_date": "2026-11-13",
-          "today_searches": 26,
+          "last_seen_at": "2026-11-14 00:01:26",
+          "last_action": "Program Açık (Canlı)",
+          "today_date": "2026-11-14",
+          "today_searches": 0,
           "today_cart_adds": 0,
-          "today_smart_orders": 106,
+          "today_smart_orders": 0,
           "total_searches": 73,
           "total_cart_adds": 36,
           "total_smart_orders": 177,
-          "total_days_used": 9,
+          "total_days_used": 10,
           "recent_actions": [
             {
               "t": "2026-11-13 14:10:43",
