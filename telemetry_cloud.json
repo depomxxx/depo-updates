@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 08:59:31",
+  "updated_at": "2026-11-13 08:59:55",
   "count": 4,
   "items": [
     {
@@ -16,14 +16,14 @@
       "hwid": "D719-CEB2-1542",
       "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.8.3",
-      "last_seen_at": "2026-11-13 08:59:31",
-      "last_action": "[DESKTOP-M530BBB] Depo Fiyat Sorgulama",
+      "last_seen_at": "2026-11-13 08:59:55",
+      "last_action": "[DESKTOP-M530BBB] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-13",
-      "today_searches": 1,
-      "today_cart_adds": 0,
+      "today_searches": 2,
+      "today_cart_adds": 1,
       "today_smart_orders": 9,
-      "total_searches": 421,
-      "total_cart_adds": 702,
+      "total_searches": 422,
+      "total_cart_adds": 703,
       "total_smart_orders": 437,
       "total_days_used": 10,
       "pc_count": 8,
@@ -598,27 +598,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.112",
           "app_version": "1.8.3",
-          "last_seen_at": "2026-11-13 08:59:31",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-13 08:59:55",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-13",
-          "today_searches": 1,
-          "today_cart_adds": 0,
+          "today_searches": 2,
+          "today_cart_adds": 1,
           "today_smart_orders": 2,
-          "total_searches": 74,
-          "total_cart_adds": 86,
+          "total_searches": 75,
+          "total_cart_adds": 87,
           "total_smart_orders": 54,
           "total_days_used": 10,
           "recent_actions": [
-            {
-              "t": "2026-11-12 16:42:17",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-12 16:42:27",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (30 Ürün)"
-            },
             {
               "t": "2026-11-12 16:42:28",
               "type": "mf_resolve",
@@ -683,6 +673,16 @@
               "t": "2026-11-13 08:59:31",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-13 08:59:39",
+              "type": "search",
+              "detail": "Depo Sorgu: TENOVIRAL 245 MG 30 FTB."
+            },
+            {
+              "t": "2026-11-13 08:59:55",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
