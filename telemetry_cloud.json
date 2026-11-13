@@ -130,23 +130,23 @@
       "pharmacist_name": "GAMZE ASLAN",
       "phone": "05344064108",
       "city": "SAMSUN/ATAKUM",
-      "gln_no": "8680001134861",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "PRO_YILLIK",
       "expires_at": "2027-10-24",
       "status": "AKTIF",
-      "hwid": "E4F7-229A-BABD",
-      "last_pc_name": "ChagriBeg",
+      "hwid": "E6B1-5698-273E",
+      "last_pc_name": "DESKTOP-6KFO8IF",
       "app_version": "1.8.9",
-      "last_seen_at": "2026-11-13 15:25:42",
-      "last_action": "[ChagriBeg] Depo Sorgu: BIODERMA ATODERM LIP BALM",
+      "last_seen_at": "2026-11-13 15:26:08",
+      "last_action": "[DESKTOP-6KFO8IF] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-13",
-      "today_searches": 30,
+      "today_searches": 32,
       "today_cart_adds": 33,
-      "today_smart_orders": 194,
-      "total_searches": 156,
+      "today_smart_orders": 198,
+      "total_searches": 158,
       "total_cart_adds": 383,
-      "total_smart_orders": 431,
+      "total_smart_orders": 435,
       "total_days_used": 9,
       "pc_count": 3,
       "devices": {
@@ -250,7 +250,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.8.9",
-          "last_seen_at": "2026-11-13 15:24:37",
+          "last_seen_at": "2026-11-13 15:26:08",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-13",
           "today_searches": 0,
@@ -344,47 +344,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.8.9",
-          "last_seen_at": "2026-11-13 15:23:40",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-13 15:25:57",
+          "last_action": "Depo Sorgu: RABBY D 10 MG 28 TB.",
           "today_date": "2026-11-13",
-          "today_searches": 4,
+          "today_searches": 6,
           "today_cart_adds": 17,
-          "today_smart_orders": 49,
-          "total_searches": 69,
+          "today_smart_orders": 53,
+          "total_searches": 71,
           "total_cart_adds": 293,
-          "total_smart_orders": 198,
+          "total_smart_orders": 202,
           "total_days_used": 9,
           "recent_actions": [
-            {
-              "t": "2026-11-13 15:10:24",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-13 15:10:25",
-              "type": "cart",
-              "detail": "Toplu Sepet (SELCUK): 1 Kalem"
-            },
-            {
-              "t": "2026-11-13 15:10:30",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-13 15:11:16",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-13 15:11:38",
-              "type": "cart",
-              "detail": "Toplu Sepet (ALLIANCE): 7 Kalem"
-            },
-            {
-              "t": "2026-11-13 15:11:38",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-13 15:12:07",
               "type": "critical_stock",
@@ -429,6 +399,36 @@
               "t": "2026-11-13 15:17:39",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-13 15:25:39",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-13 15:25:39",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 42 Kalem)"
+            },
+            {
+              "t": "2026-11-13 15:25:39",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-13 15:25:42",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (5 Ürün)"
+            },
+            {
+              "t": "2026-11-13 15:25:53",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-13 15:25:56",
+              "type": "search",
+              "detail": "Depo Sorgu: RABBY D 10 MG 28 TB."
             }
           ]
         }
