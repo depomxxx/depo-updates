@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 13:55:12",
+  "updated_at": "2026-11-13 13:57:28",
   "count": 5,
   "items": [
     {
@@ -1482,14 +1482,14 @@
       "status": "AKTIF",
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
-      "app_version": "1.8.5",
-      "last_seen_at": "2026-11-13 13:56:35",
-      "last_action": "[DESKTOP-T4EAUS3] Depo Fiyat Sorgulama",
+      "app_version": "1.8.6",
+      "last_seen_at": "2026-11-13 13:57:28",
+      "last_action": "[DESKTOP-T4EAUS3] Depo Sorgu: CIPRALEX 20 MG 28 FTB.",
       "today_date": "2026-11-13",
-      "today_searches": 14,
+      "today_searches": 16,
       "today_cart_adds": 25,
       "today_smart_orders": 41,
-      "total_searches": 129,
+      "total_searches": 131,
       "total_cart_adds": 542,
       "total_days_used": 9,
       "total_smart_orders": 223,
@@ -1574,23 +1574,18 @@
           "pc_name": "DESKTOP-T4EAUS3",
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
-          "app_version": "1.8.5",
-          "last_seen_at": "2026-11-13 13:56:35",
-          "last_action": "Depo Fiyat Sorgulama",
+          "app_version": "1.8.6",
+          "last_seen_at": "2026-11-13 13:57:28",
+          "last_action": "Depo Sorgu: CIPRALEX 20 MG 28 FTB.",
           "today_date": "2026-11-13",
-          "today_searches": 14,
+          "today_searches": 16,
           "today_cart_adds": 25,
           "today_smart_orders": 41,
-          "total_searches": 57,
+          "total_searches": 59,
           "total_cart_adds": 284,
           "total_smart_orders": 154,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-13 13:52:47",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-13 13:52:54",
               "type": "cart",
@@ -1660,6 +1655,11 @@
               "t": "2026-11-13 13:56:35",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-13 13:56:36",
+              "type": "search",
+              "detail": "Depo Sorgu: CIPRALEX 20 MG 28 FTB."
             }
           ]
         },
