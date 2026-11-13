@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 16:32:09",
+  "updated_at": "2026-11-13 16:32:19",
   "count": 6,
   "items": [
     {
@@ -16,14 +16,14 @@
       "hwid": "3C0F-6FF9-862F",
       "last_pc_name": "Berkay",
       "app_version": "1.8.9",
-      "last_seen_at": "2026-11-13 16:30:44",
-      "last_action": "Sepete Ekle (ALLIANCE): LAFAME 87MCG/5MCG/9MCG AEROS x2",
+      "last_seen_at": "2026-11-13 16:32:19",
+      "last_action": "Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-13",
       "today_searches": 43,
-      "today_cart_adds": 38,
+      "today_cart_adds": 39,
       "today_smart_orders": 89,
       "total_searches": 43,
-      "total_cart_adds": 38,
+      "total_cart_adds": 39,
       "total_smart_orders": 89,
       "total_days_used": 1,
       "pc_count": 1,
@@ -34,22 +34,17 @@
           "desk_name": "Berkay",
           "local_ip": "192.168.1.103",
           "app_version": "1.8.9",
-          "last_seen_at": "2026-11-13 16:30:44",
-          "last_action": "Sepete Ekle (ALLIANCE): LAFAME 87MCG/5MCG/9MCG AEROS x2",
+          "last_seen_at": "2026-11-13 16:32:19",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-13",
           "today_searches": 43,
-          "today_cart_adds": 38,
+          "today_cart_adds": 39,
           "today_smart_orders": 89,
           "total_searches": 43,
-          "total_cart_adds": 38,
+          "total_cart_adds": 39,
           "total_smart_orders": 89,
           "total_days_used": 1,
           "recent_actions": [
-            {
-              "t": "2026-11-13 16:26:56",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): FAMODIN 40MG 30 TABLET x3"
-            },
             {
               "t": "2026-11-13 16:27:00",
               "type": "cart",
@@ -119,6 +114,11 @@
               "t": "2026-11-13 16:29:10",
               "type": "cart",
               "detail": "Sepete Ekle (ALLIANCE): LAFAME 87MCG/5MCG/9MCG AEROS x2"
+            },
+            {
+              "t": "2026-11-13 16:32:19",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         }
