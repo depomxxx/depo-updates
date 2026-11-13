@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 13:57:43",
+  "updated_at": "2026-11-13 13:58:03",
   "count": 5,
   "items": [
     {
@@ -8,23 +8,23 @@
       "pharmacist_name": "GAMZE ASLAN",
       "phone": "05344064108",
       "city": "SAMSUN/ATAKUM",
-      "gln_no": "8680001000000",
+      "gln_no": "8680001134861",
       "otomasyon": "TRIA",
       "plan": "PRO_YILLIK",
       "expires_at": "2027-10-24",
       "status": "AKTIF",
-      "hwid": "E6B1-5698-273E",
-      "last_pc_name": "DESKTOP-6KFO8IF",
+      "hwid": "E4F7-229A-BABD",
+      "last_pc_name": "ChagriBeg",
       "app_version": "1.8.6",
-      "last_seen_at": "2026-11-13 13:57:43",
-      "last_action": "[DESKTOP-6KFO8IF] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-13 13:58:03",
+      "last_action": "[ChagriBeg] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-13",
       "today_searches": 16,
-      "today_cart_adds": 12,
-      "today_smart_orders": 142,
+      "today_cart_adds": 14,
+      "today_smart_orders": 149,
       "total_searches": 142,
-      "total_cart_adds": 362,
-      "total_smart_orders": 379,
+      "total_cart_adds": 364,
+      "total_smart_orders": 386,
       "total_days_used": 9,
       "pc_count": 3,
       "devices": {
@@ -34,22 +34,17 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.8.6",
-          "last_seen_at": "2026-11-13 13:57:28",
-          "last_action": "Depo Sorgu: JARDIANCE 10 MG 30 FTB.",
+          "last_seen_at": "2026-11-13 13:58:03",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-13",
           "today_searches": 14,
           "today_cart_adds": 0,
-          "today_smart_orders": 87,
+          "today_smart_orders": 88,
           "total_searches": 61,
           "total_cart_adds": 36,
-          "total_smart_orders": 158,
+          "total_smart_orders": 159,
           "total_days_used": 9,
           "recent_actions": [
-            {
-              "t": "2026-11-13 13:41:58",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-13 13:42:09",
               "type": "mf_resolve",
@@ -119,6 +114,11 @@
               "t": "2026-11-13 13:57:28",
               "type": "search",
               "detail": "Depo Sorgu: JARDIANCE 10 MG 30 FTB."
+            },
+            {
+              "t": "2026-11-13 13:58:03",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         },
@@ -128,57 +128,17 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.8.6",
-          "last_seen_at": "2026-11-13 13:57:43",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-13 13:57:58",
+          "last_action": "Sepete Ekle (ALLIANCE): VERMİDON TABLET 30 TABLET/KU x5",
           "today_date": "2026-11-13",
           "today_searches": 0,
-          "today_cart_adds": 8,
-          "today_smart_orders": 22,
+          "today_cart_adds": 10,
+          "today_smart_orders": 28,
           "total_searches": 14,
-          "total_cart_adds": 46,
-          "total_smart_orders": 39,
+          "total_cart_adds": 48,
+          "total_smart_orders": 45,
           "total_days_used": 9,
           "recent_actions": [
-            {
-              "t": "2026-11-13 12:07:39",
-              "type": "cart",
-              "detail": "Toplu Sepet (NEVZAT): 2 Kalem"
-            },
-            {
-              "t": "2026-11-13 12:07:53",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-13 12:09:09",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-13 12:09:09",
-              "type": "cart",
-              "detail": "Toplu Sepet (SELCUK): 1 Kalem"
-            },
-            {
-              "t": "2026-11-13 12:09:09",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş Planlama"
-            },
-            {
-              "t": "2026-11-13 12:09:10",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş (TRIA • 53 Kalem)"
-            },
-            {
-              "t": "2026-11-13 12:09:10",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-13 12:09:11",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (3 Ürün)"
-            },
             {
               "t": "2026-11-13 12:09:14",
               "type": "cart",
@@ -213,6 +173,46 @@
               "t": "2026-11-13 13:57:43",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-13 13:57:43",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-13 13:57:44",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (2 Ürün)"
+            },
+            {
+              "t": "2026-11-13 13:57:46",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-13 13:57:46",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 31 Kalem)"
+            },
+            {
+              "t": "2026-11-13 13:57:46",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-13 13:57:47",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (1 Ürün)"
+            },
+            {
+              "t": "2026-11-13 13:57:57",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-13 13:57:58",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): VERMİDON TABLET 30 TABLET/KU x5"
             }
           ]
         },
