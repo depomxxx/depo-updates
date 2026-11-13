@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 14:35:54",
+  "updated_at": "2026-11-13 14:35:59",
   "count": 6,
   "items": [
     {
@@ -16,15 +16,15 @@
       "hwid": "3C0F-6FF9-862F",
       "last_pc_name": "Berkay",
       "app_version": "1.8.7",
-      "last_seen_at": "2026-11-13 14:35:38",
-      "last_action": "Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-13 14:35:59",
+      "last_action": "Toplu Sipariş Planlama",
       "today_date": "2026-11-13",
       "today_searches": 13,
-      "today_cart_adds": 1,
-      "today_smart_orders": 42,
+      "today_cart_adds": 2,
+      "today_smart_orders": 43,
       "total_searches": 13,
-      "total_cart_adds": 1,
-      "total_smart_orders": 42,
+      "total_cart_adds": 2,
+      "total_smart_orders": 43,
       "total_days_used": 1,
       "pc_count": 1,
       "devices": {
@@ -34,27 +34,17 @@
           "desk_name": "Berkay",
           "local_ip": "192.168.1.103",
           "app_version": "1.8.7",
-          "last_seen_at": "2026-11-13 14:35:38",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-13 14:35:59",
+          "last_action": "Toplu Sipariş Planlama",
           "today_date": "2026-11-13",
           "today_searches": 13,
-          "today_cart_adds": 1,
-          "today_smart_orders": 42,
+          "today_cart_adds": 2,
+          "today_smart_orders": 43,
           "total_searches": 13,
-          "total_cart_adds": 1,
-          "total_smart_orders": 42,
+          "total_cart_adds": 2,
+          "total_smart_orders": 43,
           "total_days_used": 1,
           "recent_actions": [
-            {
-              "t": "2026-11-13 14:31:20",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-13 14:31:34",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (35 Ürün)"
-            },
             {
               "t": "2026-11-13 14:31:35",
               "type": "mf_resolve",
@@ -119,6 +109,16 @@
               "t": "2026-11-13 14:35:38",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-13 14:35:40",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): PRATIN 2MG 30 FİLM TABLET x9"
+            },
+            {
+              "t": "2026-11-13 14:35:59",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş Planlama"
             }
           ]
         }
