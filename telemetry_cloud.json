@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 12:12:02",
+  "updated_at": "2026-11-13 12:10:05",
   "count": 5,
   "items": [
     {
@@ -8,23 +8,23 @@
       "pharmacist_name": "GAMZE ASLAN",
       "phone": "05344064108",
       "city": "SAMSUN/ATAKUM",
-      "gln_no": "8680001000000",
-      "otomasyon": "TRIA",
+      "gln_no": "8680001134861",
+      "otomasyon": "TEBEOS",
       "plan": "PRO_YILLIK",
       "expires_at": "2027-10-24",
       "status": "AKTIF",
-      "hwid": "E6B1-5698-273E",
-      "last_pc_name": "DESKTOP-6KFO8IF",
+      "hwid": "E4F7-229A-BABD",
+      "last_pc_name": "ChagriBeg",
       "app_version": "1.8.3",
-      "last_seen_at": "2026-11-13 12:09:09",
-      "last_action": "[DESKTOP-6KFO8IF] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-13 12:10:05",
+      "last_action": "[ChagriBeg] Depo Sorgu: BARACLUDE 0.5 MG 30 FTB.",
       "today_date": "2026-11-13",
       "today_searches": 6,
-      "today_cart_adds": 9,
-      "today_smart_orders": 64,
+      "today_cart_adds": 12,
+      "today_smart_orders": 70,
       "total_searches": 132,
-      "total_cart_adds": 359,
-      "total_smart_orders": 301,
+      "total_cart_adds": 362,
+      "total_smart_orders": 307,
       "total_days_used": 9,
       "pc_count": 3,
       "devices": {
@@ -34,7 +34,7 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.8.3",
-          "last_seen_at": "2026-11-13 12:08:34",
+          "last_seen_at": "2026-11-13 12:10:05",
           "last_action": "Depo Sorgu: BARACLUDE 0.5 MG 30 FTB.",
           "today_date": "2026-11-13",
           "today_searches": 4,
@@ -128,57 +128,17 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.8.3",
-          "last_seen_at": "2026-11-13 12:09:09",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-13 12:09:50",
+          "last_action": "Toplu Sipariş (TRIA • 53 Kalem)",
           "today_date": "2026-11-13",
           "today_searches": 0,
-          "today_cart_adds": 5,
-          "today_smart_orders": 12,
+          "today_cart_adds": 8,
+          "today_smart_orders": 18,
           "total_searches": 14,
-          "total_cart_adds": 43,
-          "total_smart_orders": 29,
+          "total_cart_adds": 46,
+          "total_smart_orders": 35,
           "total_days_used": 9,
           "recent_actions": [
-            {
-              "t": "2026-11-12 00:50:09",
-              "type": "cart",
-              "detail": "EczaneTakas Kampanya Açıldı: PULCET 40 MG 28 TB (30+4)"
-            },
-            {
-              "t": "2026-11-13 12:06:12",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-13 12:06:13",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-13 12:06:13",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-13 12:06:14",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-13 12:06:29",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-13 12:06:29",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-13 12:06:30",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-13 12:06:35",
               "type": "critical_stock",
@@ -213,6 +173,46 @@
               "t": "2026-11-13 12:09:09",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-13 12:09:09",
+              "type": "cart",
+              "detail": "Toplu Sepet (SELCUK): 1 Kalem"
+            },
+            {
+              "t": "2026-11-13 12:09:09",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş Planlama"
+            },
+            {
+              "t": "2026-11-13 12:09:10",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş (TRIA • 53 Kalem)"
+            },
+            {
+              "t": "2026-11-13 12:09:10",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-13 12:09:11",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (3 Ürün)"
+            },
+            {
+              "t": "2026-11-13 12:09:14",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-13 12:09:21",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş Planlama"
+            },
+            {
+              "t": "2026-11-13 12:09:21",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş (TRIA • 53 Kalem)"
             }
           ]
         },
