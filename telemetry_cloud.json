@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 17:27:40",
+  "updated_at": "2026-11-13 17:25:39",
   "count": 6,
   "items": [
     {
@@ -448,15 +448,15 @@
       "hwid": "D719-CEB2-1542",
       "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.8.9",
-      "last_seen_at": "2026-11-13 17:25:13",
-      "last_action": "[DESKTOP-M530BBB] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-13 17:25:39",
+      "last_action": "[DESKTOP-M530BBB] Canlı MF Sorgulama (30 Ürün)",
       "today_date": "2026-11-13",
       "today_searches": 36,
       "today_cart_adds": 66,
-      "today_smart_orders": 174,
+      "today_smart_orders": 178,
       "total_searches": 456,
       "total_cart_adds": 768,
-      "total_smart_orders": 602,
+      "total_smart_orders": 606,
       "total_days_used": 10,
       "pc_count": 8,
       "devices": {
@@ -1030,37 +1030,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.112",
           "app_version": "1.8.9",
-          "last_seen_at": "2026-11-13 17:25:13",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-13 17:25:39",
+          "last_action": "Canlı MF Sorgulama (30 Ürün)",
           "today_date": "2026-11-13",
           "today_searches": 16,
           "today_cart_adds": 8,
-          "today_smart_orders": 11,
+          "today_smart_orders": 15,
           "total_searches": 89,
           "total_cart_adds": 94,
-          "total_smart_orders": 63,
+          "total_smart_orders": 67,
           "total_days_used": 10,
           "recent_actions": [
-            {
-              "t": "2026-11-13 11:49:08",
-              "type": "cart",
-              "detail": "Sepete Ekle (NEVZAT): PAXERA 10 MG 28 FILM TB. x6"
-            },
-            {
-              "t": "2026-11-13 11:49:49",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-13 13:23:48",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-13 13:23:48",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-13 13:24:00",
               "type": "mf_resolve",
@@ -1115,6 +1095,26 @@
               "t": "2026-11-13 17:25:13",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-13 17:25:14",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-13 17:25:29",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (30 Ürün)"
+            },
+            {
+              "t": "2026-11-13 17:25:30",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-13 17:25:39",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (30 Ürün)"
             }
           ]
         },
