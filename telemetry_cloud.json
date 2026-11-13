@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 15:31:16",
+  "updated_at": "2026-11-13 15:31:22",
   "count": 6,
   "items": [
     {
@@ -445,18 +445,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D719-CEB2-1542",
-      "last_pc_name": "DESKTOP-M530BBB",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.8.9",
-      "last_seen_at": "2026-11-13 15:30:44",
-      "last_action": "[DESKTOP-M530BBB] Canlı MF Taraması",
+      "last_seen_at": "2026-11-13 15:31:22",
+      "last_action": "[DESKTOP-OTHNDUE] Canlı MF Sorgulama (1 Ürün)",
       "today_date": "2026-11-13",
       "today_searches": 26,
       "today_cart_adds": 52,
-      "today_smart_orders": 113,
+      "today_smart_orders": 117,
       "total_searches": 446,
       "total_cart_adds": 754,
-      "total_smart_orders": 541,
+      "total_smart_orders": 545,
       "total_days_used": 10,
       "pc_count": 8,
       "devices": {
@@ -560,37 +560,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.8.9",
-          "last_seen_at": "2026-11-13 15:29:47",
+          "last_seen_at": "2026-11-13 15:31:22",
           "last_action": "Canlı MF Sorgulama (1 Ürün)",
           "today_date": "2026-11-13",
           "today_searches": 10,
           "today_cart_adds": 28,
-          "today_smart_orders": 57,
+          "today_smart_orders": 61,
           "total_searches": 75,
           "total_cart_adds": 304,
-          "total_smart_orders": 206,
+          "total_smart_orders": 210,
           "total_days_used": 9,
           "recent_actions": [
-            {
-              "t": "2026-11-13 15:25:56",
-              "type": "search",
-              "detail": "Depo Sorgu: RABBY D 10 MG 28 TB."
-            },
-            {
-              "t": "2026-11-13 15:26:48",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-13 15:26:52",
-              "type": "search",
-              "detail": "Depo Sorgu: KONTIL 250 MG 15 ML SUSP."
-            },
-            {
-              "t": "2026-11-13 15:27:05",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-13 15:27:08",
               "type": "search",
@@ -643,6 +623,26 @@
             },
             {
               "t": "2026-11-13 15:29:47",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (1 Ürün)"
+            },
+            {
+              "t": "2026-11-13 15:29:48",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-13 15:29:48",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 41 Kalem)"
+            },
+            {
+              "t": "2026-11-13 15:29:48",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-13 15:29:51",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (1 Ürün)"
             }
@@ -842,7 +842,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.8.9",
-          "last_seen_at": "2026-11-13 15:29:09",
+          "last_seen_at": "2026-11-13 15:30:40",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-13",
           "today_searches": 0,
