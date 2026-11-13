@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 14:15:30",
+  "updated_at": "2026-11-13 14:15:40",
   "count": 5,
   "items": [
     {
@@ -13,18 +13,18 @@
       "plan": "PRO_YILLIK",
       "expires_at": "2027-10-24",
       "status": "AKTIF",
-      "hwid": "E6B1-5698-273E",
-      "last_pc_name": "DESKTOP-6KFO8IF",
+      "hwid": "E4F7-229A-BABD",
+      "last_pc_name": "ChagriBeg",
       "app_version": "1.8.7",
-      "last_seen_at": "2026-11-13 14:14:19",
-      "last_action": "[DESKTOP-6KFO8IF] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-13 14:15:40",
+      "last_action": "[ChagriBeg] Canlı MF Sorgulama (5 Ürün)",
       "today_date": "2026-11-13",
       "today_searches": 24,
       "today_cart_adds": 16,
-      "today_smart_orders": 165,
+      "today_smart_orders": 171,
       "total_searches": 150,
       "total_cart_adds": 366,
-      "total_smart_orders": 402,
+      "total_smart_orders": 408,
       "total_days_used": 9,
       "pc_count": 3,
       "devices": {
@@ -34,32 +34,17 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.8.7",
-          "last_seen_at": "2026-11-13 14:14:19",
-          "last_action": "Canlı MF Taraması",
+          "last_seen_at": "2026-11-13 14:15:40",
+          "last_action": "Canlı MF Sorgulama (5 Ürün)",
           "today_date": "2026-11-13",
           "today_searches": 22,
           "today_cart_adds": 0,
-          "today_smart_orders": 100,
+          "today_smart_orders": 103,
           "total_searches": 69,
           "total_cart_adds": 36,
-          "total_smart_orders": 171,
+          "total_smart_orders": 174,
           "total_days_used": 9,
           "recent_actions": [
-            {
-              "t": "2026-11-13 13:58:13",
-              "type": "search",
-              "detail": "Depo Sorgu: JARDIANCE 10 MG 30 FTB."
-            },
-            {
-              "t": "2026-11-13 13:58:13",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-13 13:58:13",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-13 13:58:14",
               "type": "mf_resolve",
@@ -119,6 +104,21 @@
               "t": "2026-11-13 14:14:14",
               "type": "mf_resolve",
               "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-13 14:14:25",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-13 14:14:25",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-13 14:14:34",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (5 Ürün)"
             }
           ]
         },
@@ -128,32 +128,17 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.8.7",
-          "last_seen_at": "2026-11-13 14:14:19",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-13 14:15:21",
+          "last_action": "Canlı MF Sorgulama (1 Ürün)",
           "today_date": "2026-11-13",
           "today_searches": 0,
           "today_cart_adds": 12,
-          "today_smart_orders": 32,
+          "today_smart_orders": 35,
           "total_searches": 14,
           "total_cart_adds": 50,
-          "total_smart_orders": 49,
+          "total_smart_orders": 52,
           "total_days_used": 9,
           "recent_actions": [
-            {
-              "t": "2026-11-13 12:55:29",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (1 Ürün)"
-            },
-            {
-              "t": "2026-11-13 13:57:43",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-13 13:57:43",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-13 13:57:44",
               "type": "mf_resolve",
@@ -213,6 +198,21 @@
               "t": "2026-11-13 14:00:39",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-13 14:14:28",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-13 14:14:28",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-13 14:14:29",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (1 Ürün)"
             }
           ]
         },
