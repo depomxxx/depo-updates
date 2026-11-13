@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 14:49:01",
+  "updated_at": "2026-11-13 14:49:20",
   "count": 6,
   "items": [
     {
@@ -130,22 +130,22 @@
       "pharmacist_name": "GAMZE ASLAN",
       "phone": "05344064108",
       "city": "SAMSUN/ATAKUM",
-      "gln_no": "8680001000000",
+      "gln_no": "8680001134861",
       "otomasyon": "TRIA",
       "plan": "PRO_YILLIK",
       "expires_at": "2027-10-24",
       "status": "AKTIF",
-      "hwid": "E6B1-5698-273E",
-      "last_pc_name": "DESKTOP-6KFO8IF",
+      "hwid": "E4F7-229A-BABD",
+      "last_pc_name": "ChagriBeg",
       "app_version": "1.8.7",
-      "last_seen_at": "2026-11-13 14:48:59",
-      "last_action": "[DESKTOP-6KFO8IF] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-13 14:49:20",
+      "last_action": "[ChagriBeg] Canlı MF Sorgulama (5 Ürün)",
       "today_date": "2026-11-13",
       "today_searches": 24,
-      "today_cart_adds": 17,
+      "today_cart_adds": 20,
       "today_smart_orders": 178,
       "total_searches": 150,
-      "total_cart_adds": 367,
+      "total_cart_adds": 370,
       "total_smart_orders": 415,
       "total_days_used": 9,
       "pc_count": 3,
@@ -156,7 +156,7 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.8.7",
-          "last_seen_at": "2026-11-13 14:47:49",
+          "last_seen_at": "2026-11-13 14:49:20",
           "last_action": "Canlı MF Sorgulama (5 Ürün)",
           "today_date": "2026-11-13",
           "today_searches": 22,
@@ -250,27 +250,17 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.8.7",
-          "last_seen_at": "2026-11-13 14:48:59",
+          "last_seen_at": "2026-11-13 14:49:09",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-13",
           "today_searches": 0,
-          "today_cart_adds": 13,
+          "today_cart_adds": 16,
           "today_smart_orders": 39,
           "total_searches": 14,
-          "total_cart_adds": 51,
+          "total_cart_adds": 54,
           "total_smart_orders": 56,
           "total_days_used": 9,
           "recent_actions": [
-            {
-              "t": "2026-11-13 13:57:57",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-13 13:57:58",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): VERMİDON TABLET 30 TABLET/KU x5"
-            },
             {
               "t": "2026-11-13 13:58:54",
               "type": "critical_stock",
@@ -333,6 +323,16 @@
             },
             {
               "t": "2026-11-13 14:48:59",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-13 14:49:02",
+              "type": "cart",
+              "detail": "Toplu Sepet (ALLIANCE): 1 Kalem"
+            },
+            {
+              "t": "2026-11-13 14:49:05",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
