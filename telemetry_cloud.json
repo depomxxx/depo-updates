@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 14:32:19",
+  "updated_at": "2026-11-13 14:34:37",
   "count": 6,
   "items": [
     {
@@ -1605,14 +1605,14 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.8.7",
-      "last_seen_at": "2026-11-13 14:34:16",
-      "last_action": "[DESKTOP-T4EAUS3] Canlı MF Sorgulama (1 Ürün)",
+      "last_seen_at": "2026-11-13 14:34:37",
+      "last_action": "[DESKTOP-T4EAUS3] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-13",
-      "today_searches": 16,
-      "today_cart_adds": 25,
+      "today_searches": 18,
+      "today_cart_adds": 27,
       "today_smart_orders": 47,
-      "total_searches": 131,
-      "total_cart_adds": 542,
+      "total_searches": 133,
+      "total_cart_adds": 544,
       "total_days_used": 9,
       "total_smart_orders": 229,
       "pc_count": 3,
@@ -1697,32 +1697,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.8.7",
-          "last_seen_at": "2026-11-13 14:34:16",
-          "last_action": "Canlı MF Sorgulama (1 Ürün)",
+          "last_seen_at": "2026-11-13 14:34:37",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-13",
-          "today_searches": 16,
-          "today_cart_adds": 25,
+          "today_searches": 18,
+          "today_cart_adds": 27,
           "today_smart_orders": 47,
-          "total_searches": 59,
-          "total_cart_adds": 284,
+          "total_searches": 61,
+          "total_cart_adds": 286,
           "total_smart_orders": 160,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-13 13:53:34",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (16 Ürün)"
-            },
-            {
-              "t": "2026-11-13 13:56:17",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-13 13:56:24",
-              "type": "search",
-              "detail": "Depo Sorgu: 01086997950911132164000079093648172903"
-            },
             {
               "t": "2026-11-13 13:56:24",
               "type": "search",
@@ -1782,6 +1767,21 @@
               "t": "2026-11-13 14:18:26",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (1 Ürün)"
+            },
+            {
+              "t": "2026-11-13 14:34:16",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-13 14:34:22",
+              "type": "search",
+              "detail": "Depo Sorgu: ENDOL 25 MG 25 CAP."
+            },
+            {
+              "t": "2026-11-13 14:34:34",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
