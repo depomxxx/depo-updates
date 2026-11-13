@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 18:37:04",
+  "updated_at": "2026-11-13 18:37:20",
   "count": 6,
   "items": [
     {
@@ -448,7 +448,7 @@
       "hwid": "83F3-13F8-E632",
       "last_pc_name": "Eskienes",
       "app_version": "1.8.9",
-      "last_seen_at": "2026-11-13 18:35:49",
+      "last_seen_at": "2026-11-13 18:37:20",
       "last_action": "[Eskienes] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-13",
       "today_searches": 36,
@@ -466,7 +466,7 @@
           "desk_name": "Eskienes",
           "local_ip": "192.168.1.117",
           "app_version": "1.8.9",
-          "last_seen_at": "2026-11-13 18:35:49",
+          "last_seen_at": "2026-11-13 18:37:20",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-13",
           "today_searches": 6,
