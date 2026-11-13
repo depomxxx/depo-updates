@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 16:36:40",
+  "updated_at": "2026-11-13 16:36:45",
   "count": 6,
   "items": [
     {
@@ -16,14 +16,14 @@
       "hwid": "3C0F-6FF9-862F",
       "last_pc_name": "Berkay",
       "app_version": "1.8.9",
-      "last_seen_at": "2026-11-13 16:35:44",
-      "last_action": "Sepete Ekle (ALLIANCE): PSORCUTAN BETA 30GR POMAT x2",
+      "last_seen_at": "2026-11-13 16:36:45",
+      "last_action": "Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-13",
       "today_searches": 43,
-      "today_cart_adds": 65,
+      "today_cart_adds": 66,
       "today_smart_orders": 89,
       "total_searches": 43,
-      "total_cart_adds": 65,
+      "total_cart_adds": 66,
       "total_smart_orders": 89,
       "total_days_used": 1,
       "pc_count": 1,
@@ -34,22 +34,17 @@
           "desk_name": "Berkay",
           "local_ip": "192.168.1.103",
           "app_version": "1.8.9",
-          "last_seen_at": "2026-11-13 16:35:44",
-          "last_action": "Sepete Ekle (ALLIANCE): PSORCUTAN BETA 30GR POMAT x2",
+          "last_seen_at": "2026-11-13 16:36:45",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-13",
           "today_searches": 43,
-          "today_cart_adds": 65,
+          "today_cart_adds": 66,
           "today_smart_orders": 89,
           "total_searches": 43,
-          "total_cart_adds": 65,
+          "total_cart_adds": 66,
           "total_smart_orders": 89,
           "total_days_used": 1,
           "recent_actions": [
-            {
-              "t": "2026-11-13 16:33:12",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): TANSIFA PLUS 16MG/5MG/12.5MG x4"
-            },
             {
               "t": "2026-11-13 16:33:24",
               "type": "cart",
@@ -119,6 +114,11 @@
               "t": "2026-11-13 16:34:38",
               "type": "cart",
               "detail": "Sepete Ekle (ALLIANCE): PSORCUTAN BETA 30GR POMAT x2"
+            },
+            {
+              "t": "2026-11-13 16:36:45",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         }
