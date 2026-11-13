@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 12:14:26",
+  "updated_at": "2026-11-13 12:14:31",
   "count": 5,
   "items": [
     {
@@ -323,18 +323,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D719-CEB2-1542",
-      "last_pc_name": "DESKTOP-M530BBB",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.8.3",
-      "last_seen_at": "2026-11-13 12:13:48",
-      "last_action": "[DESKTOP-M530BBB] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-13 12:14:31",
+      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-13",
       "today_searches": 14,
       "today_cart_adds": 20,
-      "today_smart_orders": 47,
+      "today_smart_orders": 48,
       "total_searches": 434,
       "total_cart_adds": 722,
-      "total_smart_orders": 475,
+      "total_smart_orders": 476,
       "total_days_used": 10,
       "pc_count": 8,
       "devices": {
@@ -438,22 +438,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.8.3",
-          "last_seen_at": "2026-11-13 12:13:28",
-          "last_action": "Canlı MF Sorgulama (3 Ürün)",
+          "last_seen_at": "2026-11-13 12:14:31",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-13",
           "today_searches": 2,
           "today_cart_adds": 4,
-          "today_smart_orders": 20,
+          "today_smart_orders": 21,
           "total_searches": 67,
           "total_cart_adds": 280,
-          "total_smart_orders": 169,
+          "total_smart_orders": 170,
           "total_days_used": 9,
           "recent_actions": [
-            {
-              "t": "2026-11-13 11:43:02",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-13 11:43:09",
               "type": "search",
@@ -523,6 +518,11 @@
               "t": "2026-11-13 12:06:04",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (3 Ürün)"
+            },
+            {
+              "t": "2026-11-13 12:14:31",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         },
@@ -720,7 +720,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.8.3",
-          "last_seen_at": "2026-11-13 12:13:10",
+          "last_seen_at": "2026-11-13 12:14:25",
           "last_action": "Toplu Sipariş (TRIA • 53 Kalem)",
           "today_date": "2026-11-13",
           "today_searches": 0,
