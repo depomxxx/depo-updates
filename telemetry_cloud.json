@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 14:50:34",
+  "updated_at": "2026-11-14 14:49:08",
   "count": 6,
   "items": [
     {
@@ -445,11 +445,11 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D719-CEB2-1542",
-      "last_pc_name": "DESKTOP-M530BBB",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.8.9",
-      "last_seen_at": "2026-11-14 14:47:55",
-      "last_action": "[DESKTOP-M530BBB] Depo Sorgu: OKSIZINC POMAT %40-40 GR.",
+      "last_seen_at": "2026-11-14 14:49:08",
+      "last_action": "[DESKTOP-OTHNDUE] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-14",
       "today_searches": 2,
       "today_cart_adds": 7,
@@ -560,7 +560,7 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.8.9",
-          "last_seen_at": "2026-11-14 14:47:37",
+          "last_seen_at": "2026-11-14 14:49:08",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-14",
           "today_searches": 0,
