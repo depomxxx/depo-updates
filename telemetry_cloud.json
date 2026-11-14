@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 15:44:00",
+  "updated_at": "2026-11-14 15:44:20",
   "count": 6,
   "items": [
     {
@@ -448,15 +448,15 @@
       "hwid": "D719-CEB2-1542",
       "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.8.9",
-      "last_seen_at": "2026-11-14 15:44:00",
-      "last_action": "[DESKTOP-M530BBB] Depo Sorgu: OKSIZINC POMAT %40-40 GR.",
+      "last_seen_at": "2026-11-14 15:44:20",
+      "last_action": "[DESKTOP-M530BBB] Canlı MF Sorgulama (35 Ürün)",
       "today_date": "2026-11-14",
       "today_searches": 2,
-      "today_cart_adds": 7,
-      "today_smart_orders": 9,
+      "today_cart_adds": 9,
+      "today_smart_orders": 13,
       "total_searches": 458,
-      "total_cart_adds": 775,
-      "total_smart_orders": 623,
+      "total_cart_adds": 777,
+      "total_smart_orders": 627,
       "total_days_used": 11,
       "pc_count": 8,
       "devices": {
@@ -1030,47 +1030,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.112",
           "app_version": "1.8.9",
-          "last_seen_at": "2026-11-14 15:44:00",
-          "last_action": "Depo Sorgu: OKSIZINC POMAT %40-40 GR.",
+          "last_seen_at": "2026-11-14 15:44:20",
+          "last_action": "Canlı MF Sorgulama (35 Ürün)",
           "today_date": "2026-11-14",
           "today_searches": 2,
-          "today_cart_adds": 0,
-          "today_smart_orders": 2,
+          "today_cart_adds": 2,
+          "today_smart_orders": 6,
           "total_searches": 91,
-          "total_cart_adds": 94,
-          "total_smart_orders": 73,
+          "total_cart_adds": 96,
+          "total_smart_orders": 77,
           "total_days_used": 11,
           "recent_actions": [
-            {
-              "t": "2026-11-13 14:26:38",
-              "type": "search",
-              "detail": "Depo Sorgu: FOREVER GARCINIA PLUS"
-            },
-            {
-              "t": "2026-11-13 15:16:47",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-13 15:16:47",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-13 17:25:13",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-13 17:25:14",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-13 17:25:29",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (30 Ürün)"
-            },
             {
               "t": "2026-11-13 17:25:30",
               "type": "mf_resolve",
@@ -1115,6 +1085,36 @@
               "t": "2026-11-14 10:46:46",
               "type": "search",
               "detail": "Depo Sorgu: OKSIZINC POMAT %40-40 GR."
+            },
+            {
+              "t": "2026-11-14 15:44:01",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-14 15:44:04",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş Planlama"
+            },
+            {
+              "t": "2026-11-14 15:44:07",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş (TRIA • 161 Kalem)"
+            },
+            {
+              "t": "2026-11-14 15:44:07",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-14 15:44:17",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-14 15:44:20",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (35 Ürün)"
             }
           ]
         },
