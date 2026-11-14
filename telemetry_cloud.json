@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 17:37:01",
+  "updated_at": "2026-11-14 17:37:38",
   "count": 6,
   "items": [
     {
@@ -447,16 +447,16 @@
       "status": "AKTIF",
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
-      "app_version": "1.8.9",
-      "last_seen_at": "2026-11-14 17:36:39",
-      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları / Kritik Stok",
+      "app_version": "1.9.0",
+      "last_seen_at": "2026-11-14 17:37:37",
+      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları Yenileme (TRIA • 21 Kalem)",
       "today_date": "2026-11-14",
       "today_searches": 12,
       "today_cart_adds": 19,
-      "today_smart_orders": 24,
+      "today_smart_orders": 25,
       "total_searches": 468,
       "total_cart_adds": 787,
-      "total_smart_orders": 638,
+      "total_smart_orders": 639,
       "total_days_used": 11,
       "pc_count": 8,
       "devices": {
@@ -559,23 +559,18 @@
           "pc_name": "DESKTOP-OTHNDUE",
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
-          "app_version": "1.8.9",
-          "last_seen_at": "2026-11-14 17:36:39",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "app_version": "1.9.0",
+          "last_seen_at": "2026-11-14 17:37:37",
+          "last_action": "Günün Çıkışları Yenileme (TRIA • 21 Kalem)",
           "today_date": "2026-11-14",
           "today_searches": 10,
           "today_cart_adds": 15,
-          "today_smart_orders": 14,
+          "today_smart_orders": 15,
           "total_searches": 89,
           "total_cart_adds": 331,
-          "total_smart_orders": 272,
+          "total_smart_orders": 273,
           "total_days_used": 10,
           "recent_actions": [
-            {
-              "t": "2026-11-14 17:30:27",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): ZINCO 50 MG 40 KAP x5"
-            },
             {
               "t": "2026-11-14 17:30:31",
               "type": "search",
@@ -645,6 +640,11 @@
               "t": "2026-11-14 17:36:39",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-14 17:36:39",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 21 Kalem)"
             }
           ]
         },
