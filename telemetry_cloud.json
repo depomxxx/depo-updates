@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 11:07:45",
+  "updated_at": "2026-11-14 11:06:26",
   "count": 6,
   "items": [
     {
@@ -445,11 +445,11 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D719-CEB2-1542",
-      "last_pc_name": "DESKTOP-M530BBB",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.8.9",
-      "last_seen_at": "2026-11-14 11:05:15",
-      "last_action": "[DESKTOP-M530BBB] Depo Sorgu: OKSIZINC POMAT %40-40 GR.",
+      "last_seen_at": "2026-11-14 11:06:26",
+      "last_action": "[DESKTOP-OTHNDUE] Toplu Sepet (ALLIANCE): 2 Kalem",
       "today_date": "2026-11-14",
       "today_searches": 2,
       "today_cart_adds": 2,
@@ -560,7 +560,7 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.8.9",
-          "last_seen_at": "2026-11-14 11:04:55",
+          "last_seen_at": "2026-11-14 11:06:26",
           "last_action": "Toplu Sepet (ALLIANCE): 2 Kalem",
           "today_date": "2026-11-14",
           "today_searches": 0,
