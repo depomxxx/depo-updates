@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 17:29:36",
+  "updated_at": "2026-11-14 17:29:55",
   "count": 6,
   "items": [
     {
@@ -448,15 +448,15 @@
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.8.9",
-      "last_seen_at": "2026-11-14 17:29:36",
-      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-14 17:29:55",
+      "last_action": "[DESKTOP-OTHNDUE] Depo Fiyat Sorgulama",
       "today_date": "2026-11-14",
-      "today_searches": 2,
+      "today_searches": 3,
       "today_cart_adds": 11,
-      "today_smart_orders": 22,
-      "total_searches": 458,
+      "today_smart_orders": 23,
+      "total_searches": 459,
       "total_cart_adds": 779,
-      "total_smart_orders": 636,
+      "total_smart_orders": 637,
       "total_days_used": 11,
       "pc_count": 8,
       "devices": {
@@ -560,27 +560,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.8.9",
-          "last_seen_at": "2026-11-14 17:29:36",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-14 17:29:55",
+          "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-14",
-          "today_searches": 0,
+          "today_searches": 1,
           "today_cart_adds": 7,
-          "today_smart_orders": 12,
-          "total_searches": 79,
+          "today_smart_orders": 13,
+          "total_searches": 80,
           "total_cart_adds": 323,
-          "total_smart_orders": 270,
+          "total_smart_orders": 271,
           "total_days_used": 10,
           "recent_actions": [
-            {
-              "t": "2026-11-14 10:28:47",
-              "type": "cart",
-              "detail": "Toplu Sepet (ALLIANCE): 2 Kalem"
-            },
-            {
-              "t": "2026-11-14 12:53:37",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-14 12:53:46",
               "type": "critical_stock",
@@ -645,6 +635,16 @@
               "t": "2026-11-14 17:29:36",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-14 17:29:36",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 21 Kalem)"
+            },
+            {
+              "t": "2026-11-14 17:29:55",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ]
         },
