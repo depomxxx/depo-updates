@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 10:48:03",
+  "updated_at": "2026-11-14 10:46:34",
   "count": 6,
   "items": [
     {
@@ -448,13 +448,13 @@
       "hwid": "D719-CEB2-1542",
       "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.8.9",
-      "last_seen_at": "2026-11-14 10:45:33",
-      "last_action": "[DESKTOP-M530BBB] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-14 10:46:34",
+      "last_action": "[DESKTOP-M530BBB] Depo Fiyat Sorgulama",
       "today_date": "2026-11-14",
-      "today_searches": 0,
+      "today_searches": 1,
       "today_cart_adds": 2,
       "today_smart_orders": 5,
-      "total_searches": 456,
+      "total_searches": 457,
       "total_cart_adds": 770,
       "total_smart_orders": 619,
       "total_days_used": 11,
@@ -1030,22 +1030,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.112",
           "app_version": "1.8.9",
-          "last_seen_at": "2026-11-14 10:45:33",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-14 10:46:34",
+          "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-14",
-          "today_searches": 0,
+          "today_searches": 1,
           "today_cart_adds": 0,
           "today_smart_orders": 2,
-          "total_searches": 89,
+          "total_searches": 90,
           "total_cart_adds": 94,
           "total_smart_orders": 73,
           "total_days_used": 11,
           "recent_actions": [
-            {
-              "t": "2026-11-13 14:24:46",
-              "type": "search",
-              "detail": "Depo Sorgu: BEFIXO 3 ML 5 AMP."
-            },
             {
               "t": "2026-11-13 14:26:29",
               "type": "search",
@@ -1115,6 +1110,11 @@
               "t": "2026-11-14 08:29:50",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-14 10:46:34",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ]
         },
