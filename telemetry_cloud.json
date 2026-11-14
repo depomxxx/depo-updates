@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 17:27:29",
+  "updated_at": "2026-11-14 17:28:12",
   "count": 6,
   "items": [
     {
@@ -138,14 +138,14 @@
       "hwid": "E4F7-229A-BABD",
       "last_pc_name": "ChagriBeg",
       "app_version": "1.8.9",
-      "last_seen_at": "2026-11-14 17:27:29",
-      "last_action": "[ChagriBeg] Depo Sorgu: AMOKLAVIN BID 1 GR 14 FTB.",
+      "last_seen_at": "2026-11-14 17:28:12",
+      "last_action": "[ChagriBeg] EczaneTakas Katılım: VENTOLIN 100 MCG INHALER x10",
       "today_date": "2026-11-14",
       "today_searches": 6,
-      "today_cart_adds": 16,
+      "today_cart_adds": 17,
       "today_smart_orders": 17,
       "total_searches": 172,
-      "total_cart_adds": 422,
+      "total_cart_adds": 423,
       "total_smart_orders": 508,
       "total_days_used": 10,
       "pc_count": 3,
@@ -156,22 +156,17 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.8.9",
-          "last_seen_at": "2026-11-14 17:27:29",
-          "last_action": "Depo Sorgu: AMOKLAVIN BID 1 GR 14 FTB.",
+          "last_seen_at": "2026-11-14 17:28:12",
+          "last_action": "EczaneTakas Katılım: VENTOLIN 100 MCG INHALER x10",
           "today_date": "2026-11-14",
           "today_searches": 6,
-          "today_cart_adds": 16,
+          "today_cart_adds": 17,
           "today_smart_orders": 17,
           "total_searches": 79,
-          "total_cart_adds": 52,
+          "total_cart_adds": 53,
           "total_smart_orders": 194,
           "total_days_used": 10,
           "recent_actions": [
-            {
-              "t": "2026-11-14 17:23:35",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş (TRIA • 51 Kalem)"
-            },
             {
               "t": "2026-11-14 17:23:42",
               "type": "cart",
@@ -241,6 +236,11 @@
               "t": "2026-11-14 17:26:01",
               "type": "search",
               "detail": "Depo Sorgu: AMOKLAVIN BID 1 GR 14 FTB."
+            },
+            {
+              "t": "2026-11-14 17:28:12",
+              "type": "cart",
+              "detail": "EczaneTakas Katılım: VENTOLIN 100 MCG INHALER x10"
             }
           ]
         },
