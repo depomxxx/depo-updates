@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 17:35:02",
+  "updated_at": "2026-11-14 17:35:21",
   "count": 6,
   "items": [
     {
@@ -138,15 +138,15 @@
       "hwid": "E4F7-229A-BABD",
       "last_pc_name": "ChagriBeg",
       "app_version": "1.8.9",
-      "last_seen_at": "2026-11-14 17:35:02",
+      "last_seen_at": "2026-11-14 17:35:21",
       "last_action": "[ChagriBeg] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-14",
       "today_searches": 6,
-      "today_cart_adds": 20,
-      "today_smart_orders": 18,
+      "today_cart_adds": 22,
+      "today_smart_orders": 20,
       "total_searches": 172,
-      "total_cart_adds": 426,
-      "total_smart_orders": 509,
+      "total_cart_adds": 428,
+      "total_smart_orders": 511,
       "total_days_used": 10,
       "pc_count": 3,
       "devices": {
@@ -156,32 +156,17 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.8.9",
-          "last_seen_at": "2026-11-14 17:35:02",
+          "last_seen_at": "2026-11-14 17:35:21",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-14",
           "today_searches": 6,
-          "today_cart_adds": 20,
-          "today_smart_orders": 18,
+          "today_cart_adds": 22,
+          "today_smart_orders": 20,
           "total_searches": 79,
-          "total_cart_adds": 56,
-          "total_smart_orders": 195,
+          "total_cart_adds": 58,
+          "total_smart_orders": 197,
           "total_days_used": 10,
           "recent_actions": [
-            {
-              "t": "2026-11-14 17:24:01",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş Planlama"
-            },
-            {
-              "t": "2026-11-14 17:24:01",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş (TRIA • 51 Kalem)"
-            },
-            {
-              "t": "2026-11-14 17:24:02",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-14 17:24:03",
               "type": "cart",
@@ -239,6 +224,21 @@
             },
             {
               "t": "2026-11-14 17:35:02",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-14 17:35:12",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş Planlama"
+            },
+            {
+              "t": "2026-11-14 17:35:12",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş (TRIA • 52 Kalem)"
+            },
+            {
+              "t": "2026-11-14 17:35:19",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
