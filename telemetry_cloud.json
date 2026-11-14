@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 17:25:39",
+  "updated_at": "2026-11-14 17:25:57",
   "count": 6,
   "items": [
     {
@@ -138,13 +138,13 @@
       "hwid": "E4F7-229A-BABD",
       "last_pc_name": "ChagriBeg",
       "app_version": "1.8.9",
-      "last_seen_at": "2026-11-14 17:24:34",
-      "last_action": "[ChagriBeg] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-14 17:25:57",
+      "last_action": "[ChagriBeg] Depo Fiyat Sorgulama",
       "today_date": "2026-11-14",
-      "today_searches": 4,
+      "today_searches": 5,
       "today_cart_adds": 16,
       "today_smart_orders": 17,
-      "total_searches": 170,
+      "total_searches": 171,
       "total_cart_adds": 422,
       "total_smart_orders": 508,
       "total_days_used": 10,
@@ -156,22 +156,17 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.8.9",
-          "last_seen_at": "2026-11-14 17:24:34",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-14 17:25:57",
+          "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-14",
-          "today_searches": 4,
+          "today_searches": 5,
           "today_cart_adds": 16,
           "today_smart_orders": 17,
-          "total_searches": 77,
+          "total_searches": 78,
           "total_cart_adds": 52,
           "total_smart_orders": 194,
           "total_days_used": 10,
           "recent_actions": [
-            {
-              "t": "2026-11-14 17:23:31",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-14 17:23:34",
               "type": "smart_order",
@@ -241,6 +236,11 @@
               "t": "2026-11-14 17:24:34",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-14 17:25:57",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ]
         },
