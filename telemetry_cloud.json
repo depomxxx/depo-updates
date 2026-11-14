@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 18:00:32",
+  "updated_at": "2026-11-14 18:00:34",
   "count": 6,
   "items": [
     {
@@ -138,13 +138,13 @@
       "hwid": "E4F7-229A-BABD",
       "last_pc_name": "ChagriBeg",
       "app_version": "1.9.0",
-      "last_seen_at": "2026-11-14 17:59:02",
-      "last_action": "[ChagriBeg] Depo Fiyat Sorgulama",
+      "last_seen_at": "2026-11-14 18:00:34",
+      "last_action": "[ChagriBeg] Depo Sorgu: CORASPIN 100 MG 30 TB.",
       "today_date": "2026-11-14",
-      "today_searches": 21,
+      "today_searches": 22,
       "today_cart_adds": 27,
       "today_smart_orders": 32,
-      "total_searches": 187,
+      "total_searches": 188,
       "total_cart_adds": 433,
       "total_smart_orders": 523,
       "total_days_used": 10,
@@ -156,22 +156,17 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.9.0",
-          "last_seen_at": "2026-11-14 17:59:02",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-14 18:00:34",
+          "last_action": "Depo Sorgu: CORASPIN 100 MG 30 TB.",
           "today_date": "2026-11-14",
-          "today_searches": 21,
+          "today_searches": 22,
           "today_cart_adds": 27,
           "today_smart_orders": 32,
-          "total_searches": 94,
+          "total_searches": 95,
           "total_cart_adds": 63,
           "total_smart_orders": 209,
           "total_days_used": 10,
           "recent_actions": [
-            {
-              "t": "2026-11-14 17:51:24",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-14 17:51:28",
               "type": "search",
@@ -241,6 +236,11 @@
               "t": "2026-11-14 17:59:02",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-14 17:59:05",
+              "type": "search",
+              "detail": "Depo Sorgu: CORASPIN 100 MG 30 TB."
             }
           ]
         },
