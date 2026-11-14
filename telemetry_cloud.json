@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 11:12:18",
+  "updated_at": "2026-11-14 11:12:37",
   "count": 6,
   "items": [
     {
@@ -1605,14 +1605,14 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.8.9",
-      "last_seen_at": "2026-11-14 11:12:18",
-      "last_action": "[DESKTOP-T4EAUS3] Depo Sorgu: SANELOC 100 MG 20 TB",
+      "last_seen_at": "2026-11-14 11:12:37",
+      "last_action": "[DESKTOP-T4EAUS3] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-14",
       "today_searches": 2,
-      "today_cart_adds": 0,
+      "today_cart_adds": 4,
       "today_smart_orders": 6,
       "total_searches": 135,
-      "total_cart_adds": 561,
+      "total_cart_adds": 565,
       "total_days_used": 9,
       "total_smart_orders": 273,
       "pc_count": 3,
@@ -1697,32 +1697,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.8.9",
-          "last_seen_at": "2026-11-14 11:12:18",
-          "last_action": "Depo Sorgu: SANELOC 100 MG 20 TB",
+          "last_seen_at": "2026-11-14 11:12:37",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-14",
           "today_searches": 2,
-          "today_cart_adds": 0,
+          "today_cart_adds": 4,
           "today_smart_orders": 6,
           "total_searches": 63,
-          "total_cart_adds": 303,
+          "total_cart_adds": 307,
           "total_smart_orders": 204,
           "total_days_used": 9,
           "recent_actions": [
-            {
-              "t": "2026-11-13 17:01:00",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-13 17:01:02",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (2 Ürün)"
-            },
-            {
-              "t": "2026-11-13 17:01:09",
-              "type": "cart",
-              "detail": "Toplu Sepet (ISKOOP): 3 Kalem"
-            },
             {
               "t": "2026-11-13 17:01:11",
               "type": "cart",
@@ -1782,6 +1767,21 @@
               "t": "2026-11-14 10:16:41",
               "type": "search",
               "detail": "Depo Sorgu: SANELOC 100 MG 20 TB"
+            },
+            {
+              "t": "2026-11-14 11:12:26",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-14 11:12:34",
+              "type": "cart",
+              "detail": "Toplu Sepet (ALLIANCE): 3 Kalem"
+            },
+            {
+              "t": "2026-11-14 11:12:35",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
