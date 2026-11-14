@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 17:32:04",
+  "updated_at": "2026-11-14 17:32:13",
   "count": 6,
   "items": [
     {
@@ -448,14 +448,14 @@
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.8.9",
-      "last_seen_at": "2026-11-14 17:31:50",
-      "last_action": "[DESKTOP-OTHNDUE] Depo Fiyat Sorgulama",
+      "last_seen_at": "2026-11-14 17:32:13",
+      "last_action": "[DESKTOP-OTHNDUE] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-14",
-      "today_searches": 9,
-      "today_cart_adds": 13,
+      "today_searches": 10,
+      "today_cart_adds": 14,
       "today_smart_orders": 23,
-      "total_searches": 465,
-      "total_cart_adds": 781,
+      "total_searches": 466,
+      "total_cart_adds": 782,
       "total_smart_orders": 637,
       "total_days_used": 11,
       "pc_count": 8,
@@ -560,27 +560,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.8.9",
-          "last_seen_at": "2026-11-14 17:31:50",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-14 17:32:13",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-14",
-          "today_searches": 7,
-          "today_cart_adds": 9,
+          "today_searches": 8,
+          "today_cart_adds": 10,
           "today_smart_orders": 13,
-          "total_searches": 86,
-          "total_cart_adds": 325,
+          "total_searches": 87,
+          "total_cart_adds": 326,
           "total_smart_orders": 271,
           "total_days_used": 10,
           "recent_actions": [
-            {
-              "t": "2026-11-14 17:12:44",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-14 17:12:45",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 21 Kalem)"
-            },
             {
               "t": "2026-11-14 17:12:45",
               "type": "mf_resolve",
@@ -645,6 +635,16 @@
               "t": "2026-11-14 17:31:50",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-14 17:31:54",
+              "type": "search",
+              "detail": "Depo Sorgu: CORTAIR 0.25 MG 2 ML 20 FLK."
+            },
+            {
+              "t": "2026-11-14 17:32:13",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
