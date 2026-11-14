@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 16:52:18",
+  "updated_at": "2026-11-14 16:52:53",
   "count": 6,
   "items": [
     {
@@ -1228,16 +1228,16 @@
       "hwid": "2DED-CFF9-D593",
       "last_pc_name": "DESKTOP-8JN0NE5",
       "app_version": "1.8.9",
-      "last_seen_at": "2026-11-14 16:51:24",
+      "last_seen_at": "2026-11-14 16:52:53",
       "last_action": "Canlı MF Sorgulama (7 Ürün)",
       "today_date": "2026-11-14",
       "today_searches": 0,
       "today_cart_adds": 0,
-      "today_smart_orders": 5,
+      "today_smart_orders": 6,
       "total_searches": 32,
       "total_cart_adds": 83,
       "total_days_used": 7,
-      "total_smart_orders": 191,
+      "total_smart_orders": 192,
       "pc_count": 1,
       "devices": {
         "2DED-CFF9-D593": {
@@ -1246,15 +1246,15 @@
           "desk_name": "DESKTOP-8JN0NE5",
           "local_ip": "192.168.1.37",
           "app_version": "1.8.9",
-          "last_seen_at": "2026-11-14 16:51:24",
+          "last_seen_at": "2026-11-14 16:52:53",
           "last_action": "Canlı MF Sorgulama (7 Ürün)",
           "today_date": "2026-11-14",
           "today_searches": 0,
           "today_cart_adds": 0,
-          "today_smart_orders": 5,
+          "today_smart_orders": 6,
           "total_searches": 32,
           "total_cart_adds": 83,
-          "total_smart_orders": 191,
+          "total_smart_orders": 192,
           "total_days_used": 7,
           "recent_actions": [
             {
