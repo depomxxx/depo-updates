@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 08:30:36",
+  "updated_at": "2026-11-14 08:31:06",
   "count": 6,
   "items": [
     {
@@ -448,15 +448,15 @@
       "hwid": "D719-CEB2-1542",
       "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.8.9",
-      "last_seen_at": "2026-11-14 08:29:45",
-      "last_action": "Program Açık (Canlı)",
+      "last_seen_at": "2026-11-14 08:31:06",
+      "last_action": "[DESKTOP-M530BBB] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-14",
       "today_searches": 0,
       "today_cart_adds": 0,
-      "today_smart_orders": 0,
+      "today_smart_orders": 2,
       "total_searches": 456,
       "total_cart_adds": 768,
-      "total_smart_orders": 614,
+      "total_smart_orders": 616,
       "total_days_used": 11,
       "pc_count": 8,
       "devices": {
@@ -1030,22 +1030,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.112",
           "app_version": "1.8.9",
-          "last_seen_at": "2026-11-14 08:29:45",
-          "last_action": "Program Açık (Canlı)",
+          "last_seen_at": "2026-11-14 08:31:06",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-14",
           "today_searches": 0,
           "today_cart_adds": 0,
-          "today_smart_orders": 0,
+          "today_smart_orders": 2,
           "total_searches": 89,
           "total_cart_adds": 94,
-          "total_smart_orders": 71,
+          "total_smart_orders": 73,
           "total_days_used": 11,
           "recent_actions": [
-            {
-              "t": "2026-11-13 14:24:36",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-13 14:24:46",
               "type": "search",
@@ -1115,6 +1110,11 @@
               "t": "2026-11-13 17:25:58",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (12 Ürün)"
+            },
+            {
+              "t": "2026-11-14 08:29:50",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         },
