@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 17:30:24",
+  "updated_at": "2026-11-14 17:30:26",
   "count": 6,
   "items": [
     {
@@ -445,17 +445,17 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D719-CEB2-1542",
-      "last_pc_name": "DESKTOP-M530BBB",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.8.9",
-      "last_seen_at": "2026-11-14 17:30:12",
-      "last_action": "[DESKTOP-M530BBB] Canlı MF Sorgulama (7 Ürün)",
+      "last_seen_at": "2026-11-14 17:30:26",
+      "last_action": "[DESKTOP-OTHNDUE] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-14",
-      "today_searches": 3,
-      "today_cart_adds": 11,
+      "today_searches": 4,
+      "today_cart_adds": 12,
       "today_smart_orders": 23,
-      "total_searches": 459,
-      "total_cart_adds": 779,
+      "total_searches": 460,
+      "total_cart_adds": 780,
       "total_smart_orders": 637,
       "total_days_used": 11,
       "pc_count": 8,
@@ -560,27 +560,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.8.9",
-          "last_seen_at": "2026-11-14 17:29:55",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-14 17:30:26",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-14",
-          "today_searches": 1,
-          "today_cart_adds": 7,
+          "today_searches": 2,
+          "today_cart_adds": 8,
           "today_smart_orders": 13,
-          "total_searches": 80,
-          "total_cart_adds": 323,
+          "total_searches": 81,
+          "total_cart_adds": 324,
           "total_smart_orders": 271,
           "total_days_used": 10,
           "recent_actions": [
-            {
-              "t": "2026-11-14 12:53:46",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-14 12:53:46",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 7 Kalem)"
-            },
             {
               "t": "2026-11-14 12:53:46",
               "type": "mf_resolve",
@@ -645,6 +635,16 @@
               "t": "2026-11-14 17:29:55",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-14 17:29:59",
+              "type": "search",
+              "detail": "Depo Sorgu: ZINCO 220 50 MG 40 CAP."
+            },
+            {
+              "t": "2026-11-14 17:30:26",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
