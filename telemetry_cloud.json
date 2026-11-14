@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 17:44:52",
+  "updated_at": "2026-11-14 17:45:17",
   "count": 6,
   "items": [
     {
@@ -138,15 +138,15 @@
       "hwid": "E4F7-229A-BABD",
       "last_pc_name": "ChagriBeg",
       "app_version": "1.9.0",
-      "last_seen_at": "2026-11-14 17:44:52",
-      "last_action": "[ChagriBeg] Toplu Sipariş Planlama",
+      "last_seen_at": "2026-11-14 17:45:17",
+      "last_action": "[ChagriBeg] Depo Fiyat Sorgulama",
       "today_date": "2026-11-14",
-      "today_searches": 6,
+      "today_searches": 7,
       "today_cart_adds": 23,
-      "today_smart_orders": 22,
-      "total_searches": 172,
+      "today_smart_orders": 28,
+      "total_searches": 173,
       "total_cart_adds": 429,
-      "total_smart_orders": 513,
+      "total_smart_orders": 519,
       "total_days_used": 10,
       "pc_count": 3,
       "devices": {
@@ -156,52 +156,17 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.9.0",
-          "last_seen_at": "2026-11-14 17:44:52",
-          "last_action": "Toplu Sipariş Planlama",
+          "last_seen_at": "2026-11-14 17:45:17",
+          "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-14",
-          "today_searches": 6,
+          "today_searches": 7,
           "today_cart_adds": 23,
-          "today_smart_orders": 22,
-          "total_searches": 79,
+          "today_smart_orders": 28,
+          "total_searches": 80,
           "total_cart_adds": 59,
-          "total_smart_orders": 199,
+          "total_smart_orders": 205,
           "total_days_used": 10,
           "recent_actions": [
-            {
-              "t": "2026-11-14 17:24:12",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş Planlama"
-            },
-            {
-              "t": "2026-11-14 17:24:12",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş (TRIA • 51 Kalem)"
-            },
-            {
-              "t": "2026-11-14 17:24:34",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-14 17:25:57",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-14 17:26:01",
-              "type": "search",
-              "detail": "Depo Sorgu: AMOKLAVIN BID 1 GR 14 FTB."
-            },
-            {
-              "t": "2026-11-14 17:28:12",
-              "type": "cart",
-              "detail": "EczaneTakas Katılım: VENTOLIN 100 MCG INHALER x10"
-            },
-            {
-              "t": "2026-11-14 17:28:32",
-              "type": "cart",
-              "detail": "EczaneTakas Katılım: DERMIFIN % 1  KREM x5"
-            },
             {
               "t": "2026-11-14 17:28:51",
               "type": "cart",
@@ -241,6 +206,41 @@
               "t": "2026-11-14 17:44:52",
               "type": "smart_order",
               "detail": "Toplu Sipariş Planlama"
+            },
+            {
+              "t": "2026-11-14 17:44:52",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş (TRIA • 52 Kalem)"
+            },
+            {
+              "t": "2026-11-14 17:44:57",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş Planlama"
+            },
+            {
+              "t": "2026-11-14 17:44:58",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş (TRIA • 246 Kalem)"
+            },
+            {
+              "t": "2026-11-14 17:44:58",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-14 17:45:09",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (35 Ürün)"
+            },
+            {
+              "t": "2026-11-14 17:45:09",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-14 17:45:17",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ]
         },
