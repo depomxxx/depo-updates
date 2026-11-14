@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 11:14:21",
+  "updated_at": "2026-11-14 11:16:31",
   "count": 6,
   "items": [
     {
@@ -1605,14 +1605,14 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.8.9",
-      "last_seen_at": "2026-11-14 11:14:57",
-      "last_action": "[DESKTOP-T4EAUS3] Depo Sorgu: CIPRALEX 20 MG 28 FTB.",
+      "last_seen_at": "2026-11-14 11:16:31",
+      "last_action": "[DESKTOP-T4EAUS3] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-14",
       "today_searches": 4,
-      "today_cart_adds": 4,
+      "today_cart_adds": 6,
       "today_smart_orders": 10,
       "total_searches": 137,
-      "total_cart_adds": 565,
+      "total_cart_adds": 567,
       "total_days_used": 9,
       "total_smart_orders": 277,
       "pc_count": 3,
@@ -1697,22 +1697,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.8.9",
-          "last_seen_at": "2026-11-14 11:14:57",
-          "last_action": "Depo Sorgu: CIPRALEX 20 MG 28 FTB.",
+          "last_seen_at": "2026-11-14 11:16:31",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-14",
           "today_searches": 4,
-          "today_cart_adds": 4,
+          "today_cart_adds": 6,
           "today_smart_orders": 10,
           "total_searches": 65,
-          "total_cart_adds": 307,
+          "total_cart_adds": 309,
           "total_smart_orders": 208,
           "total_days_used": 9,
           "recent_actions": [
-            {
-              "t": "2026-11-14 10:16:11",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-14 10:16:13",
               "type": "critical_stock",
@@ -1782,6 +1777,11 @@
               "t": "2026-11-14 11:14:57",
               "type": "search",
               "detail": "Depo Sorgu: CIPRALEX 20 MG 28 FTB."
+            },
+            {
+              "t": "2026-11-14 11:15:09",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
