@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 13:05:58",
+  "updated_at": "2026-11-14 13:08:20",
   "count": 6,
   "items": [
     {
@@ -1605,14 +1605,14 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.8.9",
-      "last_seen_at": "2026-11-14 13:06:19",
+      "last_seen_at": "2026-11-14 13:08:20",
       "last_action": "[DESKTOP-T4EAUS3] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-14",
       "today_searches": 4,
-      "today_cart_adds": 7,
+      "today_cart_adds": 10,
       "today_smart_orders": 14,
       "total_searches": 137,
-      "total_cart_adds": 568,
+      "total_cart_adds": 571,
       "total_days_used": 9,
       "total_smart_orders": 281,
       "pc_count": 3,
@@ -1697,27 +1697,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.8.9",
-          "last_seen_at": "2026-11-14 13:06:19",
+          "last_seen_at": "2026-11-14 13:08:20",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-14",
           "today_searches": 4,
-          "today_cart_adds": 7,
+          "today_cart_adds": 10,
           "today_smart_orders": 14,
           "total_searches": 65,
-          "total_cart_adds": 310,
+          "total_cart_adds": 313,
           "total_smart_orders": 212,
           "total_days_used": 9,
           "recent_actions": [
-            {
-              "t": "2026-11-14 11:12:26",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-14 11:12:34",
-              "type": "cart",
-              "detail": "Toplu Sepet (ALLIANCE): 3 Kalem"
-            },
             {
               "t": "2026-11-14 11:12:35",
               "type": "cart",
@@ -1780,6 +1770,16 @@
             },
             {
               "t": "2026-11-14 13:06:19",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-14 13:06:21",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): THERMO SULIDIN 50GR LIKIT JE x15"
+            },
+            {
+              "t": "2026-11-14 13:06:28",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
