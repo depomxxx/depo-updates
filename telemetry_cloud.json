@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 17:20:56",
+  "updated_at": "2026-11-14 17:21:43",
   "count": 6,
   "items": [
     {
@@ -138,13 +138,13 @@
       "hwid": "E4F7-229A-BABD",
       "last_pc_name": "ChagriBeg",
       "app_version": "1.8.9",
-      "last_seen_at": "2026-11-14 17:20:50",
+      "last_seen_at": "2026-11-14 17:21:42",
       "last_action": "[ChagriBeg] Depo Fiyat Sorgulama",
       "today_date": "2026-11-14",
-      "today_searches": 1,
+      "today_searches": 3,
       "today_cart_adds": 0,
       "today_smart_orders": 0,
-      "total_searches": 167,
+      "total_searches": 169,
       "total_cart_adds": 406,
       "total_smart_orders": 491,
       "total_days_used": 10,
@@ -156,27 +156,17 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.8.9",
-          "last_seen_at": "2026-11-14 17:20:50",
+          "last_seen_at": "2026-11-14 17:21:42",
           "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-14",
-          "today_searches": 1,
+          "today_searches": 3,
           "today_cart_adds": 0,
           "today_smart_orders": 0,
-          "total_searches": 74,
+          "total_searches": 76,
           "total_cart_adds": 36,
           "total_smart_orders": 177,
           "total_days_used": 10,
           "recent_actions": [
-            {
-              "t": "2026-11-13 14:10:43",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-13 14:10:50",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (6 Ürün)"
-            },
             {
               "t": "2026-11-13 14:14:14",
               "type": "critical_stock",
@@ -239,6 +229,16 @@
             },
             {
               "t": "2026-11-14 17:20:50",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-14 17:20:54",
+              "type": "search",
+              "detail": "Depo Sorgu: AUGMENTIN BID 1 GR 14 FTB."
+            },
+            {
+              "t": "2026-11-14 17:21:42",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
             }
