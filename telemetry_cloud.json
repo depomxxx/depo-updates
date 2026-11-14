@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 08:42:43",
+  "updated_at": "2026-11-14 08:43:33",
   "count": 6,
   "items": [
     {
@@ -448,7 +448,7 @@
       "hwid": "D719-CEB2-1542",
       "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.8.9",
-      "last_seen_at": "2026-11-14 08:41:56",
+      "last_seen_at": "2026-11-14 08:43:33",
       "last_action": "[DESKTOP-M530BBB] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-14",
       "today_searches": 0,
@@ -1030,7 +1030,7 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.112",
           "app_version": "1.8.9",
-          "last_seen_at": "2026-11-14 08:41:56",
+          "last_seen_at": "2026-11-14 08:43:33",
           "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-14",
           "today_searches": 0,
