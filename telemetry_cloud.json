@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 10:31:20",
+  "updated_at": "2026-11-14 10:30:04",
   "count": 6,
   "items": [
     {
@@ -445,17 +445,17 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D719-CEB2-1542",
-      "last_pc_name": "DESKTOP-M530BBB",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.8.9",
-      "last_seen_at": "2026-11-14 10:28:53",
-      "last_action": "[DESKTOP-M530BBB] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-14 10:30:04",
+      "last_action": "[DESKTOP-OTHNDUE] Toplu Sepet (ALLIANCE): 2 Kalem",
       "today_date": "2026-11-14",
       "today_searches": 0,
-      "today_cart_adds": 0,
+      "today_cart_adds": 2,
       "today_smart_orders": 5,
       "total_searches": 456,
-      "total_cart_adds": 768,
+      "total_cart_adds": 770,
       "total_smart_orders": 619,
       "total_days_used": 11,
       "pc_count": 8,
@@ -560,27 +560,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.8.9",
-          "last_seen_at": "2026-11-14 10:28:41",
-          "last_action": "Canlı MF Sorgulama (3 Ürün)",
+          "last_seen_at": "2026-11-14 10:30:04",
+          "last_action": "Toplu Sepet (ALLIANCE): 2 Kalem",
           "today_date": "2026-11-14",
           "today_searches": 0,
-          "today_cart_adds": 0,
+          "today_cart_adds": 2,
           "today_smart_orders": 3,
           "total_searches": 79,
-          "total_cart_adds": 316,
+          "total_cart_adds": 318,
           "total_smart_orders": 261,
           "total_days_used": 10,
           "recent_actions": [
-            {
-              "t": "2026-11-13 16:52:16",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-13 16:52:16",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (1 Ürün)"
-            },
             {
               "t": "2026-11-13 17:23:18",
               "type": "critical_stock",
@@ -645,6 +635,16 @@
               "t": "2026-11-14 10:28:41",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (3 Ürün)"
+            },
+            {
+              "t": "2026-11-14 10:28:41",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-14 10:28:47",
+              "type": "cart",
+              "detail": "Toplu Sepet (ALLIANCE): 2 Kalem"
             }
           ]
         },
