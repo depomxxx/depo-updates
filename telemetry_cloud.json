@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 16:06:37",
+  "updated_at": "2026-11-14 16:06:50",
   "count": 6,
   "items": [
     {
@@ -445,11 +445,11 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "5834-FAC9-B71F",
-      "last_pc_name": "DESKTOP-OTHNDUE",
+      "hwid": "D719-CEB2-1542",
+      "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.8.9",
-      "last_seen_at": "2026-11-14 16:06:25",
-      "last_action": "[DESKTOP-OTHNDUE] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-14 16:06:50",
+      "last_action": "[DESKTOP-M530BBB] Canlı MF Sorgulama (7 Ürün)",
       "today_date": "2026-11-14",
       "today_searches": 2,
       "today_cart_adds": 11,
@@ -1030,7 +1030,7 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.112",
           "app_version": "1.8.9",
-          "last_seen_at": "2026-11-14 16:05:19",
+          "last_seen_at": "2026-11-14 16:06:50",
           "last_action": "Canlı MF Sorgulama (7 Ürün)",
           "today_date": "2026-11-14",
           "today_searches": 2,
