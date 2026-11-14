@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 10:49:34",
+  "updated_at": "2026-11-14 10:48:10",
   "count": 6,
   "items": [
     {
@@ -445,16 +445,16 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "5834-FAC9-B71F",
-      "last_pc_name": "DESKTOP-OTHNDUE",
+      "hwid": "D719-CEB2-1542",
+      "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.8.9",
-      "last_seen_at": "2026-11-14 10:46:38",
-      "last_action": "[DESKTOP-OTHNDUE] Toplu Sepet (ALLIANCE): 2 Kalem",
+      "last_seen_at": "2026-11-14 10:48:10",
+      "last_action": "[DESKTOP-M530BBB] Depo Sorgu: OKSIZINC POMAT %40-40 GR.",
       "today_date": "2026-11-14",
-      "today_searches": 1,
+      "today_searches": 2,
       "today_cart_adds": 2,
       "today_smart_orders": 5,
-      "total_searches": 457,
+      "total_searches": 458,
       "total_cart_adds": 770,
       "total_smart_orders": 619,
       "total_days_used": 11,
@@ -1030,22 +1030,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.112",
           "app_version": "1.8.9",
-          "last_seen_at": "2026-11-14 10:46:34",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-14 10:48:10",
+          "last_action": "Depo Sorgu: OKSIZINC POMAT %40-40 GR.",
           "today_date": "2026-11-14",
-          "today_searches": 1,
+          "today_searches": 2,
           "today_cart_adds": 0,
           "today_smart_orders": 2,
-          "total_searches": 90,
+          "total_searches": 91,
           "total_cart_adds": 94,
           "total_smart_orders": 73,
           "total_days_used": 11,
           "recent_actions": [
-            {
-              "t": "2026-11-13 14:26:29",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-13 14:26:38",
               "type": "search",
@@ -1115,6 +1110,11 @@
               "t": "2026-11-14 10:46:34",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-14 10:46:46",
+              "type": "search",
+              "detail": "Depo Sorgu: OKSIZINC POMAT %40-40 GR."
             }
           ]
         },
