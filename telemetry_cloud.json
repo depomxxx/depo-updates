@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 17:33:44",
+  "updated_at": "2026-11-14 17:34:18",
   "count": 6,
   "items": [
     {
@@ -445,17 +445,17 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D719-CEB2-1542",
-      "last_pc_name": "DESKTOP-M530BBB",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.8.9",
-      "last_seen_at": "2026-11-14 17:33:13",
-      "last_action": "[DESKTOP-M530BBB] Canlı MF Sorgulama (7 Ürün)",
+      "last_seen_at": "2026-11-14 17:34:18",
+      "last_action": "[DESKTOP-OTHNDUE] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-14",
       "today_searches": 12,
-      "today_cart_adds": 16,
+      "today_cart_adds": 19,
       "today_smart_orders": 23,
       "total_searches": 468,
-      "total_cart_adds": 784,
+      "total_cart_adds": 787,
       "total_smart_orders": 637,
       "total_days_used": 11,
       "pc_count": 8,
@@ -560,27 +560,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.8.9",
-          "last_seen_at": "2026-11-14 17:32:33",
+          "last_seen_at": "2026-11-14 17:34:18",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-14",
           "today_searches": 10,
-          "today_cart_adds": 12,
+          "today_cart_adds": 15,
           "today_smart_orders": 13,
           "total_searches": 89,
-          "total_cart_adds": 328,
+          "total_cart_adds": 331,
           "total_smart_orders": 271,
           "total_days_used": 10,
           "recent_actions": [
-            {
-              "t": "2026-11-14 17:29:55",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-14 17:29:59",
-              "type": "search",
-              "detail": "Depo Sorgu: ZINCO 220 50 MG 40 CAP."
-            },
             {
               "t": "2026-11-14 17:30:26",
               "type": "cart",
@@ -643,6 +633,16 @@
             },
             {
               "t": "2026-11-14 17:32:33",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-14 17:32:38",
+              "type": "cart",
+              "detail": "Toplu Sepet (ALLIANCE): 3 Kalem"
+            },
+            {
+              "t": "2026-11-14 17:32:41",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
