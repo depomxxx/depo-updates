@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 17:44:36",
+  "updated_at": "2026-11-14 17:44:52",
   "count": 6,
   "items": [
     {
@@ -138,15 +138,15 @@
       "hwid": "E4F7-229A-BABD",
       "last_pc_name": "ChagriBeg",
       "app_version": "1.9.0",
-      "last_seen_at": "2026-11-14 17:43:45",
-      "last_action": "[ChagriBeg] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-14 17:44:52",
+      "last_action": "[ChagriBeg] Toplu Sipariş Planlama",
       "today_date": "2026-11-14",
       "today_searches": 6,
       "today_cart_adds": 23,
-      "today_smart_orders": 21,
+      "today_smart_orders": 22,
       "total_searches": 172,
       "total_cart_adds": 429,
-      "total_smart_orders": 512,
+      "total_smart_orders": 513,
       "total_days_used": 10,
       "pc_count": 3,
       "devices": {
@@ -156,22 +156,17 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.9.0",
-          "last_seen_at": "2026-11-14 17:43:45",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-14 17:44:52",
+          "last_action": "Toplu Sipariş Planlama",
           "today_date": "2026-11-14",
           "today_searches": 6,
           "today_cart_adds": 23,
-          "today_smart_orders": 21,
+          "today_smart_orders": 22,
           "total_searches": 79,
           "total_cart_adds": 59,
-          "total_smart_orders": 198,
+          "total_smart_orders": 199,
           "total_days_used": 10,
           "recent_actions": [
-            {
-              "t": "2026-11-14 17:24:04",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-14 17:24:12",
               "type": "smart_order",
@@ -241,6 +236,11 @@
               "t": "2026-11-14 17:37:31",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-14 17:44:52",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş Planlama"
             }
           ]
         },
