@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 11:12:42",
+  "updated_at": "2026-11-14 11:14:57",
   "count": 6,
   "items": [
     {
@@ -1605,16 +1605,16 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.8.9",
-      "last_seen_at": "2026-11-14 11:14:36",
-      "last_action": "[DESKTOP-T4EAUS3] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-14 11:14:57",
+      "last_action": "[DESKTOP-T4EAUS3] Depo Sorgu: CIPRALEX 20 MG 28 FTB.",
       "today_date": "2026-11-14",
-      "today_searches": 2,
+      "today_searches": 4,
       "today_cart_adds": 4,
-      "today_smart_orders": 7,
-      "total_searches": 135,
+      "today_smart_orders": 10,
+      "total_searches": 137,
       "total_cart_adds": 565,
       "total_days_used": 9,
-      "total_smart_orders": 274,
+      "total_smart_orders": 277,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -1697,42 +1697,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.8.9",
-          "last_seen_at": "2026-11-14 11:14:36",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-14 11:14:57",
+          "last_action": "Depo Sorgu: CIPRALEX 20 MG 28 FTB.",
           "today_date": "2026-11-14",
-          "today_searches": 2,
+          "today_searches": 4,
           "today_cart_adds": 4,
-          "today_smart_orders": 7,
-          "total_searches": 63,
+          "today_smart_orders": 10,
+          "total_searches": 65,
           "total_cart_adds": 307,
-          "total_smart_orders": 205,
+          "total_smart_orders": 208,
           "total_days_used": 9,
           "recent_actions": [
-            {
-              "t": "2026-11-13 17:01:48",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-13 17:01:48",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (BOTANIK • 77 Kalem)"
-            },
-            {
-              "t": "2026-11-13 17:01:48",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-13 17:01:55",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (1 Ürün)"
-            },
-            {
-              "t": "2026-11-14 10:16:09",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-14 10:16:11",
               "type": "mf_resolve",
@@ -1782,6 +1757,31 @@
               "t": "2026-11-14 11:14:36",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-14 11:14:36",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (BOTANIK • 4 Kalem)"
+            },
+            {
+              "t": "2026-11-14 11:14:36",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-14 11:14:40",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (4 Ürün)"
+            },
+            {
+              "t": "2026-11-14 11:14:53",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-14 11:14:57",
+              "type": "search",
+              "detail": "Depo Sorgu: CIPRALEX 20 MG 28 FTB."
             }
           ]
         },
