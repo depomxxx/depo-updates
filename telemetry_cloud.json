@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 17:31:43",
+  "updated_at": "2026-11-14 17:31:50",
   "count": 6,
   "items": [
     {
@@ -445,16 +445,16 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D719-CEB2-1542",
-      "last_pc_name": "DESKTOP-M530BBB",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.8.9",
-      "last_seen_at": "2026-11-14 17:31:43",
-      "last_action": "[DESKTOP-M530BBB] Canlı MF Sorgulama (7 Ürün)",
+      "last_seen_at": "2026-11-14 17:31:50",
+      "last_action": "[DESKTOP-OTHNDUE] Depo Fiyat Sorgulama",
       "today_date": "2026-11-14",
-      "today_searches": 7,
+      "today_searches": 9,
       "today_cart_adds": 13,
       "today_smart_orders": 23,
-      "total_searches": 463,
+      "total_searches": 465,
       "total_cart_adds": 781,
       "total_smart_orders": 637,
       "total_days_used": 11,
@@ -560,27 +560,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.8.9",
-          "last_seen_at": "2026-11-14 17:30:51",
+          "last_seen_at": "2026-11-14 17:31:50",
           "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-14",
-          "today_searches": 5,
+          "today_searches": 7,
           "today_cart_adds": 9,
           "today_smart_orders": 13,
-          "total_searches": 84,
+          "total_searches": 86,
           "total_cart_adds": 325,
           "total_smart_orders": 271,
           "total_days_used": 10,
           "recent_actions": [
-            {
-              "t": "2026-11-14 12:54:05",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-14 12:55:34",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-14 17:12:44",
               "type": "critical_stock",
@@ -643,6 +633,16 @@
             },
             {
               "t": "2026-11-14 17:30:51",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-14 17:30:54",
+              "type": "search",
+              "detail": "Depo Sorgu: COLEDAN D3 150.000 IU 10 ML GT"
+            },
+            {
+              "t": "2026-11-14 17:31:50",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
             }
