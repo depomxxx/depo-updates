@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 17:50:19",
+  "updated_at": "2026-11-14 17:51:24",
   "count": 6,
   "items": [
     {
@@ -138,13 +138,13 @@
       "hwid": "E4F7-229A-BABD",
       "last_pc_name": "ChagriBeg",
       "app_version": "1.9.0",
-      "last_seen_at": "2026-11-14 17:50:04",
-      "last_action": "[ChagriBeg] Eczatrend Kampanya Açıldı: KARTİX TABLET 60 tablet/kutu (10+5)",
+      "last_seen_at": "2026-11-14 17:51:24",
+      "last_action": "[ChagriBeg] Depo Fiyat Sorgulama",
       "today_date": "2026-11-14",
-      "today_searches": 10,
+      "today_searches": 11,
       "today_cart_adds": 24,
       "today_smart_orders": 31,
-      "total_searches": 176,
+      "total_searches": 177,
       "total_cart_adds": 430,
       "total_smart_orders": 522,
       "total_days_used": 10,
@@ -156,22 +156,17 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.9.0",
-          "last_seen_at": "2026-11-14 17:50:04",
-          "last_action": "Eczatrend Kampanya Açıldı: KARTİX TABLET 60 tablet/kutu (10+5)",
+          "last_seen_at": "2026-11-14 17:51:24",
+          "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-14",
-          "today_searches": 10,
+          "today_searches": 11,
           "today_cart_adds": 24,
           "today_smart_orders": 31,
-          "total_searches": 83,
+          "total_searches": 84,
           "total_cart_adds": 60,
           "total_smart_orders": 208,
           "total_days_used": 10,
           "recent_actions": [
-            {
-              "t": "2026-11-14 17:44:52",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş Planlama"
-            },
             {
               "t": "2026-11-14 17:44:52",
               "type": "smart_order",
@@ -241,6 +236,11 @@
               "t": "2026-11-14 17:50:04",
               "type": "cart",
               "detail": "Eczatrend Kampanya Açıldı: KARTİX TABLET 60 tablet/kutu (10+5)"
+            },
+            {
+              "t": "2026-11-14 17:51:24",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ]
         },
