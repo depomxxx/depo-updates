@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 17:32:13",
+  "updated_at": "2026-11-14 17:32:33",
   "count": 6,
   "items": [
     {
@@ -448,14 +448,14 @@
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.8.9",
-      "last_seen_at": "2026-11-14 17:32:13",
+      "last_seen_at": "2026-11-14 17:32:33",
       "last_action": "[DESKTOP-OTHNDUE] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-14",
-      "today_searches": 10,
-      "today_cart_adds": 14,
+      "today_searches": 12,
+      "today_cart_adds": 16,
       "today_smart_orders": 23,
-      "total_searches": 466,
-      "total_cart_adds": 782,
+      "total_searches": 468,
+      "total_cart_adds": 784,
       "total_smart_orders": 637,
       "total_days_used": 11,
       "pc_count": 8,
@@ -560,37 +560,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.8.9",
-          "last_seen_at": "2026-11-14 17:32:13",
+          "last_seen_at": "2026-11-14 17:32:33",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-14",
-          "today_searches": 8,
-          "today_cart_adds": 10,
+          "today_searches": 10,
+          "today_cart_adds": 12,
           "today_smart_orders": 13,
-          "total_searches": 87,
-          "total_cart_adds": 326,
+          "total_searches": 89,
+          "total_cart_adds": 328,
           "total_smart_orders": 271,
           "total_days_used": 10,
           "recent_actions": [
-            {
-              "t": "2026-11-14 17:12:45",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-14 17:12:51",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (21 Ürün)"
-            },
-            {
-              "t": "2026-11-14 17:29:36",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-14 17:29:36",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 21 Kalem)"
-            },
             {
               "t": "2026-11-14 17:29:55",
               "type": "search",
@@ -643,6 +623,26 @@
             },
             {
               "t": "2026-11-14 17:32:13",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-14 17:32:14",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): CORTAIR 0.25 MG 2 ML FLK x7"
+            },
+            {
+              "t": "2026-11-14 17:32:18",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-14 17:32:21",
+              "type": "search",
+              "detail": "Depo Sorgu: KLAMOKS BID 400 MG 100 ML SUSP"
+            },
+            {
+              "t": "2026-11-14 17:32:33",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
