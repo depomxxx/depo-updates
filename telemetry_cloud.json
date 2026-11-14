@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 17:22:37",
+  "updated_at": "2026-11-14 17:23:00",
   "count": 6,
   "items": [
     {
@@ -138,14 +138,14 @@
       "hwid": "E4F7-229A-BABD",
       "last_pc_name": "ChagriBeg",
       "app_version": "1.8.9",
-      "last_seen_at": "2026-11-14 17:21:42",
-      "last_action": "[ChagriBeg] Depo Fiyat Sorgulama",
+      "last_seen_at": "2026-11-14 17:23:00",
+      "last_action": "[ChagriBeg] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-14",
-      "today_searches": 3,
-      "today_cart_adds": 0,
+      "today_searches": 4,
+      "today_cart_adds": 1,
       "today_smart_orders": 0,
-      "total_searches": 169,
-      "total_cart_adds": 406,
+      "total_searches": 170,
+      "total_cart_adds": 407,
       "total_smart_orders": 491,
       "total_days_used": 10,
       "pc_count": 3,
@@ -156,27 +156,17 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.8.9",
-          "last_seen_at": "2026-11-14 17:21:42",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-14 17:23:00",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-14",
-          "today_searches": 3,
-          "today_cart_adds": 0,
+          "today_searches": 4,
+          "today_cart_adds": 1,
           "today_smart_orders": 0,
-          "total_searches": 76,
-          "total_cart_adds": 36,
+          "total_searches": 77,
+          "total_cart_adds": 37,
           "total_smart_orders": 177,
           "total_days_used": 10,
           "recent_actions": [
-            {
-              "t": "2026-11-13 14:14:14",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-13 14:14:14",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-13 14:14:25",
               "type": "critical_stock",
@@ -241,6 +231,16 @@
               "t": "2026-11-14 17:21:42",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-14 17:21:53",
+              "type": "search",
+              "detail": "Depo Sorgu: OPALESCENCE SENSITIVITY RELIEF WHITENI"
+            },
+            {
+              "t": "2026-11-14 17:23:00",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
