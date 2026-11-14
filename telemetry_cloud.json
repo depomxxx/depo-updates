@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 17:34:18",
+  "updated_at": "2026-11-14 17:34:31",
   "count": 6,
   "items": [
     {
@@ -138,15 +138,15 @@
       "hwid": "E4F7-229A-BABD",
       "last_pc_name": "ChagriBeg",
       "app_version": "1.8.9",
-      "last_seen_at": "2026-11-14 17:33:44",
-      "last_action": "[ChagriBeg] EczaneTakas Katılım: DULESTER 60 MG 28 CAP x10",
+      "last_seen_at": "2026-11-14 17:34:31",
+      "last_action": "[ChagriBeg] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-14",
       "today_searches": 6,
       "today_cart_adds": 19,
-      "today_smart_orders": 17,
+      "today_smart_orders": 18,
       "total_searches": 172,
       "total_cart_adds": 425,
-      "total_smart_orders": 508,
+      "total_smart_orders": 509,
       "total_days_used": 10,
       "pc_count": 3,
       "devices": {
@@ -156,22 +156,17 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.8.9",
-          "last_seen_at": "2026-11-14 17:33:44",
-          "last_action": "EczaneTakas Katılım: DULESTER 60 MG 28 CAP x10",
+          "last_seen_at": "2026-11-14 17:34:31",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-14",
           "today_searches": 6,
           "today_cart_adds": 19,
-          "today_smart_orders": 17,
+          "today_smart_orders": 18,
           "total_searches": 79,
           "total_cart_adds": 55,
-          "total_smart_orders": 194,
+          "total_smart_orders": 195,
           "total_days_used": 10,
           "recent_actions": [
-            {
-              "t": "2026-11-14 17:23:44",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş (TRIA • 51 Kalem)"
-            },
             {
               "t": "2026-11-14 17:23:46",
               "type": "cart",
@@ -241,6 +236,11 @@
               "t": "2026-11-14 17:28:51",
               "type": "cart",
               "detail": "EczaneTakas Katılım: DULESTER 60 MG 28 CAP x10"
+            },
+            {
+              "t": "2026-11-14 17:34:31",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         },
