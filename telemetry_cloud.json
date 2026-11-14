@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 17:46:38",
+  "updated_at": "2026-11-14 17:46:41",
   "count": 6,
   "items": [
     {
@@ -138,15 +138,15 @@
       "hwid": "E4F7-229A-BABD",
       "last_pc_name": "ChagriBeg",
       "app_version": "1.9.0",
-      "last_seen_at": "2026-11-14 17:45:17",
-      "last_action": "[ChagriBeg] Depo Fiyat Sorgulama",
+      "last_seen_at": "2026-11-14 17:46:41",
+      "last_action": "[ChagriBeg] Canlı MF Sorgulama (34 Ürün)",
       "today_date": "2026-11-14",
-      "today_searches": 7,
+      "today_searches": 8,
       "today_cart_adds": 23,
-      "today_smart_orders": 28,
-      "total_searches": 173,
+      "today_smart_orders": 31,
+      "total_searches": 174,
       "total_cart_adds": 429,
-      "total_smart_orders": 519,
+      "total_smart_orders": 522,
       "total_days_used": 10,
       "pc_count": 3,
       "devices": {
@@ -156,37 +156,17 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.9.0",
-          "last_seen_at": "2026-11-14 17:45:17",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-14 17:46:41",
+          "last_action": "Canlı MF Sorgulama (34 Ürün)",
           "today_date": "2026-11-14",
-          "today_searches": 7,
+          "today_searches": 8,
           "today_cart_adds": 23,
-          "today_smart_orders": 28,
-          "total_searches": 80,
+          "today_smart_orders": 31,
+          "total_searches": 81,
           "total_cart_adds": 59,
-          "total_smart_orders": 205,
+          "total_smart_orders": 208,
           "total_days_used": 10,
           "recent_actions": [
-            {
-              "t": "2026-11-14 17:28:51",
-              "type": "cart",
-              "detail": "EczaneTakas Katılım: DULESTER 60 MG 28 CAP x10"
-            },
-            {
-              "t": "2026-11-14 17:34:31",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-14 17:35:02",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-14 17:35:12",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş Planlama"
-            },
             {
               "t": "2026-11-14 17:35:12",
               "type": "smart_order",
@@ -241,6 +221,26 @@
               "t": "2026-11-14 17:45:17",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-14 17:45:18",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (35 Ürün)"
+            },
+            {
+              "t": "2026-11-14 17:45:18",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-14 17:45:22",
+              "type": "search",
+              "detail": "Depo Sorgu: KARTIX 60 TABLET"
+            },
+            {
+              "t": "2026-11-14 17:45:30",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (34 Ürün)"
             }
           ]
         },
