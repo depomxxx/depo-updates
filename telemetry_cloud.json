@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 11:43:19",
+  "updated_at": "2026-11-16 11:43:34",
   "count": 6,
   "items": [
     {
@@ -1228,16 +1228,16 @@
       "hwid": "2DED-CFF9-D593",
       "last_pc_name": "DESKTOP-8JN0NE5",
       "app_version": "1.9.0",
-      "last_seen_at": "2026-11-16 11:43:06",
-      "last_action": "Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-16 11:43:34",
+      "last_action": "Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-16",
-      "today_searches": 14,
-      "today_cart_adds": 26,
-      "today_smart_orders": 53,
-      "total_searches": 46,
-      "total_cart_adds": 109,
+      "today_searches": 16,
+      "today_cart_adds": 27,
+      "today_smart_orders": 56,
+      "total_searches": 48,
+      "total_cart_adds": 110,
       "total_days_used": 8,
-      "total_smart_orders": 245,
+      "total_smart_orders": 248,
       "pc_count": 1,
       "devices": {
         "2DED-CFF9-D593": {
@@ -1246,47 +1246,17 @@
           "desk_name": "DESKTOP-8JN0NE5",
           "local_ip": "192.168.1.37",
           "app_version": "1.9.0",
-          "last_seen_at": "2026-11-16 11:43:06",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-16 11:43:34",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-16",
-          "today_searches": 14,
-          "today_cart_adds": 26,
-          "today_smart_orders": 53,
-          "total_searches": 46,
-          "total_cart_adds": 109,
-          "total_smart_orders": 245,
+          "today_searches": 16,
+          "today_cart_adds": 27,
+          "today_smart_orders": 56,
+          "total_searches": 48,
+          "total_cart_adds": 110,
+          "total_smart_orders": 248,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-16 11:37:46",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş Planlama"
-            },
-            {
-              "t": "2026-11-16 11:37:46",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş (BOTANIK • 89 Kalem)"
-            },
-            {
-              "t": "2026-11-16 11:37:47",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-16 11:37:49",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (1 Ürün)"
-            },
-            {
-              "t": "2026-11-16 11:37:51",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-16 11:38:02",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş Planlama"
-            },
             {
               "t": "2026-11-16 11:38:02",
               "type": "smart_order",
@@ -1331,6 +1301,36 @@
               "t": "2026-11-16 11:43:06",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-16 11:43:06",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (BOTANIK • 45 Kalem)"
+            },
+            {
+              "t": "2026-11-16 11:43:06",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-16 11:43:08",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-16 11:43:09",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (5 Ürün)"
+            },
+            {
+              "t": "2026-11-16 11:43:11",
+              "type": "search",
+              "detail": "Depo Sorgu: ZANIPRESS 20/10 MG 90 FTB."
+            },
+            {
+              "t": "2026-11-16 11:43:34",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         }
