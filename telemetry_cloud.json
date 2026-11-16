@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 17:45:56",
+  "updated_at": "2026-11-16 17:46:01",
   "count": 6,
   "items": [
     {
@@ -138,14 +138,14 @@
       "hwid": "E6B1-5698-273E",
       "last_pc_name": "DESKTOP-6KFO8IF",
       "app_version": "1.9.5",
-      "last_seen_at": "2026-11-16 17:45:15",
-      "last_action": "[DESKTOP-6KFO8IF] Depo Sorgu: RABBY D 10 MG 28 TB.",
+      "last_seen_at": "2026-11-16 17:46:01",
+      "last_action": "[DESKTOP-6KFO8IF] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-16",
       "today_searches": 16,
-      "today_cart_adds": 6,
+      "today_cart_adds": 7,
       "today_smart_orders": 25,
       "total_searches": 204,
-      "total_cart_adds": 439,
+      "total_cart_adds": 440,
       "total_smart_orders": 550,
       "total_days_used": 10,
       "pc_count": 3,
@@ -250,22 +250,17 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.5",
-          "last_seen_at": "2026-11-16 17:45:15",
-          "last_action": "Depo Sorgu: RABBY D 10 MG 28 TB.",
+          "last_seen_at": "2026-11-16 17:46:01",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-16",
           "today_searches": 16,
-          "today_cart_adds": 6,
+          "today_cart_adds": 7,
           "today_smart_orders": 25,
           "total_searches": 30,
-          "total_cart_adds": 60,
+          "total_cart_adds": 61,
           "total_smart_orders": 83,
           "total_days_used": 10,
           "recent_actions": [
-            {
-              "t": "2026-11-16 17:43:43",
-              "type": "search",
-              "detail": "Depo Sorgu: DETRUSITOL 1 MG 56 FTB."
-            },
             {
               "t": "2026-11-16 17:43:51",
               "type": "search",
@@ -335,6 +330,11 @@
               "t": "2026-11-16 17:45:15",
               "type": "search",
               "detail": "Depo Sorgu: RABBY D 10 MG 28 TB."
+            },
+            {
+              "t": "2026-11-16 17:46:01",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
