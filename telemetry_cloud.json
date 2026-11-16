@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 09:47:14",
+  "updated_at": "2026-11-16 09:47:17",
   "count": 6,
   "items": [
     {
@@ -448,15 +448,15 @@
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.0",
-      "last_seen_at": "2026-11-16 09:46:57",
-      "last_action": "[DESKTOP-M530BBB] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-16 09:47:17",
+      "last_action": "[DESKTOP-OTHNDUE] Canlı MF Sorgulama (1 Ürün)",
       "today_date": "2026-11-16",
       "today_searches": 0,
       "today_cart_adds": 0,
-      "today_smart_orders": 2,
+      "today_smart_orders": 8,
       "total_searches": 468,
       "total_cart_adds": 787,
-      "total_smart_orders": 651,
+      "total_smart_orders": 657,
       "total_days_used": 12,
       "pc_count": 8,
       "devices": {
@@ -560,42 +560,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.0",
-          "last_seen_at": "2026-11-16 09:46:57",
-          "last_action": "Program Açık (Canlı)",
+          "last_seen_at": "2026-11-16 09:47:17",
+          "last_action": "Canlı MF Sorgulama (1 Ürün)",
           "today_date": "2026-11-16",
           "today_searches": 0,
           "today_cart_adds": 0,
-          "today_smart_orders": 0,
+          "today_smart_orders": 6,
           "total_searches": 89,
           "total_cart_adds": 331,
-          "total_smart_orders": 278,
+          "total_smart_orders": 284,
           "total_days_used": 11,
           "recent_actions": [
-            {
-              "t": "2026-11-14 17:31:54",
-              "type": "search",
-              "detail": "Depo Sorgu: CORTAIR 0.25 MG 2 ML 20 FLK."
-            },
-            {
-              "t": "2026-11-14 17:32:13",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-14 17:32:14",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): CORTAIR 0.25 MG 2 ML FLK x7"
-            },
-            {
-              "t": "2026-11-14 17:32:18",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-14 17:32:21",
-              "type": "search",
-              "detail": "Depo Sorgu: KLAMOKS BID 400 MG 100 ML SUSP"
-            },
             {
               "t": "2026-11-14 17:32:33",
               "type": "cart",
@@ -645,6 +620,31 @@
               "t": "2026-11-14 17:44:39",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (8 Ürün)"
+            },
+            {
+              "t": "2026-11-16 09:47:06",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-16 09:47:06",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-16 09:47:13",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-16 09:47:14",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 3 Kalem)"
+            },
+            {
+              "t": "2026-11-16 09:47:17",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (1 Ürün)"
             }
           ]
         },
