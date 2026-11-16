@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 13:18:30",
+  "updated_at": "2026-11-16 13:18:55",
   "count": 6,
   "items": [
     {
@@ -130,23 +130,23 @@
       "pharmacist_name": "GAMZE ASLAN",
       "phone": "05344064108",
       "city": "SAMSUN/ATAKUM",
-      "gln_no": "8680001134861",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "PRO_YILLIK",
       "expires_at": "2027-10-24",
       "status": "AKTIF",
-      "hwid": "E4F7-229A-BABD",
-      "last_pc_name": "ChagriBeg",
-      "app_version": "1.9.0",
-      "last_seen_at": "2026-11-14 19:40:35",
-      "last_action": "[ChagriBeg] Depo Sorgu: CORASPIN 100 MG 30 TB.",
-      "today_date": "2026-11-14",
-      "today_searches": 22,
-      "today_cart_adds": 27,
-      "today_smart_orders": 32,
+      "hwid": "E6B1-5698-273E",
+      "last_pc_name": "DESKTOP-6KFO8IF",
+      "app_version": "1.8.9",
+      "last_seen_at": "2026-11-16 13:18:55",
+      "last_action": "Program Açık (Canlı)",
+      "today_date": "2026-11-16",
+      "today_searches": 0,
+      "today_cart_adds": 0,
+      "today_smart_orders": 0,
       "total_searches": 188,
       "total_cart_adds": 433,
-      "total_smart_orders": 523,
+      "total_smart_orders": 525,
       "total_days_used": 10,
       "pc_count": 3,
       "devices": {
@@ -250,27 +250,17 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.8.9",
-          "last_seen_at": "2026-11-13 18:20:23",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
-          "today_date": "2026-11-13",
+          "last_seen_at": "2026-11-16 13:18:55",
+          "last_action": "Program Açık (Canlı)",
+          "today_date": "2026-11-16",
           "today_searches": 0,
-          "today_cart_adds": 16,
-          "today_smart_orders": 39,
+          "today_cart_adds": 0,
+          "today_smart_orders": 0,
           "total_searches": 14,
           "total_cart_adds": 54,
-          "total_smart_orders": 56,
-          "total_days_used": 9,
+          "total_smart_orders": 58,
+          "total_days_used": 10,
           "recent_actions": [
-            {
-              "t": "2026-11-13 13:58:54",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-13 13:58:54",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 31 Kalem)"
-            },
             {
               "t": "2026-11-13 13:58:54",
               "type": "mf_resolve",
@@ -335,6 +325,16 @@
               "t": "2026-11-13 14:49:05",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-13 18:20:33",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-13 18:20:34",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
             }
           ]
         },
