@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 14:11:25",
+  "updated_at": "2026-11-16 14:13:54",
   "count": 6,
   "items": [
     {
@@ -1605,16 +1605,16 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.9.4",
-      "last_seen_at": "2026-11-16 14:13:28",
+      "last_seen_at": "2026-11-16 14:13:54",
       "last_action": "[DESKTOP-T4EAUS3] Canlı MF Taraması",
       "today_date": "2026-11-16",
       "today_searches": 14,
       "today_cart_adds": 24,
-      "today_smart_orders": 53,
+      "today_smart_orders": 54,
       "total_searches": 151,
       "total_cart_adds": 595,
       "total_days_used": 11,
-      "total_smart_orders": 334,
+      "total_smart_orders": 335,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -1697,15 +1697,15 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.9.4",
-          "last_seen_at": "2026-11-16 14:13:28",
+          "last_seen_at": "2026-11-16 14:13:54",
           "last_action": "Canlı MF Taraması",
           "today_date": "2026-11-16",
           "today_searches": 14,
           "today_cart_adds": 24,
-          "today_smart_orders": 39,
+          "today_smart_orders": 40,
           "total_searches": 79,
           "total_cart_adds": 337,
-          "total_smart_orders": 251,
+          "total_smart_orders": 252,
           "total_days_used": 10,
           "recent_actions": [
             {
@@ -1791,7 +1791,7 @@
           "desk_name": "Cicobey",
           "local_ip": "192.168.1.42",
           "app_version": "1.5.9",
-          "last_seen_at": "2026-11-16 14:11:17",
+          "last_seen_at": "2026-11-16 14:11:42",
           "last_action": "Canlı MF Taraması",
           "today_date": "2026-11-16",
           "today_searches": 0,
