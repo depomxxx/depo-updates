@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 11:31:02",
+  "updated_at": "2026-11-16 11:33:29",
   "count": 6,
   "items": [
     {
@@ -1605,16 +1605,16 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.9.0",
-      "last_seen_at": "2026-11-16 11:31:48",
-      "last_action": "[DESKTOP-T4EAUS3] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-16 11:33:29",
+      "last_action": "[DESKTOP-T4EAUS3] Canlı MF Sorgulama (1 Ürün)",
       "today_date": "2026-11-16",
       "today_searches": 14,
-      "today_cart_adds": 15,
-      "today_smart_orders": 24,
+      "today_cart_adds": 16,
+      "today_smart_orders": 28,
       "total_searches": 151,
-      "total_cart_adds": 586,
+      "total_cart_adds": 587,
       "total_days_used": 10,
-      "total_smart_orders": 305,
+      "total_smart_orders": 309,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -1697,37 +1697,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.9.0",
-          "last_seen_at": "2026-11-16 11:31:48",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-16 11:33:29",
+          "last_action": "Canlı MF Sorgulama (1 Ürün)",
           "today_date": "2026-11-16",
           "today_searches": 14,
-          "today_cart_adds": 15,
-          "today_smart_orders": 24,
+          "today_cart_adds": 16,
+          "today_smart_orders": 28,
           "total_searches": 79,
-          "total_cart_adds": 328,
-          "total_smart_orders": 236,
+          "total_cart_adds": 329,
+          "total_smart_orders": 240,
           "total_days_used": 10,
           "recent_actions": [
-            {
-              "t": "2026-11-16 11:16:07",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-16 11:16:10",
-              "type": "search",
-              "detail": "Depo Sorgu: NOVAQUA TEK DOZ 30 FLK."
-            },
-            {
-              "t": "2026-11-16 11:17:39",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-16 11:29:01",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-16 11:29:04",
               "type": "search",
@@ -1782,6 +1762,26 @@
               "t": "2026-11-16 11:31:48",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-16 11:31:59",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-16 11:31:59",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (BOTANIK • 38 Kalem)"
+            },
+            {
+              "t": "2026-11-16 11:31:59",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-16 11:32:02",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (1 Ürün)"
             }
           ]
         },
