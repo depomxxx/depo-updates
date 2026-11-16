@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 08:38:04",
+  "updated_at": "2026-11-16 08:39:28",
   "count": 6,
   "items": [
     {
@@ -448,15 +448,15 @@
       "hwid": "D719-CEB2-1542",
       "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.9.0",
-      "last_seen_at": "2026-11-16 08:38:04",
-      "last_action": "Program Açık (Canlı)",
+      "last_seen_at": "2026-11-16 08:39:28",
+      "last_action": "[DESKTOP-M530BBB] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-16",
       "today_searches": 0,
       "today_cart_adds": 0,
-      "today_smart_orders": 0,
+      "today_smart_orders": 2,
       "total_searches": 468,
       "total_cart_adds": 787,
-      "total_smart_orders": 649,
+      "total_smart_orders": 651,
       "total_days_used": 12,
       "pc_count": 8,
       "devices": {
@@ -1030,22 +1030,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.0",
-          "last_seen_at": "2026-11-16 08:38:04",
-          "last_action": "Program Açık (Canlı)",
+          "last_seen_at": "2026-11-16 08:39:28",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-16",
           "today_searches": 0,
           "today_cart_adds": 0,
-          "today_smart_orders": 0,
+          "today_smart_orders": 2,
           "total_searches": 91,
           "total_cart_adds": 98,
-          "total_smart_orders": 86,
+          "total_smart_orders": 88,
           "total_days_used": 12,
           "recent_actions": [
-            {
-              "t": "2026-11-14 15:44:04",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş Planlama"
-            },
             {
               "t": "2026-11-14 15:44:07",
               "type": "smart_order",
@@ -1115,6 +1110,11 @@
               "t": "2026-11-14 17:39:11",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (5 Ürün)"
+            },
+            {
+              "t": "2026-11-16 08:38:13",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         },
