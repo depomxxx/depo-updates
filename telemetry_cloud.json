@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 17:43:54",
+  "updated_at": "2026-11-16 17:44:15",
   "count": 6,
   "items": [
     {
@@ -138,13 +138,13 @@
       "hwid": "E6B1-5698-273E",
       "last_pc_name": "DESKTOP-6KFO8IF",
       "app_version": "1.9.5",
-      "last_seen_at": "2026-11-16 17:43:40",
+      "last_seen_at": "2026-11-16 17:44:15",
       "last_action": "[DESKTOP-6KFO8IF] Depo Fiyat Sorgulama",
       "today_date": "2026-11-16",
-      "today_searches": 3,
+      "today_searches": 7,
       "today_cart_adds": 4,
       "today_smart_orders": 25,
-      "total_searches": 191,
+      "total_searches": 195,
       "total_cart_adds": 437,
       "total_smart_orders": 550,
       "total_days_used": 10,
@@ -250,37 +250,17 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.5",
-          "last_seen_at": "2026-11-16 17:43:40",
+          "last_seen_at": "2026-11-16 17:44:15",
           "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-16",
-          "today_searches": 3,
+          "today_searches": 7,
           "today_cart_adds": 4,
           "today_smart_orders": 25,
-          "total_searches": 17,
+          "total_searches": 21,
           "total_cart_adds": 58,
           "total_smart_orders": 83,
           "total_days_used": 10,
           "recent_actions": [
-            {
-              "t": "2026-11-16 14:11:24",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-16 14:11:52",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (24 Ürün)"
-            },
-            {
-              "t": "2026-11-16 14:19:46",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-16 14:19:47",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 35 Kalem)"
-            },
             {
               "t": "2026-11-16 14:19:47",
               "type": "mf_resolve",
@@ -333,6 +313,26 @@
             },
             {
               "t": "2026-11-16 17:43:40",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-16 17:43:43",
+              "type": "search",
+              "detail": "Depo Sorgu: DETRUSITOL 1 MG 56 FTB."
+            },
+            {
+              "t": "2026-11-16 17:43:51",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-16 17:43:55",
+              "type": "search",
+              "detail": "Depo Sorgu: VENEGIS XR 37.5 MG 28 CAP."
+            },
+            {
+              "t": "2026-11-16 17:44:15",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
             }
