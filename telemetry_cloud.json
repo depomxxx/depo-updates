@@ -1228,16 +1228,16 @@
       "hwid": "2DED-CFF9-D593",
       "last_pc_name": "DESKTOP-8JN0NE5",
       "app_version": "1.9.0",
-      "last_seen_at": "2026-11-16 11:28:12",
-      "last_action": "Depo Fiyat Sorgulama",
+      "last_seen_at": "2026-11-16 11:28:31",
+      "last_action": "Toplu Sipariş Planlama",
       "today_date": "2026-11-16",
-      "today_searches": 13,
-      "today_cart_adds": 8,
-      "today_smart_orders": 16,
-      "total_searches": 45,
-      "total_cart_adds": 91,
+      "today_searches": 14,
+      "today_cart_adds": 10,
+      "today_smart_orders": 17,
+      "total_searches": 46,
+      "total_cart_adds": 93,
       "total_days_used": 8,
-      "total_smart_orders": 208,
+      "total_smart_orders": 209,
       "pc_count": 1,
       "devices": {
         "2DED-CFF9-D593": {
@@ -1246,32 +1246,17 @@
           "desk_name": "DESKTOP-8JN0NE5",
           "local_ip": "192.168.1.37",
           "app_version": "1.9.0",
-          "last_seen_at": "2026-11-16 11:28:12",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-16 11:28:31",
+          "last_action": "Toplu Sipariş Planlama",
           "today_date": "2026-11-16",
-          "today_searches": 13,
-          "today_cart_adds": 8,
-          "today_smart_orders": 16,
-          "total_searches": 45,
-          "total_cart_adds": 91,
-          "total_smart_orders": 208,
+          "today_searches": 14,
+          "today_cart_adds": 10,
+          "today_smart_orders": 17,
+          "total_searches": 46,
+          "total_cart_adds": 93,
+          "total_smart_orders": 209,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-16 11:16:07",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş (BOTANIK • 72 Kalem)"
-            },
-            {
-              "t": "2026-11-16 11:16:50",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-16 11:16:53",
-              "type": "search",
-              "detail": "Depo Sorgu: FERAMAT 100 MG 30 CAP."
-            },
             {
               "t": "2026-11-16 11:17:23",
               "type": "search",
@@ -1331,6 +1316,21 @@
               "t": "2026-11-16 11:28:12",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-16 11:28:15",
+              "type": "search",
+              "detail": "Depo Sorgu: EZETEC PLUS 10/20 MG 30 FTB."
+            },
+            {
+              "t": "2026-11-16 11:28:19",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-16 11:28:31",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş Planlama"
             }
           ]
         }
