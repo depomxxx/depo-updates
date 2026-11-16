@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 10:57:02",
+  "updated_at": "2026-11-16 10:59:19",
   "count": 6,
   "items": [
     {
@@ -1605,13 +1605,13 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.9.0",
-      "last_seen_at": "2026-11-16 10:57:38",
-      "last_action": "[DESKTOP-T4EAUS3] Canlı MF Sorgulama (20 Ürün)",
+      "last_seen_at": "2026-11-16 10:59:19",
+      "last_action": "[DESKTOP-T4EAUS3] Depo Sorgu: KLACID MR 500 MG.20 FILM TABLE",
       "today_date": "2026-11-16",
-      "today_searches": 7,
+      "today_searches": 8,
       "today_cart_adds": 2,
       "today_smart_orders": 10,
-      "total_searches": 144,
+      "total_searches": 145,
       "total_cart_adds": 573,
       "total_days_used": 10,
       "total_smart_orders": 291,
@@ -1697,22 +1697,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.9.0",
-          "last_seen_at": "2026-11-16 10:57:38",
-          "last_action": "Canlı MF Sorgulama (20 Ürün)",
+          "last_seen_at": "2026-11-16 10:59:19",
+          "last_action": "Depo Sorgu: KLACID MR 500 MG.20 FILM TABLE",
           "today_date": "2026-11-16",
-          "today_searches": 7,
+          "today_searches": 8,
           "today_cart_adds": 2,
           "today_smart_orders": 10,
-          "total_searches": 72,
+          "total_searches": 73,
           "total_cart_adds": 315,
           "total_smart_orders": 222,
           "total_days_used": 10,
           "recent_actions": [
-            {
-              "t": "2026-11-16 10:20:59",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-16 10:20:59",
               "type": "mf_resolve",
@@ -1782,6 +1777,11 @@
               "t": "2026-11-16 10:57:38",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (20 Ürün)"
+            },
+            {
+              "t": "2026-11-16 10:57:43",
+              "type": "search",
+              "detail": "Depo Sorgu: KLACID MR 500 MG.20 FILM TABLE"
             }
           ]
         },
