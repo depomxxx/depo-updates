@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 10:19:24",
+  "updated_at": "2026-11-16 10:21:53",
   "count": 6,
   "items": [
     {
@@ -1605,14 +1605,14 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.9.0",
-      "last_seen_at": "2026-11-16 10:21:31",
-      "last_action": "[DESKTOP-T4EAUS3] Canlı MF Sorgulama (15 Ürün)",
+      "last_seen_at": "2026-11-16 10:21:53",
+      "last_action": "[DESKTOP-T4EAUS3] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-16",
-      "today_searches": 0,
-      "today_cart_adds": 0,
+      "today_searches": 2,
+      "today_cart_adds": 1,
       "today_smart_orders": 6,
-      "total_searches": 137,
-      "total_cart_adds": 571,
+      "total_searches": 139,
+      "total_cart_adds": 572,
       "total_days_used": 10,
       "total_smart_orders": 287,
       "pc_count": 3,
@@ -1697,32 +1697,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.9.0",
-          "last_seen_at": "2026-11-16 10:21:31",
-          "last_action": "Canlı MF Sorgulama (15 Ürün)",
+          "last_seen_at": "2026-11-16 10:21:53",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-16",
-          "today_searches": 0,
-          "today_cart_adds": 0,
+          "today_searches": 2,
+          "today_cart_adds": 1,
           "today_smart_orders": 6,
-          "total_searches": 65,
-          "total_cart_adds": 313,
+          "total_searches": 67,
+          "total_cart_adds": 314,
           "total_smart_orders": 218,
           "total_days_used": 10,
           "recent_actions": [
-            {
-              "t": "2026-11-14 11:14:53",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-14 11:14:57",
-              "type": "search",
-              "detail": "Depo Sorgu: CIPRALEX 20 MG 28 FTB."
-            },
-            {
-              "t": "2026-11-14 11:15:09",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-14 13:05:48",
               "type": "critical_stock",
@@ -1782,6 +1767,21 @@
               "t": "2026-11-16 10:21:31",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (15 Ürün)"
+            },
+            {
+              "t": "2026-11-16 10:21:32",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-16 10:21:41",
+              "type": "search",
+              "detail": "Depo Sorgu: NICORETTE BANT 25 MG 1.ADIM"
+            },
+            {
+              "t": "2026-11-16 10:21:53",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
