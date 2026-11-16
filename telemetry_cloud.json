@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 11:15:15",
+  "updated_at": "2026-11-16 11:17:28",
   "count": 6,
   "items": [
     {
@@ -1605,13 +1605,13 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.9.0",
-      "last_seen_at": "2026-11-16 11:16:07",
-      "last_action": "[DESKTOP-T4EAUS3] Depo Fiyat Sorgulama",
+      "last_seen_at": "2026-11-16 11:17:28",
+      "last_action": "[DESKTOP-T4EAUS3] Depo Sorgu: NOVAQUA TEK DOZ 30 FLK.",
       "today_date": "2026-11-16",
-      "today_searches": 9,
+      "today_searches": 10,
       "today_cart_adds": 6,
       "today_smart_orders": 20,
-      "total_searches": 146,
+      "total_searches": 147,
       "total_cart_adds": 577,
       "total_days_used": 10,
       "total_smart_orders": 301,
@@ -1697,22 +1697,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.9.0",
-          "last_seen_at": "2026-11-16 11:16:07",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-16 11:17:28",
+          "last_action": "Depo Sorgu: NOVAQUA TEK DOZ 30 FLK.",
           "today_date": "2026-11-16",
-          "today_searches": 9,
+          "today_searches": 10,
           "today_cart_adds": 6,
           "today_smart_orders": 20,
-          "total_searches": 74,
+          "total_searches": 75,
           "total_cart_adds": 319,
           "total_smart_orders": 232,
           "total_days_used": 10,
           "recent_actions": [
-            {
-              "t": "2026-11-16 10:57:43",
-              "type": "search",
-              "detail": "Depo Sorgu: KLACID MR 500 MG.20 FILM TABLE"
-            },
             {
               "t": "2026-11-16 11:05:25",
               "type": "critical_stock",
@@ -1782,6 +1777,11 @@
               "t": "2026-11-16 11:16:07",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-16 11:16:10",
+              "type": "search",
+              "detail": "Depo Sorgu: NOVAQUA TEK DOZ 30 FLK."
             }
           ]
         },
