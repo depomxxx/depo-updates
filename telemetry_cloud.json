@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 11:33:26",
+  "updated_at": "2026-11-16 11:33:44",
   "count": 6,
   "items": [
     {
@@ -445,18 +445,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "B446-9737-94C4",
-      "last_pc_name": "DESKTOP-5PFFU5S",
+      "hwid": "D719-CEB2-1542",
+      "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.9.0",
-      "last_seen_at": "2026-11-16 11:33:27",
-      "last_action": "[DESKTOP-5PFFU5S] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-16 11:33:44",
+      "last_action": "[DESKTOP-M530BBB] Depo Fiyat Sorgulama",
       "today_date": "2026-11-16",
-      "today_searches": 10,
+      "today_searches": 11,
       "today_cart_adds": 15,
-      "today_smart_orders": 54,
-      "total_searches": 478,
+      "today_smart_orders": 58,
+      "total_searches": 479,
       "total_cart_adds": 802,
-      "total_smart_orders": 703,
+      "total_smart_orders": 707,
       "total_days_used": 12,
       "pc_count": 8,
       "devices": {
@@ -748,37 +748,17 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.9.0",
-          "last_seen_at": "2026-11-16 11:33:27",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-16 11:33:44",
+          "last_action": "Canlı MF Sorgulama (11 Ürün)",
           "today_date": "2026-11-16",
           "today_searches": 2,
           "today_cart_adds": 0,
-          "today_smart_orders": 11,
+          "today_smart_orders": 15,
           "total_searches": 93,
           "total_cart_adds": 205,
-          "total_smart_orders": 48,
+          "total_smart_orders": 52,
           "total_days_used": 7,
           "recent_actions": [
-            {
-              "t": "2026-11-12 17:33:22",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-12 17:33:37",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (30 Ürün)"
-            },
-            {
-              "t": "2026-11-12 17:33:38",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-12 17:33:43",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (21 Ürün)"
-            },
             {
               "t": "2026-11-16 11:32:22",
               "type": "critical_stock",
@@ -833,6 +813,26 @@
               "t": "2026-11-16 11:33:27",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-16 11:33:28",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-16 11:33:38",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (30 Ürün)"
+            },
+            {
+              "t": "2026-11-16 11:33:39",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-16 11:33:44",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (11 Ürün)"
             }
           ]
         },
@@ -1030,22 +1030,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.0",
-          "last_seen_at": "2026-11-16 11:32:33",
-          "last_action": "Depo Sorgu: BEFIXO 3 ML 5 AMP.",
+          "last_seen_at": "2026-11-16 11:33:44",
+          "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-16",
-          "today_searches": 4,
+          "today_searches": 5,
           "today_cart_adds": 0,
           "today_smart_orders": 2,
-          "total_searches": 95,
+          "total_searches": 96,
           "total_cart_adds": 98,
           "total_smart_orders": 88,
           "total_days_used": 12,
           "recent_actions": [
-            {
-              "t": "2026-11-14 15:44:20",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-14 15:44:20",
               "type": "cart",
@@ -1115,6 +1110,11 @@
               "t": "2026-11-16 10:48:23",
               "type": "search",
               "detail": "Depo Sorgu: BEFIXO 3 ML 5 AMP."
+            },
+            {
+              "t": "2026-11-16 11:33:44",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ]
         },
