@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 17:43:16",
+  "updated_at": "2026-11-16 17:43:40",
   "count": 6,
   "items": [
     {
@@ -138,14 +138,14 @@
       "hwid": "E6B1-5698-273E",
       "last_pc_name": "DESKTOP-6KFO8IF",
       "app_version": "1.9.5",
-      "last_seen_at": "2026-11-16 17:43:16",
-      "last_action": "[DESKTOP-6KFO8IF] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-16 17:43:40",
+      "last_action": "[DESKTOP-6KFO8IF] Depo Fiyat Sorgulama",
       "today_date": "2026-11-16",
-      "today_searches": 2,
-      "today_cart_adds": 3,
+      "today_searches": 3,
+      "today_cart_adds": 4,
       "today_smart_orders": 25,
-      "total_searches": 190,
-      "total_cart_adds": 436,
+      "total_searches": 191,
+      "total_cart_adds": 437,
       "total_smart_orders": 550,
       "total_days_used": 10,
       "pc_count": 3,
@@ -250,27 +250,17 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.5",
-          "last_seen_at": "2026-11-16 17:43:16",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-16 17:43:40",
+          "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-16",
-          "today_searches": 2,
-          "today_cart_adds": 3,
+          "today_searches": 3,
+          "today_cart_adds": 4,
           "today_smart_orders": 25,
-          "total_searches": 16,
-          "total_cart_adds": 57,
+          "total_searches": 17,
+          "total_cart_adds": 58,
           "total_smart_orders": 83,
           "total_days_used": 10,
           "recent_actions": [
-            {
-              "t": "2026-11-16 13:19:46",
-              "type": "cart",
-              "detail": "Toplu Sepet (ALLIANCE): 1 Kalem"
-            },
-            {
-              "t": "2026-11-16 14:11:24",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-16 14:11:24",
               "type": "mf_resolve",
@@ -335,6 +325,16 @@
               "t": "2026-11-16 17:43:16",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-16 17:43:17",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): OZAPRIN 10 MG 28 TB x7"
+            },
+            {
+              "t": "2026-11-16 17:43:40",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ]
         },
