@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 17:56:59",
+  "updated_at": "2026-11-16 17:57:32",
   "count": 6,
   "items": [
     {
@@ -1605,16 +1605,16 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.9.5",
-      "last_seen_at": "2026-11-16 17:58:36",
-      "last_action": "[DESKTOP-T4EAUS3] Canlı MF Sorgulama (3 Ürün)",
+      "last_seen_at": "2026-11-16 17:59:30",
+      "last_action": "[DESKTOP-T4EAUS3] Canlı MF Taraması",
       "today_date": "2026-11-16",
       "today_searches": 18,
       "today_cart_adds": 29,
-      "today_smart_orders": 92,
+      "today_smart_orders": 94,
       "total_searches": 155,
       "total_cart_adds": 600,
       "total_days_used": 11,
-      "total_smart_orders": 373,
+      "total_smart_orders": 375,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -1697,27 +1697,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.9.5",
-          "last_seen_at": "2026-11-16 17:58:36",
-          "last_action": "Canlı MF Sorgulama (3 Ürün)",
+          "last_seen_at": "2026-11-16 17:59:30",
+          "last_action": "Canlı MF Taraması",
           "today_date": "2026-11-16",
           "today_searches": 18,
           "today_cart_adds": 29,
-          "today_smart_orders": 68,
+          "today_smart_orders": 70,
           "total_searches": 83,
           "total_cart_adds": 342,
-          "total_smart_orders": 280,
+          "total_smart_orders": 282,
           "total_days_used": 10,
           "recent_actions": [
-            {
-              "t": "2026-11-16 17:05:02",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-16 17:05:05",
-              "type": "search",
-              "detail": "Depo Sorgu: MOLLERS OMEGA 3 COD LIVER OIL LİMON AR"
-            },
             {
               "t": "2026-11-16 17:05:05",
               "type": "search",
@@ -1782,6 +1772,16 @@
               "t": "2026-11-16 17:54:04",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (3 Ürün)"
+            },
+            {
+              "t": "2026-11-16 17:58:40",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-16 17:58:43",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
             }
           ]
         },
@@ -1791,7 +1791,7 @@
           "desk_name": "Cicobey",
           "local_ip": "192.168.1.42",
           "app_version": "1.5.9",
-          "last_seen_at": "2026-11-16 17:56:23",
+          "last_seen_at": "2026-11-16 17:57:32",
           "last_action": "Canlı MF Sorgulama (23 Ürün)",
           "today_date": "2026-11-16",
           "today_searches": 0,
