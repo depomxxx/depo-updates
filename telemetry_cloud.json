@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 11:24:42",
+  "updated_at": "2026-11-16 11:25:01",
   "count": 6,
   "items": [
     {
@@ -1228,16 +1228,16 @@
       "hwid": "2DED-CFF9-D593",
       "last_pc_name": "DESKTOP-8JN0NE5",
       "app_version": "1.9.0",
-      "last_seen_at": "2026-11-16 11:24:42",
-      "last_action": "Depo Fiyat Sorgulama",
+      "last_seen_at": "2026-11-16 11:25:01",
+      "last_action": "Canlı MF Taraması",
       "today_date": "2026-11-16",
-      "today_searches": 11,
-      "today_cart_adds": 6,
-      "today_smart_orders": 12,
-      "total_searches": 43,
-      "total_cart_adds": 89,
+      "today_searches": 12,
+      "today_cart_adds": 8,
+      "today_smart_orders": 15,
+      "total_searches": 44,
+      "total_cart_adds": 91,
       "total_days_used": 8,
-      "total_smart_orders": 204,
+      "total_smart_orders": 207,
       "pc_count": 1,
       "devices": {
         "2DED-CFF9-D593": {
@@ -1246,42 +1246,17 @@
           "desk_name": "DESKTOP-8JN0NE5",
           "local_ip": "192.168.1.37",
           "app_version": "1.9.0",
-          "last_seen_at": "2026-11-16 11:24:42",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-16 11:25:01",
+          "last_action": "Canlı MF Taraması",
           "today_date": "2026-11-16",
-          "today_searches": 11,
-          "today_cart_adds": 6,
-          "today_smart_orders": 12,
-          "total_searches": 43,
-          "total_cart_adds": 89,
-          "total_smart_orders": 204,
+          "today_searches": 12,
+          "today_cart_adds": 8,
+          "today_smart_orders": 15,
+          "total_searches": 44,
+          "total_cart_adds": 91,
+          "total_smart_orders": 207,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-16 11:15:17",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-16 11:15:21",
-              "type": "search",
-              "detail": "Depo Sorgu: NOVAQUA TEK DOZ 30 FLK."
-            },
-            {
-              "t": "2026-11-16 11:15:53",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-16 11:15:54",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): SIMFLAT 30 FİLM TABLET x15"
-            },
-            {
-              "t": "2026-11-16 11:15:58",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-16 11:16:00",
               "type": "cart",
@@ -1331,6 +1306,31 @@
               "t": "2026-11-16 11:24:42",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-16 11:24:44",
+              "type": "search",
+              "detail": "Depo Sorgu: LATIXA 500 MG 60 TB."
+            },
+            {
+              "t": "2026-11-16 11:24:49",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-16 11:25:00",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş Planlama"
+            },
+            {
+              "t": "2026-11-16 11:25:00",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş (BOTANIK • 83 Kalem)"
+            },
+            {
+              "t": "2026-11-16 11:25:01",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
             }
           ]
         }
