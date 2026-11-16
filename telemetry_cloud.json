@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 11:16:33",
+  "updated_at": "2026-11-16 11:16:50",
   "count": 6,
   "items": [
     {
@@ -1228,16 +1228,16 @@
       "hwid": "2DED-CFF9-D593",
       "last_pc_name": "DESKTOP-8JN0NE5",
       "app_version": "1.9.0",
-      "last_seen_at": "2026-11-16 11:15:53",
-      "last_action": "Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-16 11:16:50",
+      "last_action": "Depo Fiyat Sorgulama",
       "today_date": "2026-11-16",
-      "today_searches": 4,
-      "today_cart_adds": 3,
-      "today_smart_orders": 10,
-      "total_searches": 36,
-      "total_cart_adds": 86,
+      "today_searches": 5,
+      "today_cart_adds": 6,
+      "today_smart_orders": 12,
+      "total_searches": 37,
+      "total_cart_adds": 89,
       "total_days_used": 8,
-      "total_smart_orders": 202,
+      "total_smart_orders": 204,
       "pc_count": 1,
       "devices": {
         "2DED-CFF9-D593": {
@@ -1246,47 +1246,17 @@
           "desk_name": "DESKTOP-8JN0NE5",
           "local_ip": "192.168.1.37",
           "app_version": "1.9.0",
-          "last_seen_at": "2026-11-16 11:15:53",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-16 11:16:50",
+          "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-16",
-          "today_searches": 4,
-          "today_cart_adds": 3,
-          "today_smart_orders": 10,
-          "total_searches": 36,
-          "total_cart_adds": 86,
-          "total_smart_orders": 202,
+          "today_searches": 5,
+          "today_cart_adds": 6,
+          "today_smart_orders": 12,
+          "total_searches": 37,
+          "total_cart_adds": 89,
+          "total_smart_orders": 204,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-16 11:01:01",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-16 11:01:05",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-16 11:01:39",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-16 11:01:40",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-16 11:02:32",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (27 Ürün)"
-            },
-            {
-              "t": "2026-11-16 11:02:47",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-16 11:02:56",
               "type": "search",
@@ -1331,6 +1301,36 @@
               "t": "2026-11-16 11:15:53",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-16 11:15:54",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): SIMFLAT 30 FİLM TABLET x15"
+            },
+            {
+              "t": "2026-11-16 11:15:58",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-16 11:16:00",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-16 11:16:06",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş Planlama"
+            },
+            {
+              "t": "2026-11-16 11:16:07",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş (BOTANIK • 72 Kalem)"
+            },
+            {
+              "t": "2026-11-16 11:16:50",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ]
         }
