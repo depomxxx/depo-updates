@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 10:01:36",
+  "updated_at": "2026-11-16 10:02:17",
   "count": 6,
   "items": [
     {
@@ -445,18 +445,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D719-CEB2-1542",
-      "last_pc_name": "DESKTOP-M530BBB",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.0",
-      "last_seen_at": "2026-11-16 10:01:36",
-      "last_action": "[DESKTOP-M530BBB] Depo Sorgu: BUŞONEX BUŞON YUMUŞATICI 20+50ML ŞIŞE/",
+      "last_seen_at": "2026-11-16 10:02:17",
+      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları Yenileme (TRIA • 5 Kalem)",
       "today_date": "2026-11-16",
       "today_searches": 2,
       "today_cart_adds": 11,
-      "today_smart_orders": 33,
+      "today_smart_orders": 38,
       "total_searches": 470,
       "total_cart_adds": 798,
-      "total_smart_orders": 682,
+      "total_smart_orders": 687,
       "total_days_used": 12,
       "pc_count": 8,
       "devices": {
@@ -560,42 +560,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.0",
-          "last_seen_at": "2026-11-16 10:00:33",
-          "last_action": "Toplu Sipariş Planlama",
+          "last_seen_at": "2026-11-16 10:02:17",
+          "last_action": "Günün Çıkışları Yenileme (TRIA • 5 Kalem)",
           "today_date": "2026-11-16",
           "today_searches": 0,
           "today_cart_adds": 11,
-          "today_smart_orders": 31,
+          "today_smart_orders": 36,
           "total_searches": 89,
           "total_cart_adds": 342,
-          "total_smart_orders": 309,
+          "total_smart_orders": 314,
           "total_days_used": 11,
           "recent_actions": [
-            {
-              "t": "2026-11-16 09:58:49",
-              "type": "cart",
-              "detail": "Toplu Sepet (ALLIANCE): 11 Kalem"
-            },
-            {
-              "t": "2026-11-16 09:58:49",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş Planlama"
-            },
-            {
-              "t": "2026-11-16 09:58:50",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş (TRIA • 245 Kalem)"
-            },
-            {
-              "t": "2026-11-16 09:58:50",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-16 09:58:51",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (3 Ürün)"
-            },
             {
               "t": "2026-11-16 09:59:05",
               "type": "cart",
@@ -645,6 +620,31 @@
               "t": "2026-11-16 10:00:33",
               "type": "smart_order",
               "detail": "Toplu Sipariş Planlama"
+            },
+            {
+              "t": "2026-11-16 10:00:33",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş (TRIA • 245 Kalem)"
+            },
+            {
+              "t": "2026-11-16 10:00:34",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-16 10:00:34",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (1 Ürün)"
+            },
+            {
+              "t": "2026-11-16 10:00:38",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-16 10:00:39",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 5 Kalem)"
             }
           ]
         },
