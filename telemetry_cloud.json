@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 09:58:49",
+  "updated_at": "2026-11-16 09:59:10",
   "count": 6,
   "items": [
     {
@@ -448,15 +448,15 @@
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.0",
-      "last_seen_at": "2026-11-16 09:58:49",
-      "last_action": "[DESKTOP-OTHNDUE] Toplu Sepet (ALLIANCE): 11 Kalem",
+      "last_seen_at": "2026-11-16 09:59:10",
+      "last_action": "[DESKTOP-OTHNDUE] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-16",
       "today_searches": 0,
-      "today_cart_adds": 4,
-      "today_smart_orders": 24,
+      "today_cart_adds": 7,
+      "today_smart_orders": 28,
       "total_searches": 468,
-      "total_cart_adds": 791,
-      "total_smart_orders": 673,
+      "total_cart_adds": 794,
+      "total_smart_orders": 677,
       "total_days_used": 12,
       "pc_count": 8,
       "devices": {
@@ -560,52 +560,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.0",
-          "last_seen_at": "2026-11-16 09:58:49",
-          "last_action": "Toplu Sepet (ALLIANCE): 11 Kalem",
+          "last_seen_at": "2026-11-16 09:59:10",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-16",
           "today_searches": 0,
-          "today_cart_adds": 4,
-          "today_smart_orders": 22,
+          "today_cart_adds": 7,
+          "today_smart_orders": 26,
           "total_searches": 89,
-          "total_cart_adds": 335,
-          "total_smart_orders": 300,
+          "total_cart_adds": 338,
+          "total_smart_orders": 304,
           "total_days_used": 11,
           "recent_actions": [
-            {
-              "t": "2026-11-16 09:47:41",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş (TRIA • 5 Kalem)"
-            },
-            {
-              "t": "2026-11-16 09:47:41",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-16 09:47:42",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş Planlama"
-            },
-            {
-              "t": "2026-11-16 09:47:43",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (3 Ürün)"
-            },
-            {
-              "t": "2026-11-16 09:47:44",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş (TRIA • 245 Kalem)"
-            },
-            {
-              "t": "2026-11-16 09:47:45",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-16 09:47:57",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (35 Ürün)"
-            },
             {
               "t": "2026-11-16 09:47:57",
               "type": "mf_resolve",
@@ -645,6 +610,41 @@
               "t": "2026-11-16 09:58:49",
               "type": "cart",
               "detail": "Toplu Sepet (ALLIANCE): 11 Kalem"
+            },
+            {
+              "t": "2026-11-16 09:58:49",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş Planlama"
+            },
+            {
+              "t": "2026-11-16 09:58:50",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş (TRIA • 245 Kalem)"
+            },
+            {
+              "t": "2026-11-16 09:58:50",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-16 09:58:51",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (3 Ürün)"
+            },
+            {
+              "t": "2026-11-16 09:59:05",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-16 09:59:06",
+              "type": "cart",
+              "detail": "Toplu Sepet (SELCUK): 2 Kalem"
+            },
+            {
+              "t": "2026-11-16 09:59:10",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
