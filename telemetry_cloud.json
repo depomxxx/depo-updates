@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 17:58:53",
+  "updated_at": "2026-11-16 17:59:18",
   "count": 6,
   "items": [
     {
@@ -1228,14 +1228,14 @@
       "hwid": "2DED-CFF9-D593",
       "last_pc_name": "DESKTOP-8JN0NE5",
       "app_version": "1.9.5",
-      "last_seen_at": "2026-11-16 17:58:26",
-      "last_action": "Canlı MF Taraması",
+      "last_seen_at": "2026-11-16 17:59:18",
+      "last_action": "Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-16",
       "today_searches": 16,
-      "today_cart_adds": 46,
+      "today_cart_adds": 47,
       "today_smart_orders": 93,
       "total_searches": 48,
-      "total_cart_adds": 129,
+      "total_cart_adds": 130,
       "total_days_used": 8,
       "total_smart_orders": 285,
       "pc_count": 1,
@@ -1246,22 +1246,17 @@
           "desk_name": "DESKTOP-8JN0NE5",
           "local_ip": "192.168.1.37",
           "app_version": "1.9.5",
-          "last_seen_at": "2026-11-16 17:58:26",
-          "last_action": "Canlı MF Taraması",
+          "last_seen_at": "2026-11-16 17:59:18",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-16",
           "today_searches": 16,
-          "today_cart_adds": 46,
+          "today_cart_adds": 47,
           "today_smart_orders": 93,
           "total_searches": 48,
-          "total_cart_adds": 129,
+          "total_cart_adds": 130,
           "total_smart_orders": 285,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-16 17:26:42",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (30 Ürün)"
-            },
             {
               "t": "2026-11-16 17:26:42",
               "type": "mf_resolve",
@@ -1331,6 +1326,11 @@
               "t": "2026-11-16 17:58:26",
               "type": "mf_resolve",
               "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-16 17:59:18",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         }
