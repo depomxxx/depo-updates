@@ -1,11 +1,11 @@
 {
-  "version": "1.9.4",
+  "version": "1.9.5",
   "app_name": "Farma Radar",
-  "release_date": "2026-11-16 14:11:00",
+  "release_date": "2026-11-16 17:24:53",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.9.4.zip?t=1794827462",
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.9.5.zip?t=1794839095",
   "sha256": "",
-  "package_sha256": "e908e25da42b34944acda3801b9224c3d8b5d1cfe05683c5eefa1e43f3c30158",
-  "size_kb": 880.2,
-  "changelog": "v1.9.4: Başlatıcı karşılama ekranına bulut öz-onarım emniyet butonu ve evrensel sürüm kurtarma koruması eklendi."
+  "package_sha256": "a77152d0edd090b87e0cef506549a14e985b1f1fb2b024726ca7da891f8073ef",
+  "size_kb": 882.7,
+  "changelog": "v1.9.5: Botanik otomasyonu için Günün Çıkışları ve Toplu Sipariş (Bugün) ekranlarına açık emanet verildiği için kritik stoğa (≤21 gün) düşen ürünlerin ayrı bölümde ve 'Emanet Çıkışı' rozetiyle gösterimi eklendi (normal ürünlerde sıfır karmaşa, aylık satış hızında çift sayım koruması)."
 }
