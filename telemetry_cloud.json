@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 11:15:34",
+  "updated_at": "2026-11-16 11:17:52",
   "count": 6,
   "items": [
     {
@@ -1605,14 +1605,14 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.9.0",
-      "last_seen_at": "2026-11-16 11:17:28",
-      "last_action": "[DESKTOP-T4EAUS3] Depo Sorgu: NOVAQUA TEK DOZ 30 FLK.",
+      "last_seen_at": "2026-11-16 11:17:52",
+      "last_action": "[DESKTOP-T4EAUS3] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-16",
       "today_searches": 10,
-      "today_cart_adds": 6,
+      "today_cart_adds": 9,
       "today_smart_orders": 20,
       "total_searches": 147,
-      "total_cart_adds": 577,
+      "total_cart_adds": 580,
       "total_days_used": 10,
       "total_smart_orders": 301,
       "pc_count": 3,
@@ -1697,22 +1697,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.9.0",
-          "last_seen_at": "2026-11-16 11:17:28",
-          "last_action": "Depo Sorgu: NOVAQUA TEK DOZ 30 FLK.",
+          "last_seen_at": "2026-11-16 11:17:52",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-16",
           "today_searches": 10,
-          "today_cart_adds": 6,
+          "today_cart_adds": 9,
           "today_smart_orders": 20,
           "total_searches": 75,
-          "total_cart_adds": 319,
+          "total_cart_adds": 322,
           "total_smart_orders": 232,
           "total_days_used": 10,
           "recent_actions": [
-            {
-              "t": "2026-11-16 11:05:25",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-16 11:05:25",
               "type": "critical_stock",
@@ -1782,6 +1777,11 @@
               "t": "2026-11-16 11:16:10",
               "type": "search",
               "detail": "Depo Sorgu: NOVAQUA TEK DOZ 30 FLK."
+            },
+            {
+              "t": "2026-11-16 11:17:39",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
