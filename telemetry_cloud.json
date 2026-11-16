@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 17:46:01",
+  "updated_at": "2026-11-16 17:46:33",
   "count": 6,
   "items": [
     {
@@ -138,14 +138,14 @@
       "hwid": "E6B1-5698-273E",
       "last_pc_name": "DESKTOP-6KFO8IF",
       "app_version": "1.9.5",
-      "last_seen_at": "2026-11-16 17:46:01",
-      "last_action": "[DESKTOP-6KFO8IF] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-16 17:46:33",
+      "last_action": "[DESKTOP-6KFO8IF] Toplu Sepet (ALLIANCE): 17 Kalem",
       "today_date": "2026-11-16",
       "today_searches": 16,
-      "today_cart_adds": 7,
+      "today_cart_adds": 8,
       "today_smart_orders": 25,
       "total_searches": 204,
-      "total_cart_adds": 440,
+      "total_cart_adds": 441,
       "total_smart_orders": 550,
       "total_days_used": 10,
       "pc_count": 3,
@@ -250,22 +250,17 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.5",
-          "last_seen_at": "2026-11-16 17:46:01",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-16 17:46:33",
+          "last_action": "Toplu Sepet (ALLIANCE): 17 Kalem",
           "today_date": "2026-11-16",
           "today_searches": 16,
-          "today_cart_adds": 7,
+          "today_cart_adds": 8,
           "today_smart_orders": 25,
           "total_searches": 30,
-          "total_cart_adds": 61,
+          "total_cart_adds": 62,
           "total_smart_orders": 83,
           "total_days_used": 10,
           "recent_actions": [
-            {
-              "t": "2026-11-16 17:43:51",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-16 17:43:55",
               "type": "search",
@@ -335,6 +330,11 @@
               "t": "2026-11-16 17:46:01",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-16 17:46:33",
+              "type": "cart",
+              "detail": "Toplu Sepet (ALLIANCE): 17 Kalem"
             }
           ]
         },
