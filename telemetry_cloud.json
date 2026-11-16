@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 15:26:58",
+  "updated_at": "2026-11-16 15:27:14",
   "count": 6,
   "items": [
     {
@@ -448,13 +448,13 @@
       "hwid": "D2E4-AA57-C021",
       "last_pc_name": "DESKTOP-1N3LQF0",
       "app_version": "1.9.4",
-      "last_seen_at": "2026-11-16 15:26:55",
-      "last_action": "[DESKTOP-1N3LQF0] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-16 15:27:14",
+      "last_action": "[DESKTOP-1N3LQF0] Depo Sorgu: KARUM 75 MG 28 FTB.",
       "today_date": "2026-11-16",
-      "today_searches": 26,
+      "today_searches": 28,
       "today_cart_adds": 31,
       "today_smart_orders": 94,
-      "total_searches": 494,
+      "total_searches": 496,
       "total_cart_adds": 818,
       "total_smart_orders": 743,
       "total_days_used": 12,
@@ -1124,27 +1124,17 @@
           "desk_name": "DESKTOP-1N3LQF0",
           "local_ip": "192.168.1.123",
           "app_version": "1.9.4",
-          "last_seen_at": "2026-11-16 15:26:55",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-16 15:27:14",
+          "last_action": "Depo Sorgu: KARUM 75 MG 28 FTB.",
           "today_date": "2026-11-16",
-          "today_searches": 6,
+          "today_searches": 8,
           "today_cart_adds": 8,
           "today_smart_orders": 19,
-          "total_searches": 27,
+          "total_searches": 29,
           "total_cart_adds": 8,
           "total_smart_orders": 39,
           "total_days_used": 7,
           "recent_actions": [
-            {
-              "t": "2026-11-16 14:27:47",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-16 14:27:50",
-              "type": "search",
-              "detail": "Depo Sorgu: CADUET 5/10 MG 30 FTB."
-            },
             {
               "t": "2026-11-16 14:27:54",
               "type": "cart",
@@ -1209,6 +1199,16 @@
               "t": "2026-11-16 14:29:47",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-16 15:27:06",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-16 15:27:14",
+              "type": "search",
+              "detail": "Depo Sorgu: KARUM 75 MG 28 FTB."
             }
           ]
         }
