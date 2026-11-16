@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 11:36:28",
+  "updated_at": "2026-11-16 11:36:33",
   "count": 6,
   "items": [
     {
@@ -445,17 +445,17 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "5834-FAC9-B71F",
-      "last_pc_name": "DESKTOP-OTHNDUE",
+      "hwid": "D719-CEB2-1542",
+      "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.9.0",
-      "last_seen_at": "2026-11-16 11:36:15",
-      "last_action": "[DESKTOP-OTHNDUE] Canlı MF Sorgulama (1 Ürün)",
+      "last_seen_at": "2026-11-16 11:36:33",
+      "last_action": "[DESKTOP-M530BBB] Depo Sorgu: FOREVER GARCINIA PLUS",
       "today_date": "2026-11-16",
       "today_searches": 14,
-      "today_cart_adds": 16,
+      "today_cart_adds": 19,
       "today_smart_orders": 61,
       "total_searches": 482,
-      "total_cart_adds": 803,
+      "total_cart_adds": 806,
       "total_smart_orders": 710,
       "total_days_used": 12,
       "pc_count": 8,
@@ -748,27 +748,17 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.9.0",
-          "last_seen_at": "2026-11-16 11:35:37",
+          "last_seen_at": "2026-11-16 11:36:25",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-16",
           "today_searches": 4,
-          "today_cart_adds": 1,
+          "today_cart_adds": 4,
           "today_smart_orders": 15,
           "total_searches": 95,
-          "total_cart_adds": 206,
+          "total_cart_adds": 209,
           "total_smart_orders": 52,
           "total_days_used": 7,
           "recent_actions": [
-            {
-              "t": "2026-11-16 11:32:31",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-16 11:32:56",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-16 11:32:58",
               "type": "mf_resolve",
@@ -831,6 +821,16 @@
             },
             {
               "t": "2026-11-16 11:35:37",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-16 11:35:37",
+              "type": "cart",
+              "detail": "Sepete Ekle (NEVZAT): AZELTIN 500 MG 3 FILM TB. x4"
+            },
+            {
+              "t": "2026-11-16 11:35:39",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
@@ -1030,7 +1030,7 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.0",
-          "last_seen_at": "2026-11-16 11:35:18",
+          "last_seen_at": "2026-11-16 11:36:33",
           "last_action": "Depo Sorgu: FOREVER GARCINIA PLUS",
           "today_date": "2026-11-16",
           "today_searches": 6,
