@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 17:50:27",
+  "updated_at": "2026-11-16 17:48:24",
   "count": 6,
   "items": [
     {
@@ -138,14 +138,14 @@
       "hwid": "E6B1-5698-273E",
       "last_pc_name": "DESKTOP-6KFO8IF",
       "app_version": "1.9.5",
-      "last_seen_at": "2026-11-16 17:47:38",
+      "last_seen_at": "2026-11-16 17:48:24",
       "last_action": "[DESKTOP-6KFO8IF] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-16",
       "today_searches": 16,
-      "today_cart_adds": 14,
+      "today_cart_adds": 15,
       "today_smart_orders": 25,
       "total_searches": 204,
-      "total_cart_adds": 447,
+      "total_cart_adds": 448,
       "total_smart_orders": 550,
       "total_days_used": 10,
       "pc_count": 3,
@@ -250,22 +250,17 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.5",
-          "last_seen_at": "2026-11-16 17:47:38",
+          "last_seen_at": "2026-11-16 17:48:24",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-16",
           "today_searches": 16,
-          "today_cart_adds": 14,
+          "today_cart_adds": 15,
           "today_smart_orders": 25,
           "total_searches": 30,
-          "total_cart_adds": 68,
+          "total_cart_adds": 69,
           "total_smart_orders": 83,
           "total_days_used": 10,
           "recent_actions": [
-            {
-              "t": "2026-11-16 17:44:28",
-              "type": "search",
-              "detail": "Depo Sorgu: BARCA SR 600 MG 10 FTB."
-            },
             {
               "t": "2026-11-16 17:44:34",
               "type": "search",
@@ -333,6 +328,11 @@
             },
             {
               "t": "2026-11-16 17:47:09",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-16 17:48:24",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
