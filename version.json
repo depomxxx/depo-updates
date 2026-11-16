@@ -1,11 +1,11 @@
 {
-  "version": "1.9.3",
+  "version": "1.9.4",
   "app_name": "Farma Radar",
-  "release_date": "2026-11-16 13:07:50",
+  "release_date": "2026-11-16 14:11:00",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.9.3.zip?t=1794823671",
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.9.4.zip?t=1794827462",
   "sha256": "",
-  "package_sha256": "230a666be9458f16d9f8329a1f787e239ae2a0383e706b2893dac3edcb065086",
-  "size_kb": 879.9,
-  "changelog": "v1.9.3: Yerel ağ hızlı onarım sayfası (/onar) ve açılış öz-onarım mekanizması eklendi."
+  "package_sha256": "e908e25da42b34944acda3801b9224c3d8b5d1cfe05683c5eefa1e43f3c30158",
+  "size_kb": 880.2,
+  "changelog": "v1.9.4: Başlatıcı karşılama ekranına bulut öz-onarım emniyet butonu ve evrensel sürüm kurtarma koruması eklendi."
 }
