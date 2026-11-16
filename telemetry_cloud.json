@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 11:36:33",
+  "updated_at": "2026-11-16 11:36:44",
   "count": 6,
   "items": [
     {
@@ -1228,16 +1228,16 @@
       "hwid": "2DED-CFF9-D593",
       "last_pc_name": "DESKTOP-8JN0NE5",
       "app_version": "1.9.0",
-      "last_seen_at": "2026-11-16 11:36:25",
-      "last_action": "Canlı MF Sorgulama (3 Ürün)",
+      "last_seen_at": "2026-11-16 11:36:44",
+      "last_action": "Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-16",
       "today_searches": 14,
-      "today_cart_adds": 10,
-      "today_smart_orders": 20,
+      "today_cart_adds": 13,
+      "today_smart_orders": 23,
       "total_searches": 46,
-      "total_cart_adds": 93,
+      "total_cart_adds": 96,
       "total_days_used": 8,
-      "total_smart_orders": 212,
+      "total_smart_orders": 215,
       "pc_count": 1,
       "devices": {
         "2DED-CFF9-D593": {
@@ -1246,47 +1246,17 @@
           "desk_name": "DESKTOP-8JN0NE5",
           "local_ip": "192.168.1.37",
           "app_version": "1.9.0",
-          "last_seen_at": "2026-11-16 11:36:25",
-          "last_action": "Canlı MF Sorgulama (3 Ürün)",
+          "last_seen_at": "2026-11-16 11:36:44",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-16",
           "today_searches": 14,
-          "today_cart_adds": 10,
-          "today_smart_orders": 20,
+          "today_cart_adds": 13,
+          "today_smart_orders": 23,
           "total_searches": 46,
-          "total_cart_adds": 93,
-          "total_smart_orders": 212,
+          "total_cart_adds": 96,
+          "total_smart_orders": 215,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-16 11:17:42",
-              "type": "search",
-              "detail": "Depo Sorgu: ETOL FORT 400 MG 14 FTB"
-            },
-            {
-              "t": "2026-11-16 11:24:42",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-16 11:24:44",
-              "type": "search",
-              "detail": "Depo Sorgu: LATIXA 500 MG 60 TB."
-            },
-            {
-              "t": "2026-11-16 11:24:49",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-16 11:25:00",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş Planlama"
-            },
-            {
-              "t": "2026-11-16 11:25:00",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş (BOTANIK • 83 Kalem)"
-            },
             {
               "t": "2026-11-16 11:25:01",
               "type": "mf_resolve",
@@ -1331,6 +1301,36 @@
               "t": "2026-11-16 11:28:36",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (3 Ürün)"
+            },
+            {
+              "t": "2026-11-16 11:36:28",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-16 11:36:28",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (BOTANIK • 40 Kalem)"
+            },
+            {
+              "t": "2026-11-16 11:36:28",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-16 11:36:37",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-16 11:36:42",
+              "type": "cart",
+              "detail": "Toplu Sepet (ISKOOP): 1 Kalem"
+            },
+            {
+              "t": "2026-11-16 11:36:44",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         }
