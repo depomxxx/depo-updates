@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 13:54:25",
+  "updated_at": "2026-11-16 13:55:23",
   "count": 6,
   "items": [
     {
@@ -1227,8 +1227,8 @@
       "status": "AKTIF",
       "hwid": "2DED-CFF9-D593",
       "last_pc_name": "DESKTOP-8JN0NE5",
-      "app_version": "1.9.0",
-      "last_seen_at": "2026-11-16 12:53:47",
+      "app_version": "1.9.3",
+      "last_seen_at": "2026-11-16 13:55:22",
       "last_action": "Canlı MF Sorgulama (3 Ürün)",
       "today_date": "2026-11-16",
       "today_searches": 16,
@@ -1245,8 +1245,8 @@
           "pc_name": "DESKTOP-8JN0NE5",
           "desk_name": "DESKTOP-8JN0NE5",
           "local_ip": "192.168.1.37",
-          "app_version": "1.9.0",
-          "last_seen_at": "2026-11-16 12:53:47",
+          "app_version": "1.9.3",
+          "last_seen_at": "2026-11-16 13:55:22",
           "last_action": "Canlı MF Sorgulama (3 Ürün)",
           "today_date": "2026-11-16",
           "today_searches": 16,
