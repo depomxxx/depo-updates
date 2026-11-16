@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 10:20:37",
+  "updated_at": "2026-11-16 10:18:38",
   "count": 6,
   "items": [
     {
@@ -16,14 +16,14 @@
       "hwid": "3C0F-6FF9-862F",
       "last_pc_name": "Berkay",
       "app_version": "1.9.0",
-      "last_seen_at": "2026-11-16 10:18:20",
-      "last_action": "Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-16 10:18:38",
+      "last_action": "Sepete Ekle (ALLIANCE): TIYOKAS 50MG+4MG/2ML IM 6 AM x1",
       "today_date": "2026-11-16",
       "today_searches": 4,
-      "today_cart_adds": 10,
+      "today_cart_adds": 13,
       "today_smart_orders": 24,
       "total_searches": 49,
-      "total_cart_adds": 103,
+      "total_cart_adds": 106,
       "total_smart_orders": 141,
       "total_days_used": 2,
       "pc_count": 1,
@@ -34,32 +34,17 @@
           "desk_name": "Berkay",
           "local_ip": "192.168.1.103",
           "app_version": "1.9.0",
-          "last_seen_at": "2026-11-16 10:18:20",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-16 10:18:38",
+          "last_action": "Sepete Ekle (ALLIANCE): TIYOKAS 50MG+4MG/2ML IM 6 AM x1",
           "today_date": "2026-11-16",
           "today_searches": 4,
-          "today_cart_adds": 10,
+          "today_cart_adds": 13,
           "today_smart_orders": 24,
           "total_searches": 49,
-          "total_cart_adds": 103,
+          "total_cart_adds": 106,
           "total_smart_orders": 141,
           "total_days_used": 2,
           "recent_actions": [
-            {
-              "t": "2026-11-16 09:16:03",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş (BOTANIK • 13 Kalem)"
-            },
-            {
-              "t": "2026-11-16 09:16:04",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-16 09:43:59",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-16 09:44:00",
               "type": "critical_stock",
@@ -119,6 +104,21 @@
               "t": "2026-11-16 10:18:20",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-16 10:18:23",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): DOLOREX 50MG 20 DRAJE x50"
+            },
+            {
+              "t": "2026-11-16 10:18:36",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-16 10:18:38",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): TIYOKAS 50MG+4MG/2ML IM 6 AM x1"
             }
           ]
         }
