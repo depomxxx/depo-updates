@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 11:10:42",
+  "updated_at": "2026-11-16 11:12:53",
   "count": 6,
   "items": [
     {
@@ -1605,14 +1605,14 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.9.0",
-      "last_seen_at": "2026-11-16 11:11:48",
-      "last_action": "[DESKTOP-T4EAUS3] Günün Çıkışları Yenileme (BOTANIK • 27 Kalem)",
+      "last_seen_at": "2026-11-16 11:12:53",
+      "last_action": "[DESKTOP-T4EAUS3] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-16",
       "today_searches": 8,
-      "today_cart_adds": 2,
+      "today_cart_adds": 3,
       "today_smart_orders": 18,
       "total_searches": 145,
-      "total_cart_adds": 573,
+      "total_cart_adds": 574,
       "total_days_used": 10,
       "total_smart_orders": 299,
       "pc_count": 3,
@@ -1697,22 +1697,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.9.0",
-          "last_seen_at": "2026-11-16 11:11:48",
-          "last_action": "Günün Çıkışları Yenileme (BOTANIK • 27 Kalem)",
+          "last_seen_at": "2026-11-16 11:12:53",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-16",
           "today_searches": 8,
-          "today_cart_adds": 2,
+          "today_cart_adds": 3,
           "today_smart_orders": 18,
           "total_searches": 73,
-          "total_cart_adds": 315,
+          "total_cart_adds": 316,
           "total_smart_orders": 230,
           "total_days_used": 10,
           "recent_actions": [
-            {
-              "t": "2026-11-16 10:51:15",
-              "type": "search",
-              "detail": "Depo Sorgu: AUGMENTIN BID 1 GR 10 FTB."
-            },
             {
               "t": "2026-11-16 10:57:22",
               "type": "critical_stock",
@@ -1782,6 +1777,11 @@
               "t": "2026-11-16 11:10:14",
               "type": "critical_stock",
               "detail": "Günün Çıkışları Yenileme (BOTANIK • 27 Kalem)"
+            },
+            {
+              "t": "2026-11-16 11:12:53",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
