@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 10:18:16",
+  "updated_at": "2026-11-16 10:18:20",
   "count": 6,
   "items": [
     {
@@ -16,14 +16,14 @@
       "hwid": "3C0F-6FF9-862F",
       "last_pc_name": "Berkay",
       "app_version": "1.9.0",
-      "last_seen_at": "2026-11-16 10:17:52",
+      "last_seen_at": "2026-11-16 10:18:20",
       "last_action": "Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-16",
       "today_searches": 4,
-      "today_cart_adds": 6,
+      "today_cart_adds": 10,
       "today_smart_orders": 24,
       "total_searches": 49,
-      "total_cart_adds": 99,
+      "total_cart_adds": 103,
       "total_smart_orders": 141,
       "total_days_used": 2,
       "pc_count": 1,
@@ -34,37 +34,17 @@
           "desk_name": "Berkay",
           "local_ip": "192.168.1.103",
           "app_version": "1.9.0",
-          "last_seen_at": "2026-11-16 10:17:52",
+          "last_seen_at": "2026-11-16 10:18:20",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-16",
           "today_searches": 4,
-          "today_cart_adds": 6,
+          "today_cart_adds": 10,
           "today_smart_orders": 24,
           "total_searches": 49,
-          "total_cart_adds": 99,
+          "total_cart_adds": 103,
           "total_smart_orders": 141,
           "total_days_used": 2,
           "recent_actions": [
-            {
-              "t": "2026-11-16 09:15:28",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş (BOTANIK • 13 Kalem)"
-            },
-            {
-              "t": "2026-11-16 09:16:02",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-16 09:16:03",
-              "type": "cart",
-              "detail": "Toplu Sepet (SELCUK): 1 Kalem"
-            },
-            {
-              "t": "2026-11-16 09:16:03",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş Planlama"
-            },
             {
               "t": "2026-11-16 09:16:03",
               "type": "smart_order",
@@ -117,6 +97,26 @@
             },
             {
               "t": "2026-11-16 10:17:52",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-16 10:17:53",
+              "type": "cart",
+              "detail": "Sepete Ekle (SELCUK): DOLOREX 50MG 20 DRAJE x50"
+            },
+            {
+              "t": "2026-11-16 10:18:09",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-16 10:18:10",
+              "type": "cart",
+              "detail": "Sepete Ekle (SELCUK): DOLOREX 50MG 20 DRAJE x50"
+            },
+            {
+              "t": "2026-11-16 10:18:20",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
