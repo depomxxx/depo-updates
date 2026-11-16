@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 11:48:59",
+  "updated_at": "2026-11-16 11:47:04",
   "count": 6,
   "items": [
     {
@@ -1228,14 +1228,14 @@
       "hwid": "2DED-CFF9-D593",
       "last_pc_name": "DESKTOP-8JN0NE5",
       "app_version": "1.9.0",
-      "last_seen_at": "2026-11-16 11:46:05",
-      "last_action": "Canlı MF Sorgulama (5 Ürün)",
+      "last_seen_at": "2026-11-16 11:47:04",
+      "last_action": "Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-16",
       "today_searches": 16,
-      "today_cart_adds": 32,
+      "today_cart_adds": 33,
       "today_smart_orders": 60,
       "total_searches": 48,
-      "total_cart_adds": 115,
+      "total_cart_adds": 116,
       "total_days_used": 8,
       "total_smart_orders": 252,
       "pc_count": 1,
@@ -1246,22 +1246,17 @@
           "desk_name": "DESKTOP-8JN0NE5",
           "local_ip": "192.168.1.37",
           "app_version": "1.9.0",
-          "last_seen_at": "2026-11-16 11:46:05",
-          "last_action": "Canlı MF Sorgulama (5 Ürün)",
+          "last_seen_at": "2026-11-16 11:47:04",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-16",
           "today_searches": 16,
-          "today_cart_adds": 32,
+          "today_cart_adds": 33,
           "today_smart_orders": 60,
           "total_searches": 48,
-          "total_cart_adds": 115,
+          "total_cart_adds": 116,
           "total_smart_orders": 252,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-16 11:43:06",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-16 11:43:06",
               "type": "critical_stock",
@@ -1331,6 +1326,11 @@
               "t": "2026-11-16 11:44:31",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (5 Ürün)"
+            },
+            {
+              "t": "2026-11-16 11:47:04",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         }
