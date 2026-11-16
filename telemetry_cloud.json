@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 12:54:23",
+  "updated_at": "2026-11-16 12:57:51",
   "count": 6,
   "items": [
     {
@@ -1602,10 +1602,10 @@
       "plan": "DENEME_30GUN",
       "expires_at": "2026-12-02",
       "status": "AKTIF",
-      "hwid": "4F8E-903D-4844",
-      "last_pc_name": "DESKTOP-T4EAUS3",
-      "app_version": "1.9.0",
-      "last_seen_at": "2026-11-16 12:55:43",
+      "hwid": "1A4A-8625-6A54",
+      "last_pc_name": "Cicobey",
+      "app_version": "1.5.9",
+      "last_seen_at": "2026-11-16 12:57:51",
       "last_action": "[DESKTOP-T4EAUS3] Canlı MF Sorgulama (14 Ürün)",
       "today_date": "2026-11-16",
       "today_searches": 14,
@@ -1613,7 +1613,7 @@
       "today_smart_orders": 32,
       "total_searches": 151,
       "total_cart_adds": 587,
-      "total_days_used": 10,
+      "total_days_used": 11,
       "total_smart_orders": 313,
       "pc_count": 3,
       "devices": {
@@ -1789,18 +1789,18 @@
           "hwid": "1A4A-8625-6A54",
           "pc_name": "Cicobey",
           "desk_name": "Cicobey",
-          "local_ip": "192.168.1.197",
+          "local_ip": "192.168.1.42",
           "app_version": "1.5.9",
-          "last_seen_at": "2026-11-14 19:30:17",
+          "last_seen_at": "2026-11-16 12:57:51",
           "last_action": "Program Açık (Canlı)",
-          "today_date": "2026-11-14",
+          "today_date": "2026-11-16",
           "today_searches": 0,
           "today_cart_adds": 0,
           "today_smart_orders": 0,
           "total_searches": 38,
           "total_cart_adds": 62,
           "total_smart_orders": 57,
-          "total_days_used": 10,
+          "total_days_used": 11,
           "recent_actions": [
             {
               "t": "2026-11-12 16:49:25",
