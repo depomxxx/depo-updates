@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 11:17:15",
+  "updated_at": "2026-11-16 11:17:23",
   "count": 6,
   "items": [
     {
@@ -1228,13 +1228,13 @@
       "hwid": "2DED-CFF9-D593",
       "last_pc_name": "DESKTOP-8JN0NE5",
       "app_version": "1.9.0",
-      "last_seen_at": "2026-11-16 11:16:50",
+      "last_seen_at": "2026-11-16 11:17:23",
       "last_action": "Depo Fiyat Sorgulama",
       "today_date": "2026-11-16",
-      "today_searches": 5,
+      "today_searches": 7,
       "today_cart_adds": 6,
       "today_smart_orders": 12,
-      "total_searches": 37,
+      "total_searches": 39,
       "total_cart_adds": 89,
       "total_days_used": 8,
       "total_smart_orders": 204,
@@ -1246,27 +1246,17 @@
           "desk_name": "DESKTOP-8JN0NE5",
           "local_ip": "192.168.1.37",
           "app_version": "1.9.0",
-          "last_seen_at": "2026-11-16 11:16:50",
+          "last_seen_at": "2026-11-16 11:17:23",
           "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-16",
-          "today_searches": 5,
+          "today_searches": 7,
           "today_cart_adds": 6,
           "today_smart_orders": 12,
-          "total_searches": 37,
+          "total_searches": 39,
           "total_cart_adds": 89,
           "total_smart_orders": 204,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-16 11:02:56",
-              "type": "search",
-              "detail": "Depo Sorgu: FERRUM 100 MG 5 ML 20 FLK."
-            },
-            {
-              "t": "2026-11-16 11:03:05",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-16 11:04:18",
               "type": "smart_order",
@@ -1329,6 +1319,16 @@
             },
             {
               "t": "2026-11-16 11:16:50",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-16 11:16:53",
+              "type": "search",
+              "detail": "Depo Sorgu: FERAMAT 100 MG 30 CAP."
+            },
+            {
+              "t": "2026-11-16 11:17:23",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
             }
