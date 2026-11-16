@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 11:33:26",
+  "updated_at": "2026-11-16 11:33:27",
   "count": 6,
   "items": [
     {
@@ -448,15 +448,15 @@
       "hwid": "B446-9737-94C4",
       "last_pc_name": "DESKTOP-5PFFU5S",
       "app_version": "1.9.0",
-      "last_seen_at": "2026-11-16 11:32:56",
-      "last_action": "[DESKTOP-5PFFU5S] Depo Fiyat Sorgulama",
+      "last_seen_at": "2026-11-16 11:33:27",
+      "last_action": "[DESKTOP-5PFFU5S] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-16",
-      "today_searches": 9,
+      "today_searches": 10,
       "today_cart_adds": 15,
-      "today_smart_orders": 49,
-      "total_searches": 477,
+      "today_smart_orders": 54,
+      "total_searches": 478,
       "total_cart_adds": 802,
-      "total_smart_orders": 698,
+      "total_smart_orders": 703,
       "total_days_used": 12,
       "pc_count": 8,
       "devices": {
@@ -748,47 +748,17 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.9.0",
-          "last_seen_at": "2026-11-16 11:32:56",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-16 11:33:27",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-16",
-          "today_searches": 1,
+          "today_searches": 2,
           "today_cart_adds": 0,
-          "today_smart_orders": 6,
-          "total_searches": 92,
+          "today_smart_orders": 11,
+          "total_searches": 93,
           "total_cart_adds": 205,
-          "total_smart_orders": 43,
+          "total_smart_orders": 48,
           "total_days_used": 7,
           "recent_actions": [
-            {
-              "t": "2026-11-12 17:02:52",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-12 17:02:53",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-12 17:03:08",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (30 Ürün)"
-            },
-            {
-              "t": "2026-11-12 17:03:09",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-12 17:03:17",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (20 Ürün)"
-            },
-            {
-              "t": "2026-11-12 17:33:22",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-12 17:33:22",
               "type": "mf_resolve",
@@ -833,6 +803,36 @@
               "t": "2026-11-16 11:32:56",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-16 11:32:58",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-16 11:33:00",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (30 Ürün)"
+            },
+            {
+              "t": "2026-11-16 11:33:00",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-16 11:33:02",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (13 Ürün)"
+            },
+            {
+              "t": "2026-11-16 11:33:06",
+              "type": "search",
+              "detail": "Depo Sorgu: MOLLERS TRAN OMEGA 3 60 KAPSLER"
+            },
+            {
+              "t": "2026-11-16 11:33:27",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         },
