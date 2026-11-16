@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 10:54:40",
+  "updated_at": "2026-11-16 10:54:57",
   "count": 6,
   "items": [
     {
@@ -16,15 +16,15 @@
       "hwid": "3C0F-6FF9-862F",
       "last_pc_name": "Berkay",
       "app_version": "1.9.0",
-      "last_seen_at": "2026-11-16 10:53:46",
-      "last_action": "Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-16 10:54:57",
+      "last_action": "Toplu Sipariş Planlama",
       "today_date": "2026-11-16",
       "today_searches": 4,
-      "today_cart_adds": 29,
-      "today_smart_orders": 32,
+      "today_cart_adds": 30,
+      "today_smart_orders": 33,
       "total_searches": 49,
-      "total_cart_adds": 122,
-      "total_smart_orders": 149,
+      "total_cart_adds": 123,
+      "total_smart_orders": 150,
       "total_days_used": 2,
       "pc_count": 1,
       "devices": {
@@ -34,22 +34,17 @@
           "desk_name": "Berkay",
           "local_ip": "192.168.1.103",
           "app_version": "1.9.0",
-          "last_seen_at": "2026-11-16 10:53:46",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-16 10:54:57",
+          "last_action": "Toplu Sipariş Planlama",
           "today_date": "2026-11-16",
           "today_searches": 4,
-          "today_cart_adds": 29,
-          "today_smart_orders": 32,
+          "today_cart_adds": 30,
+          "today_smart_orders": 33,
           "total_searches": 49,
-          "total_cart_adds": 122,
-          "total_smart_orders": 149,
+          "total_cart_adds": 123,
+          "total_smart_orders": 150,
           "total_days_used": 2,
           "recent_actions": [
-            {
-              "t": "2026-11-16 10:19:25",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (1 Ürün)"
-            },
             {
               "t": "2026-11-16 10:20:02",
               "type": "cart",
@@ -119,6 +114,11 @@
               "t": "2026-11-16 10:53:46",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-16 10:54:57",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş Planlama"
             }
           ]
         }
