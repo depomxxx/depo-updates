@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 12:53:14",
+  "updated_at": "2026-11-16 12:53:29",
   "count": 6,
   "items": [
     {
@@ -445,18 +445,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "B446-9737-94C4",
-      "last_pc_name": "DESKTOP-5PFFU5S",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.0",
-      "last_seen_at": "2026-11-16 12:53:14",
-      "last_action": "[DESKTOP-5PFFU5S] Depo Sorgu: ASACOL ENAMA 4 GR 100 ML 7 TUP",
+      "last_seen_at": "2026-11-16 12:53:29",
+      "last_action": "[DESKTOP-OTHNDUE] Canlı MF Sorgulama (30 Ürün)",
       "today_date": "2026-11-16",
       "today_searches": 20,
       "today_cart_adds": 23,
-      "today_smart_orders": 73,
+      "today_smart_orders": 75,
       "total_searches": 488,
       "total_cart_adds": 810,
-      "total_smart_orders": 722,
+      "total_smart_orders": 724,
       "total_days_used": 12,
       "pc_count": 8,
       "devices": {
@@ -560,27 +560,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.0",
-          "last_seen_at": "2026-11-16 12:52:09",
-          "last_action": "Canlı MF Sorgulama (35 Ürün)",
+          "last_seen_at": "2026-11-16 12:53:29",
+          "last_action": "Canlı MF Sorgulama (30 Ürün)",
           "today_date": "2026-11-16",
           "today_searches": 8,
           "today_cart_adds": 19,
-          "today_smart_orders": 56,
+          "today_smart_orders": 58,
           "total_searches": 97,
           "total_cart_adds": 350,
-          "total_smart_orders": 334,
+          "total_smart_orders": 336,
           "total_days_used": 11,
           "recent_actions": [
-            {
-              "t": "2026-11-16 12:50:30",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (20 Ürün)"
-            },
-            {
-              "t": "2026-11-16 12:50:34",
-              "type": "search",
-              "detail": "Depo Sorgu: ESOM 40 MG 28 CAP."
-            },
             {
               "t": "2026-11-16 12:50:51",
               "type": "search",
@@ -645,6 +635,16 @@
               "t": "2026-11-16 12:52:09",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (35 Ürün)"
+            },
+            {
+              "t": "2026-11-16 12:52:10",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-16 12:52:22",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (30 Ürün)"
             }
           ]
         },
