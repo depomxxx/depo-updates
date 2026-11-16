@@ -1,11 +1,11 @@
 {
-  "version": "1.9.0",
+  "version": "1.9.1",
   "app_name": "Farma Radar",
-  "release_date": "2026-11-14 17:37:17",
+  "release_date": "2026-11-16 12:53:34",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.9.0.zip?t=1794667038",
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.9.1.zip?t=1794822815",
   "sha256": "",
-  "package_sha256": "a1424c1b7ed92bf25782c65ae69cd9befaf00b4a2911082dfe24a5a3ddecafa9",
-  "size_kb": 874.0,
-  "changelog": "v1.9.0: Eczatrend Takas & Kampanya Açma / Teklif Yönetimi modülü aktif edildi. Ürün arandığında EczaneTakas ile aynı yapıda (ikisi birlikte kullanılıyorsa alt alta) Raf Stoğundan Takas, Depo Kampanyası, Hedef Net Fiyat hesaplayıcı ve Açtığım Teklifler yönetimi eklendi."
+  "package_sha256": "534adb046eb607d2cae3672bb54b5797123b0cbdce65906e318368be45a13f60",
+  "size_kb": 878.4,
+  "changelog": "v1.9.1: Sabah ilk açılışta bloklayıcı bekleme kaldırıldı ve anında açılan karşılama ekranı eklendi. Güncelleme ve yeniden başlatma işlemlerinde 'Sayfa görüntülenemiyor' hatasını tamamen ortadan kaldıran Sıcak Sunucu Devri (Hot-Handover) ve tam ekran kesintisiz geçiş katmanı devreye alındı."
 }
