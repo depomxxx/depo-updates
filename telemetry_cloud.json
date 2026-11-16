@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 17:27:19",
+  "updated_at": "2026-11-16 17:25:12",
   "count": 6,
   "items": [
     {
@@ -1227,8 +1227,8 @@
       "status": "AKTIF",
       "hwid": "2DED-CFF9-D593",
       "last_pc_name": "DESKTOP-8JN0NE5",
-      "app_version": "1.9.4",
-      "last_seen_at": "2026-11-16 17:23:43",
+      "app_version": "1.9.5",
+      "last_seen_at": "2026-11-16 17:25:12",
       "last_action": "Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-16",
       "today_searches": 16,
@@ -1245,8 +1245,8 @@
           "pc_name": "DESKTOP-8JN0NE5",
           "desk_name": "DESKTOP-8JN0NE5",
           "local_ip": "192.168.1.37",
-          "app_version": "1.9.4",
-          "last_seen_at": "2026-11-16 17:23:43",
+          "app_version": "1.9.5",
+          "last_seen_at": "2026-11-16 17:25:12",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-16",
           "today_searches": 16,
