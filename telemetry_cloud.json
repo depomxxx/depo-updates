@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 11:24:20",
+  "updated_at": "2026-11-16 11:24:42",
   "count": 6,
   "items": [
     {
@@ -1228,13 +1228,13 @@
       "hwid": "2DED-CFF9-D593",
       "last_pc_name": "DESKTOP-8JN0NE5",
       "app_version": "1.9.0",
-      "last_seen_at": "2026-11-16 11:24:20",
-      "last_action": "Depo Sorgu: ETOL FORT 400 MG 14 FTB",
+      "last_seen_at": "2026-11-16 11:24:42",
+      "last_action": "Depo Fiyat Sorgulama",
       "today_date": "2026-11-16",
-      "today_searches": 10,
+      "today_searches": 11,
       "today_cart_adds": 6,
       "today_smart_orders": 12,
-      "total_searches": 42,
+      "total_searches": 43,
       "total_cart_adds": 89,
       "total_days_used": 8,
       "total_smart_orders": 204,
@@ -1246,22 +1246,17 @@
           "desk_name": "DESKTOP-8JN0NE5",
           "local_ip": "192.168.1.37",
           "app_version": "1.9.0",
-          "last_seen_at": "2026-11-16 11:24:20",
-          "last_action": "Depo Sorgu: ETOL FORT 400 MG 14 FTB",
+          "last_seen_at": "2026-11-16 11:24:42",
+          "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-16",
-          "today_searches": 10,
+          "today_searches": 11,
           "today_cart_adds": 6,
           "today_smart_orders": 12,
-          "total_searches": 42,
+          "total_searches": 43,
           "total_cart_adds": 89,
           "total_smart_orders": 204,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-16 11:04:27",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (10 Ürün)"
-            },
             {
               "t": "2026-11-16 11:15:17",
               "type": "search",
@@ -1331,6 +1326,11 @@
               "t": "2026-11-16 11:17:42",
               "type": "search",
               "detail": "Depo Sorgu: ETOL FORT 400 MG 14 FTB"
+            },
+            {
+              "t": "2026-11-16 11:24:42",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ]
         }
