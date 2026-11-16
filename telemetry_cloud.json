@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 14:29:29",
+  "updated_at": "2026-11-16 14:29:49",
   "count": 6,
   "items": [
     {
@@ -448,14 +448,14 @@
       "hwid": "D2E4-AA57-C021",
       "last_pc_name": "DESKTOP-1N3LQF0",
       "app_version": "1.9.4",
-      "last_seen_at": "2026-11-16 14:29:29",
-      "last_action": "[DESKTOP-1N3LQF0] Canlı MF Sorgulama (4 Ürün)",
+      "last_seen_at": "2026-11-16 14:29:49",
+      "last_action": "[DESKTOP-1N3LQF0] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-16",
       "today_searches": 26,
-      "today_cart_adds": 29,
+      "today_cart_adds": 31,
       "today_smart_orders": 94,
       "total_searches": 494,
-      "total_cart_adds": 816,
+      "total_cart_adds": 818,
       "total_smart_orders": 743,
       "total_days_used": 12,
       "pc_count": 8,
@@ -1124,22 +1124,17 @@
           "desk_name": "DESKTOP-1N3LQF0",
           "local_ip": "192.168.1.123",
           "app_version": "1.9.4",
-          "last_seen_at": "2026-11-16 14:29:29",
-          "last_action": "Canlı MF Sorgulama (4 Ürün)",
+          "last_seen_at": "2026-11-16 14:29:49",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-16",
           "today_searches": 6,
-          "today_cart_adds": 6,
+          "today_cart_adds": 8,
           "today_smart_orders": 19,
           "total_searches": 27,
-          "total_cart_adds": 6,
+          "total_cart_adds": 8,
           "total_smart_orders": 39,
           "total_days_used": 7,
           "recent_actions": [
-            {
-              "t": "2026-11-16 14:27:47",
-              "type": "search",
-              "detail": "Depo Sorgu: CADUET 5/10 MG 30 FTB."
-            },
             {
               "t": "2026-11-16 14:27:47",
               "type": "search",
@@ -1209,6 +1204,11 @@
               "t": "2026-11-16 14:29:29",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (4 Ürün)"
+            },
+            {
+              "t": "2026-11-16 14:29:47",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         }
