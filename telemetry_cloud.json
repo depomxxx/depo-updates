@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 16:42:55",
+  "updated_at": "2026-11-16 16:43:16",
   "count": 6,
   "items": [
     {
@@ -1605,16 +1605,16 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.9.4",
-      "last_seen_at": "2026-11-16 16:42:55",
-      "last_action": "[DESKTOP-T4EAUS3] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-16 16:43:16",
+      "last_action": "[DESKTOP-T4EAUS3] Toplu Sepet (ALLIANCE): 5 Kalem",
       "today_date": "2026-11-16",
       "today_searches": 14,
-      "today_cart_adds": 24,
-      "today_smart_orders": 66,
+      "today_cart_adds": 26,
+      "today_smart_orders": 67,
       "total_searches": 151,
-      "total_cart_adds": 595,
+      "total_cart_adds": 597,
       "total_days_used": 11,
-      "total_smart_orders": 347,
+      "total_smart_orders": 348,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -1697,32 +1697,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.9.4",
-          "last_seen_at": "2026-11-16 16:42:55",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-16 16:43:16",
+          "last_action": "Toplu Sepet (ALLIANCE): 5 Kalem",
           "today_date": "2026-11-16",
           "today_searches": 14,
-          "today_cart_adds": 24,
-          "today_smart_orders": 51,
+          "today_cart_adds": 26,
+          "today_smart_orders": 52,
           "total_searches": 79,
-          "total_cart_adds": 337,
-          "total_smart_orders": 263,
+          "total_cart_adds": 339,
+          "total_smart_orders": 264,
           "total_days_used": 10,
           "recent_actions": [
-            {
-              "t": "2026-11-16 14:08:53",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-16 14:09:43",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-16 14:13:26",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-16 14:13:26",
               "type": "mf_resolve",
@@ -1782,6 +1767,21 @@
               "t": "2026-11-16 16:42:55",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-16 16:42:56",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (BOTANIK • 77 Kalem)"
+            },
+            {
+              "t": "2026-11-16 16:43:08",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-16 16:43:16",
+              "type": "cart",
+              "detail": "Toplu Sepet (ALLIANCE): 5 Kalem"
             }
           ]
         },
