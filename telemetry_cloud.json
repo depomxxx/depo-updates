@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 10:00:57",
+  "updated_at": "2026-11-16 10:01:36",
   "count": 6,
   "items": [
     {
@@ -445,16 +445,16 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "5834-FAC9-B71F",
-      "last_pc_name": "DESKTOP-OTHNDUE",
+      "hwid": "D719-CEB2-1542",
+      "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.9.0",
-      "last_seen_at": "2026-11-16 10:00:33",
-      "last_action": "[DESKTOP-OTHNDUE] Toplu Sipariş Planlama",
+      "last_seen_at": "2026-11-16 10:01:36",
+      "last_action": "[DESKTOP-M530BBB] Depo Sorgu: BUŞONEX BUŞON YUMUŞATICI 20+50ML ŞIŞE/",
       "today_date": "2026-11-16",
-      "today_searches": 0,
+      "today_searches": 2,
       "today_cart_adds": 11,
       "today_smart_orders": 33,
-      "total_searches": 468,
+      "total_searches": 470,
       "total_cart_adds": 798,
       "total_smart_orders": 682,
       "total_days_used": 12,
@@ -1030,27 +1030,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.0",
-          "last_seen_at": "2026-11-16 10:00:05",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-16 10:01:36",
+          "last_action": "Depo Sorgu: BUŞONEX BUŞON YUMUŞATICI 20+50ML ŞIŞE/",
           "today_date": "2026-11-16",
-          "today_searches": 0,
+          "today_searches": 2,
           "today_cart_adds": 0,
           "today_smart_orders": 2,
-          "total_searches": 91,
+          "total_searches": 93,
           "total_cart_adds": 98,
           "total_smart_orders": 88,
           "total_days_used": 12,
           "recent_actions": [
-            {
-              "t": "2026-11-14 15:44:07",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş (TRIA • 161 Kalem)"
-            },
-            {
-              "t": "2026-11-14 15:44:07",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-14 15:44:17",
               "type": "cart",
@@ -1115,6 +1105,16 @@
               "t": "2026-11-16 08:38:13",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-16 10:00:08",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-16 10:00:17",
+              "type": "search",
+              "detail": "Depo Sorgu: BUŞONEX BUŞON YUMUŞATICI 20+50ML ŞIŞE/"
             }
           ]
         },
