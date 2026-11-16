@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 14:27:05",
+  "updated_at": "2026-11-16 14:27:10",
   "count": 6,
   "items": [
     {
@@ -447,16 +447,16 @@
       "status": "AKTIF",
       "hwid": "D2E4-AA57-C021",
       "last_pc_name": "DESKTOP-1N3LQF0",
-      "app_version": "1.8.3",
-      "last_seen_at": "2026-11-16 14:26:50",
-      "last_action": "[DESKTOP-M530BBB] Depo Sorgu: FOREVER GARCINIA PLUS",
+      "app_version": "1.9.4",
+      "last_seen_at": "2026-11-16 14:27:10",
+      "last_action": "[DESKTOP-1N3LQF0] Canlı MF Taraması",
       "today_date": "2026-11-16",
       "today_searches": 20,
       "today_cart_adds": 23,
-      "today_smart_orders": 75,
+      "today_smart_orders": 81,
       "total_searches": 488,
       "total_cart_adds": 810,
-      "total_smart_orders": 724,
+      "total_smart_orders": 730,
       "total_days_used": 12,
       "pc_count": 8,
       "devices": {
@@ -1123,38 +1123,18 @@
           "pc_name": "DESKTOP-1N3LQF0",
           "desk_name": "DESKTOP-1N3LQF0",
           "local_ip": "192.168.1.123",
-          "app_version": "1.8.3",
-          "last_seen_at": "2026-11-16 14:26:50",
-          "last_action": "Program Açık (Canlı)",
+          "app_version": "1.9.4",
+          "last_seen_at": "2026-11-16 14:27:10",
+          "last_action": "Canlı MF Taraması",
           "today_date": "2026-11-16",
           "today_searches": 0,
           "today_cart_adds": 0,
-          "today_smart_orders": 0,
+          "today_smart_orders": 6,
           "total_searches": 21,
           "total_cart_adds": 0,
-          "total_smart_orders": 20,
+          "total_smart_orders": 26,
           "total_days_used": 7,
           "recent_actions": [
-            {
-              "t": "2026-11-12 13:57:22",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (30 Ürün)"
-            },
-            {
-              "t": "2026-11-12 13:57:22",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-12 13:57:44",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (16 Ürün)"
-            },
-            {
-              "t": "2026-11-12 16:42:41",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-12 16:42:41",
               "type": "mf_resolve",
@@ -1209,6 +1189,26 @@
               "t": "2026-11-12 17:33:05",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (29 Ürün)"
+            },
+            {
+              "t": "2026-11-16 14:26:57",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-16 14:26:58",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-16 14:27:05",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-16 14:27:06",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
             }
           ]
         }
