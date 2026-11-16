@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 09:48:49",
+  "updated_at": "2026-11-16 09:49:32",
   "count": 6,
   "items": [
     {
@@ -448,15 +448,15 @@
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.0",
-      "last_seen_at": "2026-11-16 09:48:11",
-      "last_action": "[DESKTOP-OTHNDUE] Canlı MF Sorgulama (35 Ürün)",
+      "last_seen_at": "2026-11-16 09:49:32",
+      "last_action": "[DESKTOP-OTHNDUE] Canlı MF Sorgulama (1 Ürün)",
       "today_date": "2026-11-16",
       "today_searches": 0,
       "today_cart_adds": 2,
-      "today_smart_orders": 20,
+      "today_smart_orders": 24,
       "total_searches": 468,
       "total_cart_adds": 789,
-      "total_smart_orders": 669,
+      "total_smart_orders": 673,
       "total_days_used": 12,
       "pc_count": 8,
       "devices": {
@@ -560,37 +560,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.0",
-          "last_seen_at": "2026-11-16 09:48:11",
-          "last_action": "Canlı MF Sorgulama (35 Ürün)",
+          "last_seen_at": "2026-11-16 09:49:32",
+          "last_action": "Canlı MF Sorgulama (1 Ürün)",
           "today_date": "2026-11-16",
           "today_searches": 0,
           "today_cart_adds": 2,
-          "today_smart_orders": 18,
+          "today_smart_orders": 22,
           "total_searches": 89,
           "total_cart_adds": 333,
-          "total_smart_orders": 296,
+          "total_smart_orders": 300,
           "total_days_used": 11,
           "recent_actions": [
-            {
-              "t": "2026-11-16 09:47:17",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (1 Ürün)"
-            },
-            {
-              "t": "2026-11-16 09:47:25",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-16 09:47:30",
-              "type": "cart",
-              "detail": "Toplu Sepet (ALLIANCE): 2 Kalem"
-            },
-            {
-              "t": "2026-11-16 09:47:33",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-16 09:47:33",
               "type": "critical_stock",
@@ -645,6 +625,26 @@
               "t": "2026-11-16 09:48:11",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (35 Ürün)"
+            },
+            {
+              "t": "2026-11-16 09:48:11",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-16 09:48:25",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (35 Ürün)"
+            },
+            {
+              "t": "2026-11-16 09:48:25",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-16 09:48:26",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (1 Ürün)"
             }
           ]
         },
