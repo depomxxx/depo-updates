@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 15:27:42",
+  "updated_at": "2026-11-16 15:27:43",
   "count": 6,
   "items": [
     {
@@ -448,14 +448,14 @@
       "hwid": "D2E4-AA57-C021",
       "last_pc_name": "DESKTOP-1N3LQF0",
       "app_version": "1.9.4",
-      "last_seen_at": "2026-11-16 15:27:14",
-      "last_action": "[DESKTOP-1N3LQF0] Depo Sorgu: KARUM 75 MG 28 FTB.",
+      "last_seen_at": "2026-11-16 15:27:43",
+      "last_action": "[DESKTOP-1N3LQF0] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-16",
       "today_searches": 28,
-      "today_cart_adds": 31,
+      "today_cart_adds": 32,
       "today_smart_orders": 94,
       "total_searches": 496,
-      "total_cart_adds": 818,
+      "total_cart_adds": 819,
       "total_smart_orders": 743,
       "total_days_used": 12,
       "pc_count": 8,
@@ -1124,22 +1124,17 @@
           "desk_name": "DESKTOP-1N3LQF0",
           "local_ip": "192.168.1.123",
           "app_version": "1.9.4",
-          "last_seen_at": "2026-11-16 15:27:14",
-          "last_action": "Depo Sorgu: KARUM 75 MG 28 FTB.",
+          "last_seen_at": "2026-11-16 15:27:43",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-16",
           "today_searches": 8,
-          "today_cart_adds": 8,
+          "today_cart_adds": 9,
           "today_smart_orders": 19,
           "total_searches": 29,
-          "total_cart_adds": 8,
+          "total_cart_adds": 9,
           "total_smart_orders": 39,
           "total_days_used": 7,
           "recent_actions": [
-            {
-              "t": "2026-11-16 14:27:54",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-16 14:28:11",
               "type": "critical_stock",
@@ -1209,6 +1204,11 @@
               "t": "2026-11-16 15:27:14",
               "type": "search",
               "detail": "Depo Sorgu: KARUM 75 MG 28 FTB."
+            },
+            {
+              "t": "2026-11-16 15:27:43",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         }
