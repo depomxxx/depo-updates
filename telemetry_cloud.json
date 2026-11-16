@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 12:51:43",
+  "updated_at": "2026-11-16 12:51:50",
   "count": 6,
   "items": [
     {
@@ -445,18 +445,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "B446-9737-94C4",
-      "last_pc_name": "DESKTOP-5PFFU5S",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.0",
-      "last_seen_at": "2026-11-16 12:51:43",
-      "last_action": "[DESKTOP-5PFFU5S] Depo Sorgu: ASACOL ENAMA 4 GR 100 ML 7 TUP",
+      "last_seen_at": "2026-11-16 12:51:50",
+      "last_action": "[DESKTOP-OTHNDUE] Toplu Sipariş Planlama",
       "today_date": "2026-11-16",
       "today_searches": 20,
-      "today_cart_adds": 20,
-      "today_smart_orders": 65,
+      "today_cart_adds": 23,
+      "today_smart_orders": 66,
       "total_searches": 488,
-      "total_cart_adds": 807,
-      "total_smart_orders": 714,
+      "total_cart_adds": 810,
+      "total_smart_orders": 715,
       "total_days_used": 12,
       "pc_count": 8,
       "devices": {
@@ -560,32 +560,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.0",
-          "last_seen_at": "2026-11-16 12:51:19",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-16 12:51:50",
+          "last_action": "Toplu Sipariş Planlama",
           "today_date": "2026-11-16",
           "today_searches": 8,
-          "today_cart_adds": 16,
-          "today_smart_orders": 48,
+          "today_cart_adds": 19,
+          "today_smart_orders": 49,
           "total_searches": 97,
-          "total_cart_adds": 347,
-          "total_smart_orders": 326,
+          "total_cart_adds": 350,
+          "total_smart_orders": 327,
           "total_days_used": 11,
           "recent_actions": [
-            {
-              "t": "2026-11-16 11:28:50",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-16 11:28:58",
-              "type": "cart",
-              "detail": "Toplu Sepet (ALLIANCE): 4 Kalem"
-            },
-            {
-              "t": "2026-11-16 11:32:49",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-16 11:32:49",
               "type": "critical_stock",
@@ -645,6 +630,21 @@
               "t": "2026-11-16 12:51:19",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-16 12:51:27",
+              "type": "cart",
+              "detail": "Toplu Sepet (ALLIANCE): 4 Kalem"
+            },
+            {
+              "t": "2026-11-16 12:51:30",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-16 12:51:50",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş Planlama"
             }
           ]
         },
