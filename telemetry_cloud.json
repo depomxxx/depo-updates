@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 10:55:19",
+  "updated_at": "2026-11-16 10:57:38",
   "count": 6,
   "items": [
     {
@@ -1605,16 +1605,16 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.9.0",
-      "last_seen_at": "2026-11-16 10:57:18",
-      "last_action": "[DESKTOP-T4EAUS3] Depo Sorgu: AUGMENTIN BID 1 GR 10 FTB.",
+      "last_seen_at": "2026-11-16 10:57:38",
+      "last_action": "[DESKTOP-T4EAUS3] Canlı MF Sorgulama (20 Ürün)",
       "today_date": "2026-11-16",
-      "today_searches": 6,
+      "today_searches": 7,
       "today_cart_adds": 2,
-      "today_smart_orders": 6,
-      "total_searches": 143,
+      "today_smart_orders": 10,
+      "total_searches": 144,
       "total_cart_adds": 573,
       "total_days_used": 10,
-      "total_smart_orders": 287,
+      "total_smart_orders": 291,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -1697,42 +1697,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.9.0",
-          "last_seen_at": "2026-11-16 10:57:18",
-          "last_action": "Depo Sorgu: AUGMENTIN BID 1 GR 10 FTB.",
+          "last_seen_at": "2026-11-16 10:57:38",
+          "last_action": "Canlı MF Sorgulama (20 Ürün)",
           "today_date": "2026-11-16",
-          "today_searches": 6,
+          "today_searches": 7,
           "today_cart_adds": 2,
-          "today_smart_orders": 6,
-          "total_searches": 71,
+          "today_smart_orders": 10,
+          "total_searches": 72,
           "total_cart_adds": 315,
-          "total_smart_orders": 218,
+          "total_smart_orders": 222,
           "total_days_used": 10,
           "recent_actions": [
-            {
-              "t": "2026-11-14 13:06:19",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-14 13:06:21",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): THERMO SULIDIN 50GR LIKIT JE x15"
-            },
-            {
-              "t": "2026-11-14 13:06:28",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-16 10:20:43",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-16 10:20:45",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-16 10:20:59",
               "type": "critical_stock",
@@ -1782,6 +1757,31 @@
               "t": "2026-11-16 10:51:15",
               "type": "search",
               "detail": "Depo Sorgu: AUGMENTIN BID 1 GR 10 FTB."
+            },
+            {
+              "t": "2026-11-16 10:57:22",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-16 10:57:22",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (BOTANIK • 26 Kalem)"
+            },
+            {
+              "t": "2026-11-16 10:57:22",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-16 10:57:35",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-16 10:57:38",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (20 Ürün)"
             }
           ]
         },
