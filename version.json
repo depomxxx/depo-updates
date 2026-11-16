@@ -1,11 +1,11 @@
 {
-  "version": "1.9.1",
+  "version": "1.9.2",
   "app_name": "Farma Radar",
-  "release_date": "2026-11-16 12:53:34",
+  "release_date": "2026-11-16 12:57:05",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.9.1.zip?t=1794822815",
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.9.2.zip?t=1794823027",
   "sha256": "",
-  "package_sha256": "534adb046eb607d2cae3672bb54b5797123b0cbdce65906e318368be45a13f60",
-  "size_kb": 878.4,
-  "changelog": "v1.9.1: Sabah ilk açılışta bloklayıcı bekleme kaldırıldı ve anında açılan karşılama ekranı eklendi. Güncelleme ve yeniden başlatma işlemlerinde 'Sayfa görüntülenemiyor' hatasını tamamen ortadan kaldıran Sıcak Sunucu Devri (Hot-Handover) ve tam ekran kesintisiz geçiş katmanı devreye alındı."
+  "package_sha256": "ea950d2529d370ab90137bfb23d6f973febcebc665534c52fb0884928c89b76b",
+  "size_kb": 878.9,
+  "changelog": "v1.9.2: Sabah ilk açılışta bloklayıcı bekleme kaldırıldı ve anında açılan karşılama ekranı eklendi. Güncelleme ve yeniden başlatma işlemlerinde 'Sayfa görüntülenemiyor' hatasını tamamen ortadan kaldıran Sıcak Sunucu Devri (Hot-Handover) ve tam ekran kesintisiz geçiş katmanı devreye alındı."
 }
