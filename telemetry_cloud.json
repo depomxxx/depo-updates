@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 11:03:45",
+  "updated_at": "2026-11-16 11:04:18",
   "count": 6,
   "items": [
     {
@@ -1228,16 +1228,16 @@
       "hwid": "2DED-CFF9-D593",
       "last_pc_name": "DESKTOP-8JN0NE5",
       "app_version": "1.9.0",
-      "last_seen_at": "2026-11-16 11:02:56",
-      "last_action": "Depo Sorgu: FERRUM 100 MG 5 ML 20 FLK.",
+      "last_seen_at": "2026-11-16 11:04:18",
+      "last_action": "Toplu Sipariş Planlama",
       "today_date": "2026-11-16",
       "today_searches": 2,
-      "today_cart_adds": 0,
-      "today_smart_orders": 6,
+      "today_cart_adds": 2,
+      "today_smart_orders": 7,
       "total_searches": 34,
-      "total_cart_adds": 83,
+      "total_cart_adds": 85,
       "total_days_used": 8,
-      "total_smart_orders": 198,
+      "total_smart_orders": 199,
       "pc_count": 1,
       "devices": {
         "2DED-CFF9-D593": {
@@ -1246,27 +1246,17 @@
           "desk_name": "DESKTOP-8JN0NE5",
           "local_ip": "192.168.1.37",
           "app_version": "1.9.0",
-          "last_seen_at": "2026-11-16 11:02:56",
-          "last_action": "Depo Sorgu: FERRUM 100 MG 5 ML 20 FLK.",
+          "last_seen_at": "2026-11-16 11:04:18",
+          "last_action": "Toplu Sipariş Planlama",
           "today_date": "2026-11-16",
           "today_searches": 2,
-          "today_cart_adds": 0,
-          "today_smart_orders": 6,
+          "today_cart_adds": 2,
+          "today_smart_orders": 7,
           "total_searches": 34,
-          "total_cart_adds": 83,
-          "total_smart_orders": 198,
+          "total_cart_adds": 85,
+          "total_smart_orders": 199,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-13 16:33:38",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (BOTANIK • 73 Kalem)"
-            },
-            {
-              "t": "2026-11-13 16:33:38",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-13 16:34:07",
               "type": "mf_resolve",
@@ -1331,6 +1321,16 @@
               "t": "2026-11-16 11:02:56",
               "type": "search",
               "detail": "Depo Sorgu: FERRUM 100 MG 5 ML 20 FLK."
+            },
+            {
+              "t": "2026-11-16 11:03:05",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-16 11:04:18",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş Planlama"
             }
           ]
         }
