@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 13:55:59",
+  "updated_at": "2026-11-16 13:56:16",
   "count": 6,
   "items": [
     {
@@ -1228,16 +1228,16 @@
       "hwid": "2DED-CFF9-D593",
       "last_pc_name": "DESKTOP-8JN0NE5",
       "app_version": "1.9.3",
-      "last_seen_at": "2026-11-16 13:55:22",
-      "last_action": "Canlı MF Sorgulama (3 Ürün)",
+      "last_seen_at": "2026-11-16 13:56:16",
+      "last_action": "Canlı MF Sorgulama (30 Ürün)",
       "today_date": "2026-11-16",
       "today_searches": 16,
       "today_cart_adds": 34,
-      "today_smart_orders": 64,
+      "today_smart_orders": 67,
       "total_searches": 48,
       "total_cart_adds": 117,
       "total_days_used": 8,
-      "total_smart_orders": 256,
+      "total_smart_orders": 259,
       "pc_count": 1,
       "devices": {
         "2DED-CFF9-D593": {
@@ -1246,32 +1246,17 @@
           "desk_name": "DESKTOP-8JN0NE5",
           "local_ip": "192.168.1.37",
           "app_version": "1.9.3",
-          "last_seen_at": "2026-11-16 13:55:22",
-          "last_action": "Canlı MF Sorgulama (3 Ürün)",
+          "last_seen_at": "2026-11-16 13:56:16",
+          "last_action": "Canlı MF Sorgulama (30 Ürün)",
           "today_date": "2026-11-16",
           "today_searches": 16,
           "today_cart_adds": 34,
-          "today_smart_orders": 64,
+          "today_smart_orders": 67,
           "total_searches": 48,
           "total_cart_adds": 117,
-          "total_smart_orders": 256,
+          "total_smart_orders": 259,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-16 11:43:11",
-              "type": "search",
-              "detail": "Depo Sorgu: ZANIPRESS 20/10 MG 90 FTB."
-            },
-            {
-              "t": "2026-11-16 11:43:34",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-16 11:43:43",
-              "type": "cart",
-              "detail": "Toplu Sepet (ALLIANCE): 3 Kalem"
-            },
             {
               "t": "2026-11-16 11:43:46",
               "type": "cart",
@@ -1331,6 +1316,21 @@
               "t": "2026-11-16 11:47:15",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (3 Ürün)"
+            },
+            {
+              "t": "2026-11-16 13:55:28",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-16 13:55:29",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-16 13:56:16",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (30 Ürün)"
             }
           ]
         }
