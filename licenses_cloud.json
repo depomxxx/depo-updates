@@ -1,8 +1,26 @@
 {
-  "updated_at": "2026-11-13 14:18:09",
-  "count": 6,
-  "signature": "5141C037BAE8B5DE5ABBAC3D05EAF67F",
+  "updated_at": "2026-11-17 12:45:45",
+  "count": 7,
+  "signature": "3A224C3364D3D35A35DE9B38AE212B1D",
   "items": [
+    {
+      "id": "C0013535",
+      "pharmacy_name": "KOÇ ECZANESİ",
+      "pharmacist_name": "BUSRAKOC37@GMAIL.COM",
+      "phone": "5309515737",
+      "city": "37",
+      "gln_no": "8680001623099",
+      "otomasyon": "TEBEOS",
+      "plan": "DENEME_30GUN",
+      "expires_at": "2026-12-17",
+      "max_pcs": 15,
+      "hwid_lock": "ANY",
+      "registered_hwid": "3FB2-2E58-20EC",
+      "status": "AKTIF",
+      "license_key": "FR-eyJlIjoiS0_DhyBFQ1pBTkVTxLAiLCJmbiI6IkJVU1JBS09DMzdAR01BSUwuQ09NIiwidGVsIjoiNTMwOTUxNTczNyIsImN0IjoiMzciLCJnIjoiODY4MDAwMTYyMzA5OSIsIngiOiIyMDI2LTEyLTE3IiwibSI6MTUsImgiOiJBTlkiLCJwIjoiREVORU1FXzMwR1VOIn0.3CBE58E3C1ED3E3B",
+      "created_at": "2026-11-17 12:45:42",
+      "updated_at": "2026-11-17 12:45:45"
+    },
     {
       "id": "F4E0EFDE",
       "pharmacy_name": "BERKAY",
