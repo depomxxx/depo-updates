@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 16:31:01",
+  "updated_at": "2026-11-17 16:31:02",
   "count": 7,
   "items": [
     {
@@ -252,7 +252,7 @@
       "pharmacist_name": "GAMZE ASLAN",
       "phone": "05344064108",
       "city": "SAMSUN/ATAKUM",
-      "gln_no": "8680001134861",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "PRO_YILLIK",
       "expires_at": "2027-10-24",
@@ -264,10 +264,10 @@
       "last_action": "[DESKTOP-6KFO8IF] Canlı MF Sorgulama (5 Ürün)",
       "today_date": "2026-11-17",
       "today_searches": 47,
-      "today_cart_adds": 65,
+      "today_cart_adds": 69,
       "today_smart_orders": 149,
       "total_searches": 269,
-      "total_cart_adds": 548,
+      "total_cart_adds": 552,
       "total_smart_orders": 785,
       "total_days_used": 12,
       "pc_count": 3,
@@ -466,27 +466,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.9",
-          "last_seen_at": "2026-11-17 16:29:21",
-          "last_action": "Toplu Sepet (SELCUK): 1 Kalem",
+          "last_seen_at": "2026-11-17 16:31:00",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-17",
           "today_searches": 30,
-          "today_cart_adds": 38,
+          "today_cart_adds": 42,
           "today_smart_orders": 77,
           "total_searches": 127,
-          "total_cart_adds": 388,
+          "total_cart_adds": 392,
           "total_smart_orders": 413,
           "total_days_used": 12,
           "recent_actions": [
-            {
-              "t": "2026-11-17 16:23:58",
-              "type": "search",
-              "detail": "Depo Sorgu: VENTOLIN NEB 2.5 MG 2.5 ML20 F"
-            },
-            {
-              "t": "2026-11-17 16:24:21",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-17 16:24:36",
               "type": "search",
@@ -551,6 +541,16 @@
               "t": "2026-11-17 16:26:58",
               "type": "cart",
               "detail": "Toplu Sepet (SELCUK): 1 Kalem"
+            },
+            {
+              "t": "2026-11-17 16:29:31",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-17 16:30:12",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         }
