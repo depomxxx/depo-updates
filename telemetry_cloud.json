@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 16:31:53",
+  "updated_at": "2026-11-17 16:32:10",
   "count": 7,
   "items": [
     {
@@ -570,15 +570,15 @@
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.9",
-      "last_seen_at": "2026-11-17 16:31:51",
-      "last_action": "[DESKTOP-OTHNDUE] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-17 16:32:10",
+      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları Yenileme (TRIA • 59 Kalem)",
       "today_date": "2026-11-17",
       "today_searches": 74,
       "today_cart_adds": 64,
-      "today_smart_orders": 131,
+      "today_smart_orders": 133,
       "total_searches": 586,
       "total_cart_adds": 900,
-      "total_smart_orders": 912,
+      "total_smart_orders": 914,
       "total_days_used": 12,
       "pc_count": 8,
       "devices": {
@@ -682,27 +682,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.9",
-          "last_seen_at": "2026-11-17 16:31:51",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-17 16:32:10",
+          "last_action": "Günün Çıkışları Yenileme (TRIA • 59 Kalem)",
           "today_date": "2026-11-17",
           "today_searches": 30,
           "today_cart_adds": 42,
-          "today_smart_orders": 77,
+          "today_smart_orders": 79,
           "total_searches": 127,
           "total_cart_adds": 392,
-          "total_smart_orders": 413,
+          "total_smart_orders": 415,
           "total_days_used": 12,
           "recent_actions": [
-            {
-              "t": "2026-11-17 16:24:36",
-              "type": "search",
-              "detail": "Depo Sorgu: BELOC ZOK 50 MG 20 FTB."
-            },
-            {
-              "t": "2026-11-17 16:24:50",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-17 16:24:54",
               "type": "search",
@@ -767,6 +757,16 @@
               "t": "2026-11-17 16:30:12",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-17 16:32:07",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-17 16:32:10",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 59 Kalem)"
             }
           ]
         },
