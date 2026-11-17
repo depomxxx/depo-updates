@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 13:49:32",
+  "updated_at": "2026-11-17 13:49:42",
   "count": 7,
   "items": [
     {
@@ -257,18 +257,18 @@
       "plan": "PRO_YILLIK",
       "expires_at": "2027-10-24",
       "status": "AKTIF",
-      "hwid": "E6B1-5698-273E",
-      "last_pc_name": "DESKTOP-6KFO8IF",
+      "hwid": "E4F7-229A-BABD",
+      "last_pc_name": "ChagriBeg",
       "app_version": "1.9.8",
-      "last_seen_at": "2026-11-17 13:49:23",
-      "last_action": "[DESKTOP-6KFO8IF] Canlı MF Taraması",
+      "last_seen_at": "2026-11-17 13:49:42",
+      "last_action": "[ChagriBeg] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-17",
       "today_searches": 26,
       "today_cart_adds": 32,
-      "today_smart_orders": 84,
+      "today_smart_orders": 85,
       "total_searches": 248,
       "total_cart_adds": 515,
-      "total_smart_orders": 720,
+      "total_smart_orders": 721,
       "total_days_used": 12,
       "pc_count": 3,
       "devices": {
@@ -278,22 +278,17 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.9.8",
-          "last_seen_at": "2026-11-17 13:49:22",
+          "last_seen_at": "2026-11-17 13:49:42",
           "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-17",
           "today_searches": 4,
           "today_cart_adds": 0,
-          "today_smart_orders": 11,
+          "today_smart_orders": 12,
           "total_searches": 99,
           "total_cart_adds": 63,
-          "total_smart_orders": 220,
+          "total_smart_orders": 221,
           "total_days_used": 11,
           "recent_actions": [
-            {
-              "t": "2026-11-14 17:59:02",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-14 17:59:05",
               "type": "search",
@@ -361,6 +356,11 @@
             },
             {
               "t": "2026-11-17 13:21:42",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-17 13:49:42",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
             }
