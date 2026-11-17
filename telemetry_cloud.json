@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 13:57:55",
+  "updated_at": "2026-11-17 13:58:36",
   "count": 7,
   "items": [
     {
@@ -138,15 +138,15 @@
       "hwid": "3C0F-6FF9-862F",
       "last_pc_name": "Berkay",
       "app_version": "1.9.8",
-      "last_seen_at": "2026-11-17 13:57:53",
-      "last_action": "Canlı MF Sorgulama (33 Ürün)",
+      "last_seen_at": "2026-11-17 13:58:36",
+      "last_action": "Toplu Sipariş Planlama",
       "today_date": "2026-11-17",
       "today_searches": 6,
       "today_cart_adds": 1,
-      "today_smart_orders": 56,
+      "today_smart_orders": 57,
       "total_searches": 55,
       "total_cart_adds": 124,
-      "total_smart_orders": 225,
+      "total_smart_orders": 226,
       "total_days_used": 3,
       "pc_count": 1,
       "devices": {
@@ -156,22 +156,17 @@
           "desk_name": "Berkay",
           "local_ip": "192.168.1.103",
           "app_version": "1.9.8",
-          "last_seen_at": "2026-11-17 13:57:53",
-          "last_action": "Canlı MF Sorgulama (33 Ürün)",
+          "last_seen_at": "2026-11-17 13:58:36",
+          "last_action": "Toplu Sipariş Planlama",
           "today_date": "2026-11-17",
           "today_searches": 6,
           "today_cart_adds": 1,
-          "today_smart_orders": 56,
+          "today_smart_orders": 57,
           "total_searches": 55,
           "total_cart_adds": 124,
-          "total_smart_orders": 225,
+          "total_smart_orders": 226,
           "total_days_used": 3,
           "recent_actions": [
-            {
-              "t": "2026-11-17 13:49:57",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (3 Ürün)"
-            },
             {
               "t": "2026-11-17 13:50:00",
               "type": "smart_order",
@@ -241,6 +236,11 @@
               "t": "2026-11-17 13:52:10",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (33 Ürün)"
+            },
+            {
+              "t": "2026-11-17 13:58:36",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş Planlama"
             }
           ]
         }
