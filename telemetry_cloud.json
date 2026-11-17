@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 10:50:48",
+  "updated_at": "2026-11-17 10:51:07",
   "count": 6,
   "items": [
     {
@@ -445,18 +445,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D2E4-AA57-C021",
-      "last_pc_name": "DESKTOP-1N3LQF0",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.5",
-      "last_seen_at": "2026-11-17 10:50:48",
-      "last_action": "[DESKTOP-1N3LQF0] Depo Fiyat Sorgulama",
+      "last_seen_at": "2026-11-17 10:51:07",
+      "last_action": "[DESKTOP-OTHNDUE] Canlı MF Sorgulama (7 Ürün)",
       "today_date": "2026-11-17",
       "today_searches": 33,
       "today_cart_adds": 16,
-      "today_smart_orders": 21,
+      "today_smart_orders": 26,
       "total_searches": 545,
       "total_cart_adds": 852,
-      "total_smart_orders": 802,
+      "total_smart_orders": 807,
       "total_days_used": 12,
       "pc_count": 8,
       "devices": {
@@ -560,42 +560,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.5",
-          "last_seen_at": "2026-11-17 10:50:47",
-          "last_action": "Program Açık (Canlı)",
+          "last_seen_at": "2026-11-17 10:51:07",
+          "last_action": "Canlı MF Sorgulama (7 Ürün)",
           "today_date": "2026-11-17",
           "today_searches": 0,
           "today_cart_adds": 0,
-          "today_smart_orders": 0,
+          "today_smart_orders": 5,
           "total_searches": 97,
           "total_cart_adds": 350,
-          "total_smart_orders": 336,
+          "total_smart_orders": 341,
           "total_days_used": 12,
           "recent_actions": [
-            {
-              "t": "2026-11-16 12:50:51",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-16 12:50:56",
-              "type": "search",
-              "detail": "Depo Sorgu: ESOM 40 MG 28 CAP."
-            },
-            {
-              "t": "2026-11-16 12:51:19",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-16 12:51:27",
-              "type": "cart",
-              "detail": "Toplu Sepet (ALLIANCE): 4 Kalem"
-            },
-            {
-              "t": "2026-11-16 12:51:30",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-16 12:51:50",
               "type": "smart_order",
@@ -645,6 +620,31 @@
               "t": "2026-11-16 12:52:22",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (30 Ürün)"
+            },
+            {
+              "t": "2026-11-17 10:50:53",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-17 10:50:53",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-17 10:50:56",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-17 10:50:56",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-17 10:51:07",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (7 Ürün)"
             }
           ]
         },
