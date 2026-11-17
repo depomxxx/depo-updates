@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 12:50:30",
+  "updated_at": "2026-11-17 12:50:55",
   "count": 7,
   "items": [
     {
@@ -9,15 +9,15 @@
       "phone": "5309515737",
       "city": "KASTAMONU/MERKEZ",
       "gln_no": "8680001623099",
-      "otomasyon": "BOTANIK",
+      "otomasyon": "TEBEOS",
       "plan": "DENEME_30GUN",
       "expires_at": "2026-12-17",
       "status": "AKTIF",
       "hwid": "3FB2-2E58-20EC",
       "last_pc_name": "LAPTOP-NTJEFOD2",
       "app_version": "1.9.5",
-      "last_seen_at": "2026-11-17 12:49:48",
-      "last_action": "30 Gün Deneme Kaydı Yapıldı",
+      "last_seen_at": "2026-11-17 12:50:55",
+      "last_action": "Lisans Anahtarı Etkinleştirildi",
       "today_date": "2026-11-17",
       "today_searches": 0,
       "today_cart_adds": 0,
@@ -34,8 +34,8 @@
           "desk_name": "LAPTOP-NTJEFOD2",
           "local_ip": "192.168.1.53",
           "app_version": "1.9.5",
-          "last_seen_at": "2026-11-17 12:49:48",
-          "last_action": "30 Gün Deneme Kaydı Yapıldı",
+          "last_seen_at": "2026-11-17 12:50:55",
+          "last_action": "Lisans Anahtarı Etkinleştirildi",
           "today_date": "2026-11-17",
           "today_searches": 0,
           "today_cart_adds": 0,
@@ -49,6 +49,11 @@
               "t": "2026-11-17 12:45:51",
               "type": "registration",
               "detail": "30 Gün Deneme Kaydı Yapıldı"
+            },
+            {
+              "t": "2026-11-17 12:49:48",
+              "type": "activation",
+              "detail": "Lisans Anahtarı Etkinleştirildi"
             }
           ]
         }
