@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 16:26:29",
+  "updated_at": "2026-11-17 16:26:31",
   "count": 7,
   "items": [
     {
@@ -570,14 +570,14 @@
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.9",
-      "last_seen_at": "2026-11-17 16:25:47",
-      "last_action": "[DESKTOP-OTHNDUE] Depo Fiyat Sorgulama",
+      "last_seen_at": "2026-11-17 16:26:31",
+      "last_action": "[DESKTOP-OTHNDUE] Toplu Sepet (ALLIANCE): 17 Kalem",
       "today_date": "2026-11-17",
-      "today_searches": 73,
-      "today_cart_adds": 56,
+      "today_searches": 74,
+      "today_cart_adds": 58,
       "today_smart_orders": 131,
-      "total_searches": 585,
-      "total_cart_adds": 892,
+      "total_searches": 586,
+      "total_cart_adds": 894,
       "total_smart_orders": 912,
       "total_days_used": 12,
       "pc_count": 8,
@@ -682,32 +682,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.9",
-          "last_seen_at": "2026-11-17 16:25:47",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-17 16:26:31",
+          "last_action": "Toplu Sepet (ALLIANCE): 17 Kalem",
           "today_date": "2026-11-17",
-          "today_searches": 29,
-          "today_cart_adds": 34,
+          "today_searches": 30,
+          "today_cart_adds": 36,
           "today_smart_orders": 77,
-          "total_searches": 126,
-          "total_cart_adds": 384,
+          "total_searches": 127,
+          "total_cart_adds": 386,
           "total_smart_orders": 413,
           "total_days_used": 12,
           "recent_actions": [
-            {
-              "t": "2026-11-17 16:23:21",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-17 16:23:24",
-              "type": "search",
-              "detail": "Depo Sorgu: BENZOXIN %5+1 25 GR JEL"
-            },
-            {
-              "t": "2026-11-17 16:23:35",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-17 16:23:37",
               "type": "cart",
@@ -767,6 +752,21 @@
               "t": "2026-11-17 16:25:47",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-17 16:25:50",
+              "type": "search",
+              "detail": "Depo Sorgu: ABILIFY 30 MG 28 TB."
+            },
+            {
+              "t": "2026-11-17 16:26:04",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-17 16:26:31",
+              "type": "cart",
+              "detail": "Toplu Sepet (ALLIANCE): 17 Kalem"
             }
           ]
         },
@@ -964,7 +964,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.9",
-          "last_seen_at": "2026-11-17 16:25:25",
+          "last_seen_at": "2026-11-17 16:26:30",
           "last_action": "Canlı MF Sorgulama (5 Ürün)",
           "today_date": "2026-11-17",
           "today_searches": 8,
