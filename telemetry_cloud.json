@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 11:46:22",
+  "updated_at": "2026-11-17 11:46:33",
   "count": 6,
   "items": [
     {
@@ -445,18 +445,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D2E4-AA57-C021",
-      "last_pc_name": "DESKTOP-1N3LQF0",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.5",
-      "last_seen_at": "2026-11-17 11:46:22",
-      "last_action": "[DESKTOP-1N3LQF0] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-17 11:46:33",
+      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-17",
       "today_searches": 48,
       "today_cart_adds": 30,
-      "today_smart_orders": 34,
+      "today_smart_orders": 38,
       "total_searches": 560,
       "total_cart_adds": 866,
-      "total_smart_orders": 815,
+      "total_smart_orders": 819,
       "total_days_used": 12,
       "pc_count": 8,
       "devices": {
@@ -560,37 +560,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.5",
-          "last_seen_at": "2026-11-17 11:45:40",
+          "last_seen_at": "2026-11-17 11:46:33",
           "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-17",
           "today_searches": 4,
           "today_cart_adds": 8,
-          "today_smart_orders": 13,
+          "today_smart_orders": 17,
           "total_searches": 101,
           "total_cart_adds": 358,
-          "total_smart_orders": 349,
+          "total_smart_orders": 353,
           "total_days_used": 12,
           "recent_actions": [
-            {
-              "t": "2026-11-17 11:16:03",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-17 11:16:04",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (4 Ürün)"
-            },
-            {
-              "t": "2026-11-17 11:16:13",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-17 11:16:16",
-              "type": "search",
-              "detail": "Depo Sorgu: VENTOPIUM PLUS 2.5/0.5 MG 2.5"
-            },
             {
               "t": "2026-11-17 11:16:47",
               "type": "search",
@@ -643,6 +623,26 @@
             },
             {
               "t": "2026-11-17 11:45:40",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-17 11:45:41",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 13 Kalem)"
+            },
+            {
+              "t": "2026-11-17 11:45:41",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-17 11:45:44",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (7 Ürün)"
+            },
+            {
+              "t": "2026-11-17 11:46:33",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
             }
@@ -842,7 +842,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.5",
-          "last_seen_at": "2026-11-17 11:45:23",
+          "last_seen_at": "2026-11-17 11:46:23",
           "last_action": "Depo Sorgu: LUSTRAL SPECIAL 100 MG 28 TB.",
           "today_date": "2026-11-17",
           "today_searches": 8,
