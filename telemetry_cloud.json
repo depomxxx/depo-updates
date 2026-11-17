@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 14:56:31",
+  "updated_at": "2026-11-17 14:57:01",
   "count": 7,
   "items": [
     {
@@ -1350,16 +1350,16 @@
       "hwid": "2DED-CFF9-D593",
       "last_pc_name": "DESKTOP-8JN0NE5",
       "app_version": "1.9.9",
-      "last_seen_at": "2026-11-17 14:56:12",
-      "last_action": "Depo Fiyat Sorgulama",
+      "last_seen_at": "2026-11-17 14:57:01",
+      "last_action": "Canlı MF Sorgulama (30 Ürün)",
       "today_date": "2026-11-17",
-      "today_searches": 1,
+      "today_searches": 2,
       "today_cart_adds": 0,
-      "today_smart_orders": 4,
-      "total_searches": 49,
+      "today_smart_orders": 5,
+      "total_searches": 50,
       "total_cart_adds": 140,
       "total_days_used": 9,
-      "total_smart_orders": 294,
+      "total_smart_orders": 295,
       "pc_count": 1,
       "devices": {
         "2DED-CFF9-D593": {
@@ -1368,27 +1368,17 @@
           "desk_name": "DESKTOP-8JN0NE5",
           "local_ip": "192.168.1.37",
           "app_version": "1.9.9",
-          "last_seen_at": "2026-11-17 14:56:12",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-17 14:57:01",
+          "last_action": "Canlı MF Sorgulama (30 Ürün)",
           "today_date": "2026-11-17",
-          "today_searches": 1,
+          "today_searches": 2,
           "today_cart_adds": 0,
-          "today_smart_orders": 4,
-          "total_searches": 49,
+          "today_smart_orders": 5,
+          "total_searches": 50,
           "total_cart_adds": 140,
-          "total_smart_orders": 294,
+          "total_smart_orders": 295,
           "total_days_used": 9,
           "recent_actions": [
-            {
-              "t": "2026-11-16 17:59:39",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-16 17:59:44",
-              "type": "cart",
-              "detail": "Toplu Sepet (ALLIANCE): 1 Kalem"
-            },
             {
               "t": "2026-11-16 17:59:52",
               "type": "cart",
@@ -1453,6 +1443,16 @@
               "t": "2026-11-17 14:56:12",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-17 14:56:24",
+              "type": "search",
+              "detail": "Depo Sorgu: BENEXOL B12 250/250/1 MG 30 FT"
+            },
+            {
+              "t": "2026-11-17 14:57:01",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (30 Ürün)"
             }
           ]
         }
