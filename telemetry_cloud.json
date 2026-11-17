@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 13:23:17",
+  "updated_at": "2026-11-17 13:23:44",
   "count": 7,
   "items": [
     {
@@ -16,15 +16,15 @@
       "hwid": "3FB2-2E58-20EC",
       "last_pc_name": "LAPTOP-NTJEFOD2",
       "app_version": "1.9.7",
-      "last_seen_at": "2026-11-17 13:23:17",
-      "last_action": "Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-17 13:23:44",
+      "last_action": "Canlı MF Taraması",
       "today_date": "2026-11-17",
       "today_searches": 37,
       "today_cart_adds": 10,
-      "today_smart_orders": 51,
+      "today_smart_orders": 53,
       "total_searches": 37,
       "total_cart_adds": 10,
-      "total_smart_orders": 51,
+      "total_smart_orders": 53,
       "total_days_used": 1,
       "pc_count": 1,
       "devices": {
@@ -34,27 +34,17 @@
           "desk_name": "LAPTOP-NTJEFOD2",
           "local_ip": "192.168.1.53",
           "app_version": "1.9.7",
-          "last_seen_at": "2026-11-17 13:23:17",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-17 13:23:44",
+          "last_action": "Canlı MF Taraması",
           "today_date": "2026-11-17",
           "today_searches": 37,
           "today_cart_adds": 10,
-          "today_smart_orders": 51,
+          "today_smart_orders": 53,
           "total_searches": 37,
           "total_cart_adds": 10,
-          "total_smart_orders": 51,
+          "total_smart_orders": 53,
           "total_days_used": 1,
           "recent_actions": [
-            {
-              "t": "2026-11-17 13:18:01",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-17 13:18:07",
-              "type": "cart",
-              "detail": "Toplu Sepet (ISKOOP): 1 Kalem"
-            },
             {
               "t": "2026-11-17 13:18:09",
               "type": "cart",
@@ -119,6 +109,16 @@
               "t": "2026-11-17 13:22:57",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-17 13:23:27",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-17 13:23:44",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
             }
           ]
         }
