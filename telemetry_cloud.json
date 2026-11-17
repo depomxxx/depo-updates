@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 12:42:33",
+  "updated_at": "2026-11-17 12:42:35",
   "count": 6,
   "items": [
     {
@@ -445,17 +445,17 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D2E4-AA57-C021",
-      "last_pc_name": "DESKTOP-1N3LQF0",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.5",
-      "last_seen_at": "2026-11-17 12:42:33",
-      "last_action": "[DESKTOP-1N3LQF0] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-17 12:42:35",
+      "last_action": "[DESKTOP-OTHNDUE] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-17",
-      "today_searches": 55,
-      "today_cart_adds": 32,
+      "today_searches": 56,
+      "today_cart_adds": 38,
       "today_smart_orders": 55,
-      "total_searches": 567,
-      "total_cart_adds": 868,
+      "total_searches": 568,
+      "total_cart_adds": 874,
       "total_smart_orders": 836,
       "total_days_used": 12,
       "pc_count": 8,
@@ -560,47 +560,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.5",
-          "last_seen_at": "2026-11-17 12:42:16",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-17 12:42:35",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-17",
-          "today_searches": 11,
-          "today_cart_adds": 10,
+          "today_searches": 12,
+          "today_cart_adds": 16,
           "today_smart_orders": 34,
-          "total_searches": 108,
-          "total_cart_adds": 360,
+          "total_searches": 109,
+          "total_cart_adds": 366,
           "total_smart_orders": 370,
           "total_days_used": 12,
           "recent_actions": [
-            {
-              "t": "2026-11-17 11:51:46",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-17 11:51:48",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (2 Ürün)"
-            },
-            {
-              "t": "2026-11-17 11:52:08",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-17 11:52:09",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): FERRUM HAUSMANN ORAL ÇÖZELTİ x1"
-            },
-            {
-              "t": "2026-11-17 12:38:57",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-17 12:38:57",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 19 Kalem)"
-            },
             {
               "t": "2026-11-17 12:38:57",
               "type": "mf_resolve",
@@ -645,6 +615,36 @@
               "t": "2026-11-17 12:42:16",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-17 12:42:19",
+              "type": "search",
+              "detail": "Depo Sorgu: IPRALEV 20/50 MCG 200 DOZ INH."
+            },
+            {
+              "t": "2026-11-17 12:42:24",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-17 12:42:29",
+              "type": "cart",
+              "detail": "Toplu Sepet (ALLIANCE): 3 Kalem"
+            },
+            {
+              "t": "2026-11-17 12:42:32",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-17 12:42:32",
+              "type": "cart",
+              "detail": "Toplu Sepet (SELCUK): 1 Kalem"
+            },
+            {
+              "t": "2026-11-17 12:42:34",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
@@ -842,7 +842,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.5",
-          "last_seen_at": "2026-11-17 12:41:23",
+          "last_seen_at": "2026-11-17 12:42:23",
           "last_action": "Depo Sorgu: LUSTRAL SPECIAL 100 MG 28 TB.",
           "today_date": "2026-11-17",
           "today_searches": 8,
