@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 17:23:37",
+  "updated_at": "2026-11-17 17:21:39",
   "count": 7,
   "items": [
     {
@@ -570,15 +570,15 @@
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.9",
-      "last_seen_at": "2026-11-17 17:21:19",
+      "last_seen_at": "2026-11-17 17:21:39",
       "last_action": "[DESKTOP-OTHNDUE] Depo Fiyat Sorgulama",
       "today_date": "2026-11-17",
-      "today_searches": 77,
-      "today_cart_adds": 73,
-      "today_smart_orders": 154,
-      "total_searches": 589,
-      "total_cart_adds": 909,
-      "total_smart_orders": 935,
+      "today_searches": 79,
+      "today_cart_adds": 75,
+      "today_smart_orders": 155,
+      "total_searches": 591,
+      "total_cart_adds": 911,
+      "total_smart_orders": 936,
       "total_days_used": 12,
       "pc_count": 8,
       "devices": {
@@ -682,42 +682,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.9",
-          "last_seen_at": "2026-11-17 17:21:19",
+          "last_seen_at": "2026-11-17 17:21:39",
           "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-17",
-          "today_searches": 33,
-          "today_cart_adds": 51,
-          "today_smart_orders": 100,
-          "total_searches": 130,
-          "total_cart_adds": 401,
-          "total_smart_orders": 436,
+          "today_searches": 35,
+          "today_cart_adds": 53,
+          "today_smart_orders": 101,
+          "total_searches": 132,
+          "total_cart_adds": 403,
+          "total_smart_orders": 437,
           "total_days_used": 12,
           "recent_actions": [
-            {
-              "t": "2026-11-17 16:55:30",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-17 16:55:41",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-17 16:55:42",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (14 Ürün)"
-            },
-            {
-              "t": "2026-11-17 16:55:49",
-              "type": "cart",
-              "detail": "Toplu Sepet (ALLIANCE): 4 Kalem"
-            },
-            {
-              "t": "2026-11-17 16:56:07",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-17 16:59:51",
               "type": "critical_stock",
@@ -765,6 +740,31 @@
             },
             {
               "t": "2026-11-17 17:21:19",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-17 17:21:20",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (8 Ürün)"
+            },
+            {
+              "t": "2026-11-17 17:21:23",
+              "type": "search",
+              "detail": "Depo Sorgu: ELFENOR %5 50 GR JEL"
+            },
+            {
+              "t": "2026-11-17 17:21:35",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-17 17:21:36",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): ELFENOR JEL %5 50G TÜP/KUTU x1"
+            },
+            {
+              "t": "2026-11-17 17:21:39",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
             }
@@ -964,7 +964,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.9",
-          "last_seen_at": "2026-11-17 17:21:03",
+          "last_seen_at": "2026-11-17 17:21:23",
           "last_action": "Canlı MF Sorgulama (5 Ürün)",
           "today_date": "2026-11-17",
           "today_searches": 8,
