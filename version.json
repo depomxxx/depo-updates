@@ -1,11 +1,11 @@
 {
-  "version": "1.9.6",
+  "version": "1.9.7",
   "app_name": "Farma Radar",
-  "release_date": "2026-11-17 13:00:20",
+  "release_date": "2026-11-17 13:20:55",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.9.6.zip?t=1794909622",
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.9.7.zip?t=1794910856",
   "sha256": "",
-  "package_sha256": "e98c353026121fee58bb6740aaa7ceed92826b8a0c4fa930f3986b93ea585e2c",
-  "size_kb": 884.4,
-  "changelog": "v1.9.6: Yeni kurulan bilgisayarlarda ek tarayıcı motoru indirmeye gerek kalmadan sistemdeki Chrome/Edge üzerinden tüm ecza depolarına (Selçuk, Alliance, Nevzat, İSKOOP vb.) anında bağlanma desteği eklendi."
+  "package_sha256": "18b8259755f8c3fa308e44787305405b01f26e7df9a5e5cc656892436388ad30",
+  "size_kb": 887.4,
+  "changelog": "v1.9.7: Nevzat HTTP (Chrome) engeli kaldırıldı; TEBEOS büyük veritabanı ping zaman aşımı (timed out) giderildi; İSKOOP/Alliance/Selçuk/Nevzat oturum düşmelerinde otomatik anında yeniden giriş ve ilk açılış hızlandırması eklendi."
 }
