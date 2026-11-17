@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 14:37:24",
+  "updated_at": "2026-11-17 14:37:25",
   "count": 7,
   "items": [
     {
@@ -252,7 +252,7 @@
       "pharmacist_name": "GAMZE ASLAN",
       "phone": "05344064108",
       "city": "SAMSUN/ATAKUM",
-      "gln_no": "8680001000000",
+      "gln_no": "8680001134861",
       "otomasyon": "TRIA",
       "plan": "PRO_YILLIK",
       "expires_at": "2027-10-24",
@@ -260,15 +260,15 @@
       "hwid": "E6B1-5698-273E",
       "last_pc_name": "DESKTOP-6KFO8IF",
       "app_version": "1.9.9",
-      "last_seen_at": "2026-11-17 14:37:23",
+      "last_seen_at": "2026-11-17 14:37:25",
       "last_action": "[DESKTOP-6KFO8IF] Canlı MF Sorgulama (4 Ürün)",
       "today_date": "2026-11-17",
       "today_searches": 28,
       "today_cart_adds": 40,
-      "today_smart_orders": 117,
+      "today_smart_orders": 118,
       "total_searches": 250,
       "total_cart_adds": 523,
-      "total_smart_orders": 753,
+      "total_smart_orders": 754,
       "total_days_used": 12,
       "pc_count": 3,
       "devices": {
@@ -278,22 +278,17 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.9.9",
-          "last_seen_at": "2026-11-17 14:37:06",
-          "last_action": "Canlı MF Sorgulama (16 Ürün)",
+          "last_seen_at": "2026-11-17 14:37:25",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-17",
           "today_searches": 6,
           "today_cart_adds": 4,
-          "today_smart_orders": 28,
+          "today_smart_orders": 29,
           "total_searches": 101,
           "total_cart_adds": 67,
-          "total_smart_orders": 237,
+          "total_smart_orders": 238,
           "total_days_used": 11,
           "recent_actions": [
-            {
-              "t": "2026-11-17 13:57:58",
-              "type": "search",
-              "detail": "Depo Sorgu: MATOFIN XR 500 MG 100 TB."
-            },
             {
               "t": "2026-11-17 13:59:19",
               "type": "smart_order",
@@ -363,6 +358,11 @@
               "t": "2026-11-17 14:28:27",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (16 Ürün)"
+            },
+            {
+              "t": "2026-11-17 14:37:25",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         },
@@ -372,7 +372,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.9",
-          "last_seen_at": "2026-11-17 14:37:23",
+          "last_seen_at": "2026-11-17 14:37:25",
           "last_action": "Canlı MF Sorgulama (4 Ürün)",
           "today_date": "2026-11-17",
           "today_searches": 8,
