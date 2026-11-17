@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 13:17:55",
+  "updated_at": "2026-11-17 13:18:01",
   "count": 7,
   "items": [
     {
@@ -16,14 +16,14 @@
       "hwid": "3FB2-2E58-20EC",
       "last_pc_name": "LAPTOP-NTJEFOD2",
       "app_version": "1.9.6",
-      "last_seen_at": "2026-11-17 13:17:01",
-      "last_action": "Depo Fiyat Sorgulama",
+      "last_seen_at": "2026-11-17 13:18:01",
+      "last_action": "Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-17",
-      "today_searches": 34,
-      "today_cart_adds": 4,
+      "today_searches": 35,
+      "today_cart_adds": 6,
       "today_smart_orders": 43,
-      "total_searches": 34,
-      "total_cart_adds": 4,
+      "total_searches": 35,
+      "total_cart_adds": 6,
       "total_smart_orders": 43,
       "total_days_used": 1,
       "pc_count": 1,
@@ -34,32 +34,17 @@
           "desk_name": "LAPTOP-NTJEFOD2",
           "local_ip": "192.168.1.53",
           "app_version": "1.9.6",
-          "last_seen_at": "2026-11-17 13:17:01",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-17 13:18:01",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-17",
-          "today_searches": 34,
-          "today_cart_adds": 4,
+          "today_searches": 35,
+          "today_cart_adds": 6,
           "today_smart_orders": 43,
-          "total_searches": 34,
-          "total_cart_adds": 4,
+          "total_searches": 35,
+          "total_cart_adds": 6,
           "total_smart_orders": 43,
           "total_days_used": 1,
           "recent_actions": [
-            {
-              "t": "2026-11-17 13:11:26",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (15 Ürün)"
-            },
-            {
-              "t": "2026-11-17 13:14:18",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-17 13:14:23",
-              "type": "search",
-              "detail": "Depo Sorgu: KLAMOKS BID 400 MG 100 ML SUSP"
-            },
             {
               "t": "2026-11-17 13:14:43",
               "type": "search",
@@ -119,6 +104,21 @@
               "t": "2026-11-17 13:17:01",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-17 13:17:03",
+              "type": "search",
+              "detail": "Depo Sorgu: BERAVIT 100 ML SRP."
+            },
+            {
+              "t": "2026-11-17 13:17:16",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-17 13:18:01",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         }
