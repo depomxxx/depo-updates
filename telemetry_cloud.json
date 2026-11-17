@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 13:01:13",
+  "updated_at": "2026-11-17 13:01:21",
   "count": 7,
   "items": [
     {
@@ -252,23 +252,23 @@
       "pharmacist_name": "GAMZE ASLAN",
       "phone": "05344064108",
       "city": "SAMSUN/ATAKUM",
-      "gln_no": "8680001134861",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "PRO_YILLIK",
       "expires_at": "2027-10-24",
       "status": "AKTIF",
-      "hwid": "E4F7-229A-BABD",
-      "last_pc_name": "ChagriBeg",
+      "hwid": "E6B1-5698-273E",
+      "last_pc_name": "DESKTOP-6KFO8IF",
       "app_version": "1.9.6",
-      "last_seen_at": "2026-11-17 13:01:00",
-      "last_action": "[ChagriBeg] Canlı MF Sorgulama (21 Ürün)",
+      "last_seen_at": "2026-11-17 13:01:21",
+      "last_action": "[DESKTOP-6KFO8IF] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-17",
       "today_searches": 24,
       "today_cart_adds": 24,
-      "today_smart_orders": 63,
+      "today_smart_orders": 67,
       "total_searches": 246,
       "total_cart_adds": 507,
-      "total_smart_orders": 699,
+      "total_smart_orders": 703,
       "total_days_used": 12,
       "pc_count": 3,
       "devices": {
@@ -278,7 +278,7 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.9.6",
-          "last_seen_at": "2026-11-17 13:01:00",
+          "last_seen_at": "2026-11-17 13:01:08",
           "last_action": "Canlı MF Sorgulama (21 Ürün)",
           "today_date": "2026-11-17",
           "today_searches": 4,
@@ -372,22 +372,17 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.6",
-          "last_seen_at": "2026-11-17 13:00:38",
-          "last_action": "Depo Sorgu: LUSTRAL SPECIAL 100 MG 28 TB.",
+          "last_seen_at": "2026-11-17 13:01:21",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-17",
           "today_searches": 8,
           "today_cart_adds": 6,
-          "today_smart_orders": 15,
+          "today_smart_orders": 16,
           "total_searches": 38,
           "total_cart_adds": 76,
-          "total_smart_orders": 106,
+          "total_smart_orders": 107,
           "total_days_used": 11,
           "recent_actions": [
-            {
-              "t": "2026-11-17 10:37:41",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-17 10:37:45",
               "type": "mf_resolve",
@@ -457,6 +452,11 @@
               "t": "2026-11-17 10:40:21",
               "type": "search",
               "detail": "Depo Sorgu: LUSTRAL SPECIAL 100 MG 28 TB."
+            },
+            {
+              "t": "2026-11-17 13:01:21",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         },
@@ -466,32 +466,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.6",
-          "last_seen_at": "2026-11-17 13:00:36",
-          "last_action": "Günün Çıkışları Yenileme (TRIA • 19 Kalem)",
+          "last_seen_at": "2026-11-17 13:01:14",
+          "last_action": "Canlı MF Sorgulama (4 Ürün)",
           "today_date": "2026-11-17",
           "today_searches": 12,
           "today_cart_adds": 18,
-          "today_smart_orders": 38,
+          "today_smart_orders": 41,
           "total_searches": 109,
           "total_cart_adds": 368,
-          "total_smart_orders": 374,
+          "total_smart_orders": 377,
           "total_days_used": 12,
           "recent_actions": [
-            {
-              "t": "2026-11-17 12:39:53",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-17 12:39:56",
-              "type": "search",
-              "detail": "Depo Sorgu: IPRALEV 20/50 MCG 200 DOZ INH."
-            },
-            {
-              "t": "2026-11-17 12:41:00",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-17 12:41:04",
               "type": "search",
@@ -551,6 +536,21 @@
               "t": "2026-11-17 12:49:00",
               "type": "critical_stock",
               "detail": "Günün Çıkışları Yenileme (TRIA • 19 Kalem)"
+            },
+            {
+              "t": "2026-11-17 13:00:49",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-17 13:00:49",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-17 13:00:59",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (4 Ürün)"
             }
           ]
         }
