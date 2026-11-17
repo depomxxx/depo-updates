@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 16:24:18",
+  "updated_at": "2026-11-17 16:24:21",
   "count": 7,
   "items": [
     {
@@ -570,13 +570,13 @@
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.9",
-      "last_seen_at": "2026-11-17 16:23:55",
+      "last_seen_at": "2026-11-17 16:24:21",
       "last_action": "[DESKTOP-OTHNDUE] Depo Fiyat Sorgulama",
       "today_date": "2026-11-17",
-      "today_searches": 65,
+      "today_searches": 67,
       "today_cart_adds": 54,
       "today_smart_orders": 131,
-      "total_searches": 577,
+      "total_searches": 579,
       "total_cart_adds": 890,
       "total_smart_orders": 912,
       "total_days_used": 12,
@@ -682,27 +682,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.9",
-          "last_seen_at": "2026-11-17 16:23:55",
+          "last_seen_at": "2026-11-17 16:24:21",
           "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-17",
-          "today_searches": 21,
+          "today_searches": 23,
           "today_cart_adds": 32,
           "today_smart_orders": 77,
-          "total_searches": 118,
+          "total_searches": 120,
           "total_cart_adds": 382,
           "total_smart_orders": 413,
           "total_days_used": 12,
           "recent_actions": [
-            {
-              "t": "2026-11-17 16:21:45",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-17 16:21:48",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 54 Kalem)"
-            },
             {
               "t": "2026-11-17 16:21:48",
               "type": "mf_resolve",
@@ -765,6 +755,16 @@
             },
             {
               "t": "2026-11-17 16:23:55",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-17 16:23:58",
+              "type": "search",
+              "detail": "Depo Sorgu: VENTOLIN NEB 2.5 MG 2.5 ML20 F"
+            },
+            {
+              "t": "2026-11-17 16:24:21",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
             }
