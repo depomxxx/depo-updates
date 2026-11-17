@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 13:08:51",
+  "updated_at": "2026-11-17 13:09:10",
   "count": 7,
   "items": [
     {
@@ -16,15 +16,15 @@
       "hwid": "3FB2-2E58-20EC",
       "last_pc_name": "LAPTOP-NTJEFOD2",
       "app_version": "1.9.6",
-      "last_seen_at": "2026-11-17 13:08:51",
-      "last_action": "Depo Fiyat Sorgulama",
+      "last_seen_at": "2026-11-17 13:09:10",
+      "last_action": "Depo Sorgu: PAROL 500 MG 30 TB.",
       "today_date": "2026-11-17",
-      "today_searches": 26,
+      "today_searches": 27,
       "today_cart_adds": 1,
-      "today_smart_orders": 35,
-      "total_searches": 26,
+      "today_smart_orders": 36,
+      "total_searches": 27,
       "total_cart_adds": 1,
-      "total_smart_orders": 35,
+      "total_smart_orders": 36,
       "total_days_used": 1,
       "pc_count": 1,
       "devices": {
@@ -34,27 +34,17 @@
           "desk_name": "LAPTOP-NTJEFOD2",
           "local_ip": "192.168.1.53",
           "app_version": "1.9.6",
-          "last_seen_at": "2026-11-17 13:08:51",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-17 13:09:10",
+          "last_action": "Depo Sorgu: PAROL 500 MG 30 TB.",
           "today_date": "2026-11-17",
-          "today_searches": 26,
+          "today_searches": 27,
           "today_cart_adds": 1,
-          "today_smart_orders": 35,
-          "total_searches": 26,
+          "today_smart_orders": 36,
+          "total_searches": 27,
           "total_cart_adds": 1,
-          "total_smart_orders": 35,
+          "total_smart_orders": 36,
           "total_days_used": 1,
           "recent_actions": [
-            {
-              "t": "2026-11-17 13:05:07",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-17 13:05:12",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TEBEOS • 25 Kalem)"
-            },
             {
               "t": "2026-11-17 13:05:12",
               "type": "mf_resolve",
@@ -119,6 +109,16 @@
               "t": "2026-11-17 13:08:51",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-17 13:08:55",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (16 Ürün)"
+            },
+            {
+              "t": "2026-11-17 13:09:10",
+              "type": "search",
+              "detail": "Depo Sorgu: PAROL 500 MG 30 TB."
             }
           ]
         }
