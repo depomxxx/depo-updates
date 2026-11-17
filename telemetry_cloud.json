@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 11:33:44",
+  "updated_at": "2026-11-17 11:33:45",
   "count": 6,
   "items": [
     {
@@ -16,15 +16,15 @@
       "hwid": "3C0F-6FF9-862F",
       "last_pc_name": "Berkay",
       "app_version": "1.9.5",
-      "last_seen_at": "2026-11-17 11:33:07",
-      "last_action": "Depo Sorgu: PAROL 500 MG 20 TB.",
+      "last_seen_at": "2026-11-17 11:33:45",
+      "last_action": "Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-17",
       "today_searches": 6,
       "today_cart_adds": 1,
-      "today_smart_orders": 17,
+      "today_smart_orders": 18,
       "total_searches": 55,
       "total_cart_adds": 124,
-      "total_smart_orders": 186,
+      "total_smart_orders": 187,
       "total_days_used": 3,
       "pc_count": 1,
       "devices": {
@@ -34,22 +34,17 @@
           "desk_name": "Berkay",
           "local_ip": "192.168.1.103",
           "app_version": "1.9.5",
-          "last_seen_at": "2026-11-17 11:33:07",
-          "last_action": "Depo Sorgu: PAROL 500 MG 20 TB.",
+          "last_seen_at": "2026-11-17 11:33:45",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-17",
           "today_searches": 6,
           "today_cart_adds": 1,
-          "today_smart_orders": 17,
+          "today_smart_orders": 18,
           "total_searches": 55,
           "total_cart_adds": 124,
-          "total_smart_orders": 186,
+          "total_smart_orders": 187,
           "total_days_used": 3,
           "recent_actions": [
-            {
-              "t": "2026-11-17 11:07:19",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş (BOTANIK • 55 Kalem)"
-            },
             {
               "t": "2026-11-17 11:07:19",
               "type": "mf_resolve",
@@ -119,6 +114,11 @@
               "t": "2026-11-17 11:19:06",
               "type": "search",
               "detail": "Depo Sorgu: PAROL 500 MG 20 TB."
+            },
+            {
+              "t": "2026-11-17 11:33:45",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         }
