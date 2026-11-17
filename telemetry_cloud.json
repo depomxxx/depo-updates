@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 11:54:15",
+  "updated_at": "2026-11-17 11:54:30",
   "count": 6,
   "items": [
     {
@@ -445,17 +445,17 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D2E4-AA57-C021",
-      "last_pc_name": "DESKTOP-1N3LQF0",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.5",
-      "last_seen_at": "2026-11-17 11:53:57",
-      "last_action": "[DESKTOP-1N3LQF0] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-17 11:54:30",
+      "last_action": "[DESKTOP-OTHNDUE] Sepete Ekle (ALLIANCE): FERRUM HAUSMANN ORAL ÇÖZELTİ x1",
       "today_date": "2026-11-17",
       "today_searches": 48,
-      "today_cart_adds": 31,
+      "today_cart_adds": 32,
       "today_smart_orders": 51,
       "total_searches": 560,
-      "total_cart_adds": 867,
+      "total_cart_adds": 868,
       "total_smart_orders": 832,
       "total_days_used": 12,
       "pc_count": 8,
@@ -560,22 +560,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.5",
-          "last_seen_at": "2026-11-17 11:52:08",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-17 11:54:30",
+          "last_action": "Sepete Ekle (ALLIANCE): FERRUM HAUSMANN ORAL ÇÖZELTİ x1",
           "today_date": "2026-11-17",
           "today_searches": 4,
-          "today_cart_adds": 9,
+          "today_cart_adds": 10,
           "today_smart_orders": 30,
           "total_searches": 101,
-          "total_cart_adds": 359,
+          "total_cart_adds": 360,
           "total_smart_orders": 366,
           "total_days_used": 12,
           "recent_actions": [
-            {
-              "t": "2026-11-17 11:46:33",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-17 11:46:33",
               "type": "critical_stock",
@@ -645,6 +640,11 @@
               "t": "2026-11-17 11:52:08",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-17 11:52:09",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): FERRUM HAUSMANN ORAL ÇÖZELTİ x1"
             }
           ]
         },
@@ -842,7 +842,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.5",
-          "last_seen_at": "2026-11-17 11:51:23",
+          "last_seen_at": "2026-11-17 11:54:23",
           "last_action": "Depo Sorgu: LUSTRAL SPECIAL 100 MG 28 TB.",
           "today_date": "2026-11-17",
           "today_searches": 8,
