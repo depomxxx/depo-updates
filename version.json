@@ -1,11 +1,11 @@
 {
-  "version": "1.9.8",
+  "version": "1.9.9",
   "app_name": "Farma Radar",
-  "release_date": "2026-11-17 13:49:06",
+  "release_date": "2026-11-17 14:27:34",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.9.8.zip?t=1794912548",
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.9.9.zip?t=1794914856",
   "sha256": "",
-  "package_sha256": "03c030a88a9955581753fa6fc3f556399238c9fe616ba6a55e39547ee5640bb9",
-  "size_kb": 887.4,
-  "changelog": "v1.9.8: Sipariş sonlandırma sırasında ana onay ekranı, toplu sipariş tablosu ve sağ bildirimlerin eşzamanlı (sıfır gecikmeli) güncellenmesi sağlandı."
+  "package_sha256": "7b67c5ed8813206d82e608da8ec2a9436acbf862a56791adb6d011a6e57c43ec",
+  "size_kb": 888.9,
+  "changelog": "v1.9.9: TRIA otomasyonu için açık emanet çıkışı (≤21 gün kritik stoğa düşenler) desteği eklendi; TRIA takas hareketlerinde karşı eczane adı, Türkçe karakter ve gelen/giden yön tespiti iyileştirildi."
 }
