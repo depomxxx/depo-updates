@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 12:39:50",
+  "updated_at": "2026-11-17 12:39:53",
   "count": 6,
   "items": [
     {
@@ -445,18 +445,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D2E4-AA57-C021",
-      "last_pc_name": "DESKTOP-1N3LQF0",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.5",
-      "last_seen_at": "2026-11-17 12:39:30",
-      "last_action": "[DESKTOP-1N3LQF0] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-17 12:39:53",
+      "last_action": "[DESKTOP-OTHNDUE] Depo Fiyat Sorgulama",
       "today_date": "2026-11-17",
-      "today_searches": 48,
+      "today_searches": 51,
       "today_cart_adds": 32,
-      "today_smart_orders": 51,
-      "total_searches": 560,
+      "today_smart_orders": 55,
+      "total_searches": 563,
       "total_cart_adds": 868,
-      "total_smart_orders": 832,
+      "total_smart_orders": 836,
       "total_days_used": 12,
       "pc_count": 8,
       "devices": {
@@ -560,52 +560,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.5",
-          "last_seen_at": "2026-11-17 12:38:54",
-          "last_action": "Sepete Ekle (ALLIANCE): FERRUM HAUSMANN ORAL ÇÖZELTİ x1",
+          "last_seen_at": "2026-11-17 12:39:53",
+          "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-17",
-          "today_searches": 4,
+          "today_searches": 7,
           "today_cart_adds": 10,
-          "today_smart_orders": 30,
-          "total_searches": 101,
+          "today_smart_orders": 34,
+          "total_searches": 104,
           "total_cart_adds": 360,
-          "total_smart_orders": 366,
+          "total_smart_orders": 370,
           "total_days_used": 12,
           "recent_actions": [
-            {
-              "t": "2026-11-17 11:46:33",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 14 Kalem)"
-            },
-            {
-              "t": "2026-11-17 11:46:33",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-17 11:46:34",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (1 Ürün)"
-            },
-            {
-              "t": "2026-11-17 11:48:53",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-17 11:48:54",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 14 Kalem)"
-            },
-            {
-              "t": "2026-11-17 11:48:54",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-17 11:48:55",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (1 Ürün)"
-            },
             {
               "t": "2026-11-17 11:48:57",
               "type": "critical_stock",
@@ -645,6 +610,41 @@
               "t": "2026-11-17 11:52:09",
               "type": "cart",
               "detail": "Sepete Ekle (ALLIANCE): FERRUM HAUSMANN ORAL ÇÖZELTİ x1"
+            },
+            {
+              "t": "2026-11-17 12:38:57",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-17 12:38:57",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 19 Kalem)"
+            },
+            {
+              "t": "2026-11-17 12:38:57",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-17 12:39:02",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (13 Ürün)"
+            },
+            {
+              "t": "2026-11-17 12:39:06",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-17 12:39:10",
+              "type": "search",
+              "detail": "Depo Sorgu: PARKIPEX 0.250 MG 100 TB."
+            },
+            {
+              "t": "2026-11-17 12:39:53",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ]
         },
@@ -842,7 +842,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.5",
-          "last_seen_at": "2026-11-17 12:38:23",
+          "last_seen_at": "2026-11-17 12:39:23",
           "last_action": "Depo Sorgu: LUSTRAL SPECIAL 100 MG 28 TB.",
           "today_date": "2026-11-17",
           "today_searches": 8,
