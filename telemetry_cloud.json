@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 14:38:35",
+  "updated_at": "2026-11-17 14:38:55",
   "count": 7,
   "items": [
     {
@@ -257,18 +257,18 @@
       "plan": "PRO_YILLIK",
       "expires_at": "2027-10-24",
       "status": "AKTIF",
-      "hwid": "E4F7-229A-BABD",
-      "last_pc_name": "ChagriBeg",
+      "hwid": "E6B1-5698-273E",
+      "last_pc_name": "DESKTOP-6KFO8IF",
       "app_version": "1.9.9",
-      "last_seen_at": "2026-11-17 14:38:35",
-      "last_action": "[ChagriBeg] Piyasa Fiyat Kıyaslama: NEWDAY MAGNEZYUM COMPLEX 60  KAP",
+      "last_seen_at": "2026-11-17 14:38:56",
+      "last_action": "[DESKTOP-6KFO8IF] Canlı MF Sorgulama (4 Ürün)",
       "today_date": "2026-11-17",
       "today_searches": 31,
       "today_cart_adds": 40,
-      "today_smart_orders": 120,
+      "today_smart_orders": 122,
       "total_searches": 253,
       "total_cart_adds": 523,
-      "total_smart_orders": 756,
+      "total_smart_orders": 758,
       "total_days_used": 12,
       "pc_count": 3,
       "devices": {
@@ -278,27 +278,17 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.9.9",
-          "last_seen_at": "2026-11-17 14:38:35",
-          "last_action": "Piyasa Fiyat Kıyaslama: NEWDAY MAGNEZYUM COMPLEX 60  KAP",
+          "last_seen_at": "2026-11-17 14:38:54",
+          "last_action": "Toplu Sipariş (TRIA • 61 Kalem)",
           "today_date": "2026-11-17",
           "today_searches": 9,
           "today_cart_adds": 4,
-          "today_smart_orders": 31,
+          "today_smart_orders": 33,
           "total_searches": 104,
           "total_cart_adds": 67,
-          "total_smart_orders": 240,
+          "total_smart_orders": 242,
           "total_days_used": 11,
           "recent_actions": [
-            {
-              "t": "2026-11-17 14:22:19",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş Planlama"
-            },
-            {
-              "t": "2026-11-17 14:22:21",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş (TRIA • 246 Kalem)"
-            },
             {
               "t": "2026-11-17 14:22:21",
               "type": "mf_resolve",
@@ -363,6 +353,16 @@
               "t": "2026-11-17 14:38:35",
               "type": "search",
               "detail": "Piyasa Fiyat Kıyaslama: NEWDAY MAGNEZYUM COMPLEX 60  KAP"
+            },
+            {
+              "t": "2026-11-17 14:38:53",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş Planlama"
+            },
+            {
+              "t": "2026-11-17 14:38:54",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş (TRIA • 61 Kalem)"
             }
           ]
         },
@@ -372,7 +372,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.9",
-          "last_seen_at": "2026-11-17 14:38:23",
+          "last_seen_at": "2026-11-17 14:38:56",
           "last_action": "Canlı MF Sorgulama (4 Ürün)",
           "today_date": "2026-11-17",
           "today_searches": 8,
