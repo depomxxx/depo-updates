@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 10:52:32",
+  "updated_at": "2026-11-17 10:52:58",
   "count": 6,
   "items": [
     {
@@ -445,17 +445,17 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "5834-FAC9-B71F",
-      "last_pc_name": "DESKTOP-OTHNDUE",
+      "hwid": "D2E4-AA57-C021",
+      "last_pc_name": "DESKTOP-1N3LQF0",
       "app_version": "1.9.5",
-      "last_seen_at": "2026-11-17 10:52:32",
-      "last_action": "[DESKTOP-OTHNDUE] Canlı MF Sorgulama (7 Ürün)",
+      "last_seen_at": "2026-11-17 10:52:58",
+      "last_action": "[DESKTOP-1N3LQF0] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-17",
-      "today_searches": 41,
-      "today_cart_adds": 16,
+      "today_searches": 42,
+      "today_cart_adds": 17,
       "today_smart_orders": 27,
-      "total_searches": 553,
-      "total_cart_adds": 852,
+      "total_searches": 554,
+      "total_cart_adds": 853,
       "total_smart_orders": 808,
       "total_days_used": 12,
       "pc_count": 8,
@@ -1124,27 +1124,17 @@
           "desk_name": "DESKTOP-1N3LQF0",
           "local_ip": "192.168.1.123",
           "app_version": "1.9.5",
-          "last_seen_at": "2026-11-17 10:51:57",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-17 10:52:58",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-17",
-          "today_searches": 33,
-          "today_cart_adds": 10,
+          "today_searches": 34,
+          "today_cart_adds": 11,
           "today_smart_orders": 6,
-          "total_searches": 62,
-          "total_cart_adds": 20,
+          "total_searches": 63,
+          "total_cart_adds": 21,
           "total_smart_orders": 48,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-17 10:50:25",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-17 10:50:30",
-              "type": "search",
-              "detail": "Depo Sorgu: DEPALEX XR 500 MG 30 FTB."
-            },
             {
               "t": "2026-11-17 10:50:30",
               "type": "search",
@@ -1209,6 +1199,16 @@
               "t": "2026-11-17 10:51:57",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-17 10:52:05",
+              "type": "search",
+              "detail": "Depo Sorgu: ANKEP 25 MG 30 FTB."
+            },
+            {
+              "t": "2026-11-17 10:52:58",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         }
