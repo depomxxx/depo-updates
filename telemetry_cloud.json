@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 12:40:48",
+  "updated_at": "2026-11-17 12:41:00",
   "count": 6,
   "items": [
     {
@@ -448,13 +448,13 @@
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.5",
-      "last_seen_at": "2026-11-17 12:39:53",
+      "last_seen_at": "2026-11-17 12:41:00",
       "last_action": "[DESKTOP-OTHNDUE] Depo Fiyat Sorgulama",
       "today_date": "2026-11-17",
-      "today_searches": 51,
+      "today_searches": 53,
       "today_cart_adds": 32,
       "today_smart_orders": 55,
-      "total_searches": 563,
+      "total_searches": 565,
       "total_cart_adds": 868,
       "total_smart_orders": 836,
       "total_days_used": 12,
@@ -560,27 +560,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.5",
-          "last_seen_at": "2026-11-17 12:39:53",
+          "last_seen_at": "2026-11-17 12:41:00",
           "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-17",
-          "today_searches": 7,
+          "today_searches": 9,
           "today_cart_adds": 10,
           "today_smart_orders": 34,
-          "total_searches": 104,
+          "total_searches": 106,
           "total_cart_adds": 360,
           "total_smart_orders": 370,
           "total_days_used": 12,
           "recent_actions": [
-            {
-              "t": "2026-11-17 11:48:57",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-17 11:48:57",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 14 Kalem)"
-            },
             {
               "t": "2026-11-17 11:51:46",
               "type": "critical_stock",
@@ -643,6 +633,16 @@
             },
             {
               "t": "2026-11-17 12:39:53",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-17 12:39:56",
+              "type": "search",
+              "detail": "Depo Sorgu: IPRALEV 20/50 MCG 200 DOZ INH."
+            },
+            {
+              "t": "2026-11-17 12:41:00",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
             }
@@ -842,7 +842,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.5",
-          "last_seen_at": "2026-11-17 12:39:23",
+          "last_seen_at": "2026-11-17 12:40:48",
           "last_action": "Depo Sorgu: LUSTRAL SPECIAL 100 MG 28 TB.",
           "today_date": "2026-11-17",
           "today_searches": 8,
