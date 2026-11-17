@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 13:21:26",
+  "updated_at": "2026-11-17 13:21:29",
   "count": 7,
   "items": [
     {
@@ -570,15 +570,15 @@
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.7",
-      "last_seen_at": "2026-11-17 13:21:07",
-      "last_action": "[DESKTOP-OTHNDUE] Canlı MF Sorgulama (1 Ürün)",
+      "last_seen_at": "2026-11-17 13:21:29",
+      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-17",
       "today_searches": 58,
       "today_cart_adds": 44,
-      "today_smart_orders": 76,
+      "today_smart_orders": 78,
       "total_searches": 570,
       "total_cart_adds": 880,
-      "total_smart_orders": 857,
+      "total_smart_orders": 859,
       "total_days_used": 12,
       "pc_count": 8,
       "devices": {
@@ -682,22 +682,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.7",
-          "last_seen_at": "2026-11-17 13:21:07",
-          "last_action": "Canlı MF Sorgulama (1 Ürün)",
+          "last_seen_at": "2026-11-17 13:21:29",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-17",
           "today_searches": 14,
           "today_cart_adds": 22,
-          "today_smart_orders": 49,
+          "today_smart_orders": 50,
           "total_searches": 111,
           "total_cart_adds": 372,
-          "total_smart_orders": 385,
+          "total_smart_orders": 386,
           "total_days_used": 12,
           "recent_actions": [
-            {
-              "t": "2026-11-17 13:00:49",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-17 13:00:59",
               "type": "mf_resolve",
@@ -767,6 +762,11 @@
               "t": "2026-11-17 13:12:25",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (1 Ürün)"
+            },
+            {
+              "t": "2026-11-17 13:21:29",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         },
@@ -964,22 +964,17 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.7",
-          "last_seen_at": "2026-11-17 13:21:05",
+          "last_seen_at": "2026-11-17 13:21:24",
           "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-17",
           "today_searches": 8,
           "today_cart_adds": 6,
-          "today_smart_orders": 16,
+          "today_smart_orders": 17,
           "total_searches": 38,
           "total_cart_adds": 76,
-          "total_smart_orders": 107,
+          "total_smart_orders": 108,
           "total_days_used": 11,
           "recent_actions": [
-            {
-              "t": "2026-11-17 10:37:45",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (6 Ürün)"
-            },
             {
               "t": "2026-11-17 10:39:10",
               "type": "critical_stock",
@@ -1047,6 +1042,11 @@
             },
             {
               "t": "2026-11-17 13:01:21",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-17 13:21:21",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
             }
