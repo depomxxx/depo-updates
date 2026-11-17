@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 17:24:04",
+  "updated_at": "2026-11-17 17:24:10",
   "count": 7,
   "items": [
     {
@@ -570,14 +570,14 @@
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.9",
-      "last_seen_at": "2026-11-17 17:21:58",
-      "last_action": "[DESKTOP-OTHNDUE] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-17 17:24:10",
+      "last_action": "[DESKTOP-OTHNDUE] Sepete Ekle (ALLIANCE): LANSOR MİKROPELLET KAPSÜL 30 x4",
       "today_date": "2026-11-17",
       "today_searches": 80,
-      "today_cart_adds": 76,
+      "today_cart_adds": 77,
       "today_smart_orders": 155,
       "total_searches": 592,
-      "total_cart_adds": 912,
+      "total_cart_adds": 913,
       "total_smart_orders": 936,
       "total_days_used": 12,
       "pc_count": 8,
@@ -682,22 +682,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.9",
-          "last_seen_at": "2026-11-17 17:21:58",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-17 17:24:10",
+          "last_action": "Sepete Ekle (ALLIANCE): LANSOR MİKROPELLET KAPSÜL 30 x4",
           "today_date": "2026-11-17",
           "today_searches": 36,
-          "today_cart_adds": 54,
+          "today_cart_adds": 55,
           "today_smart_orders": 101,
           "total_searches": 133,
-          "total_cart_adds": 404,
+          "total_cart_adds": 405,
           "total_smart_orders": 437,
           "total_days_used": 12,
           "recent_actions": [
-            {
-              "t": "2026-11-17 16:59:54",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-17 16:59:59",
               "type": "mf_resolve",
@@ -767,6 +762,11 @@
               "t": "2026-11-17 17:21:58",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-17 17:21:59",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): LANSOR MİKROPELLET KAPSÜL 30 x4"
             }
           ]
         },
@@ -964,7 +964,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.9",
-          "last_seen_at": "2026-11-17 17:21:23",
+          "last_seen_at": "2026-11-17 17:24:04",
           "last_action": "Canlı MF Sorgulama (5 Ürün)",
           "today_date": "2026-11-17",
           "today_searches": 8,
