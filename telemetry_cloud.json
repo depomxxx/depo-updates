@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 14:58:36",
+  "updated_at": "2026-11-17 14:58:37",
   "count": 7,
   "items": [
     {
@@ -252,7 +252,7 @@
       "pharmacist_name": "GAMZE ASLAN",
       "phone": "05344064108",
       "city": "SAMSUN/ATAKUM",
-      "gln_no": "8680001134861",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "PRO_YILLIK",
       "expires_at": "2027-10-24",
@@ -265,10 +265,10 @@
       "today_date": "2026-11-17",
       "today_searches": 31,
       "today_cart_adds": 57,
-      "today_smart_orders": 132,
+      "today_smart_orders": 133,
       "total_searches": 253,
       "total_cart_adds": 540,
-      "total_smart_orders": 768,
+      "total_smart_orders": 769,
       "total_days_used": 12,
       "pc_count": 3,
       "devices": {
@@ -466,22 +466,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.9",
-          "last_seen_at": "2026-11-17 14:56:30",
+          "last_seen_at": "2026-11-17 14:58:36",
           "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-17",
           "today_searches": 14,
           "today_cart_adds": 30,
-          "today_smart_orders": 65,
+          "today_smart_orders": 66,
           "total_searches": 111,
           "total_cart_adds": 380,
-          "total_smart_orders": 401,
+          "total_smart_orders": 402,
           "total_days_used": 12,
           "recent_actions": [
-            {
-              "t": "2026-11-17 13:34:13",
-              "type": "cart",
-              "detail": "Toplu Sepet (ALLIANCE): 2 Kalem"
-            },
             {
               "t": "2026-11-17 13:34:14",
               "type": "cart",
@@ -549,6 +544,11 @@
             },
             {
               "t": "2026-11-17 14:28:29",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-17 14:58:36",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
             }
