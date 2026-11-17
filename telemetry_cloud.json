@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 09:55:33",
+  "updated_at": "2026-11-17 09:56:11",
   "count": 6,
   "items": [
     {
@@ -138,15 +138,15 @@
       "hwid": "E6B1-5698-273E",
       "last_pc_name": "DESKTOP-6KFO8IF",
       "app_version": "1.9.5",
-      "last_seen_at": "2026-11-17 09:54:28",
-      "last_action": "[DESKTOP-6KFO8IF] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-17 09:56:11",
+      "last_action": "[DESKTOP-6KFO8IF] Günün Çıkışları Yenileme (TRIA • 3 Kalem)",
       "today_date": "2026-11-17",
       "today_searches": 2,
       "today_cart_adds": 2,
-      "today_smart_orders": 6,
+      "today_smart_orders": 7,
       "total_searches": 206,
       "total_cart_adds": 451,
-      "total_smart_orders": 564,
+      "total_smart_orders": 565,
       "total_days_used": 11,
       "pc_count": 3,
       "devices": {
@@ -250,22 +250,17 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.5",
-          "last_seen_at": "2026-11-17 09:54:28",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-17 09:56:11",
+          "last_action": "Günün Çıkışları Yenileme (TRIA • 3 Kalem)",
           "today_date": "2026-11-17",
           "today_searches": 2,
           "today_cart_adds": 2,
-          "today_smart_orders": 6,
+          "today_smart_orders": 7,
           "total_searches": 32,
           "total_cart_adds": 72,
-          "total_smart_orders": 97,
+          "total_smart_orders": 98,
           "total_days_used": 11,
           "recent_actions": [
-            {
-              "t": "2026-11-16 17:49:03",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-16 17:49:09",
               "type": "mf_resolve",
@@ -335,6 +330,11 @@
               "t": "2026-11-17 09:54:28",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-17 09:54:28",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 3 Kalem)"
             }
           ]
         },
