@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 10:39:43",
+  "updated_at": "2026-11-17 10:40:02",
   "count": 6,
   "items": [
     {
@@ -138,14 +138,14 @@
       "hwid": "E6B1-5698-273E",
       "last_pc_name": "DESKTOP-6KFO8IF",
       "app_version": "1.9.5",
-      "last_seen_at": "2026-11-17 10:39:43",
-      "last_action": "[DESKTOP-6KFO8IF] Depo Sorgu: ZYZAPIN 10 MG 28 FTB",
+      "last_seen_at": "2026-11-17 10:40:02",
+      "last_action": "[DESKTOP-6KFO8IF] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-17",
       "today_searches": 6,
-      "today_cart_adds": 2,
+      "today_cart_adds": 5,
       "today_smart_orders": 13,
       "total_searches": 210,
-      "total_cart_adds": 451,
+      "total_cart_adds": 454,
       "total_smart_orders": 571,
       "total_days_used": 11,
       "pc_count": 3,
@@ -250,32 +250,17 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.5",
-          "last_seen_at": "2026-11-17 10:39:43",
-          "last_action": "Depo Sorgu: ZYZAPIN 10 MG 28 FTB",
+          "last_seen_at": "2026-11-17 10:40:02",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-17",
           "today_searches": 6,
-          "today_cart_adds": 2,
+          "today_cart_adds": 5,
           "today_smart_orders": 13,
           "total_searches": 36,
-          "total_cart_adds": 72,
+          "total_cart_adds": 75,
           "total_smart_orders": 104,
           "total_days_used": 11,
           "recent_actions": [
-            {
-              "t": "2026-11-17 09:54:11",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-17 09:54:14",
-              "type": "search",
-              "detail": "Depo Sorgu: ZYZAPIN 10 MG 28 FTB"
-            },
-            {
-              "t": "2026-11-17 09:54:22",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-17 09:54:28",
               "type": "critical_stock",
@@ -335,6 +320,21 @@
               "t": "2026-11-17 10:39:43",
               "type": "search",
               "detail": "Depo Sorgu: ZYZAPIN 10 MG 28 FTB"
+            },
+            {
+              "t": "2026-11-17 10:39:49",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-17 10:39:53",
+              "type": "cart",
+              "detail": "Toplu Sepet (ALLIANCE): 2 Kalem"
+            },
+            {
+              "t": "2026-11-17 10:40:02",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
