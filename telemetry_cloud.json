@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 16:29:02",
+  "updated_at": "2026-11-17 16:26:57",
   "count": 7,
   "items": [
     {
@@ -570,14 +570,14 @@
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.9",
-      "last_seen_at": "2026-11-17 16:26:31",
-      "last_action": "[DESKTOP-OTHNDUE] Toplu Sepet (ALLIANCE): 17 Kalem",
+      "last_seen_at": "2026-11-17 16:26:57",
+      "last_action": "[DESKTOP-OTHNDUE] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-17",
       "today_searches": 74,
-      "today_cart_adds": 58,
+      "today_cart_adds": 59,
       "today_smart_orders": 131,
       "total_searches": 586,
-      "total_cart_adds": 894,
+      "total_cart_adds": 895,
       "total_smart_orders": 912,
       "total_days_used": 12,
       "pc_count": 8,
@@ -682,22 +682,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.9",
-          "last_seen_at": "2026-11-17 16:26:31",
-          "last_action": "Toplu Sepet (ALLIANCE): 17 Kalem",
+          "last_seen_at": "2026-11-17 16:26:57",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-17",
           "today_searches": 30,
-          "today_cart_adds": 36,
+          "today_cart_adds": 37,
           "today_smart_orders": 77,
           "total_searches": 127,
-          "total_cart_adds": 386,
+          "total_cart_adds": 387,
           "total_smart_orders": 413,
           "total_days_used": 12,
           "recent_actions": [
-            {
-              "t": "2026-11-17 16:23:37",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): BENZOXIN TOPIKAL JEL x5"
-            },
             {
               "t": "2026-11-17 16:23:55",
               "type": "search",
@@ -767,6 +762,11 @@
               "t": "2026-11-17 16:26:31",
               "type": "cart",
               "detail": "Toplu Sepet (ALLIANCE): 17 Kalem"
+            },
+            {
+              "t": "2026-11-17 16:26:57",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
