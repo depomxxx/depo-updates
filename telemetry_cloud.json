@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 13:31:40",
+  "updated_at": "2026-11-17 13:31:48",
   "count": 7,
   "items": [
     {
@@ -16,13 +16,13 @@
       "hwid": "3FB2-2E58-20EC",
       "last_pc_name": "LAPTOP-NTJEFOD2",
       "app_version": "1.9.7",
-      "last_seen_at": "2026-11-17 13:30:35",
-      "last_action": "Depo Fiyat Sorgulama",
+      "last_seen_at": "2026-11-17 13:31:48",
+      "last_action": "Piyasa Fiyat Kıyaslama: R,O,C,S, BAYB 0-3 YAŞ DİŞ MACUNU",
       "today_date": "2026-11-17",
-      "today_searches": 38,
+      "today_searches": 40,
       "today_cart_adds": 19,
       "today_smart_orders": 82,
-      "total_searches": 38,
+      "total_searches": 40,
       "total_cart_adds": 19,
       "total_smart_orders": 82,
       "total_days_used": 1,
@@ -34,27 +34,17 @@
           "desk_name": "LAPTOP-NTJEFOD2",
           "local_ip": "192.168.1.53",
           "app_version": "1.9.7",
-          "last_seen_at": "2026-11-17 13:30:35",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-17 13:31:48",
+          "last_action": "Piyasa Fiyat Kıyaslama: R,O,C,S, BAYB 0-3 YAŞ DİŞ MACUNU",
           "today_date": "2026-11-17",
-          "today_searches": 38,
+          "today_searches": 40,
           "today_cart_adds": 19,
           "today_smart_orders": 82,
-          "total_searches": 38,
+          "total_searches": 40,
           "total_cart_adds": 19,
           "total_smart_orders": 82,
           "total_days_used": 1,
           "recent_actions": [
-            {
-              "t": "2026-11-17 13:28:34",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-17 13:28:34",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (2 Ürün)"
-            },
             {
               "t": "2026-11-17 13:29:11",
               "type": "cart",
@@ -119,6 +109,16 @@
               "t": "2026-11-17 13:30:35",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-17 13:30:42",
+              "type": "search",
+              "detail": "Depo Sorgu: R,O,C,S, BAYB 0-3 YAŞ DİŞ MACUNU"
+            },
+            {
+              "t": "2026-11-17 13:31:48",
+              "type": "search",
+              "detail": "Piyasa Fiyat Kıyaslama: R,O,C,S, BAYB 0-3 YAŞ DİŞ MACUNU"
             }
           ]
         }
