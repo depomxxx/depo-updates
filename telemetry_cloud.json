@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 11:06:54",
+  "updated_at": "2026-11-17 11:07:18",
   "count": 6,
   "items": [
     {
@@ -16,15 +16,15 @@
       "hwid": "3C0F-6FF9-862F",
       "last_pc_name": "Berkay",
       "app_version": "1.9.5",
-      "last_seen_at": "2026-11-17 11:06:18",
-      "last_action": "Eczatrend Takas Açıldı: BURAZIN %0.025 10 ML PED. SPR (100+45)",
+      "last_seen_at": "2026-11-17 11:07:18",
+      "last_action": "Toplu Sipariş Planlama",
       "today_date": "2026-11-17",
       "today_searches": 2,
       "today_cart_adds": 1,
-      "today_smart_orders": 5,
+      "today_smart_orders": 6,
       "total_searches": 51,
       "total_cart_adds": 124,
-      "total_smart_orders": 174,
+      "total_smart_orders": 175,
       "total_days_used": 3,
       "pc_count": 1,
       "devices": {
@@ -34,22 +34,17 @@
           "desk_name": "Berkay",
           "local_ip": "192.168.1.103",
           "app_version": "1.9.5",
-          "last_seen_at": "2026-11-17 11:06:18",
-          "last_action": "Eczatrend Takas Açıldı: BURAZIN %0.025 10 ML PED. SPR (100+45)",
+          "last_seen_at": "2026-11-17 11:07:18",
+          "last_action": "Toplu Sipariş Planlama",
           "today_date": "2026-11-17",
           "today_searches": 2,
           "today_cart_adds": 1,
-          "today_smart_orders": 5,
+          "today_smart_orders": 6,
           "total_searches": 51,
           "total_cart_adds": 124,
-          "total_smart_orders": 174,
+          "total_smart_orders": 175,
           "total_days_used": 3,
           "recent_actions": [
-            {
-              "t": "2026-11-16 11:30:17",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (BOTANIK • 25 Kalem)"
-            },
             {
               "t": "2026-11-16 11:30:17",
               "type": "mf_resolve",
@@ -119,6 +114,11 @@
               "t": "2026-11-17 11:04:56",
               "type": "cart",
               "detail": "Eczatrend Takas Açıldı: BURAZIN %0.025 10 ML PED. SPR (100+45)"
+            },
+            {
+              "t": "2026-11-17 11:07:18",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş Planlama"
             }
           ]
         }
