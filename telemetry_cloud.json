@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 12:51:55",
+  "updated_at": "2026-11-17 12:49:48",
   "count": 7,
   "items": [
     {
@@ -9,14 +9,14 @@
       "phone": "5309515737",
       "city": "KASTAMONU/MERKEZ",
       "gln_no": "8680001623099",
-      "otomasyon": "TEBEOS",
+      "otomasyon": "BOTANIK",
       "plan": "DENEME_30GUN",
       "expires_at": "2026-12-17",
       "status": "AKTIF",
       "hwid": "3FB2-2E58-20EC",
       "last_pc_name": "LAPTOP-NTJEFOD2",
       "app_version": "1.9.5",
-      "last_seen_at": "2026-11-17 12:46:17",
+      "last_seen_at": "2026-11-17 12:49:48",
       "last_action": "30 Gün Deneme Kaydı Yapıldı",
       "today_date": "2026-11-17",
       "today_searches": 0,
@@ -34,7 +34,7 @@
           "desk_name": "LAPTOP-NTJEFOD2",
           "local_ip": "192.168.1.53",
           "app_version": "1.9.5",
-          "last_seen_at": "2026-11-17 12:46:17",
+          "last_seen_at": "2026-11-17 12:49:48",
           "last_action": "30 Gün Deneme Kaydı Yapıldı",
           "today_date": "2026-11-17",
           "today_searches": 0,
