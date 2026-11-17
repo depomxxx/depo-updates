@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 09:53:37",
+  "updated_at": "2026-11-17 09:54:07",
   "count": 6,
   "items": [
     {
@@ -138,15 +138,15 @@
       "hwid": "E6B1-5698-273E",
       "last_pc_name": "DESKTOP-6KFO8IF",
       "app_version": "1.9.5",
-      "last_seen_at": "2026-11-17 09:53:37",
-      "last_action": "Program Açık (Canlı)",
+      "last_seen_at": "2026-11-17 09:54:07",
+      "last_action": "[DESKTOP-6KFO8IF] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-17",
       "today_searches": 0,
       "today_cart_adds": 0,
-      "today_smart_orders": 0,
+      "today_smart_orders": 4,
       "total_searches": 204,
       "total_cart_adds": 449,
-      "total_smart_orders": 558,
+      "total_smart_orders": 562,
       "total_days_used": 11,
       "pc_count": 3,
       "devices": {
@@ -250,37 +250,17 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.5",
-          "last_seen_at": "2026-11-17 09:53:37",
-          "last_action": "Program Açık (Canlı)",
+          "last_seen_at": "2026-11-17 09:54:07",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-17",
           "today_searches": 0,
           "today_cart_adds": 0,
-          "today_smart_orders": 0,
+          "today_smart_orders": 4,
           "total_searches": 30,
           "total_cart_adds": 70,
-          "total_smart_orders": 91,
+          "total_smart_orders": 95,
           "total_days_used": 11,
           "recent_actions": [
-            {
-              "t": "2026-11-16 17:46:01",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-16 17:46:33",
-              "type": "cart",
-              "detail": "Toplu Sepet (ALLIANCE): 17 Kalem"
-            },
-            {
-              "t": "2026-11-16 17:46:39",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-16 17:46:40",
-              "type": "cart",
-              "detail": "Toplu Sepet (SELCUK): 1 Kalem"
-            },
             {
               "t": "2026-11-16 17:46:41",
               "type": "cart",
@@ -335,6 +315,26 @@
               "t": "2026-11-16 17:49:35",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (2 Ürün)"
+            },
+            {
+              "t": "2026-11-17 09:53:39",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-17 09:53:39",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-17 09:53:47",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (3 Ürün)"
+            },
+            {
+              "t": "2026-11-17 09:54:07",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         },
