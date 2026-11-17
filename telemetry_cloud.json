@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 11:52:26",
+  "updated_at": "2026-11-17 11:54:48",
   "count": 6,
   "items": [
     {
@@ -1605,16 +1605,16 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.9.5",
-      "last_seen_at": "2026-11-17 11:54:18",
-      "last_action": "[DESKTOP-T4EAUS3] Günün Çıkışları Yenileme (BOTANIK • 27 Kalem)",
+      "last_seen_at": "2026-11-17 11:54:48",
+      "last_action": "[DESKTOP-T4EAUS3] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-17",
       "today_searches": 2,
-      "today_cart_adds": 8,
-      "today_smart_orders": 11,
+      "today_cart_adds": 9,
+      "today_smart_orders": 14,
       "total_searches": 157,
-      "total_cart_adds": 608,
+      "total_cart_adds": 609,
       "total_days_used": 11,
-      "total_smart_orders": 389,
+      "total_smart_orders": 392,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -1697,37 +1697,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.9.5",
-          "last_seen_at": "2026-11-17 11:54:18",
-          "last_action": "Günün Çıkışları Yenileme (BOTANIK • 27 Kalem)",
+          "last_seen_at": "2026-11-17 11:54:48",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-17",
           "today_searches": 2,
-          "today_cart_adds": 8,
-          "today_smart_orders": 11,
+          "today_cart_adds": 9,
+          "today_smart_orders": 14,
           "total_searches": 85,
-          "total_cart_adds": 350,
-          "total_smart_orders": 296,
+          "total_cart_adds": 351,
+          "total_smart_orders": 299,
           "total_days_used": 11,
           "recent_actions": [
-            {
-              "t": "2026-11-17 11:08:01",
-              "type": "cart",
-              "detail": "Toplu Sepet (ALLIANCE): 20 Kalem"
-            },
-            {
-              "t": "2026-11-17 11:10:34",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-17 11:12:02",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-17 11:12:06",
-              "type": "search",
-              "detail": "Depo Sorgu: CO-DIOVAN 80/12.5 MG 28 FTB."
-            },
             {
               "t": "2026-11-17 11:12:18",
               "type": "critical_stock",
@@ -1782,6 +1762,26 @@
               "t": "2026-11-17 11:29:15",
               "type": "critical_stock",
               "detail": "Günün Çıkışları Yenileme (BOTANIK • 27 Kalem)"
+            },
+            {
+              "t": "2026-11-17 11:54:31",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-17 11:54:32",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (BOTANIK • 36 Kalem)"
+            },
+            {
+              "t": "2026-11-17 11:54:32",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-17 11:54:48",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
