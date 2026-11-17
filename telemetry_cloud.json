@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 11:51:16",
+  "updated_at": "2026-11-17 11:49:17",
   "count": 6,
   "items": [
     {
@@ -130,23 +130,23 @@
       "pharmacist_name": "GAMZE ASLAN",
       "phone": "05344064108",
       "city": "SAMSUN/ATAKUM",
-      "gln_no": "8680001134861",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "PRO_YILLIK",
       "expires_at": "2027-10-24",
       "status": "AKTIF",
-      "hwid": "E4F7-229A-BABD",
-      "last_pc_name": "ChagriBeg",
+      "hwid": "E6B1-5698-273E",
+      "last_pc_name": "DESKTOP-6KFO8IF",
       "app_version": "1.9.5",
-      "last_seen_at": "2026-11-17 11:48:11",
-      "last_action": "[ChagriBeg] Canlı MF Sorgulama (9 Ürün)",
+      "last_seen_at": "2026-11-17 11:49:17",
+      "last_action": "[DESKTOP-6KFO8IF] Depo Sorgu: LUSTRAL SPECIAL 100 MG 28 TB.",
       "today_date": "2026-11-17",
       "today_searches": 12,
       "today_cart_adds": 14,
-      "today_smart_orders": 42,
+      "today_smart_orders": 48,
       "total_searches": 234,
       "total_cart_adds": 497,
-      "total_smart_orders": 678,
+      "total_smart_orders": 684,
       "total_days_used": 12,
       "pc_count": 3,
       "devices": {
@@ -156,7 +156,7 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.9.5",
-          "last_seen_at": "2026-11-17 11:48:11",
+          "last_seen_at": "2026-11-17 11:48:43",
           "last_action": "Canlı MF Sorgulama (9 Ürün)",
           "today_date": "2026-11-17",
           "today_searches": 0,
@@ -250,7 +250,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.5",
-          "last_seen_at": "2026-11-17 11:47:46",
+          "last_seen_at": "2026-11-17 11:49:17",
           "last_action": "Depo Sorgu: LUSTRAL SPECIAL 100 MG 28 TB.",
           "today_date": "2026-11-17",
           "today_searches": 8,
@@ -344,47 +344,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.5",
-          "last_seen_at": "2026-11-17 11:47:35",
-          "last_action": "Canlı MF Sorgulama (1 Ürün)",
+          "last_seen_at": "2026-11-17 11:49:15",
+          "last_action": "Günün Çıkışları Yenileme (TRIA • 14 Kalem)",
           "today_date": "2026-11-17",
           "today_searches": 4,
           "today_cart_adds": 8,
-          "today_smart_orders": 20,
+          "today_smart_orders": 26,
           "total_searches": 101,
           "total_cart_adds": 358,
-          "total_smart_orders": 356,
+          "total_smart_orders": 362,
           "total_days_used": 12,
           "recent_actions": [
-            {
-              "t": "2026-11-17 11:17:24",
-              "type": "cart",
-              "detail": "Toplu Sepet (ALLIANCE): 2 Kalem"
-            },
-            {
-              "t": "2026-11-17 11:17:25",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-17 11:17:26",
-              "type": "cart",
-              "detail": "Toplu Sepet (SELCUK): 1 Kalem"
-            },
-            {
-              "t": "2026-11-17 11:17:28",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-17 11:18:09",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-17 11:18:40",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-17 11:18:40",
               "type": "critical_stock",
@@ -429,6 +399,36 @@
               "t": "2026-11-17 11:46:34",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (1 Ürün)"
+            },
+            {
+              "t": "2026-11-17 11:48:53",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-17 11:48:54",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 14 Kalem)"
+            },
+            {
+              "t": "2026-11-17 11:48:54",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-17 11:48:55",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (1 Ürün)"
+            },
+            {
+              "t": "2026-11-17 11:48:57",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-17 11:48:57",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 14 Kalem)"
             }
           ]
         }
