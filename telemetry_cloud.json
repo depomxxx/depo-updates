@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 13:45:30",
+  "updated_at": "2026-11-18 13:45:32",
   "count": 7,
   "items": [
     {
@@ -707,17 +707,17 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "5834-FAC9-B71F",
-      "last_pc_name": "DESKTOP-OTHNDUE",
+      "hwid": "B446-9737-94C4",
+      "last_pc_name": "DESKTOP-5PFFU5S",
       "app_version": "1.9.12",
-      "last_seen_at": "2026-11-18 13:45:30",
-      "last_action": "[DESKTOP-OTHNDUE] Sepete Ekle (ALLIANCE): VENTOPIUM PLUS 05 MG/2.5 20 x10",
+      "last_seen_at": "2026-11-18 13:45:32",
+      "last_action": "[DESKTOP-5PFFU5S] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-18",
       "today_searches": 34,
-      "today_cart_adds": 79,
+      "today_cart_adds": 80,
       "today_smart_orders": 193,
       "total_searches": 630,
-      "total_cart_adds": 994,
+      "total_cart_adds": 995,
       "total_smart_orders": 1139,
       "total_days_used": 13,
       "pc_count": 9,
@@ -1010,22 +1010,17 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 13:45:12",
-          "last_action": "Canlı MF Sorgulama (1 Ürün)",
+          "last_seen_at": "2026-11-18 13:45:32",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-18",
           "today_searches": 0,
-          "today_cart_adds": 25,
+          "today_cart_adds": 26,
           "today_smart_orders": 46,
           "total_searches": 97,
-          "total_cart_adds": 234,
+          "total_cart_adds": 235,
           "total_smart_orders": 98,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-18 13:42:24",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): RISPERDAL 2 MG 20 FILM TABLE x5"
-            },
             {
               "t": "2026-11-18 13:42:47",
               "type": "cart",
@@ -1095,6 +1090,11 @@
               "t": "2026-11-18 13:45:12",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (1 Ürün)"
+            },
+            {
+              "t": "2026-11-18 13:45:32",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
