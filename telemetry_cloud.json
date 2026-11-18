@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 18:02:36",
+  "updated_at": "2026-11-18 18:02:42",
   "count": 7,
   "items": [
     {
@@ -8,22 +8,22 @@
       "pharmacist_name": "GAMZE ASLAN",
       "phone": "05344064108",
       "city": "SAMSUN/ATAKUM",
-      "gln_no": "8680001134861",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "PRO_YILLIK",
       "expires_at": "2027-10-24",
       "status": "AKTIF",
-      "hwid": "E4F7-229A-BABD",
-      "last_pc_name": "ChagriBeg",
+      "hwid": "E6B1-5698-273E",
+      "last_pc_name": "DESKTOP-6KFO8IF",
       "app_version": "1.9.14",
-      "last_seen_at": "2026-11-18 18:02:36",
-      "last_action": "[ChagriBeg] Sepete Ekle (ALLIANCE): FLOBEN NEBÜLİZASYON SÜSPANSİ x6",
+      "last_seen_at": "2026-11-18 18:02:42",
+      "last_action": "[DESKTOP-6KFO8IF] Canlı MF Sorgulama (2 Ürün)",
       "today_date": "2026-11-18",
-      "today_searches": 34,
-      "today_cart_adds": 82,
+      "today_searches": 40,
+      "today_cart_adds": 85,
       "today_smart_orders": 235,
-      "total_searches": 309,
-      "total_cart_adds": 649,
+      "total_searches": 315,
+      "total_cart_adds": 652,
       "total_smart_orders": 1050,
       "total_days_used": 13,
       "pc_count": 3,
@@ -34,7 +34,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-18 18:02:08",
+          "last_seen_at": "2026-11-18 18:02:42",
           "last_action": "Canlı MF Sorgulama (2 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 0,
@@ -128,62 +128,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-18 18:01:08",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-18 18:02:30",
+          "last_action": "Depo Sorgu: GYNO-FERRO SANOL 30 CAP.",
           "today_date": "2026-11-18",
-          "today_searches": 32,
-          "today_cart_adds": 51,
+          "today_searches": 38,
+          "today_cart_adds": 54,
           "today_smart_orders": 151,
-          "total_searches": 165,
-          "total_cart_adds": 458,
+          "total_searches": 171,
+          "total_cart_adds": 461,
           "total_smart_orders": 594,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-18 15:20:52",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-18 15:20:53",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (1 Ürün)"
-            },
-            {
-              "t": "2026-11-18 18:00:24",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-18 18:00:24",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 50 Kalem)"
-            },
-            {
-              "t": "2026-11-18 18:00:24",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-18 18:00:42",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (30 Ürün)"
-            },
-            {
-              "t": "2026-11-18 18:00:42",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-18 18:00:42",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-18 18:00:47",
-              "type": "search",
-              "detail": "Depo Sorgu: BUGIYA PROBIYOTIK"
-            },
             {
               "t": "2026-11-18 18:00:49",
               "type": "search",
@@ -213,6 +168,51 @@
               "t": "2026-11-18 18:01:08",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-18 18:01:10",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): BESTIRON PLUS SURUP 100 ML x10"
+            },
+            {
+              "t": "2026-11-18 18:01:14",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-18 18:01:16",
+              "type": "search",
+              "detail": "Depo Sorgu: OROFERON 80 MG 30 DEPO FTB."
+            },
+            {
+              "t": "2026-11-18 18:01:20",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-18 18:01:21",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): OROFERON 30 DRJ x10"
+            },
+            {
+              "t": "2026-11-18 18:01:28",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-18 18:01:31",
+              "type": "search",
+              "detail": "Depo Sorgu: MONUROL 3 GR 1 SASE"
+            },
+            {
+              "t": "2026-11-18 18:02:24",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-18 18:02:30",
+              "type": "search",
+              "detail": "Depo Sorgu: GYNO-FERRO SANOL 30 CAP."
             }
           ]
         },
@@ -222,7 +222,7 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-18 18:02:36",
+          "last_seen_at": "2026-11-18 18:02:41",
           "last_action": "Sepete Ekle (ALLIANCE): FLOBEN NEBÜLİZASYON SÜSPANSİ x6",
           "today_date": "2026-11-18",
           "today_searches": 2,
