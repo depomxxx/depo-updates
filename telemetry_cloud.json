@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 18:01:05",
+  "updated_at": "2026-11-18 18:01:09",
   "count": 7,
   "items": [
     {
@@ -702,23 +702,23 @@
       "pharmacist_name": "EDA BİLGİN",
       "phone": "05077034200",
       "city": "SAMSUN/İLKADIM",
-      "gln_no": "8680001000000",
+      "gln_no": "8680001112258",
       "otomasyon": "TRIA",
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D719-CEB2-1542",
-      "last_pc_name": "DESKTOP-M530BBB",
+      "hwid": "83F3-13F8-E632",
+      "last_pc_name": "Eskienes",
       "app_version": "1.9.14",
-      "last_seen_at": "2026-11-18 18:01:05",
-      "last_action": "[DESKTOP-M530BBB] Canlı MF Sorgulama (4 Ürün)",
+      "last_seen_at": "2026-11-18 18:01:09",
+      "last_action": "[Eskienes] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-18",
       "today_searches": 60,
-      "today_cart_adds": 141,
-      "today_smart_orders": 330,
+      "today_cart_adds": 142,
+      "today_smart_orders": 331,
       "total_searches": 656,
-      "total_cart_adds": 1056,
-      "total_smart_orders": 1276,
+      "total_cart_adds": 1057,
+      "total_smart_orders": 1277,
       "total_days_used": 13,
       "pc_count": 9,
       "devices": {
@@ -728,7 +728,7 @@
           "desk_name": "Eskienes",
           "local_ip": "192.168.1.117",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-18 18:00:56",
+          "last_seen_at": "2026-11-18 18:01:09",
           "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-18",
           "today_searches": 0,
@@ -822,27 +822,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-18 18:01:02",
-          "last_action": "Depo Sorgu: BESTİRON PLUS DEMİR İÇEREN SIVI TAKVİY",
+          "last_seen_at": "2026-11-18 18:01:08",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-18",
           "today_searches": 32,
-          "today_cart_adds": 50,
-          "today_smart_orders": 150,
+          "today_cart_adds": 51,
+          "today_smart_orders": 151,
           "total_searches": 165,
-          "total_cart_adds": 457,
-          "total_smart_orders": 593,
+          "total_cart_adds": 458,
+          "total_smart_orders": 594,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-18 15:20:52",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-18 15:20:52",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 34 Kalem)"
-            },
             {
               "t": "2026-11-18 15:20:52",
               "type": "mf_resolve",
@@ -907,6 +897,16 @@
               "t": "2026-11-18 18:01:02",
               "type": "search",
               "detail": "Depo Sorgu: BESTİRON PLUS DEMİR İÇEREN SIVI TAKVİY"
+            },
+            {
+              "t": "2026-11-18 18:01:04",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (18 Ürün)"
+            },
+            {
+              "t": "2026-11-18 18:01:08",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
