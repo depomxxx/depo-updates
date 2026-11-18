@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 13:46:14",
+  "updated_at": "2026-11-18 13:46:28",
   "count": 7,
   "items": [
     {
@@ -710,15 +710,15 @@
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.12",
-      "last_seen_at": "2026-11-18 13:46:04",
+      "last_seen_at": "2026-11-18 13:46:28",
       "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-18",
       "today_searches": 34,
       "today_cart_adds": 80,
-      "today_smart_orders": 194,
+      "today_smart_orders": 198,
       "total_searches": 630,
       "total_cart_adds": 995,
-      "total_smart_orders": 1140,
+      "total_smart_orders": 1144,
       "total_days_used": 13,
       "pc_count": 9,
       "devices": {
@@ -822,37 +822,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 13:46:04",
+          "last_seen_at": "2026-11-18 13:46:28",
           "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-18",
           "today_searches": 22,
           "today_cart_adds": 35,
-          "today_smart_orders": 80,
+          "today_smart_orders": 84,
           "total_searches": 155,
           "total_cart_adds": 442,
-          "total_smart_orders": 523,
+          "total_smart_orders": 527,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-18 13:34:32",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-18 13:34:35",
-              "type": "search",
-              "detail": "Depo Sorgu: TAMCEF 300 MG 20 CAP."
-            },
-            {
-              "t": "2026-11-18 13:34:38",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-18 13:34:41",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): TAMCEF 300 MG 20 KAPSUL x5"
-            },
             {
               "t": "2026-11-18 13:35:50",
               "type": "critical_stock",
@@ -905,6 +885,26 @@
             },
             {
               "t": "2026-11-18 13:46:04",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-18 13:46:04",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 27 Kalem)"
+            },
+            {
+              "t": "2026-11-18 13:46:04",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-18 13:46:05",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (1 Ürün)"
+            },
+            {
+              "t": "2026-11-18 13:46:28",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
             }
@@ -1104,7 +1104,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 13:45:12",
+          "last_seen_at": "2026-11-18 13:46:08",
           "last_action": "Canlı MF Sorgulama (20 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 0,
