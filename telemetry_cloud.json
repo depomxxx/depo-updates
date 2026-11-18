@@ -1745,16 +1745,16 @@
       "hwid": "1A4A-8625-6A54",
       "last_pc_name": "Cicobey",
       "app_version": "1.5.9",
-      "last_seen_at": "2026-11-18 13:24:40",
+      "last_seen_at": "2026-11-18 13:25:15",
       "last_action": "[Cicobey] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-18",
       "today_searches": 4,
       "today_cart_adds": 0,
-      "today_smart_orders": 4,
+      "today_smart_orders": 5,
       "total_searches": 167,
       "total_cart_adds": 626,
       "total_days_used": 13,
-      "total_smart_orders": 439,
+      "total_smart_orders": 440,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -1931,22 +1931,17 @@
           "desk_name": "Cicobey",
           "local_ip": "192.168.1.210",
           "app_version": "1.5.9",
-          "last_seen_at": "2026-11-18 13:24:40",
+          "last_seen_at": "2026-11-18 13:25:15",
           "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-18",
           "today_searches": 4,
           "today_cart_adds": 0,
-          "today_smart_orders": 4,
+          "today_smart_orders": 5,
           "total_searches": 42,
           "total_cart_adds": 62,
-          "total_smart_orders": 85,
+          "total_smart_orders": 86,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-16 17:25:03",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-16 17:25:09",
               "type": "critical_stock",
@@ -2014,6 +2009,11 @@
             },
             {
               "t": "2026-11-18 12:40:01",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-18 13:25:15",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
             }
