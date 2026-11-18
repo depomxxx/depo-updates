@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 14:05:40",
+  "updated_at": "2026-11-18 14:05:44",
   "count": 7,
   "items": [
     {
@@ -707,18 +707,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "40AB-8832-D69D",
-      "last_pc_name": "DESKTOP-SMI9E20",
+      "hwid": "B446-9737-94C4",
+      "last_pc_name": "DESKTOP-5PFFU5S",
       "app_version": "1.9.12",
-      "last_seen_at": "2026-11-18 14:05:31",
-      "last_action": "[DESKTOP-SMI9E20] Sepete Ekle (ALLIANCE): POTRICAL-B %0,005 + %0,05 ME x2",
+      "last_seen_at": "2026-11-18 14:05:44",
+      "last_action": "[DESKTOP-5PFFU5S] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-18",
       "today_searches": 36,
-      "today_cart_adds": 106,
-      "today_smart_orders": 224,
+      "today_cart_adds": 107,
+      "today_smart_orders": 227,
       "total_searches": 632,
-      "total_cart_adds": 1021,
-      "total_smart_orders": 1170,
+      "total_cart_adds": 1022,
+      "total_smart_orders": 1173,
       "total_days_used": 13,
       "pc_count": 9,
       "devices": {
@@ -1010,37 +1010,17 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 14:05:08",
-          "last_action": "Toplu Sipariş Planlama",
+          "last_seen_at": "2026-11-18 14:05:44",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-18",
           "today_searches": 0,
-          "today_cart_adds": 52,
-          "today_smart_orders": 53,
+          "today_cart_adds": 53,
+          "today_smart_orders": 56,
           "total_searches": 97,
-          "total_cart_adds": 261,
-          "total_smart_orders": 105,
+          "total_cart_adds": 262,
+          "total_smart_orders": 108,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-18 13:59:22",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-18 13:59:22",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (1 Ürün)"
-            },
-            {
-              "t": "2026-11-18 13:59:26",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-18 13:59:35",
-              "type": "cart",
-              "detail": "Sepete Ekle (SELCUK): TARDEN 40 MG 30 FILM TABLET x10"
-            },
             {
               "t": "2026-11-18 13:59:45",
               "type": "cart",
@@ -1095,6 +1075,26 @@
               "t": "2026-11-18 14:05:08",
               "type": "smart_order",
               "detail": "Toplu Sipariş Planlama"
+            },
+            {
+              "t": "2026-11-18 14:05:08",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş (TRIA • 246 Kalem)"
+            },
+            {
+              "t": "2026-11-18 14:05:09",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-18 14:05:10",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (3 Ürün)"
+            },
+            {
+              "t": "2026-11-18 14:05:44",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
