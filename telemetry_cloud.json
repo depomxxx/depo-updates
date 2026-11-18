@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 13:41:48",
+  "updated_at": "2026-11-18 13:41:55",
   "count": 7,
   "items": [
     {
@@ -707,17 +707,17 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "5834-FAC9-B71F",
-      "last_pc_name": "DESKTOP-OTHNDUE",
+      "hwid": "D2E4-AA57-C021",
+      "last_pc_name": "DESKTOP-1N3LQF0",
       "app_version": "1.9.12",
-      "last_seen_at": "2026-11-18 13:41:07",
-      "last_action": "[DESKTOP-OTHNDUE] Sepete Ekle (ALLIANCE): VENTOPIUM PLUS 05 MG/2.5 20 x10",
+      "last_seen_at": "2026-11-18 13:41:57",
+      "last_action": "[DESKTOP-1N3LQF0] Canlı MF Sorgulama (2 Ürün)",
       "today_date": "2026-11-18",
       "today_searches": 34,
-      "today_cart_adds": 62,
+      "today_cart_adds": 64,
       "today_smart_orders": 189,
       "total_searches": 630,
-      "total_cart_adds": 977,
+      "total_cart_adds": 979,
       "total_smart_orders": 1135,
       "total_days_used": 13,
       "pc_count": 9,
@@ -1010,27 +1010,17 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 13:40:48",
+          "last_seen_at": "2026-11-18 13:41:55",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-18",
           "today_searches": 0,
-          "today_cart_adds": 8,
+          "today_cart_adds": 10,
           "today_smart_orders": 42,
           "total_searches": 97,
-          "total_cart_adds": 217,
+          "total_cart_adds": 219,
           "total_smart_orders": 94,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-18 13:39:28",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş (TRIA • 246 Kalem)"
-            },
-            {
-              "t": "2026-11-18 13:39:28",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-18 13:39:35",
               "type": "mf_resolve",
@@ -1093,6 +1083,16 @@
             },
             {
               "t": "2026-11-18 13:40:48",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-18 13:40:50",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): EUTHYROX 50 MCG 50 TABLET x3"
+            },
+            {
+              "t": "2026-11-18 13:41:55",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
@@ -1292,7 +1292,7 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 13:40:37",
+          "last_seen_at": "2026-11-18 13:41:52",
           "last_action": "Canlı MF Sorgulama (2 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 0,
@@ -1386,7 +1386,7 @@
           "desk_name": "DESKTOP-1N3LQF0",
           "local_ip": "192.168.1.123",
           "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 13:40:43",
+          "last_seen_at": "2026-11-18 13:41:57",
           "last_action": "Canlı MF Sorgulama (2 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 12,
