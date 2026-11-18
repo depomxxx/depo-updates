@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 11:53:55",
+  "updated_at": "2026-11-18 11:54:01",
   "count": 7,
   "items": [
     {
@@ -1490,16 +1490,16 @@
       "hwid": "47CB-2231-637D",
       "last_pc_name": "DESKTOP-F1KQPJ2",
       "app_version": "1.9.9",
-      "last_seen_at": "2026-11-18 11:53:35",
-      "last_action": "[DESKTOP-F1KQPJ2] Depo Fiyat Sorgulama",
+      "last_seen_at": "2026-11-18 11:54:01",
+      "last_action": "[DESKTOP-F1KQPJ2] Depo Sorgu: ELLA 30 MG 1 FTB.",
       "today_date": "2026-11-18",
-      "today_searches": 1,
+      "today_searches": 3,
       "today_cart_adds": 0,
-      "today_smart_orders": 4,
-      "total_searches": 69,
+      "today_smart_orders": 6,
+      "total_searches": 71,
       "total_cart_adds": 36,
       "total_days_used": 4,
-      "total_smart_orders": 54,
+      "total_smart_orders": 56,
       "pc_count": 3,
       "devices": {
         "2F66-9873-3F47": {
@@ -1641,37 +1641,17 @@
           "desk_name": "DESKTOP-F1KQPJ2",
           "local_ip": "192.168.1.28",
           "app_version": "1.9.9",
-          "last_seen_at": "2026-11-18 11:53:35",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-18 11:54:01",
+          "last_action": "Depo Sorgu: ELLA 30 MG 1 FTB.",
           "today_date": "2026-11-18",
-          "today_searches": 1,
+          "today_searches": 3,
           "today_cart_adds": 0,
-          "today_smart_orders": 4,
-          "total_searches": 52,
+          "today_smart_orders": 6,
+          "total_searches": 54,
           "total_cart_adds": 29,
-          "total_smart_orders": 39,
+          "total_smart_orders": 41,
           "total_days_used": 4,
           "recent_actions": [
-            {
-              "t": "2026-11-13 13:32:00",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-13 13:56:37",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-13 13:56:38",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-13 13:56:38",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (1 Ürün)"
-            },
             {
               "t": "2026-11-13 14:14:42",
               "type": "critical_stock",
@@ -1726,6 +1706,26 @@
               "t": "2026-11-18 11:53:32",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-18 11:53:42",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-18 11:53:42",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-18 11:53:47",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-18 11:54:01",
+              "type": "search",
+              "detail": "Depo Sorgu: ELLA 30 MG 1 FTB."
             }
           ]
         }
