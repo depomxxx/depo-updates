@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 13:33:16",
+  "updated_at": "2026-11-18 13:33:34",
   "count": 7,
   "items": [
     {
@@ -710,15 +710,15 @@
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.12",
-      "last_seen_at": "2026-11-18 13:33:13",
+      "last_seen_at": "2026-11-18 13:33:34",
       "last_action": "[DESKTOP-OTHNDUE] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-18",
-      "today_searches": 26,
-      "today_cart_adds": 36,
-      "today_smart_orders": 157,
-      "total_searches": 622,
-      "total_cart_adds": 951,
-      "total_smart_orders": 1103,
+      "today_searches": 28,
+      "today_cart_adds": 38,
+      "today_smart_orders": 164,
+      "total_searches": 624,
+      "total_cart_adds": 953,
+      "total_smart_orders": 1110,
       "total_days_used": 13,
       "pc_count": 8,
       "devices": {
@@ -822,72 +822,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 13:33:13",
+          "last_seen_at": "2026-11-18 13:33:34",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-18",
-          "today_searches": 14,
-          "today_cart_adds": 21,
-          "today_smart_orders": 64,
-          "total_searches": 147,
-          "total_cart_adds": 428,
-          "total_smart_orders": 507,
+          "today_searches": 16,
+          "today_cart_adds": 23,
+          "today_smart_orders": 71,
+          "total_searches": 149,
+          "total_cart_adds": 430,
+          "total_smart_orders": 514,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-18 13:29:47",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-18 13:29:49",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): FLOBEN 2 MG/2 ML NEBUL SUSP x5"
-            },
-            {
-              "t": "2026-11-18 13:32:09",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-18 13:32:11",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): FLOBEN 2 MG/2 ML NEBUL SUSP x5"
-            },
-            {
-              "t": "2026-11-18 13:32:13",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-18 13:32:17",
-              "type": "search",
-              "detail": "Depo Sorgu: VENTOPIUM PLUS 2.5/0.5 MG 2.5"
-            },
-            {
-              "t": "2026-11-18 13:32:35",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-18 13:32:37",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): VENTOPIUM PLUS 05 MG/2.5 20 x5"
-            },
-            {
-              "t": "2026-11-18 13:32:54",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-18 13:32:54",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 25 Kalem)"
-            },
-            {
-              "t": "2026-11-18 13:32:54",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-18 13:33:00",
               "type": "mf_resolve",
@@ -905,6 +850,61 @@
             },
             {
               "t": "2026-11-18 13:33:13",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-18 13:33:14",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): FLOBEN 2 MG/2 ML NEBUL SUSP x5"
+            },
+            {
+              "t": "2026-11-18 13:33:23",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-18 13:33:24",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-18 13:33:24",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (1 Ürün)"
+            },
+            {
+              "t": "2026-11-18 13:33:25",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-18 13:33:25",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 25 Kalem)"
+            },
+            {
+              "t": "2026-11-18 13:33:25",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-18 13:33:26",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (1 Ürün)"
+            },
+            {
+              "t": "2026-11-18 13:33:26",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-18 13:33:29",
+              "type": "search",
+              "detail": "Depo Sorgu: FLOBEN 2 MG 2 ML 10 FLK."
+            },
+            {
+              "t": "2026-11-18 13:33:34",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
