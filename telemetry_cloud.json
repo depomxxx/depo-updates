@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 12:08:25",
+  "updated_at": "2026-11-18 12:08:43",
   "count": 7,
   "items": [
     {
@@ -8,23 +8,23 @@
       "pharmacist_name": "GAMZE ASLAN",
       "phone": "05344064108",
       "city": "SAMSUN/ATAKUM",
-      "gln_no": "8680001134861",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "PRO_YILLIK",
       "expires_at": "2027-10-24",
       "status": "AKTIF",
-      "hwid": "E4F7-229A-BABD",
-      "last_pc_name": "ChagriBeg",
+      "hwid": "E6B1-5698-273E",
+      "last_pc_name": "DESKTOP-6KFO8IF",
       "app_version": "1.9.10",
-      "last_seen_at": "2026-11-18 12:08:25",
-      "last_action": "[ChagriBeg] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-18 12:08:43",
+      "last_action": "[DESKTOP-6KFO8IF] Canlı MF Sorgulama (2 Ürün)",
       "today_date": "2026-11-18",
       "today_searches": 8,
-      "today_cart_adds": 15,
-      "today_smart_orders": 48,
+      "today_cart_adds": 18,
+      "today_smart_orders": 56,
       "total_searches": 283,
-      "total_cart_adds": 582,
-      "total_smart_orders": 863,
+      "total_cart_adds": 585,
+      "total_smart_orders": 871,
       "total_days_used": 13,
       "pc_count": 3,
       "devices": {
@@ -34,7 +34,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.10",
-          "last_seen_at": "2026-11-18 12:07:46",
+          "last_seen_at": "2026-11-18 12:08:43",
           "last_action": "Canlı MF Sorgulama (2 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 0,
@@ -128,72 +128,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.10",
-          "last_seen_at": "2026-11-18 12:06:52",
-          "last_action": "Canlı MF Sorgulama (14 Ürün)",
+          "last_seen_at": "2026-11-18 12:08:41",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-18",
           "today_searches": 6,
-          "today_cart_adds": 5,
-          "today_smart_orders": 24,
+          "today_cart_adds": 8,
+          "today_smart_orders": 32,
           "total_searches": 139,
-          "total_cart_adds": 412,
-          "total_smart_orders": 467,
+          "total_cart_adds": 415,
+          "total_smart_orders": 475,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-18 11:39:38",
-              "type": "search",
-              "detail": "Depo Sorgu: SELECTRA 50 MG 28 FTB"
-            },
-            {
-              "t": "2026-11-18 11:39:46",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-18 11:39:50",
-              "type": "search",
-              "detail": "Depo Sorgu: VENTOSAL 2.5 MG 2.5 ML 20 FLK."
-            },
-            {
-              "t": "2026-11-18 11:40:15",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-18 11:40:15",
-              "type": "cart",
-              "detail": "Sepete Ekle (SELCUK): VENTOSAL 2.5 MG 2.5 ML 20 FL x5"
-            },
-            {
-              "t": "2026-11-18 11:40:19",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-18 11:40:22",
-              "type": "search",
-              "detail": "Depo Sorgu: INFLACORT 0.25 MG 2 ML 20 FLK."
-            },
-            {
-              "t": "2026-11-18 11:41:05",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-18 12:05:10",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-18 12:05:28",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-18 12:05:29",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (3 Ürün)"
-            },
             {
               "t": "2026-11-18 12:06:16",
               "type": "critical_stock",
@@ -213,6 +158,61 @@
               "t": "2026-11-18 12:06:30",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (14 Ürün)"
+            },
+            {
+              "t": "2026-11-18 12:07:16",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-18 12:07:19",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 21 Kalem)"
+            },
+            {
+              "t": "2026-11-18 12:07:19",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-18 12:07:20",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (2 Ürün)"
+            },
+            {
+              "t": "2026-11-18 12:07:43",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-18 12:07:46",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 21 Kalem)"
+            },
+            {
+              "t": "2026-11-18 12:07:46",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-18 12:07:47",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (1 Ürün)"
+            },
+            {
+              "t": "2026-11-18 12:08:07",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-18 12:08:18",
+              "type": "cart",
+              "detail": "Toplu Sepet (ALLIANCE): 5 Kalem"
+            },
+            {
+              "t": "2026-11-18 12:08:23",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
