@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 13:25:27",
+  "updated_at": "2026-11-18 13:25:29",
   "count": 7,
   "items": [
     {
@@ -1490,16 +1490,16 @@
       "hwid": "47CB-2231-637D",
       "last_pc_name": "DESKTOP-F1KQPJ2",
       "app_version": "1.9.12",
-      "last_seen_at": "2026-11-18 13:24:49",
-      "last_action": "[DESKTOP-F1KQPJ2] Günün Çıkışları Yenileme (TEBEOS • 20 Kalem)",
+      "last_seen_at": "2026-11-18 13:25:29",
+      "last_action": "[DESKTOP-F1KQPJ2] Canlı MF Sorgulama (19 Ürün)",
       "today_date": "2026-11-18",
       "today_searches": 11,
       "today_cart_adds": 0,
-      "today_smart_orders": 16,
+      "today_smart_orders": 19,
       "total_searches": 79,
       "total_cart_adds": 36,
       "total_days_used": 4,
-      "total_smart_orders": 66,
+      "total_smart_orders": 69,
       "pc_count": 3,
       "devices": {
         "2F66-9873-3F47": {
@@ -1641,32 +1641,17 @@
           "desk_name": "DESKTOP-F1KQPJ2",
           "local_ip": "192.168.1.28",
           "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 13:24:49",
-          "last_action": "Günün Çıkışları Yenileme (TEBEOS • 20 Kalem)",
+          "last_seen_at": "2026-11-18 13:25:29",
+          "last_action": "Canlı MF Sorgulama (19 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 11,
           "today_cart_adds": 0,
-          "today_smart_orders": 16,
+          "today_smart_orders": 19,
           "total_searches": 62,
           "total_cart_adds": 29,
-          "total_smart_orders": 51,
+          "total_smart_orders": 54,
           "total_days_used": 4,
           "recent_actions": [
-            {
-              "t": "2026-11-18 11:54:15",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-18 11:54:19",
-              "type": "search",
-              "detail": "Depo Sorgu: ELLA 30 MG 1 FTB."
-            },
-            {
-              "t": "2026-11-18 11:54:32",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (18 Ürün)"
-            },
             {
               "t": "2026-11-18 11:54:36",
               "type": "search",
@@ -1726,6 +1711,21 @@
               "t": "2026-11-18 12:41:46",
               "type": "critical_stock",
               "detail": "Günün Çıkışları Yenileme (TEBEOS • 20 Kalem)"
+            },
+            {
+              "t": "2026-11-18 13:24:54",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-18 13:24:54",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-18 13:25:29",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (19 Ürün)"
             }
           ]
         }
