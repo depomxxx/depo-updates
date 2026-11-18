@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 13:53:13",
+  "updated_at": "2026-11-18 13:53:14",
   "count": 7,
   "items": [
     {
@@ -707,17 +707,17 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D2E4-AA57-C021",
-      "last_pc_name": "DESKTOP-1N3LQF0",
+      "hwid": "B446-9737-94C4",
+      "last_pc_name": "DESKTOP-5PFFU5S",
       "app_version": "1.9.12",
-      "last_seen_at": "2026-11-18 13:52:57",
-      "last_action": "[DESKTOP-1N3LQF0] Canlı MF Sorgulama (2 Ürün)",
+      "last_seen_at": "2026-11-18 13:53:14",
+      "last_action": "[DESKTOP-5PFFU5S] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-18",
       "today_searches": 34,
-      "today_cart_adds": 82,
+      "today_cart_adds": 86,
       "today_smart_orders": 214,
       "total_searches": 630,
-      "total_cart_adds": 997,
+      "total_cart_adds": 1001,
       "total_smart_orders": 1160,
       "total_days_used": 13,
       "pc_count": 9,
@@ -1010,27 +1010,17 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 13:52:56",
+          "last_seen_at": "2026-11-18 13:53:14",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-18",
           "today_searches": 0,
-          "today_cart_adds": 28,
+          "today_cart_adds": 32,
           "today_smart_orders": 46,
           "total_searches": 97,
-          "total_cart_adds": 237,
+          "total_cart_adds": 241,
           "total_smart_orders": 98,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-18 13:42:53",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-18 13:42:55",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): CO-DIOVAN  80/12.5 MG 28 FIL x5"
-            },
             {
               "t": "2026-11-18 13:43:31",
               "type": "cart",
@@ -1093,6 +1083,16 @@
             },
             {
               "t": "2026-11-18 13:52:56",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-18 13:52:58",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): DULOXX 60 MG 28 KAPSUL x4"
+            },
+            {
+              "t": "2026-11-18 13:53:05",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
