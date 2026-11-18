@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 14:34:21",
+  "updated_at": "2026-11-18 14:34:19",
   "count": 7,
   "items": [
     {
@@ -702,7 +702,7 @@
       "pharmacist_name": "EDA BİLGİN",
       "phone": "05077034200",
       "city": "SAMSUN/İLKADIM",
-      "gln_no": "8680001112258",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
@@ -715,10 +715,10 @@
       "today_date": "2026-11-18",
       "today_searches": 40,
       "today_cart_adds": 133,
-      "today_smart_orders": 284,
+      "today_smart_orders": 285,
       "total_searches": 636,
       "total_cart_adds": 1048,
-      "total_smart_orders": 1230,
+      "total_smart_orders": 1231,
       "total_days_used": 13,
       "pc_count": 9,
       "devices": {
@@ -916,22 +916,17 @@
           "desk_name": "Eda-Bilgin",
           "local_ip": "192.168.1.120",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-18 14:33:39",
-          "last_action": "Canlı MF Taraması",
+          "last_seen_at": "2026-11-18 14:34:04",
+          "last_action": "Canlı MF Sorgulama (6 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 0,
           "today_cart_adds": 5,
-          "today_smart_orders": 11,
+          "today_smart_orders": 12,
           "total_searches": 57,
           "total_cart_adds": 14,
-          "total_smart_orders": 67,
+          "total_smart_orders": 68,
           "total_days_used": 10,
           "recent_actions": [
-            {
-              "t": "2026-11-18 14:09:31",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-18 14:09:32",
               "type": "mf_resolve",
@@ -1001,6 +996,11 @@
               "t": "2026-11-18 14:33:12",
               "type": "mf_resolve",
               "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-18 14:33:40",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (6 Ürün)"
             }
           ]
         },
@@ -1010,7 +1010,7 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-18 14:33:23",
+          "last_seen_at": "2026-11-18 14:34:13",
           "last_action": "Canlı MF Sorgulama (17 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 0,
@@ -1292,7 +1292,7 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-18 14:33:29",
+          "last_seen_at": "2026-11-18 14:34:19",
           "last_action": "Canlı MF Sorgulama (6 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 0,
@@ -1386,7 +1386,7 @@
           "desk_name": "DESKTOP-1N3LQF0",
           "local_ip": "192.168.1.123",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-18 14:33:36",
+          "last_seen_at": "2026-11-18 14:34:01",
           "last_action": "Canlı MF Sorgulama (6 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 16,
