@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 11:38:23",
+  "updated_at": "2026-11-18 11:38:37",
   "count": 6,
   "items": [
     {
@@ -392,23 +392,23 @@
       "pharmacist_name": "EDA BİLGİN",
       "phone": "05077034200",
       "city": "SAMSUN/İLKADIM",
-      "gln_no": "8680001000000",
+      "gln_no": "8680001112258",
       "otomasyon": "TRIA",
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D2E4-AA57-C021",
-      "last_pc_name": "DESKTOP-1N3LQF0",
+      "hwid": "83F3-13F8-E632",
+      "last_pc_name": "Eskienes",
       "app_version": "1.9.9",
-      "last_seen_at": "2026-11-18 11:38:23",
-      "last_action": "[DESKTOP-1N3LQF0] Canlı MF Sorgulama (22 Ürün)",
+      "last_seen_at": "2026-11-18 11:38:37",
+      "last_action": "[Eskienes] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-18",
       "today_searches": 10,
       "today_cart_adds": 11,
-      "today_smart_orders": 38,
+      "today_smart_orders": 41,
       "total_searches": 606,
       "total_cart_adds": 926,
-      "total_smart_orders": 984,
+      "total_smart_orders": 987,
       "total_days_used": 13,
       "pc_count": 8,
       "devices": {
@@ -418,32 +418,17 @@
           "desk_name": "Eskienes",
           "local_ip": "192.168.1.117",
           "app_version": "1.9.9",
-          "last_seen_at": "2026-11-18 11:38:16",
-          "last_action": "Canlı MF Taraması",
+          "last_seen_at": "2026-11-18 11:38:37",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-18",
           "today_searches": 0,
           "today_cart_adds": 0,
-          "today_smart_orders": 3,
+          "today_smart_orders": 6,
           "total_searches": 62,
           "total_cart_adds": 54,
-          "total_smart_orders": 52,
+          "total_smart_orders": 55,
           "total_days_used": 9,
           "recent_actions": [
-            {
-              "t": "2026-11-13 16:57:03",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-13 16:57:11",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-13 16:57:14",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-13 16:57:29",
               "type": "search",
@@ -503,6 +488,21 @@
               "t": "2026-11-18 11:38:01",
               "type": "mf_resolve",
               "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-18 11:38:30",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-18 11:38:33",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 21 Kalem)"
+            },
+            {
+              "t": "2026-11-18 11:38:37",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         },
