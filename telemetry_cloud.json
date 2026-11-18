@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 14:30:09",
+  "updated_at": "2026-11-18 14:30:10",
   "count": 7,
   "items": [
     {
@@ -707,18 +707,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "B446-9737-94C4",
-      "last_pc_name": "DESKTOP-5PFFU5S",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.13",
-      "last_seen_at": "2026-11-18 14:30:04",
-      "last_action": "[DESKTOP-5PFFU5S] Canlı MF Sorgulama (22 Ürün)",
+      "last_seen_at": "2026-11-18 14:30:10",
+      "last_action": "[DESKTOP-OTHNDUE] Canlı MF Sorgulama (26 Ürün)",
       "today_date": "2026-11-18",
       "today_searches": 38,
       "today_cart_adds": 122,
-      "today_smart_orders": 247,
+      "today_smart_orders": 249,
       "total_searches": 634,
       "total_cart_adds": 1037,
-      "total_smart_orders": 1193,
+      "total_smart_orders": 1195,
       "total_days_used": 13,
       "pc_count": 9,
       "devices": {
@@ -728,7 +728,7 @@
           "desk_name": "Eskienes",
           "local_ip": "192.168.1.117",
           "app_version": "1.9.13",
-          "last_seen_at": "2026-11-18 14:29:55",
+          "last_seen_at": "2026-11-18 14:30:02",
           "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-18",
           "today_searches": 0,
@@ -822,22 +822,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.13",
-          "last_seen_at": "2026-11-18 14:29:42",
-          "last_action": "Canlı MF Taraması",
+          "last_seen_at": "2026-11-18 14:30:10",
+          "last_action": "Canlı MF Sorgulama (26 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 22,
           "today_cart_adds": 35,
-          "today_smart_orders": 105,
+          "today_smart_orders": 106,
           "total_searches": 155,
           "total_cart_adds": 442,
-          "total_smart_orders": 548,
+          "total_smart_orders": 549,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-18 13:46:51",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (1 Ürün)"
-            },
             {
               "t": "2026-11-18 13:47:01",
               "type": "critical_stock",
@@ -907,6 +902,11 @@
               "t": "2026-11-18 14:29:41",
               "type": "mf_resolve",
               "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-18 14:30:10",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (26 Ürün)"
             }
           ]
         },
@@ -1104,22 +1104,17 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.13",
-          "last_seen_at": "2026-11-18 14:29:18",
-          "last_action": "Canlı MF Taraması",
+          "last_seen_at": "2026-11-18 14:30:07",
+          "last_action": "Canlı MF Sorgulama (27 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 0,
           "today_cart_adds": 7,
-          "today_smart_orders": 26,
+          "today_smart_orders": 27,
           "total_searches": 38,
           "total_cart_adds": 83,
-          "total_smart_orders": 146,
+          "total_smart_orders": 147,
           "total_days_used": 12,
           "recent_actions": [
-            {
-              "t": "2026-11-18 10:54:12",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-18 11:37:07",
               "type": "critical_stock",
@@ -1189,6 +1184,11 @@
               "t": "2026-11-18 14:29:16",
               "type": "mf_resolve",
               "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-18 14:29:35",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (27 Ürün)"
             }
           ]
         },
