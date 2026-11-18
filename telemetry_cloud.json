@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 17:49:39",
+  "updated_at": "2026-11-18 17:49:49",
   "count": 7,
   "items": [
     {
@@ -710,15 +710,15 @@
       "hwid": "D719-CEB2-1542",
       "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.9.14",
-      "last_seen_at": "2026-11-18 17:49:30",
-      "last_action": "[DESKTOP-M530BBB] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-18 17:49:49",
+      "last_action": "[DESKTOP-M530BBB] Canlı MF Taraması",
       "today_date": "2026-11-18",
       "today_searches": 54,
       "today_cart_adds": 141,
-      "today_smart_orders": 318,
+      "today_smart_orders": 322,
       "total_searches": 650,
       "total_cart_adds": 1056,
-      "total_smart_orders": 1264,
+      "total_smart_orders": 1268,
       "total_days_used": 13,
       "pc_count": 9,
       "devices": {
@@ -1292,37 +1292,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-18 17:49:30",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-18 17:49:49",
+          "last_action": "Canlı MF Taraması",
           "today_date": "2026-11-18",
           "today_searches": 8,
           "today_cart_adds": 6,
-          "today_smart_orders": 28,
+          "today_smart_orders": 32,
           "total_searches": 105,
           "total_cart_adds": 104,
-          "total_smart_orders": 116,
+          "total_smart_orders": 120,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-18 15:25:19",
-              "type": "search",
-              "detail": "Depo Sorgu: ARVELES 25 MG 20 FTB."
-            },
-            {
-              "t": "2026-11-18 15:25:19",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-18 15:25:27",
-              "type": "search",
-              "detail": "Depo Sorgu: ARVELES 25 MG 20 FTB."
-            },
-            {
-              "t": "2026-11-18 15:25:29",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-18 15:25:30",
               "type": "mf_resolve",
@@ -1377,6 +1357,26 @@
               "t": "2026-11-18 17:49:30",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-18 17:49:31",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 68 Kalem)"
+            },
+            {
+              "t": "2026-11-18 17:49:31",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-18 17:49:48",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (30 Ürün)"
+            },
+            {
+              "t": "2026-11-18 17:49:49",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
             }
           ]
         },
