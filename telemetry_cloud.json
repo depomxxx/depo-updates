@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 14:29:51",
+  "updated_at": "2026-11-18 14:29:55",
   "count": 7,
   "items": [
     {
@@ -702,23 +702,23 @@
       "pharmacist_name": "EDA BİLGİN",
       "phone": "05077034200",
       "city": "SAMSUN/İLKADIM",
-      "gln_no": "8680001000000",
+      "gln_no": "8680001112258",
       "otomasyon": "TRIA",
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D719-CEB2-1542",
-      "last_pc_name": "DESKTOP-M530BBB",
+      "hwid": "83F3-13F8-E632",
+      "last_pc_name": "Eskienes",
       "app_version": "1.9.13",
-      "last_seen_at": "2026-11-18 14:29:51",
-      "last_action": "[DESKTOP-M530BBB] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-18 14:29:55",
+      "last_action": "[Eskienes] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-18",
       "today_searches": 38,
       "today_cart_adds": 122,
-      "today_smart_orders": 240,
+      "today_smart_orders": 243,
       "total_searches": 634,
       "total_cart_adds": 1037,
-      "total_smart_orders": 1186,
+      "total_smart_orders": 1189,
       "total_days_used": 13,
       "pc_count": 9,
       "devices": {
@@ -727,23 +727,18 @@
           "pc_name": "Eskienes",
           "desk_name": "Eskienes",
           "local_ip": "192.168.1.117",
-          "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 14:29:09",
+          "app_version": "1.9.13",
+          "last_seen_at": "2026-11-18 14:29:55",
           "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-18",
           "today_searches": 0,
           "today_cart_adds": 0,
-          "today_smart_orders": 9,
+          "today_smart_orders": 10,
           "total_searches": 62,
           "total_cart_adds": 54,
-          "total_smart_orders": 58,
+          "total_smart_orders": 59,
           "total_days_used": 9,
           "recent_actions": [
-            {
-              "t": "2026-11-13 16:57:38",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-13 16:57:39",
               "type": "search",
@@ -813,6 +808,11 @@
               "t": "2026-11-18 13:25:08",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-18 14:29:55",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         },
@@ -822,27 +822,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.13",
-          "last_seen_at": "2026-11-18 14:29:30",
-          "last_action": "Canlı MF Sorgulama (1 Ürün)",
+          "last_seen_at": "2026-11-18 14:29:42",
+          "last_action": "Canlı MF Taraması",
           "today_date": "2026-11-18",
           "today_searches": 22,
           "today_cart_adds": 35,
-          "today_smart_orders": 103,
+          "today_smart_orders": 105,
           "total_searches": 155,
           "total_cart_adds": 442,
-          "total_smart_orders": 546,
+          "total_smart_orders": 548,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-18 13:46:50",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 27 Kalem)"
-            },
-            {
-              "t": "2026-11-18 13:46:50",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-18 13:46:51",
               "type": "mf_resolve",
@@ -907,6 +897,16 @@
               "t": "2026-11-18 13:52:57",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (1 Ürün)"
+            },
+            {
+              "t": "2026-11-18 14:29:41",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-18 14:29:41",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
             }
           ]
         },
