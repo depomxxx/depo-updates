@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 14:47:28",
+  "updated_at": "2026-11-18 14:47:36",
   "count": 7,
   "items": [
     {
@@ -16,14 +16,14 @@
       "hwid": "E4F7-229A-BABD",
       "last_pc_name": "ChagriBeg",
       "app_version": "1.9.14",
-      "last_seen_at": "2026-11-18 14:46:01",
-      "last_action": "[ChagriBeg] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-18 14:47:36",
+      "last_action": "[ChagriBeg] Sepete Ekle (ALLIANCE): FLOBEN NEBÜLİZASYON SÜSPANSİ x6",
       "today_date": "2026-11-18",
       "today_searches": 28,
-      "today_cart_adds": 78,
+      "today_cart_adds": 79,
       "today_smart_orders": 209,
       "total_searches": 303,
-      "total_cart_adds": 645,
+      "total_cart_adds": 646,
       "total_smart_orders": 1024,
       "total_days_used": 13,
       "pc_count": 3,
@@ -34,7 +34,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-18 14:45:43",
+          "last_seen_at": "2026-11-18 14:47:14",
           "last_action": "Canlı MF Sorgulama (2 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 0,
@@ -222,22 +222,17 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-18 14:46:01",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-18 14:47:36",
+          "last_action": "Sepete Ekle (ALLIANCE): FLOBEN NEBÜLİZASYON SÜSPANSİ x6",
           "today_date": "2026-11-18",
           "today_searches": 2,
-          "today_cart_adds": 23,
+          "today_cart_adds": 24,
           "today_smart_orders": 54,
           "total_searches": 106,
-          "total_cart_adds": 107,
+          "total_cart_adds": 108,
           "total_smart_orders": 306,
           "total_days_used": 12,
           "recent_actions": [
-            {
-              "t": "2026-11-18 14:02:41",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-18 14:11:43",
               "type": "cart",
@@ -307,6 +302,11 @@
               "t": "2026-11-18 14:46:01",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-18 14:46:03",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): FLOBEN NEBÜLİZASYON SÜSPANSİ x6"
             }
           ]
         }
