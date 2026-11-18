@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 11:39:54",
+  "updated_at": "2026-11-18 11:40:03",
   "count": 7,
   "items": [
     {
@@ -473,19 +473,19 @@
       "plan": "PRO_YILLIK",
       "expires_at": "2027-11-11",
       "status": "AKTIF",
-      "hwid": "02C6-F4BB-F656",
-      "last_pc_name": "DESKTOP-NPTIN4D",
+      "hwid": "2DED-CFF9-D593",
+      "last_pc_name": "DESKTOP-8JN0NE5",
       "app_version": "1.9.9",
-      "last_seen_at": "2026-11-18 11:39:31",
-      "last_action": "[DESKTOP-NPTIN4D] Canlı MF Taraması",
+      "last_seen_at": "2026-11-18 11:40:03",
+      "last_action": "[DESKTOP-8JN0NE5] Canlı MF Sorgulama (22 Ürün)",
       "today_date": "2026-11-18",
       "today_searches": 4,
       "today_cart_adds": 1,
-      "today_smart_orders": 19,
+      "today_smart_orders": 20,
       "total_searches": 57,
       "total_cart_adds": 145,
       "total_days_used": 10,
-      "total_smart_orders": 312,
+      "total_smart_orders": 313,
       "pc_count": 2,
       "devices": {
         "2DED-CFF9-D593": {
@@ -494,22 +494,17 @@
           "desk_name": "DESKTOP-8JN0NE5",
           "local_ip": "192.168.1.37",
           "app_version": "1.9.9",
-          "last_seen_at": "2026-11-18 11:38:20",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-18 11:40:03",
+          "last_action": "Canlı MF Sorgulama (22 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 4,
           "today_cart_adds": 1,
-          "today_smart_orders": 5,
+          "today_smart_orders": 6,
           "total_searches": 56,
           "total_cart_adds": 145,
-          "total_smart_orders": 312,
+          "total_smart_orders": 313,
           "total_days_used": 10,
           "recent_actions": [
-            {
-              "t": "2026-11-17 17:29:47",
-              "type": "cart",
-              "detail": "Toplu Sepet (ISKOOP): 3 Kalem"
-            },
             {
               "t": "2026-11-17 17:29:52",
               "type": "cart",
@@ -579,6 +574,11 @@
               "t": "2026-11-18 11:38:20",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-18 11:38:30",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (22 Ürün)"
             }
           ]
         },
