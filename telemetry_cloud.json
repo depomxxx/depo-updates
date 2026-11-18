@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 13:44:16",
+  "updated_at": "2026-11-18 13:44:34",
   "count": 7,
   "items": [
     {
@@ -707,17 +707,17 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "40AB-8832-D69D",
-      "last_pc_name": "DESKTOP-SMI9E20",
+      "hwid": "B446-9737-94C4",
+      "last_pc_name": "DESKTOP-5PFFU5S",
       "app_version": "1.9.12",
-      "last_seen_at": "2026-11-18 13:44:16",
-      "last_action": "[DESKTOP-SMI9E20] Sepete Ekle (ALLIANCE): POTRICAL-B %0,005 + %0,05 ME x2",
+      "last_seen_at": "2026-11-18 13:44:34",
+      "last_action": "[DESKTOP-5PFFU5S] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-18",
       "today_searches": 34,
-      "today_cart_adds": 75,
+      "today_cart_adds": 78,
       "today_smart_orders": 191,
       "total_searches": 630,
-      "total_cart_adds": 990,
+      "total_cart_adds": 993,
       "total_smart_orders": 1137,
       "total_days_used": 13,
       "pc_count": 9,
@@ -1010,32 +1010,17 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 13:43:50",
-          "last_action": "Sepete Ekle (ALLIANCE): LULIZOL %1 KREM (20 G) x5",
+          "last_seen_at": "2026-11-18 13:44:34",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-18",
           "today_searches": 0,
-          "today_cart_adds": 21,
+          "today_cart_adds": 24,
           "today_smart_orders": 44,
           "total_searches": 97,
-          "total_cart_adds": 230,
+          "total_cart_adds": 233,
           "total_smart_orders": 96,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-18 13:40:50",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): EUTHYROX 50 MCG 50 TABLET x3"
-            },
-            {
-              "t": "2026-11-18 13:41:55",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-18 13:41:57",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): CONCOR 5 MG 30 LAK TABLET x20"
-            },
             {
               "t": "2026-11-18 13:42:14",
               "type": "mf_resolve",
@@ -1095,6 +1080,21 @@
               "t": "2026-11-18 13:43:50",
               "type": "cart",
               "detail": "Sepete Ekle (ALLIANCE): LULIZOL %1 KREM (20 G) x5"
+            },
+            {
+              "t": "2026-11-18 13:43:58",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-18 13:43:59",
+              "type": "cart",
+              "detail": "Sepete Ekle (SELCUK): TRAVOCORT 15 GR.KREM x7"
+            },
+            {
+              "t": "2026-11-18 13:44:34",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
@@ -1292,7 +1292,7 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 13:43:39",
+          "last_seen_at": "2026-11-18 13:43:52",
           "last_action": "Canlı MF Sorgulama (2 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 0,
@@ -1386,7 +1386,7 @@
           "desk_name": "DESKTOP-1N3LQF0",
           "local_ip": "192.168.1.123",
           "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 13:43:46",
+          "last_seen_at": "2026-11-18 13:43:57",
           "last_action": "Canlı MF Sorgulama (2 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 12,
