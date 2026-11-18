@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 11:59:42",
+  "updated_at": "2026-11-18 11:59:45",
   "count": 7,
   "items": [
     {
@@ -1490,7 +1490,7 @@
       "hwid": "47CB-2231-637D",
       "last_pc_name": "DESKTOP-F1KQPJ2",
       "app_version": "1.9.9",
-      "last_seen_at": "2026-11-18 11:57:45",
+      "last_seen_at": "2026-11-18 11:59:45",
       "last_action": "[DESKTOP-F1KQPJ2] Depo Sorgu: PAINOUT ICE %1 100 ML SPR.",
       "today_date": "2026-11-18",
       "today_searches": 9,
@@ -1641,7 +1641,7 @@
           "desk_name": "DESKTOP-F1KQPJ2",
           "local_ip": "192.168.1.28",
           "app_version": "1.9.9",
-          "last_seen_at": "2026-11-18 11:57:45",
+          "last_seen_at": "2026-11-18 11:59:45",
           "last_action": "Depo Sorgu: PAINOUT ICE %1 100 ML SPR.",
           "today_date": "2026-11-18",
           "today_searches": 9,
