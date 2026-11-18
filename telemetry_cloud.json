@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 14:34:03",
+  "updated_at": "2026-11-18 14:34:10",
   "count": 7,
   "items": [
     {
@@ -707,18 +707,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "5834-FAC9-B71F",
-      "last_pc_name": "DESKTOP-OTHNDUE",
+      "hwid": "40AB-8832-D69D",
+      "last_pc_name": "DESKTOP-SMI9E20",
       "app_version": "1.9.14",
-      "last_seen_at": "2026-11-18 14:34:03",
-      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-18 14:34:10",
+      "last_action": "[DESKTOP-SMI9E20] Sepete Ekle (ALLIANCE): POTRICAL-B %0,005 + %0,05 ME x2",
       "today_date": "2026-11-18",
       "today_searches": 40,
       "today_cart_adds": 133,
-      "today_smart_orders": 281,
+      "today_smart_orders": 284,
       "total_searches": 636,
       "total_cart_adds": 1048,
-      "total_smart_orders": 1227,
+      "total_smart_orders": 1230,
       "total_days_used": 13,
       "pc_count": 9,
       "devices": {
@@ -822,32 +822,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-18 14:34:03",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-18 14:34:06",
+          "last_action": "Canlı MF Sorgulama (1 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 24,
           "today_cart_adds": 46,
-          "today_smart_orders": 118,
+          "today_smart_orders": 121,
           "total_searches": 157,
           "total_cart_adds": 453,
-          "total_smart_orders": 561,
+          "total_smart_orders": 564,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-18 14:31:40",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): BACTRİM FORTE TABLET 800 MG/ x2"
-            },
-            {
-              "t": "2026-11-18 14:31:46",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-18 14:31:47",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): NADIXA %1 30 GR KREM x2"
-            },
             {
               "t": "2026-11-18 14:32:00",
               "type": "cart",
@@ -907,6 +892,21 @@
               "t": "2026-11-18 14:34:03",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-18 14:34:03",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 34 Kalem)"
+            },
+            {
+              "t": "2026-11-18 14:34:03",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-18 14:34:03",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (1 Ürün)"
             }
           ]
         },
@@ -1479,8 +1479,8 @@
           "pc_name": "DESKTOP-SMI9E20",
           "desk_name": "DESKTOP-SMI9E20",
           "local_ip": "192.168.1.108",
-          "app_version": "1.9.13",
-          "last_seen_at": "2026-11-18 14:33:46",
+          "app_version": "1.9.14",
+          "last_seen_at": "2026-11-18 14:34:10",
           "last_action": "Sepete Ekle (ALLIANCE): POTRICAL-B %0,005 + %0,05 ME x2",
           "today_date": "2026-11-18",
           "today_searches": 0,
