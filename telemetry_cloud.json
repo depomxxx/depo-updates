@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 13:47:38",
+  "updated_at": "2026-11-18 13:47:39",
   "count": 7,
   "items": [
     {
@@ -567,17 +567,17 @@
       "plan": "PRO_YILLIK",
       "expires_at": "2027-11-11",
       "status": "AKTIF",
-      "hwid": "02C6-F4BB-F656",
-      "last_pc_name": "DESKTOP-NPTIN4D",
+      "hwid": "2DED-CFF9-D593",
+      "last_pc_name": "DESKTOP-8JN0NE5",
       "app_version": "1.9.12",
-      "last_seen_at": "2026-11-18 13:47:38",
-      "last_action": "[DESKTOP-NPTIN4D] Canlı MF Taraması",
+      "last_seen_at": "2026-11-18 13:47:39",
+      "last_action": "[DESKTOP-8JN0NE5] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-18",
       "today_searches": 14,
-      "today_cart_adds": 12,
+      "today_cart_adds": 14,
       "today_smart_orders": 42,
       "total_searches": 67,
-      "total_cart_adds": 156,
+      "total_cart_adds": 158,
       "total_days_used": 10,
       "total_smart_orders": 335,
       "pc_count": 2,
@@ -588,22 +588,17 @@
           "desk_name": "DESKTOP-8JN0NE5",
           "local_ip": "192.168.1.37",
           "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 13:46:03",
-          "last_action": "Toplu Sepet (ALLIANCE): 10 Kalem",
+          "last_seen_at": "2026-11-18 13:47:39",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-18",
           "today_searches": 14,
-          "today_cart_adds": 12,
+          "today_cart_adds": 14,
           "today_smart_orders": 28,
           "total_searches": 66,
-          "total_cart_adds": 156,
+          "total_cart_adds": 158,
           "total_smart_orders": 335,
           "total_days_used": 10,
           "recent_actions": [
-            {
-              "t": "2026-11-18 12:05:51",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (1 Ürün)"
-            },
             {
               "t": "2026-11-18 12:40:31",
               "type": "critical_stock",
@@ -673,6 +668,11 @@
               "t": "2026-11-18 13:46:03",
               "type": "cart",
               "detail": "Toplu Sepet (ALLIANCE): 10 Kalem"
+            },
+            {
+              "t": "2026-11-18 13:46:07",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
