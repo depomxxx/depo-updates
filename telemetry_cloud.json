@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 15:26:37",
+  "updated_at": "2026-11-18 15:26:42",
   "count": 7,
   "items": [
     {
@@ -702,23 +702,23 @@
       "pharmacist_name": "EDA BİLGİN",
       "phone": "05077034200",
       "city": "SAMSUN/İLKADIM",
-      "gln_no": "8680001112258",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "83F3-13F8-E632",
-      "last_pc_name": "Eskienes",
+      "hwid": "D2E4-AA57-C021",
+      "last_pc_name": "DESKTOP-1N3LQF0",
       "app_version": "1.9.14",
-      "last_seen_at": "2026-11-18 15:26:34",
-      "last_action": "[Eskienes] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-18 15:26:42",
+      "last_action": "[DESKTOP-1N3LQF0] Canlı MF Sorgulama (6 Ürün)",
       "today_date": "2026-11-18",
       "today_searches": 52,
       "today_cart_adds": 141,
-      "today_smart_orders": 311,
+      "today_smart_orders": 314,
       "total_searches": 648,
       "total_cart_adds": 1056,
-      "total_smart_orders": 1257,
+      "total_smart_orders": 1260,
       "total_days_used": 13,
       "pc_count": 9,
       "devices": {
@@ -916,7 +916,7 @@
           "desk_name": "Eda-Bilgin",
           "local_ip": "192.168.1.120",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-18 15:25:14",
+          "last_seen_at": "2026-11-18 15:26:13",
           "last_action": "Canlı MF Sorgulama (6 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 0,
@@ -1010,7 +1010,7 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-18 15:25:52",
+          "last_seen_at": "2026-11-18 15:26:29",
           "last_action": "Depo Sorgu: PAROL 500 MG 20 TB.",
           "today_date": "2026-11-18",
           "today_searches": 4,
@@ -1292,32 +1292,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-18 15:25:56",
-          "last_action": "Sepete Ekle (NEVZAT): ARVELES 25 MG.20 FCT x1",
+          "last_seen_at": "2026-11-18 15:26:31",
+          "last_action": "Canlı MF Sorgulama (13 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 6,
           "today_cart_adds": 6,
-          "today_smart_orders": 24,
+          "today_smart_orders": 27,
           "total_searches": 103,
           "total_cart_adds": 104,
-          "total_smart_orders": 112,
+          "total_smart_orders": 115,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-18 14:29:51",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-18 14:30:05",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (19 Ürün)"
-            },
-            {
-              "t": "2026-11-18 14:33:04",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-18 14:33:04",
               "type": "mf_resolve",
@@ -1377,6 +1362,21 @@
               "t": "2026-11-18 15:25:56",
               "type": "cart",
               "detail": "Sepete Ekle (NEVZAT): ARVELES 25 MG.20 FCT x1"
+            },
+            {
+              "t": "2026-11-18 15:26:00",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (30 Ürün)"
+            },
+            {
+              "t": "2026-11-18 15:26:00",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-18 15:26:08",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (13 Ürün)"
             }
           ]
         },
@@ -1386,7 +1386,7 @@
           "desk_name": "DESKTOP-1N3LQF0",
           "local_ip": "192.168.1.123",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-18 15:25:57",
+          "last_seen_at": "2026-11-18 15:26:42",
           "last_action": "Canlı MF Sorgulama (6 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 16,
