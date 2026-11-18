@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 12:41:01",
+  "updated_at": "2026-11-18 12:41:02",
   "count": 7,
   "items": [
     {
@@ -702,23 +702,23 @@
       "pharmacist_name": "EDA BİLGİN",
       "phone": "05077034200",
       "city": "SAMSUN/İLKADIM",
-      "gln_no": "8680001112258",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "83F3-13F8-E632",
-      "last_pc_name": "Eskienes",
+      "hwid": "D2E4-AA57-C021",
+      "last_pc_name": "DESKTOP-1N3LQF0",
       "app_version": "1.9.11",
-      "last_seen_at": "2026-11-18 12:41:01",
-      "last_action": "[Eskienes] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-18 12:41:02",
+      "last_action": "[DESKTOP-1N3LQF0] Depo Sorgu: REFRESH TEARS 15 ML GOZ GTT.",
       "today_date": "2026-11-18",
       "today_searches": 20,
       "today_cart_adds": 25,
-      "today_smart_orders": 99,
+      "today_smart_orders": 100,
       "total_searches": 616,
       "total_cart_adds": 940,
-      "total_smart_orders": 1045,
+      "total_smart_orders": 1046,
       "total_days_used": 13,
       "pc_count": 8,
       "devices": {
@@ -1010,22 +1010,17 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.9.11",
-          "last_seen_at": "2026-11-18 12:40:34",
-          "last_action": "Canlı MF Sorgulama (4 Ürün)",
+          "last_seen_at": "2026-11-18 12:41:01",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-18",
           "today_searches": 0,
           "today_cart_adds": 0,
-          "today_smart_orders": 13,
+          "today_smart_orders": 14,
           "total_searches": 97,
           "total_cart_adds": 209,
-          "total_smart_orders": 65,
+          "total_smart_orders": 66,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-16 11:35:37",
-              "type": "cart",
-              "detail": "Sepete Ekle (NEVZAT): AZELTIN 500 MG 3 FILM TB. x4"
-            },
             {
               "t": "2026-11-16 11:35:39",
               "type": "cart",
@@ -1095,6 +1090,11 @@
               "t": "2026-11-18 12:36:52",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (4 Ürün)"
+            },
+            {
+              "t": "2026-11-18 12:40:39",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         },
@@ -1385,8 +1385,8 @@
           "pc_name": "DESKTOP-1N3LQF0",
           "desk_name": "DESKTOP-1N3LQF0",
           "local_ip": "192.168.1.123",
-          "app_version": "1.9.10",
-          "last_seen_at": "2026-11-18 12:39:57",
+          "app_version": "1.9.11",
+          "last_seen_at": "2026-11-18 12:41:02",
           "last_action": "Depo Sorgu: REFRESH TEARS 15 ML GOZ GTT.",
           "today_date": "2026-11-18",
           "today_searches": 12,
