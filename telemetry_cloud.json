@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 14:52:59",
+  "updated_at": "2026-11-18 14:53:00",
   "count": 7,
   "items": [
     {
@@ -567,11 +567,11 @@
       "plan": "PRO_YILLIK",
       "expires_at": "2027-11-11",
       "status": "AKTIF",
-      "hwid": "2DED-CFF9-D593",
-      "last_pc_name": "DESKTOP-8JN0NE5",
+      "hwid": "02C6-F4BB-F656",
+      "last_pc_name": "DESKTOP-NPTIN4D",
       "app_version": "1.9.14",
-      "last_seen_at": "2026-11-18 14:52:01",
-      "last_action": "[DESKTOP-8JN0NE5] Depo Sorgu: HIPP 3 ORGANIK COMBIOTIK 350 GR",
+      "last_seen_at": "2026-11-18 14:53:00",
+      "last_action": "[DESKTOP-NPTIN4D] Canlı MF Taraması",
       "today_date": "2026-11-18",
       "today_searches": 18,
       "today_cart_adds": 14,
@@ -682,7 +682,7 @@
           "desk_name": "DESKTOP-NPTIN4D",
           "local_ip": "192.168.1.116",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-18 14:51:29",
+          "last_seen_at": "2026-11-18 14:53:00",
           "last_action": "Canlı MF Taraması",
           "today_date": "2026-11-18",
           "today_searches": 0,
