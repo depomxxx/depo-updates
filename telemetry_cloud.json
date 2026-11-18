@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 13:25:07",
+  "updated_at": "2026-11-18 13:25:08",
   "count": 7,
   "items": [
     {
@@ -325,16 +325,16 @@
       "status": "AKTIF",
       "hwid": "3FB2-2E58-20EC",
       "last_pc_name": "LAPTOP-NTJEFOD2",
-      "app_version": "1.9.11",
-      "last_seen_at": "2026-11-18 13:24:54",
-      "last_action": "Canlı MF Sorgulama (11 Ürün)",
+      "app_version": "1.9.12",
+      "last_seen_at": "2026-11-18 13:25:08",
+      "last_action": "Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-18",
       "today_searches": 4,
       "today_cart_adds": 7,
-      "today_smart_orders": 10,
+      "today_smart_orders": 11,
       "total_searches": 46,
       "total_cart_adds": 33,
-      "total_smart_orders": 117,
+      "total_smart_orders": 118,
       "total_days_used": 2,
       "pc_count": 1,
       "devices": {
@@ -343,23 +343,18 @@
           "pc_name": "LAPTOP-NTJEFOD2",
           "desk_name": "LAPTOP-NTJEFOD2",
           "local_ip": "192.168.1.53",
-          "app_version": "1.9.11",
-          "last_seen_at": "2026-11-18 13:24:54",
-          "last_action": "Canlı MF Sorgulama (11 Ürün)",
+          "app_version": "1.9.12",
+          "last_seen_at": "2026-11-18 13:25:08",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-18",
           "today_searches": 4,
           "today_cart_adds": 7,
-          "today_smart_orders": 10,
+          "today_smart_orders": 11,
           "total_searches": 46,
           "total_cart_adds": 33,
-          "total_smart_orders": 117,
+          "total_smart_orders": 118,
           "total_days_used": 2,
           "recent_actions": [
-            {
-              "t": "2026-11-18 10:53:00",
-              "type": "cart",
-              "detail": "Toplu Sepet (ISKOOP): 3 Kalem"
-            },
             {
               "t": "2026-11-18 10:53:55",
               "type": "cart",
@@ -429,6 +424,11 @@
               "t": "2026-11-18 12:06:08",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (11 Ürün)"
+            },
+            {
+              "t": "2026-11-18 13:25:06",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         }
