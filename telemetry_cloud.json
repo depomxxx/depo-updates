@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 14:18:04",
+  "updated_at": "2026-11-18 14:18:10",
   "count": 7,
   "items": [
     {
@@ -1799,14 +1799,14 @@
       "hwid": "1A4A-8625-6A54",
       "last_pc_name": "Cicobey",
       "app_version": "1.5.9",
-      "last_seen_at": "2026-11-18 14:16:33",
+      "last_seen_at": "2026-11-18 14:18:10",
       "last_action": "[Cicobey] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-18",
       "today_searches": 6,
-      "today_cart_adds": 1,
+      "today_cart_adds": 6,
       "today_smart_orders": 6,
       "total_searches": 169,
-      "total_cart_adds": 627,
+      "total_cart_adds": 632,
       "total_days_used": 13,
       "total_smart_orders": 441,
       "pc_count": 3,
@@ -1985,37 +1985,17 @@
           "desk_name": "Cicobey",
           "local_ip": "192.168.1.8",
           "app_version": "1.5.9",
-          "last_seen_at": "2026-11-18 14:16:33",
+          "last_seen_at": "2026-11-18 14:18:10",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-18",
           "today_searches": 6,
-          "today_cart_adds": 1,
+          "today_cart_adds": 6,
           "today_smart_orders": 6,
           "total_searches": 44,
-          "total_cart_adds": 63,
+          "total_cart_adds": 68,
           "total_smart_orders": 87,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-16 17:26:29",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (30 Ürün)"
-            },
-            {
-              "t": "2026-11-16 17:26:30",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-16 17:26:56",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (23 Ürün)"
-            },
-            {
-              "t": "2026-11-18 11:44:03",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-18 11:48:23",
               "type": "search",
@@ -2068,6 +2048,26 @@
             },
             {
               "t": "2026-11-18 14:16:33",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-18 14:16:36",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): APRANAX FORTE 550MG 20 TABLE x1"
+            },
+            {
+              "t": "2026-11-18 14:16:38",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-18 14:16:41",
+              "type": "cart",
+              "detail": "Sepete Ekle (ISKOOP): APRANAX FORTE 550MG 20 TABLE x1"
+            },
+            {
+              "t": "2026-11-18 14:16:42",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
