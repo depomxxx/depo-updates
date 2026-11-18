@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 13:34:25",
+  "updated_at": "2026-11-18 13:34:32",
   "count": 7,
   "items": [
     {
@@ -710,15 +710,15 @@
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.12",
-      "last_seen_at": "2026-11-18 13:34:02",
-      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-18 13:34:32",
+      "last_action": "[DESKTOP-OTHNDUE] Depo Fiyat Sorgulama",
       "today_date": "2026-11-18",
-      "today_searches": 28,
-      "today_cart_adds": 41,
-      "today_smart_orders": 165,
-      "total_searches": 624,
-      "total_cart_adds": 956,
-      "total_smart_orders": 1111,
+      "today_searches": 31,
+      "today_cart_adds": 44,
+      "today_smart_orders": 168,
+      "total_searches": 627,
+      "total_cart_adds": 959,
+      "total_smart_orders": 1114,
       "total_days_used": 13,
       "pc_count": 8,
       "devices": {
@@ -822,57 +822,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 13:34:02",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-18 13:34:32",
+          "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-18",
-          "today_searches": 16,
-          "today_cart_adds": 26,
-          "today_smart_orders": 72,
-          "total_searches": 149,
-          "total_cart_adds": 433,
-          "total_smart_orders": 515,
+          "today_searches": 19,
+          "today_cart_adds": 29,
+          "today_smart_orders": 75,
+          "total_searches": 152,
+          "total_cart_adds": 436,
+          "total_smart_orders": 518,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-18 13:33:14",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): FLOBEN 2 MG/2 ML NEBUL SUSP x5"
-            },
-            {
-              "t": "2026-11-18 13:33:23",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-18 13:33:24",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-18 13:33:24",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (1 Ürün)"
-            },
-            {
-              "t": "2026-11-18 13:33:25",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-18 13:33:25",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 25 Kalem)"
-            },
-            {
-              "t": "2026-11-18 13:33:25",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-18 13:33:26",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (1 Ürün)"
-            },
             {
               "t": "2026-11-18 13:33:26",
               "type": "search",
@@ -907,6 +867,46 @@
               "t": "2026-11-18 13:34:02",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-18 13:34:02",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 25 Kalem)"
+            },
+            {
+              "t": "2026-11-18 13:34:02",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-18 13:34:02",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (1 Ürün)"
+            },
+            {
+              "t": "2026-11-18 13:34:03",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-18 13:34:05",
+              "type": "search",
+              "detail": "Depo Sorgu: FLOBEN 2 MG 2 ML 10 FLK."
+            },
+            {
+              "t": "2026-11-18 13:34:11",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-18 13:34:17",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): FLOBEN 2 MG/2 ML NEBUL SUSP x10"
+            },
+            {
+              "t": "2026-11-18 13:34:32",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ]
         },
@@ -1104,7 +1104,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 13:33:08",
+          "last_seen_at": "2026-11-18 13:34:08",
           "last_action": "Canlı MF Sorgulama (20 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 0,
