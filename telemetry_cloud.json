@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 12:13:43",
+  "updated_at": "2026-11-18 12:13:57",
   "count": 7,
   "items": [
     {
@@ -702,21 +702,21 @@
       "pharmacist_name": "EDA BİLGİN",
       "phone": "05077034200",
       "city": "SAMSUN/İLKADIM",
-      "gln_no": "8680001112258",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "83F3-13F8-E632",
-      "last_pc_name": "Eskienes",
+      "hwid": "D2E4-AA57-C021",
+      "last_pc_name": "DESKTOP-1N3LQF0",
       "app_version": "1.9.10",
-      "last_seen_at": "2026-11-18 12:13:43",
-      "last_action": "[Eskienes] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-18 12:13:57",
+      "last_action": "[DESKTOP-1N3LQF0] Depo Sorgu: REFRESH TEARS 15 ML GOZ GTT.",
       "today_date": "2026-11-18",
-      "today_searches": 18,
+      "today_searches": 20,
       "today_cart_adds": 23,
       "today_smart_orders": 73,
-      "total_searches": 614,
+      "total_searches": 616,
       "total_cart_adds": 938,
       "total_smart_orders": 1019,
       "total_days_used": 13,
@@ -1386,27 +1386,17 @@
           "desk_name": "DESKTOP-1N3LQF0",
           "local_ip": "192.168.1.123",
           "app_version": "1.9.10",
-          "last_seen_at": "2026-11-18 12:12:24",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-18 12:13:57",
+          "last_action": "Depo Sorgu: REFRESH TEARS 15 ML GOZ GTT.",
           "today_date": "2026-11-18",
-          "today_searches": 10,
+          "today_searches": 12,
           "today_cart_adds": 4,
           "today_smart_orders": 8,
-          "total_searches": 75,
+          "total_searches": 77,
           "total_cart_adds": 30,
           "total_smart_orders": 75,
           "total_days_used": 9,
           "recent_actions": [
-            {
-              "t": "2026-11-18 09:29:22",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-18 09:29:25",
-              "type": "search",
-              "detail": "Depo Sorgu: CRESTOR 10 MG 28 FTB."
-            },
             {
               "t": "2026-11-18 09:29:25",
               "type": "search",
@@ -1471,6 +1461,16 @@
               "t": "2026-11-18 12:05:56",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-18 12:12:27",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-18 12:12:39",
+              "type": "search",
+              "detail": "Depo Sorgu: REFRESH TEARS 15 ML GOZ GTT."
             }
           ]
         }
