@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-18 11:37:37",
-  "count": 7,
+  "updated_at": "2026-11-18 11:37:50",
+  "count": 6,
   "items": [
     {
       "id": "C0013535",
@@ -248,27 +248,143 @@
     },
     {
       "id": "106A1333",
-      "pharmacy_name": "ARAŞTIRMA ECZANESİ",
-      "pharmacist_name": "GAMZE ASLAN",
-      "phone": "05344064108",
-      "city": "SAMSUN",
-      "gln_no": "8680001134861",
-      "otomasyon": "TRIA",
+      "pharmacy_name": "RÜYA ECZANESI",
+      "pharmacist_name": "ÇAĞRI ASLAN",
+      "phone": "05065963918",
+      "city": "SİNOP/SARAYDÜZÜ",
+      "gln_no": "8680001429554",
+      "otomasyon": "BOTANIK",
       "plan": "PRO_YILLIK",
-      "expires_at": "2027-10-26",
+      "expires_at": "2027-11-11",
       "status": "AKTIF",
-      "hwid": "753B-50FF-6214",
+      "hwid": "02C6-F4BB-F656",
       "last_pc_name": "DESKTOP-NPTIN4D",
-      "app_version": "1.6.7",
-      "last_seen_at": "2026-11-18 11:37:36",
-      "last_action": "Program Açıldı (Canlı)",
+      "app_version": "1.9.9",
+      "last_seen_at": "2026-11-18 11:37:50",
+      "last_action": "[DESKTOP-NPTIN4D] Canlı MF Taraması",
       "today_date": "2026-11-18",
-      "today_searches": 0,
+      "today_searches": 4,
       "today_cart_adds": 0,
-      "today_smart_orders": 0,
-      "total_searches": 275,
-      "total_cart_adds": 574,
-      "total_days_used": 13
+      "today_smart_orders": 18,
+      "total_searches": 57,
+      "total_cart_adds": 144,
+      "total_days_used": 10,
+      "total_smart_orders": 311,
+      "pc_count": 2,
+      "devices": {
+        "2DED-CFF9-D593": {
+          "hwid": "2DED-CFF9-D593",
+          "pc_name": "DESKTOP-8JN0NE5",
+          "desk_name": "DESKTOP-8JN0NE5",
+          "local_ip": "192.168.1.37",
+          "app_version": "1.9.9",
+          "last_seen_at": "2026-11-18 11:37:32",
+          "last_action": "Günün Çıkışları / Kritik Stok",
+          "today_date": "2026-11-18",
+          "today_searches": 4,
+          "today_cart_adds": 0,
+          "today_smart_orders": 4,
+          "total_searches": 56,
+          "total_cart_adds": 144,
+          "total_smart_orders": 311,
+          "total_days_used": 10,
+          "recent_actions": [
+            {
+              "t": "2026-11-17 17:29:33",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-17 17:29:37",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-17 17:29:47",
+              "type": "cart",
+              "detail": "Toplu Sepet (ISKOOP): 3 Kalem"
+            },
+            {
+              "t": "2026-11-17 17:29:52",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-17 17:29:55",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (26 Ürün)"
+            },
+            {
+              "t": "2026-11-17 17:30:06",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-17 17:30:06",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (BOTANIK • 70 Kalem)"
+            },
+            {
+              "t": "2026-11-17 17:30:07",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-17 17:30:07",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (1 Ürün)"
+            },
+            {
+              "t": "2026-11-18 09:36:02",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-18 09:36:03",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-18 09:36:06",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-18 09:37:19",
+              "type": "search",
+              "detail": "Depo Sorgu: FLEXTRA 400 MG 24 FTB."
+            },
+            {
+              "t": "2026-11-18 09:37:48",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (4 Ürün)"
+            },
+            {
+              "t": "2026-11-18 11:37:32",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            }
+          ]
+        },
+        "02C6-F4BB-F656": {
+          "hwid": "02C6-F4BB-F656",
+          "pc_name": "DESKTOP-NPTIN4D",
+          "desk_name": "DESKTOP-NPTIN4D",
+          "local_ip": "192.168.1.116",
+          "app_version": "1.9.9",
+          "last_seen_at": "2026-11-18 11:37:50",
+          "last_action": "Canlı MF Taraması",
+          "today_date": "2026-11-18",
+          "today_searches": 0,
+          "today_cart_adds": 0,
+          "today_smart_orders": 14,
+          "total_searches": 1,
+          "total_cart_adds": 0,
+          "total_smart_orders": 0,
+          "total_days_used": 2,
+          "recent_actions": []
+        }
+      }
     },
     {
       "id": "48F632F1",
@@ -1045,128 +1161,6 @@
               "t": "2026-11-18 11:31:21",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (22 Ürün)"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "106A1333",
-      "pharmacy_name": "RÜYA ECZANESI",
-      "pharmacist_name": "ÇAĞRI ASLAN",
-      "phone": "05065963918",
-      "city": "SİNOP/SARAYDÜZÜ",
-      "gln_no": "8680001429554",
-      "otomasyon": "BOTANIK",
-      "plan": "PRO_YILLIK",
-      "expires_at": "2027-11-11",
-      "status": "AKTIF",
-      "hwid": "2DED-CFF9-D593",
-      "last_pc_name": "DESKTOP-8JN0NE5",
-      "app_version": "1.9.9",
-      "last_seen_at": "2026-11-18 11:37:32",
-      "last_action": "Günün Çıkışları / Kritik Stok",
-      "today_date": "2026-11-18",
-      "today_searches": 4,
-      "today_cart_adds": 0,
-      "today_smart_orders": 4,
-      "total_searches": 56,
-      "total_cart_adds": 144,
-      "total_days_used": 10,
-      "total_smart_orders": 311,
-      "pc_count": 1,
-      "devices": {
-        "2DED-CFF9-D593": {
-          "hwid": "2DED-CFF9-D593",
-          "pc_name": "DESKTOP-8JN0NE5",
-          "desk_name": "DESKTOP-8JN0NE5",
-          "local_ip": "192.168.1.37",
-          "app_version": "1.9.9",
-          "last_seen_at": "2026-11-18 11:37:32",
-          "last_action": "Günün Çıkışları / Kritik Stok",
-          "today_date": "2026-11-18",
-          "today_searches": 4,
-          "today_cart_adds": 0,
-          "today_smart_orders": 4,
-          "total_searches": 56,
-          "total_cart_adds": 144,
-          "total_smart_orders": 311,
-          "total_days_used": 10,
-          "recent_actions": [
-            {
-              "t": "2026-11-17 17:29:33",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-17 17:29:37",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-17 17:29:47",
-              "type": "cart",
-              "detail": "Toplu Sepet (ISKOOP): 3 Kalem"
-            },
-            {
-              "t": "2026-11-17 17:29:52",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-17 17:29:55",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (26 Ürün)"
-            },
-            {
-              "t": "2026-11-17 17:30:06",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-17 17:30:06",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (BOTANIK • 70 Kalem)"
-            },
-            {
-              "t": "2026-11-17 17:30:07",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-17 17:30:07",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (1 Ürün)"
-            },
-            {
-              "t": "2026-11-18 09:36:02",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-18 09:36:03",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-18 09:36:06",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-18 09:37:19",
-              "type": "search",
-              "detail": "Depo Sorgu: FLEXTRA 400 MG 24 FTB."
-            },
-            {
-              "t": "2026-11-18 09:37:48",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (4 Ürün)"
-            },
-            {
-              "t": "2026-11-18 11:37:32",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         }
