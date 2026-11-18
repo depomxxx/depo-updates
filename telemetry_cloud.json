@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 18:20:55",
+  "updated_at": "2026-11-18 18:21:01",
   "count": 7,
   "items": [
     {
@@ -707,16 +707,16 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "5834-FAC9-B71F",
-      "last_pc_name": "DESKTOP-OTHNDUE",
+      "hwid": "40AB-8832-D69D",
+      "last_pc_name": "DESKTOP-SMI9E20",
       "app_version": "1.9.14",
-      "last_seen_at": "2026-11-18 18:20:55",
-      "last_action": "[DESKTOP-OTHNDUE] Canlı MF Sorgulama (11 Ürün)",
+      "last_seen_at": "2026-11-18 18:21:01",
+      "last_action": "[DESKTOP-SMI9E20] Canlı MF Sorgulama (25 Ürün)",
       "today_date": "2026-11-18",
-      "today_searches": 66,
+      "today_searches": 67,
       "today_cart_adds": 149,
       "today_smart_orders": 335,
-      "total_searches": 662,
+      "total_searches": 663,
       "total_cart_adds": 1064,
       "total_smart_orders": 1281,
       "total_days_used": 13,
@@ -728,7 +728,7 @@
           "desk_name": "Eskienes",
           "local_ip": "192.168.1.117",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-18 18:20:51",
+          "last_seen_at": "2026-11-18 18:20:56",
           "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-18",
           "today_searches": 0,
@@ -822,22 +822,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-18 18:20:55",
-          "last_action": "Canlı MF Sorgulama (11 Ürün)",
+          "last_seen_at": "2026-11-18 18:21:00",
+          "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-18",
-          "today_searches": 38,
+          "today_searches": 39,
           "today_cart_adds": 58,
           "today_smart_orders": 155,
-          "total_searches": 171,
+          "total_searches": 172,
           "total_cart_adds": 465,
           "total_smart_orders": 598,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-18 18:01:14",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-18 18:01:16",
               "type": "search",
@@ -907,6 +902,11 @@
               "t": "2026-11-18 18:19:37",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (11 Ürün)"
+            },
+            {
+              "t": "2026-11-18 18:21:00",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ]
         },
@@ -1480,7 +1480,7 @@
           "desk_name": "DESKTOP-SMI9E20",
           "local_ip": "192.168.1.108",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-18 18:19:30",
+          "last_seen_at": "2026-11-18 18:21:01",
           "last_action": "Canlı MF Sorgulama (25 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 0,
