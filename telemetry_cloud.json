@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 17:00:34",
+  "updated_at": "2026-11-18 17:00:35",
   "count": 7,
   "items": [
     {
@@ -707,11 +707,11 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D719-CEB2-1542",
-      "last_pc_name": "DESKTOP-M530BBB",
+      "hwid": "B446-9737-94C4",
+      "last_pc_name": "DESKTOP-5PFFU5S",
       "app_version": "1.9.14",
-      "last_seen_at": "2026-11-18 17:00:28",
-      "last_action": "[DESKTOP-M530BBB] Canlı MF Sorgulama (13 Ürün)",
+      "last_seen_at": "2026-11-18 17:00:35",
+      "last_action": "[DESKTOP-5PFFU5S] Depo Sorgu: PAROL 500 MG 20 TB.",
       "today_date": "2026-11-18",
       "today_searches": 52,
       "today_cart_adds": 141,
@@ -1010,7 +1010,7 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-18 17:00:01",
+          "last_seen_at": "2026-11-18 17:00:35",
           "last_action": "Depo Sorgu: PAROL 500 MG 20 TB.",
           "today_date": "2026-11-18",
           "today_searches": 4,
