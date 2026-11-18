@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 14:31:34",
+  "updated_at": "2026-11-18 14:31:45",
   "count": 7,
   "items": [
     {
@@ -1799,14 +1799,14 @@
       "hwid": "1A4A-8625-6A54",
       "last_pc_name": "Cicobey",
       "app_version": "1.5.9",
-      "last_seen_at": "2026-11-18 14:30:09",
-      "last_action": "[Cicobey] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-18 14:31:45",
+      "last_action": "[Cicobey] Sepete Ekle (ALLIANCE): APRANAX FORTE 550MG 20 TABLE x1",
       "today_date": "2026-11-18",
       "today_searches": 6,
-      "today_cart_adds": 7,
+      "today_cart_adds": 8,
       "today_smart_orders": 7,
       "total_searches": 169,
-      "total_cart_adds": 633,
+      "total_cart_adds": 634,
       "total_days_used": 13,
       "total_smart_orders": 442,
       "pc_count": 3,
@@ -1985,22 +1985,17 @@
           "desk_name": "Cicobey",
           "local_ip": "192.168.1.8",
           "app_version": "1.5.9",
-          "last_seen_at": "2026-11-18 14:30:09",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-18 14:31:45",
+          "last_action": "Sepete Ekle (ALLIANCE): APRANAX FORTE 550MG 20 TABLE x1",
           "today_date": "2026-11-18",
           "today_searches": 6,
-          "today_cart_adds": 7,
+          "today_cart_adds": 8,
           "today_smart_orders": 7,
           "total_searches": 44,
-          "total_cart_adds": 69,
+          "total_cart_adds": 70,
           "total_smart_orders": 88,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-18 11:48:34",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-18 11:48:36",
               "type": "search",
@@ -2070,6 +2065,11 @@
               "t": "2026-11-18 14:30:09",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-18 14:30:14",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): APRANAX FORTE 550MG 20 TABLE x1"
             }
           ]
         }
