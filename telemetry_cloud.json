@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 14:30:10",
+  "updated_at": "2026-11-18 14:30:11",
   "count": 7,
   "items": [
     {
@@ -16,15 +16,15 @@
       "hwid": "E4F7-229A-BABD",
       "last_pc_name": "ChagriBeg",
       "app_version": "1.9.13",
-      "last_seen_at": "2026-11-18 14:29:48",
-      "last_action": "[ChagriBeg] Sepete Ekle (NEVZAT): TAMCEF KAPSÜL 300 MG 20 KAPS x1",
+      "last_seen_at": "2026-11-18 14:30:11",
+      "last_action": "[ChagriBeg] Canlı MF Sorgulama (8 Ürün)",
       "today_date": "2026-11-18",
       "today_searches": 24,
       "today_cart_adds": 64,
-      "today_smart_orders": 172,
+      "today_smart_orders": 177,
       "total_searches": 299,
       "total_cart_adds": 631,
-      "total_smart_orders": 987,
+      "total_smart_orders": 992,
       "total_days_used": 13,
       "pc_count": 3,
       "devices": {
@@ -34,7 +34,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.13",
-          "last_seen_at": "2026-11-18 14:29:42",
+          "last_seen_at": "2026-11-18 14:30:07",
           "last_action": "Canlı MF Sorgulama (27 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 0,
@@ -222,32 +222,17 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.9.13",
-          "last_seen_at": "2026-11-18 14:29:48",
-          "last_action": "Sepete Ekle (NEVZAT): TAMCEF KAPSÜL 300 MG 20 KAPS x1",
+          "last_seen_at": "2026-11-18 14:30:11",
+          "last_action": "Canlı MF Sorgulama (8 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 2,
           "today_cart_adds": 22,
-          "today_smart_orders": 42,
+          "today_smart_orders": 47,
           "total_searches": 106,
           "total_cart_adds": 106,
-          "total_smart_orders": 294,
+          "total_smart_orders": 299,
           "total_days_used": 12,
           "recent_actions": [
-            {
-              "t": "2026-11-18 14:02:00",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (7 Ürün)"
-            },
-            {
-              "t": "2026-11-18 14:02:00",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (13 Ürün)"
-            },
-            {
-              "t": "2026-11-18 14:02:13",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-18 14:02:13",
               "type": "mf_resolve",
@@ -307,6 +292,21 @@
               "t": "2026-11-18 14:13:42",
               "type": "cart",
               "detail": "Sepete Ekle (NEVZAT): TAMCEF KAPSÜL 300 MG 20 KAPS x1"
+            },
+            {
+              "t": "2026-11-18 14:29:52",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-18 14:29:53",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-18 14:30:11",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (8 Ürün)"
             }
           ]
         }
