@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 14:06:03",
+  "updated_at": "2026-11-18 14:06:07",
   "count": 7,
   "items": [
     {
@@ -710,14 +710,14 @@
       "hwid": "B446-9737-94C4",
       "last_pc_name": "DESKTOP-5PFFU5S",
       "app_version": "1.9.12",
-      "last_seen_at": "2026-11-18 14:05:44",
+      "last_seen_at": "2026-11-18 14:06:07",
       "last_action": "[DESKTOP-5PFFU5S] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-18",
       "today_searches": 36,
-      "today_cart_adds": 107,
+      "today_cart_adds": 110,
       "today_smart_orders": 227,
       "total_searches": 632,
-      "total_cart_adds": 1022,
+      "total_cart_adds": 1025,
       "total_smart_orders": 1173,
       "total_days_used": 13,
       "pc_count": 9,
@@ -1010,27 +1010,17 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 14:05:44",
+          "last_seen_at": "2026-11-18 14:06:07",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-18",
           "today_searches": 0,
-          "today_cart_adds": 53,
+          "today_cart_adds": 56,
           "today_smart_orders": 56,
           "total_searches": 97,
-          "total_cart_adds": 262,
+          "total_cart_adds": 265,
           "total_smart_orders": 108,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-18 13:59:45",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-18 13:59:47",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): CADUET 5 MG/10 MG 30 FILM KA x4"
-            },
             {
               "t": "2026-11-18 14:00:23",
               "type": "cart",
@@ -1093,6 +1083,16 @@
             },
             {
               "t": "2026-11-18 14:05:44",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-18 14:05:53",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): ENOX 4000 ANTI-XA IU/0.4 ML  x9"
+            },
+            {
+              "t": "2026-11-18 14:06:07",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
@@ -1292,7 +1292,7 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 14:04:52",
+          "last_seen_at": "2026-11-18 14:05:52",
           "last_action": "Canlı MF Sorgulama (2 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 0,
@@ -1386,7 +1386,7 @@
           "desk_name": "DESKTOP-1N3LQF0",
           "local_ip": "192.168.1.123",
           "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 14:05:01",
+          "last_seen_at": "2026-11-18 14:06:01",
           "last_action": "Depo Sorgu: SABALAKS %53.1+37 10 GR LAV",
           "today_date": "2026-11-18",
           "today_searches": 14,
