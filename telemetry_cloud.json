@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 13:46:41",
+  "updated_at": "2026-11-18 13:46:43",
   "count": 7,
   "items": [
     {
@@ -8,23 +8,23 @@
       "pharmacist_name": "GAMZE ASLAN",
       "phone": "05344064108",
       "city": "SAMSUN/ATAKUM",
-      "gln_no": "8680001134861",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "PRO_YILLIK",
       "expires_at": "2027-10-24",
       "status": "AKTIF",
-      "hwid": "E4F7-229A-BABD",
-      "last_pc_name": "ChagriBeg",
+      "hwid": "E6B1-5698-273E",
+      "last_pc_name": "DESKTOP-6KFO8IF",
       "app_version": "1.9.12",
-      "last_seen_at": "2026-11-18 13:46:29",
-      "last_action": "[ChagriBeg] Canlı MF Sorgulama (19 Ürün)",
+      "last_seen_at": "2026-11-18 13:46:43",
+      "last_action": "[DESKTOP-6KFO8IF] Canlı MF Sorgulama (20 Ürün)",
       "today_date": "2026-11-18",
       "today_searches": 24,
       "today_cart_adds": 52,
-      "today_smart_orders": 132,
+      "today_smart_orders": 140,
       "total_searches": 299,
       "total_cart_adds": 619,
-      "total_smart_orders": 947,
+      "total_smart_orders": 955,
       "total_days_used": 13,
       "pc_count": 3,
       "devices": {
@@ -34,7 +34,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 13:46:08",
+          "last_seen_at": "2026-11-18 13:46:43",
           "last_action": "Canlı MF Sorgulama (20 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 0,
@@ -128,57 +128,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 13:45:06",
-          "last_action": "Sepete Ekle (ALLIANCE): VENTOPIUM PLUS 05 MG/2.5 20 x10",
+          "last_seen_at": "2026-11-18 13:46:29",
+          "last_action": "Canlı MF Sorgulama (1 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 22,
           "today_cart_adds": 35,
-          "today_smart_orders": 79,
+          "today_smart_orders": 87,
           "total_searches": 155,
           "total_cart_adds": 442,
-          "total_smart_orders": 522,
+          "total_smart_orders": 530,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-18 13:34:17",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): FLOBEN 2 MG/2 ML NEBUL SUSP x10"
-            },
-            {
-              "t": "2026-11-18 13:34:32",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-18 13:34:35",
-              "type": "search",
-              "detail": "Depo Sorgu: TAMCEF 300 MG 20 CAP."
-            },
-            {
-              "t": "2026-11-18 13:34:38",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-18 13:34:41",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): TAMCEF 300 MG 20 KAPSUL x5"
-            },
-            {
-              "t": "2026-11-18 13:35:50",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-18 13:35:51",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 27 Kalem)"
-            },
-            {
-              "t": "2026-11-18 13:35:51",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-18 13:35:53",
               "type": "mf_resolve",
@@ -213,6 +173,46 @@
               "t": "2026-11-18 13:36:51",
               "type": "cart",
               "detail": "Sepete Ekle (ALLIANCE): VENTOPIUM PLUS 05 MG/2.5 20 x10"
+            },
+            {
+              "t": "2026-11-18 13:46:04",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-18 13:46:04",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 27 Kalem)"
+            },
+            {
+              "t": "2026-11-18 13:46:04",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-18 13:46:05",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (1 Ürün)"
+            },
+            {
+              "t": "2026-11-18 13:46:28",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-18 13:46:28",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 27 Kalem)"
+            },
+            {
+              "t": "2026-11-18 13:46:28",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-18 13:46:29",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (1 Ürün)"
             }
           ]
         },
@@ -222,7 +222,7 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 13:46:29",
+          "last_seen_at": "2026-11-18 13:46:41",
           "last_action": "Canlı MF Sorgulama (19 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 2,
