@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 14:29:24",
+  "updated_at": "2026-11-18 14:29:31",
   "count": 7,
   "items": [
     {
@@ -707,18 +707,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "B446-9737-94C4",
-      "last_pc_name": "DESKTOP-5PFFU5S",
-      "app_version": "1.9.12",
-      "last_seen_at": "2026-11-18 14:29:23",
-      "last_action": "[DESKTOP-5PFFU5S] Sepete Ekle (ALLIANCE): DRAMAMINE 50 MG 12 TABLET x3",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
+      "app_version": "1.9.13",
+      "last_seen_at": "2026-11-18 14:29:30",
+      "last_action": "[DESKTOP-OTHNDUE] Canlı MF Sorgulama (1 Ürün)",
       "today_date": "2026-11-18",
       "today_searches": 38,
       "today_cart_adds": 122,
-      "today_smart_orders": 232,
+      "today_smart_orders": 234,
       "total_searches": 634,
       "total_cart_adds": 1037,
-      "total_smart_orders": 1178,
+      "total_smart_orders": 1180,
       "total_days_used": 13,
       "pc_count": 9,
       "devices": {
@@ -821,8 +821,8 @@
           "pc_name": "DESKTOP-OTHNDUE",
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
-          "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 14:28:26",
+          "app_version": "1.9.13",
+          "last_seen_at": "2026-11-18 14:29:30",
           "last_action": "Canlı MF Sorgulama (1 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 22,
@@ -1103,28 +1103,18 @@
           "pc_name": "DESKTOP-6KFO8IF",
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
-          "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 14:28:08",
-          "last_action": "Canlı MF Sorgulama (20 Ürün)",
+          "app_version": "1.9.13",
+          "last_seen_at": "2026-11-18 14:29:18",
+          "last_action": "Canlı MF Taraması",
           "today_date": "2026-11-18",
           "today_searches": 0,
           "today_cart_adds": 7,
-          "today_smart_orders": 24,
+          "today_smart_orders": 26,
           "total_searches": 38,
           "total_cart_adds": 83,
-          "total_smart_orders": 144,
+          "total_smart_orders": 146,
           "total_days_used": 12,
           "recent_actions": [
-            {
-              "t": "2026-11-18 10:53:07",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (1 Ürün)"
-            },
-            {
-              "t": "2026-11-18 10:53:21",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-18 10:54:12",
               "type": "cart",
@@ -1189,6 +1179,16 @@
               "t": "2026-11-18 13:25:41",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (20 Ürün)"
+            },
+            {
+              "t": "2026-11-18 14:29:16",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-18 14:29:16",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
             }
           ]
         },
