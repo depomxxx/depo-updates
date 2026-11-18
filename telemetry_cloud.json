@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 14:06:16",
+  "updated_at": "2026-11-18 14:06:23",
   "count": 7,
   "items": [
     {
@@ -707,17 +707,17 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "B446-9737-94C4",
-      "last_pc_name": "DESKTOP-5PFFU5S",
+      "hwid": "D2E4-AA57-C021",
+      "last_pc_name": "DESKTOP-1N3LQF0",
       "app_version": "1.9.12",
-      "last_seen_at": "2026-11-18 14:06:07",
-      "last_action": "[DESKTOP-5PFFU5S] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-18 14:06:23",
+      "last_action": "[DESKTOP-1N3LQF0] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-18",
       "today_searches": 36,
-      "today_cart_adds": 110,
+      "today_cart_adds": 112,
       "today_smart_orders": 227,
       "total_searches": 632,
-      "total_cart_adds": 1025,
+      "total_cart_adds": 1027,
       "total_smart_orders": 1173,
       "total_days_used": 13,
       "pc_count": 9,
@@ -1010,22 +1010,17 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 14:06:07",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-18 14:06:09",
+          "last_action": "Sepete Ekle (ALLIANCE): DRAMAMINE 50 MG 12 TABLET x3",
           "today_date": "2026-11-18",
           "today_searches": 0,
-          "today_cart_adds": 56,
+          "today_cart_adds": 57,
           "today_smart_orders": 56,
           "total_searches": 97,
-          "total_cart_adds": 265,
+          "total_cart_adds": 266,
           "total_smart_orders": 108,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-18 14:00:23",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-18 14:00:28",
               "type": "cart",
@@ -1095,6 +1090,11 @@
               "t": "2026-11-18 14:06:07",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-18 14:06:09",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): DRAMAMINE 50 MG 12 TABLET x3"
             }
           ]
         },
@@ -1386,22 +1386,17 @@
           "desk_name": "DESKTOP-1N3LQF0",
           "local_ip": "192.168.1.123",
           "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 14:06:01",
-          "last_action": "Depo Sorgu: SABALAKS %53.1+37 10 GR LAV",
+          "last_seen_at": "2026-11-18 14:06:23",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-18",
           "today_searches": 14,
-          "today_cart_adds": 4,
+          "today_cart_adds": 5,
           "today_smart_orders": 16,
           "total_searches": 79,
-          "total_cart_adds": 30,
+          "total_cart_adds": 31,
           "total_smart_orders": 83,
           "total_days_used": 9,
           "recent_actions": [
-            {
-              "t": "2026-11-18 11:31:04",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-18 11:31:21",
               "type": "mf_resolve",
@@ -1471,6 +1466,11 @@
               "t": "2026-11-18 14:03:25",
               "type": "search",
               "detail": "Depo Sorgu: SABALAKS %53.1+37 10 GR LAV"
+            },
+            {
+              "t": "2026-11-18 14:06:23",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
