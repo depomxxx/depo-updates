@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 12:36:19",
+  "updated_at": "2026-11-18 12:36:26",
   "count": 7,
   "items": [
     {
@@ -710,15 +710,15 @@
       "hwid": "B446-9737-94C4",
       "last_pc_name": "DESKTOP-5PFFU5S",
       "app_version": "1.9.10",
-      "last_seen_at": "2026-11-18 12:36:08",
-      "last_action": "[DESKTOP-5PFFU5S] Canlı MF Taraması",
+      "last_seen_at": "2026-11-18 12:36:26",
+      "last_action": "[DESKTOP-5PFFU5S] Günün Çıkışları Yenileme (TRIA • 30 Kalem)",
       "today_date": "2026-11-18",
       "today_searches": 20,
       "today_cart_adds": 25,
-      "today_smart_orders": 87,
+      "today_smart_orders": 89,
       "total_searches": 616,
       "total_cart_adds": 940,
-      "total_smart_orders": 1033,
+      "total_smart_orders": 1035,
       "total_days_used": 13,
       "pc_count": 8,
       "devices": {
@@ -1010,27 +1010,17 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.9.10",
-          "last_seen_at": "2026-11-18 12:36:08",
-          "last_action": "Canlı MF Taraması",
+          "last_seen_at": "2026-11-18 12:36:26",
+          "last_action": "Günün Çıkışları Yenileme (TRIA • 30 Kalem)",
           "today_date": "2026-11-18",
           "today_searches": 0,
           "today_cart_adds": 0,
-          "today_smart_orders": 6,
+          "today_smart_orders": 8,
           "total_searches": 97,
           "total_cart_adds": 209,
-          "total_smart_orders": 58,
+          "total_smart_orders": 60,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-16 11:33:28",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-16 11:33:38",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (30 Ürün)"
-            },
             {
               "t": "2026-11-16 11:33:39",
               "type": "mf_resolve",
@@ -1095,6 +1085,16 @@
               "t": "2026-11-18 12:36:08",
               "type": "mf_resolve",
               "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-18 12:36:09",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (1 Ürün)"
+            },
+            {
+              "t": "2026-11-18 12:36:26",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 30 Kalem)"
             }
           ]
         },
