@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 12:09:45",
+  "updated_at": "2026-11-18 12:09:52",
   "count": 7,
   "items": [
     {
@@ -707,18 +707,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D2E4-AA57-C021",
-      "last_pc_name": "DESKTOP-1N3LQF0",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.10",
-      "last_seen_at": "2026-11-18 12:09:31",
-      "last_action": "[DESKTOP-1N3LQF0] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-18 12:09:52",
+      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları Yenileme (TRIA • 22 Kalem)",
       "today_date": "2026-11-18",
       "today_searches": 16,
       "today_cart_adds": 21,
-      "today_smart_orders": 66,
+      "today_smart_orders": 67,
       "total_searches": 612,
       "total_cart_adds": 936,
-      "total_smart_orders": 1012,
+      "total_smart_orders": 1013,
       "total_days_used": 13,
       "pc_count": 8,
       "devices": {
@@ -728,7 +728,7 @@
           "desk_name": "Eskienes",
           "local_ip": "192.168.1.117",
           "app_version": "1.9.10",
-          "last_seen_at": "2026-11-18 12:09:16",
+          "last_seen_at": "2026-11-18 12:09:33",
           "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-18",
           "today_searches": 0,
@@ -822,22 +822,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.10",
-          "last_seen_at": "2026-11-18 12:09:26",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-18 12:09:52",
+          "last_action": "Günün Çıkışları Yenileme (TRIA • 22 Kalem)",
           "today_date": "2026-11-18",
           "today_searches": 6,
           "today_cart_adds": 10,
-          "today_smart_orders": 33,
+          "today_smart_orders": 34,
           "total_searches": 139,
           "total_cart_adds": 417,
-          "total_smart_orders": 476,
+          "total_smart_orders": 477,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-18 12:06:19",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 21 Kalem)"
-            },
             {
               "t": "2026-11-18 12:06:19",
               "type": "mf_resolve",
@@ -907,6 +902,11 @@
               "t": "2026-11-18 12:09:26",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-18 12:09:52",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 22 Kalem)"
             }
           ]
         },
