@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 13:35:45",
+  "updated_at": "2026-11-18 13:35:50",
   "count": 7,
   "items": [
     {
@@ -707,18 +707,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "B446-9737-94C4",
-      "last_pc_name": "DESKTOP-5PFFU5S",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.12",
-      "last_seen_at": "2026-11-18 13:34:44",
-      "last_action": "[DESKTOP-5PFFU5S] Canlı MF Sorgulama (3 Ürün)",
+      "last_seen_at": "2026-11-18 13:35:50",
+      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-18",
       "today_searches": 32,
-      "today_cart_adds": 44,
-      "today_smart_orders": 168,
+      "today_cart_adds": 46,
+      "today_smart_orders": 169,
       "total_searches": 628,
-      "total_cart_adds": 959,
-      "total_smart_orders": 1114,
+      "total_cart_adds": 961,
+      "total_smart_orders": 1115,
       "total_days_used": 13,
       "pc_count": 8,
       "devices": {
@@ -728,7 +728,7 @@
           "desk_name": "Eskienes",
           "local_ip": "192.168.1.117",
           "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 13:34:37",
+          "last_seen_at": "2026-11-18 13:34:58",
           "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-18",
           "today_searches": 0,
@@ -822,32 +822,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 13:34:35",
-          "last_action": "Depo Sorgu: TAMCEF 300 MG 20 CAP.",
+          "last_seen_at": "2026-11-18 13:35:50",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-18",
           "today_searches": 20,
-          "today_cart_adds": 29,
-          "today_smart_orders": 75,
+          "today_cart_adds": 31,
+          "today_smart_orders": 76,
           "total_searches": 153,
-          "total_cart_adds": 436,
-          "total_smart_orders": 518,
+          "total_cart_adds": 438,
+          "total_smart_orders": 519,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-18 13:33:29",
-              "type": "search",
-              "detail": "Depo Sorgu: FLOBEN 2 MG 2 ML 10 FLK."
-            },
-            {
-              "t": "2026-11-18 13:33:34",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-18 13:33:35",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): FLOBEN 2 MG/2 ML NEBUL SUSP x5"
-            },
             {
               "t": "2026-11-18 13:33:43",
               "type": "cart",
@@ -907,6 +892,21 @@
               "t": "2026-11-18 13:34:35",
               "type": "search",
               "detail": "Depo Sorgu: TAMCEF 300 MG 20 CAP."
+            },
+            {
+              "t": "2026-11-18 13:34:38",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-18 13:34:41",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): TAMCEF 300 MG 20 KAPSUL x5"
+            },
+            {
+              "t": "2026-11-18 13:35:50",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         },
@@ -1104,7 +1104,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 13:34:08",
+          "last_seen_at": "2026-11-18 13:35:08",
           "last_action": "Canlı MF Sorgulama (20 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 0,
