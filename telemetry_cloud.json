@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 13:34:32",
+  "updated_at": "2026-11-18 13:34:35",
   "count": 7,
   "items": [
     {
@@ -8,23 +8,23 @@
       "pharmacist_name": "GAMZE ASLAN",
       "phone": "05344064108",
       "city": "SAMSUN/ATAKUM",
-      "gln_no": "8680001134861",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "PRO_YILLIK",
       "expires_at": "2027-10-24",
       "status": "AKTIF",
-      "hwid": "E4F7-229A-BABD",
-      "last_pc_name": "ChagriBeg",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.12",
-      "last_seen_at": "2026-11-18 13:34:21",
-      "last_action": "[ChagriBeg] Canlı MF Sorgulama (19 Ürün)",
+      "last_seen_at": "2026-11-18 13:34:35",
+      "last_action": "[DESKTOP-OTHNDUE] Depo Sorgu: TAMCEF 300 MG 20 CAP.",
       "today_date": "2026-11-18",
-      "today_searches": 16,
-      "today_cart_adds": 37,
-      "today_smart_orders": 117,
-      "total_searches": 291,
-      "total_cart_adds": 604,
-      "total_smart_orders": 932,
+      "today_searches": 22,
+      "today_cart_adds": 46,
+      "today_smart_orders": 128,
+      "total_searches": 297,
+      "total_cart_adds": 613,
+      "total_smart_orders": 943,
       "total_days_used": 13,
       "pc_count": 3,
       "devices": {
@@ -34,7 +34,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 13:34:08",
+          "last_seen_at": "2026-11-18 13:34:35",
           "last_action": "Canlı MF Sorgulama (20 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 0,
@@ -128,91 +128,91 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 13:33:03",
-          "last_action": "Depo Sorgu: FLOBEN 2 MG 2 ML 10 FLK.",
+          "last_seen_at": "2026-11-18 13:34:35",
+          "last_action": "Depo Sorgu: TAMCEF 300 MG 20 CAP.",
           "today_date": "2026-11-18",
-          "today_searches": 14,
-          "today_cart_adds": 20,
-          "today_smart_orders": 64,
-          "total_searches": 147,
-          "total_cart_adds": 427,
-          "total_smart_orders": 507,
+          "today_searches": 20,
+          "today_cart_adds": 29,
+          "today_smart_orders": 75,
+          "total_searches": 153,
+          "total_cart_adds": 436,
+          "total_smart_orders": 518,
           "total_days_used": 13,
           "recent_actions": [
             {
-              "t": "2026-11-18 13:29:41",
+              "t": "2026-11-18 13:33:29",
               "type": "search",
               "detail": "Depo Sorgu: FLOBEN 2 MG 2 ML 10 FLK."
             },
             {
-              "t": "2026-11-18 13:29:47",
+              "t": "2026-11-18 13:33:34",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
             },
             {
-              "t": "2026-11-18 13:29:49",
+              "t": "2026-11-18 13:33:35",
               "type": "cart",
               "detail": "Sepete Ekle (ALLIANCE): FLOBEN 2 MG/2 ML NEBUL SUSP x5"
             },
             {
-              "t": "2026-11-18 13:32:09",
+              "t": "2026-11-18 13:33:43",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
             },
             {
-              "t": "2026-11-18 13:32:11",
+              "t": "2026-11-18 13:33:45",
               "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): FLOBEN 2 MG/2 ML NEBUL SUSP x5"
+              "detail": "Sepete Ekle (ALLIANCE): FLOBEN 2 MG/2 ML NEBUL SUSP x10"
             },
             {
-              "t": "2026-11-18 13:32:13",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-18 13:32:17",
-              "type": "search",
-              "detail": "Depo Sorgu: VENTOPIUM PLUS 2.5/0.5 MG 2.5"
-            },
-            {
-              "t": "2026-11-18 13:32:35",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-18 13:32:37",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): VENTOPIUM PLUS 05 MG/2.5 20 x5"
-            },
-            {
-              "t": "2026-11-18 13:32:54",
+              "t": "2026-11-18 13:34:02",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
             },
             {
-              "t": "2026-11-18 13:32:54",
+              "t": "2026-11-18 13:34:02",
               "type": "critical_stock",
               "detail": "Günün Çıkışları Yenileme (TRIA • 25 Kalem)"
             },
             {
-              "t": "2026-11-18 13:32:54",
+              "t": "2026-11-18 13:34:02",
               "type": "mf_resolve",
               "detail": "Canlı MF Taraması"
             },
             {
-              "t": "2026-11-18 13:33:00",
+              "t": "2026-11-18 13:34:02",
               "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (2 Ürün)"
+              "detail": "Canlı MF Sorgulama (1 Ürün)"
             },
             {
-              "t": "2026-11-18 13:33:01",
+              "t": "2026-11-18 13:34:03",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
             },
             {
-              "t": "2026-11-18 13:33:03",
+              "t": "2026-11-18 13:34:05",
               "type": "search",
               "detail": "Depo Sorgu: FLOBEN 2 MG 2 ML 10 FLK."
+            },
+            {
+              "t": "2026-11-18 13:34:11",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-18 13:34:17",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): FLOBEN 2 MG/2 ML NEBUL SUSP x10"
+            },
+            {
+              "t": "2026-11-18 13:34:32",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-18 13:34:35",
+              "type": "search",
+              "detail": "Depo Sorgu: TAMCEF 300 MG 20 CAP."
             }
           ]
         },
