@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 14:32:26",
+  "updated_at": "2026-11-18 14:32:41",
   "count": 7,
   "items": [
     {
@@ -707,17 +707,17 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "40AB-8832-D69D",
-      "last_pc_name": "DESKTOP-SMI9E20",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.13",
-      "last_seen_at": "2026-11-18 14:32:15",
-      "last_action": "[DESKTOP-SMI9E20] Sepete Ekle (ALLIANCE): POTRICAL-B %0,005 + %0,05 ME x2",
+      "last_seen_at": "2026-11-18 14:32:41",
+      "last_action": "[DESKTOP-OTHNDUE] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-18",
-      "today_searches": 39,
-      "today_cart_adds": 128,
+      "today_searches": 40,
+      "today_cart_adds": 129,
       "today_smart_orders": 261,
-      "total_searches": 635,
-      "total_cart_adds": 1043,
+      "total_searches": 636,
+      "total_cart_adds": 1044,
       "total_smart_orders": 1207,
       "total_days_used": 13,
       "pc_count": 9,
@@ -728,7 +728,7 @@
           "desk_name": "Eskienes",
           "local_ip": "192.168.1.117",
           "app_version": "1.9.13",
-          "last_seen_at": "2026-11-18 14:32:02",
+          "last_seen_at": "2026-11-18 14:32:27",
           "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-18",
           "today_searches": 0,
@@ -822,27 +822,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.13",
-          "last_seen_at": "2026-11-18 14:32:11",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-18 14:32:41",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-18",
-          "today_searches": 23,
-          "today_cart_adds": 41,
+          "today_searches": 24,
+          "today_cart_adds": 42,
           "today_smart_orders": 114,
-          "total_searches": 156,
-          "total_cart_adds": 448,
+          "total_searches": 157,
+          "total_cart_adds": 449,
           "total_smart_orders": 557,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-18 14:31:29",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-18 14:31:29",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 34 Kalem)"
-            },
             {
               "t": "2026-11-18 14:31:29",
               "type": "mf_resolve",
@@ -907,6 +897,16 @@
               "t": "2026-11-18 14:32:11",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-18 14:32:16",
+              "type": "search",
+              "detail": "Depo Sorgu: DEPORES FREE %0.05 5.5 ML GTT"
+            },
+            {
+              "t": "2026-11-18 14:32:41",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
