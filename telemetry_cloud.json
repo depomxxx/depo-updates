@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 14:35:14",
+  "updated_at": "2026-11-18 14:35:28",
   "count": 7,
   "items": [
     {
@@ -8,23 +8,23 @@
       "pharmacist_name": "GAMZE ASLAN",
       "phone": "05344064108",
       "city": "SAMSUN/ATAKUM",
-      "gln_no": "8680001134861",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "PRO_YILLIK",
       "expires_at": "2027-10-24",
       "status": "AKTIF",
-      "hwid": "E4F7-229A-BABD",
-      "last_pc_name": "ChagriBeg",
+      "hwid": "E6B1-5698-273E",
+      "last_pc_name": "DESKTOP-6KFO8IF",
       "app_version": "1.9.14",
-      "last_seen_at": "2026-11-18 14:34:41",
-      "last_action": "[ChagriBeg] Canlı MF Sorgulama (19 Ürün)",
+      "last_seen_at": "2026-11-18 14:35:28",
+      "last_action": "[DESKTOP-6KFO8IF] Canlı MF Sorgulama (2 Ürün)",
       "today_date": "2026-11-18",
-      "today_searches": 26,
-      "today_cart_adds": 75,
-      "today_smart_orders": 201,
-      "total_searches": 301,
-      "total_cart_adds": 642,
-      "total_smart_orders": 1016,
+      "today_searches": 28,
+      "today_cart_adds": 77,
+      "today_smart_orders": 209,
+      "total_searches": 303,
+      "total_cart_adds": 644,
+      "total_smart_orders": 1024,
       "total_days_used": 13,
       "pc_count": 3,
       "devices": {
@@ -34,7 +34,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-18 14:34:38",
+          "last_seen_at": "2026-11-18 14:35:28",
           "last_action": "Canlı MF Sorgulama (2 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 0,
@@ -128,77 +128,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-18 14:33:41",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-18 14:35:21",
+          "last_action": "Canlı MF Sorgulama (1 Ürün)",
           "today_date": "2026-11-18",
-          "today_searches": 24,
-          "today_cart_adds": 46,
-          "today_smart_orders": 117,
-          "total_searches": 157,
-          "total_cart_adds": 453,
-          "total_smart_orders": 560,
+          "today_searches": 26,
+          "today_cart_adds": 48,
+          "today_smart_orders": 125,
+          "total_searches": 159,
+          "total_cart_adds": 455,
+          "total_smart_orders": 568,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-18 14:31:37",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-18 14:31:40",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): BACTRİM FORTE TABLET 800 MG/ x2"
-            },
-            {
-              "t": "2026-11-18 14:31:46",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-18 14:31:47",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): NADIXA %1 30 GR KREM x2"
-            },
-            {
-              "t": "2026-11-18 14:32:00",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-18 14:32:02",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): PREGNOM MAX 60 SOFT JEL KAPS x1"
-            },
-            {
-              "t": "2026-11-18 14:32:11",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-18 14:32:16",
-              "type": "search",
-              "detail": "Depo Sorgu: DEPORES FREE %0.05 5.5 ML GTT"
-            },
-            {
-              "t": "2026-11-18 14:32:41",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-18 14:32:54",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-18 14:32:54",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-18 14:32:55",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (1 Ürün)"
-            },
             {
               "t": "2026-11-18 14:33:00",
               "type": "cart",
@@ -213,6 +153,66 @@
               "t": "2026-11-18 14:33:20",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-18 14:34:03",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-18 14:34:03",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 34 Kalem)"
+            },
+            {
+              "t": "2026-11-18 14:34:03",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-18 14:34:03",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (1 Ürün)"
+            },
+            {
+              "t": "2026-11-18 14:34:27",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-18 14:34:34",
+              "type": "search",
+              "detail": "Depo Sorgu: TAMCEF 300 MG 20 CAP."
+            },
+            {
+              "t": "2026-11-18 14:34:41",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-18 14:34:42",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): TAMCEF 300 MG 20 KAPSUL x5"
+            },
+            {
+              "t": "2026-11-18 14:34:46",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-18 14:34:46",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 34 Kalem)"
+            },
+            {
+              "t": "2026-11-18 14:34:46",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-18 14:34:46",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (1 Ürün)"
             }
           ]
         },
@@ -222,7 +222,7 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-18 14:34:41",
+          "last_seen_at": "2026-11-18 14:35:07",
           "last_action": "Canlı MF Sorgulama (19 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 2,
