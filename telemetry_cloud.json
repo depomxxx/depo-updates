@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 18:00:52",
+  "updated_at": "2026-11-18 18:01:02",
   "count": 7,
   "items": [
     {
@@ -710,13 +710,13 @@
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.14",
-      "last_seen_at": "2026-11-18 18:00:42",
-      "last_action": "[DESKTOP-OTHNDUE] Canlı MF Taraması",
+      "last_seen_at": "2026-11-18 18:01:02",
+      "last_action": "[DESKTOP-OTHNDUE] Depo Sorgu: BESTİRON PLUS DEMİR İÇEREN SIVI TAKVİY",
       "today_date": "2026-11-18",
-      "today_searches": 54,
+      "today_searches": 60,
       "today_cart_adds": 141,
       "today_smart_orders": 330,
-      "total_searches": 650,
+      "total_searches": 656,
       "total_cart_adds": 1056,
       "total_smart_orders": 1276,
       "total_days_used": 13,
@@ -728,7 +728,7 @@
           "desk_name": "Eskienes",
           "local_ip": "192.168.1.117",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-18 17:59:56",
+          "last_seen_at": "2026-11-18 18:00:56",
           "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-18",
           "today_searches": 0,
@@ -822,47 +822,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-18 18:00:42",
-          "last_action": "Canlı MF Taraması",
+          "last_seen_at": "2026-11-18 18:01:02",
+          "last_action": "Depo Sorgu: BESTİRON PLUS DEMİR İÇEREN SIVI TAKVİY",
           "today_date": "2026-11-18",
-          "today_searches": 26,
+          "today_searches": 32,
           "today_cart_adds": 50,
           "today_smart_orders": 150,
-          "total_searches": 159,
+          "total_searches": 165,
           "total_cart_adds": 457,
           "total_smart_orders": 593,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-18 15:16:52",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-18 15:16:53",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (1 Ürün)"
-            },
-            {
-              "t": "2026-11-18 15:17:44",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-18 15:17:44",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 34 Kalem)"
-            },
-            {
-              "t": "2026-11-18 15:17:44",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-18 15:17:44",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (1 Ürün)"
-            },
             {
               "t": "2026-11-18 15:20:52",
               "type": "critical_stock",
@@ -907,6 +877,36 @@
               "t": "2026-11-18 18:00:42",
               "type": "mf_resolve",
               "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-18 18:00:42",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-18 18:00:47",
+              "type": "search",
+              "detail": "Depo Sorgu: BUGIYA PROBIYOTIK"
+            },
+            {
+              "t": "2026-11-18 18:00:49",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-18 18:00:51",
+              "type": "search",
+              "detail": "Depo Sorgu: TARDEN 40 MG 30 FTB."
+            },
+            {
+              "t": "2026-11-18 18:01:00",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-18 18:01:02",
+              "type": "search",
+              "detail": "Depo Sorgu: BESTİRON PLUS DEMİR İÇEREN SIVI TAKVİY"
             }
           ]
         },
