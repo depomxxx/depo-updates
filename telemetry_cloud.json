@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 16:24:06",
+  "updated_at": "2026-11-18 16:24:03",
   "count": 7,
   "items": [
     {
@@ -728,7 +728,7 @@
           "desk_name": "Eskienes",
           "local_ip": "192.168.1.117",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-18 16:22:56",
+          "last_seen_at": "2026-11-18 16:23:56",
           "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-18",
           "today_searches": 0,
@@ -1480,7 +1480,7 @@
           "desk_name": "DESKTOP-SMI9E20",
           "local_ip": "192.168.1.108",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-18 16:22:32",
+          "last_seen_at": "2026-11-18 16:24:03",
           "last_action": "Canlı MF Sorgulama (25 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 0,
