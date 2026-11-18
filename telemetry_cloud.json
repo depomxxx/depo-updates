@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 12:31:46",
+  "updated_at": "2026-11-18 12:31:52",
   "count": 7,
   "items": [
     {
@@ -707,18 +707,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D2E4-AA57-C021",
-      "last_pc_name": "DESKTOP-1N3LQF0",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.10",
-      "last_seen_at": "2026-11-18 12:30:46",
-      "last_action": "[DESKTOP-1N3LQF0] Depo Sorgu: REFRESH TEARS 15 ML GOZ GTT.",
+      "last_seen_at": "2026-11-18 12:31:52",
+      "last_action": "[DESKTOP-OTHNDUE] Canlı MF Sorgulama (4 Ürün)",
       "today_date": "2026-11-18",
       "today_searches": 20,
       "today_cart_adds": 25,
-      "today_smart_orders": 78,
+      "today_smart_orders": 81,
       "total_searches": 616,
       "total_cart_adds": 940,
-      "total_smart_orders": 1024,
+      "total_smart_orders": 1027,
       "total_days_used": 13,
       "pc_count": 8,
       "devices": {
@@ -728,7 +728,7 @@
           "desk_name": "Eskienes",
           "local_ip": "192.168.1.117",
           "app_version": "1.9.10",
-          "last_seen_at": "2026-11-18 12:30:23",
+          "last_seen_at": "2026-11-18 12:31:38",
           "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-18",
           "today_searches": 0,
@@ -822,32 +822,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.10",
-          "last_seen_at": "2026-11-18 12:30:27",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-18 12:31:52",
+          "last_action": "Canlı MF Sorgulama (4 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 8,
           "today_cart_adds": 14,
-          "today_smart_orders": 45,
+          "today_smart_orders": 48,
           "total_searches": 141,
           "total_cart_adds": 421,
-          "total_smart_orders": 488,
+          "total_smart_orders": 491,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-18 12:09:53",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (2 Ürün)"
-            },
-            {
-              "t": "2026-11-18 12:10:44",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-18 12:10:51",
-              "type": "search",
-              "detail": "Depo Sorgu: COLEDAN D3 50.000 IU 8 CAP."
-            },
             {
               "t": "2026-11-18 12:11:05",
               "type": "cart",
@@ -907,6 +892,21 @@
               "t": "2026-11-18 12:30:27",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-18 12:30:30",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 26 Kalem)"
+            },
+            {
+              "t": "2026-11-18 12:30:30",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-18 12:30:37",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (4 Ürün)"
             }
           ]
         },
@@ -1104,7 +1104,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.10",
-          "last_seen_at": "2026-11-18 12:30:08",
+          "last_seen_at": "2026-11-18 12:31:26",
           "last_action": "Canlı MF Sorgulama (2 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 0,
