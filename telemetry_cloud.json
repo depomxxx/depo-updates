@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 12:06:45",
+  "updated_at": "2026-11-18 12:06:56",
   "count": 7,
   "items": [
     {
@@ -8,7 +8,7 @@
       "pharmacist_name": "GAMZE ASLAN",
       "phone": "05344064108",
       "city": "SAMSUN/ATAKUM",
-      "gln_no": "8680001134861",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "PRO_YILLIK",
       "expires_at": "2027-10-24",
@@ -16,15 +16,15 @@
       "hwid": "E4F7-229A-BABD",
       "last_pc_name": "ChagriBeg",
       "app_version": "1.9.10",
-      "last_seen_at": "2026-11-18 12:06:45",
-      "last_action": "[ChagriBeg] Depo Fiyat Sorgulama",
+      "last_seen_at": "2026-11-18 12:06:56",
+      "last_action": "[ChagriBeg] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-18",
-      "today_searches": 7,
-      "today_cart_adds": 13,
-      "today_smart_orders": 44,
-      "total_searches": 282,
-      "total_cart_adds": 580,
-      "total_smart_orders": 859,
+      "today_searches": 8,
+      "today_cart_adds": 14,
+      "today_smart_orders": 48,
+      "total_searches": 283,
+      "total_cart_adds": 581,
+      "total_smart_orders": 863,
       "total_days_used": 13,
       "pc_count": 3,
       "devices": {
@@ -34,7 +34,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.10",
-          "last_seen_at": "2026-11-18 12:06:31",
+          "last_seen_at": "2026-11-18 12:06:56",
           "last_action": "Canlı MF Sorgulama (2 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 0,
@@ -128,37 +128,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.10",
-          "last_seen_at": "2026-11-18 12:05:29",
-          "last_action": "Canlı MF Sorgulama (3 Ürün)",
+          "last_seen_at": "2026-11-18 12:06:52",
+          "last_action": "Canlı MF Sorgulama (14 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 6,
           "today_cart_adds": 5,
-          "today_smart_orders": 20,
+          "today_smart_orders": 24,
           "total_searches": 139,
           "total_cart_adds": 412,
-          "total_smart_orders": 463,
+          "total_smart_orders": 467,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-18 11:38:59",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 21 Kalem)"
-            },
-            {
-              "t": "2026-11-18 11:38:59",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-18 11:38:59",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (2 Ürün)"
-            },
-            {
-              "t": "2026-11-18 11:39:30",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-18 11:39:38",
               "type": "search",
@@ -213,6 +193,26 @@
               "t": "2026-11-18 12:05:29",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (3 Ürün)"
+            },
+            {
+              "t": "2026-11-18 12:06:16",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-18 12:06:19",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 21 Kalem)"
+            },
+            {
+              "t": "2026-11-18 12:06:19",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-18 12:06:30",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (14 Ürün)"
             }
           ]
         },
@@ -222,27 +222,17 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.9.10",
-          "last_seen_at": "2026-11-18 12:06:45",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-18 12:06:56",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-18",
-          "today_searches": 1,
-          "today_cart_adds": 1,
+          "today_searches": 2,
+          "today_cart_adds": 2,
           "today_smart_orders": 6,
-          "total_searches": 105,
-          "total_cart_adds": 85,
+          "total_searches": 106,
+          "total_cart_adds": 86,
           "total_smart_orders": 258,
           "total_days_used": 12,
           "recent_actions": [
-            {
-              "t": "2026-11-17 14:43:11",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş (TRIA • 61 Kalem)"
-            },
-            {
-              "t": "2026-11-17 14:43:11",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-17 14:43:34",
               "type": "cart",
@@ -307,6 +297,16 @@
               "t": "2026-11-18 12:06:45",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-18 12:06:49",
+              "type": "search",
+              "detail": "Depo Sorgu: TRUVENT 200/245 MG 30 FTB."
+            },
+            {
+              "t": "2026-11-18 12:06:56",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         }
