@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 18:03:05",
+  "updated_at": "2026-11-18 18:03:10",
   "count": 7,
   "items": [
     {
@@ -707,17 +707,17 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D2E4-AA57-C021",
-      "last_pc_name": "DESKTOP-1N3LQF0",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.14",
-      "last_seen_at": "2026-11-18 18:03:05",
-      "last_action": "[DESKTOP-1N3LQF0] Canlı MF Sorgulama (6 Ürün)",
+      "last_seen_at": "2026-11-18 18:03:10",
+      "last_action": "[DESKTOP-OTHNDUE] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-18",
       "today_searches": 66,
-      "today_cart_adds": 146,
+      "today_cart_adds": 148,
       "today_smart_orders": 331,
       "total_searches": 662,
-      "total_cart_adds": 1061,
+      "total_cart_adds": 1063,
       "total_smart_orders": 1277,
       "total_days_used": 13,
       "pc_count": 9,
@@ -728,7 +728,7 @@
           "desk_name": "Eskienes",
           "local_ip": "192.168.1.117",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-18 18:02:40",
+          "last_seen_at": "2026-11-18 18:02:56",
           "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-18",
           "today_searches": 0,
@@ -822,27 +822,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-18 18:02:47",
+          "last_seen_at": "2026-11-18 18:03:10",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-18",
           "today_searches": 38,
-          "today_cart_adds": 55,
+          "today_cart_adds": 57,
           "today_smart_orders": 151,
           "total_searches": 171,
-          "total_cart_adds": 462,
+          "total_cart_adds": 464,
           "total_smart_orders": 594,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-18 18:00:51",
-              "type": "search",
-              "detail": "Depo Sorgu: TARDEN 40 MG 30 FTB."
-            },
-            {
-              "t": "2026-11-18 18:01:00",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-18 18:01:02",
               "type": "search",
@@ -905,6 +895,16 @@
             },
             {
               "t": "2026-11-18 18:02:47",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-18 18:03:00",
+              "type": "cart",
+              "detail": "Toplu Sepet (ALLIANCE): 8 Kalem"
+            },
+            {
+              "t": "2026-11-18 18:03:10",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
@@ -1104,7 +1104,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-18 18:02:42",
+          "last_seen_at": "2026-11-18 18:03:08",
           "last_action": "Canlı MF Sorgulama (2 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 0,
