@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 14:13:26",
+  "updated_at": "2026-11-18 14:13:25",
   "count": 7,
   "items": [
     {
@@ -16,14 +16,14 @@
       "hwid": "E4F7-229A-BABD",
       "last_pc_name": "ChagriBeg",
       "app_version": "1.9.12",
-      "last_seen_at": "2026-11-18 14:13:04",
+      "last_seen_at": "2026-11-18 14:13:25",
       "last_action": "[ChagriBeg] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-18",
       "today_searches": 24,
-      "today_cart_adds": 59,
+      "today_cart_adds": 60,
       "today_smart_orders": 169,
       "total_searches": 299,
-      "total_cart_adds": 626,
+      "total_cart_adds": 627,
       "total_smart_orders": 984,
       "total_days_used": 13,
       "pc_count": 3,
@@ -34,7 +34,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 14:12:28",
+          "last_seen_at": "2026-11-18 14:13:08",
           "last_action": "Canlı MF Sorgulama (20 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 0,
@@ -222,22 +222,17 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 14:13:04",
+          "last_seen_at": "2026-11-18 14:13:25",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-18",
           "today_searches": 2,
-          "today_cart_adds": 17,
+          "today_cart_adds": 18,
           "today_smart_orders": 42,
           "total_searches": 106,
-          "total_cart_adds": 101,
+          "total_cart_adds": 102,
           "total_smart_orders": 294,
           "total_days_used": 12,
           "recent_actions": [
-            {
-              "t": "2026-11-18 14:01:54",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş Planlama"
-            },
             {
               "t": "2026-11-18 14:01:54",
               "type": "smart_order",
@@ -305,6 +300,11 @@
             },
             {
               "t": "2026-11-18 14:11:48",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-18 14:13:25",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
