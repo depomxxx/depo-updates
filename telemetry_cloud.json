@@ -1489,17 +1489,17 @@
       "status": "AKTIF",
       "hwid": "47CB-2231-637D",
       "last_pc_name": "DESKTOP-F1KQPJ2",
-      "app_version": "1.8.9",
-      "last_seen_at": "2026-11-18 11:53:24",
-      "last_action": "Program Açık (Canlı)",
+      "app_version": "1.9.9",
+      "last_seen_at": "2026-11-18 11:53:35",
+      "last_action": "[DESKTOP-F1KQPJ2] Depo Fiyat Sorgulama",
       "today_date": "2026-11-18",
-      "today_searches": 0,
+      "today_searches": 1,
       "today_cart_adds": 0,
-      "today_smart_orders": 0,
-      "total_searches": 68,
+      "today_smart_orders": 4,
+      "total_searches": 69,
       "total_cart_adds": 36,
       "total_days_used": 4,
-      "total_smart_orders": 50,
+      "total_smart_orders": 54,
       "pc_count": 3,
       "devices": {
         "2F66-9873-3F47": {
@@ -1640,43 +1640,18 @@
           "pc_name": "DESKTOP-F1KQPJ2",
           "desk_name": "DESKTOP-F1KQPJ2",
           "local_ip": "192.168.1.28",
-          "app_version": "1.8.9",
-          "last_seen_at": "2026-11-18 11:53:24",
-          "last_action": "Program Açık (Canlı)",
+          "app_version": "1.9.9",
+          "last_seen_at": "2026-11-18 11:53:35",
+          "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-18",
-          "today_searches": 0,
+          "today_searches": 1,
           "today_cart_adds": 0,
-          "today_smart_orders": 0,
-          "total_searches": 51,
+          "today_smart_orders": 4,
+          "total_searches": 52,
           "total_cart_adds": 29,
-          "total_smart_orders": 35,
+          "total_smart_orders": 39,
           "total_days_used": 4,
           "recent_actions": [
-            {
-              "t": "2026-11-13 13:24:08",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-13 13:24:09",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (3 Ürün)"
-            },
-            {
-              "t": "2026-11-13 13:31:35",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-13 13:31:43",
-              "type": "cart",
-              "detail": "Toplu Sepet (ISKOOP): 3 Kalem"
-            },
-            {
-              "t": "2026-11-13 13:31:54",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-13 13:32:00",
               "type": "cart",
@@ -1726,6 +1701,31 @@
               "t": "2026-11-13 15:17:28",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (26 Ürün)"
+            },
+            {
+              "t": "2026-11-18 11:53:26",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-18 11:53:26",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-18 11:53:28",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-18 11:53:28",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-18 11:53:32",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ]
         }
