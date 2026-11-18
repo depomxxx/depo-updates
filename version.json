@@ -1,11 +1,11 @@
 {
-  "version": "1.9.13",
+  "version": "1.9.14",
   "app_name": "Farma Radar",
-  "release_date": "2026-11-18 14:28:53",
+  "release_date": "2026-11-18 14:32:34",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.9.13.zip?t=1795001334",
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.9.14.zip?t=1795001555",
   "sha256": "",
-  "package_sha256": "52564550dc2de024303b416e4a8aa3a07b7ded2dc51bb3c486fbcf90cdf0e7a0",
-  "size_kb": 915.0,
-  "changelog": "- Günün Çıkışları ve Toplu Sipariş hızlı sepete ekleme butonunda TRIA havuz bağlantısı commit hatası nedeniyle Sepetlerim listesinin boş görünmesi sorunu kesin olarak giderildi\n- Merkezi veritabanı yazma kısıtı olan bilgisayarlarda yerel sepet yedeğinin otomatik birleştirilmesi ve anlık Sepetlerim senkronizasyonu eklendi\n- İSKOOP, Alliance, Selçuk ve Nevzat sepet doğrulama ve hazır oturumlu Portal ↗ sepet bağlantıları güncellendi"
+  "package_sha256": "514009f98afab7b36ba232ba90ff249f3b677bc078620415b5af17b83ce485bb",
+  "size_kb": 915.3,
+  "changelog": "- Günün Çıkışları ve Toplu Sipariş hızlı sepete ekleme butonunda TRIA havuz bağlantısı commit hatası nedeniyle Sepetlerim listesinin boş görünmesi sorunu kesin olarak giderildi\n- Merkezi veritabanı yazma kısıtı olan bilgisayarlarda yerel sepet yedeğinin otomatik birleştirilmesi ve anlık Sepetlerim senkronizasyonu eklendi\n- Barkodsuz / dahili mal kodlu satırlarda yanlış depo kodu eşleşmesi önlendi; İSKOOP, Alliance, Selçuk ve Nevzat hazır oturumlu Portal ↗ bağlantıları güncellendi"
 }
