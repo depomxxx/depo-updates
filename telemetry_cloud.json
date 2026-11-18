@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 12:06:16",
+  "updated_at": "2026-11-18 12:06:30",
   "count": 7,
   "items": [
     {
@@ -1745,16 +1745,16 @@
       "hwid": "1A4A-8625-6A54",
       "last_pc_name": "Cicobey",
       "app_version": "1.5.9",
-      "last_seen_at": "2026-11-18 12:05:02",
-      "last_action": "[Cicobey] Depo Sorgu: MADOPAR 125/25 MG 30 TB.",
+      "last_seen_at": "2026-11-18 12:06:30",
+      "last_action": "[Cicobey] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-18",
       "today_searches": 4,
       "today_cart_adds": 0,
-      "today_smart_orders": 1,
+      "today_smart_orders": 2,
       "total_searches": 167,
       "total_cart_adds": 626,
       "total_days_used": 13,
-      "total_smart_orders": 436,
+      "total_smart_orders": 437,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -1931,22 +1931,17 @@
           "desk_name": "Cicobey",
           "local_ip": "192.168.1.210",
           "app_version": "1.5.9",
-          "last_seen_at": "2026-11-18 12:05:02",
-          "last_action": "Depo Sorgu: MADOPAR 125/25 MG 30 TB.",
+          "last_seen_at": "2026-11-18 12:06:30",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-18",
           "today_searches": 4,
           "today_cart_adds": 0,
-          "today_smart_orders": 1,
+          "today_smart_orders": 2,
           "total_searches": 42,
           "total_cart_adds": 62,
-          "total_smart_orders": 82,
+          "total_smart_orders": 83,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-16 14:11:53",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (26 Ürün)"
-            },
             {
               "t": "2026-11-16 17:25:01",
               "type": "critical_stock",
@@ -2016,6 +2011,11 @@
               "t": "2026-11-18 11:48:36",
               "type": "search",
               "detail": "Depo Sorgu: MADOPAR 125/25 MG 30 TB."
+            },
+            {
+              "t": "2026-11-18 12:05:15",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         }
