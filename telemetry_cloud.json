@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 16:56:01",
+  "updated_at": "2026-11-18 16:58:14",
   "count": 7,
   "items": [
     {
@@ -1814,14 +1814,14 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.9.14",
-      "last_seen_at": "2026-11-18 16:57:38",
-      "last_action": "[DESKTOP-T4EAUS3] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-18 16:58:14",
+      "last_action": "[DESKTOP-T4EAUS3] Toplu Sepet (ISKOOP): 15 Kalem",
       "today_date": "2026-11-18",
       "today_searches": 10,
-      "today_cart_adds": 10,
+      "today_cart_adds": 11,
       "today_smart_orders": 16,
       "total_searches": 173,
-      "total_cart_adds": 636,
+      "total_cart_adds": 637,
       "total_days_used": 13,
       "total_smart_orders": 451,
       "pc_count": 3,
@@ -1906,22 +1906,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-18 16:57:38",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-18 16:58:14",
+          "last_action": "Toplu Sepet (ISKOOP): 15 Kalem",
           "today_date": "2026-11-18",
           "today_searches": 0,
-          "today_cart_adds": 1,
+          "today_cart_adds": 2,
           "today_smart_orders": 7,
           "total_searches": 91,
-          "total_cart_adds": 369,
+          "total_cart_adds": 370,
           "total_smart_orders": 349,
           "total_days_used": 12,
           "recent_actions": [
-            {
-              "t": "2026-11-17 15:42:30",
-              "type": "cart",
-              "detail": "Toplu Sepet (ISKOOP): 10 Kalem"
-            },
             {
               "t": "2026-11-17 15:43:24",
               "type": "cart",
@@ -1991,6 +1986,11 @@
               "t": "2026-11-18 16:57:38",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-18 16:58:14",
+              "type": "cart",
+              "detail": "Toplu Sepet (ISKOOP): 15 Kalem"
             }
           ]
         },
