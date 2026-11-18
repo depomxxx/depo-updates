@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 11:40:17",
+  "updated_at": "2026-11-18 11:40:27",
   "count": 7,
   "items": [
     {
@@ -13,18 +13,18 @@
       "plan": "PRO_YILLIK",
       "expires_at": "2027-10-24",
       "status": "AKTIF",
-      "hwid": "5834-FAC9-B71F",
-      "last_pc_name": "DESKTOP-OTHNDUE",
+      "hwid": "E6B1-5698-273E",
+      "last_pc_name": "DESKTOP-6KFO8IF",
       "app_version": "1.9.9",
-      "last_seen_at": "2026-11-18 11:38:56",
-      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-18 11:40:27",
+      "last_action": "[DESKTOP-6KFO8IF] Canlı MF Sorgulama (18 Ürün)",
       "today_date": "2026-11-18",
-      "today_searches": 0,
-      "today_cart_adds": 7,
-      "today_smart_orders": 29,
-      "total_searches": 171,
-      "total_cart_adds": 490,
-      "total_smart_orders": 592,
+      "today_searches": 6,
+      "today_cart_adds": 9,
+      "today_smart_orders": 32,
+      "total_searches": 177,
+      "total_cart_adds": 492,
+      "total_smart_orders": 595,
       "total_days_used": 13,
       "pc_count": 2,
       "devices": {
@@ -34,7 +34,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.9",
-          "last_seen_at": "2026-11-18 11:38:56",
+          "last_seen_at": "2026-11-18 11:40:27",
           "last_action": "Canlı MF Sorgulama (18 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 0,
@@ -128,72 +128,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.9",
-          "last_seen_at": "2026-11-18 11:38:56",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-18 11:40:22",
+          "last_action": "Depo Sorgu: INFLACORT 0.25 MG 2 ML 20 FLK.",
           "today_date": "2026-11-18",
-          "today_searches": 0,
-          "today_cart_adds": 0,
-          "today_smart_orders": 14,
-          "total_searches": 133,
-          "total_cart_adds": 407,
-          "total_smart_orders": 457,
+          "today_searches": 6,
+          "today_cart_adds": 2,
+          "today_smart_orders": 17,
+          "total_searches": 139,
+          "total_cart_adds": 409,
+          "total_smart_orders": 460,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-17 17:32:36",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (14 Ürün)"
-            },
-            {
-              "t": "2026-11-18 11:35:19",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-18 11:35:19",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-18 11:35:41",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (19 Ürün)"
-            },
-            {
-              "t": "2026-11-18 11:35:44",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-18 11:35:44",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-18 11:35:44",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (2 Ürün)"
-            },
-            {
-              "t": "2026-11-18 11:36:31",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-18 11:36:32",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-18 11:36:32",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (2 Ürün)"
-            },
-            {
-              "t": "2026-11-18 11:36:33",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-18 11:36:36",
               "type": "critical_stock",
@@ -213,6 +158,61 @@
               "t": "2026-11-18 11:38:56",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-18 11:38:59",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 21 Kalem)"
+            },
+            {
+              "t": "2026-11-18 11:38:59",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-18 11:38:59",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (2 Ürün)"
+            },
+            {
+              "t": "2026-11-18 11:39:30",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-18 11:39:38",
+              "type": "search",
+              "detail": "Depo Sorgu: SELECTRA 50 MG 28 FTB"
+            },
+            {
+              "t": "2026-11-18 11:39:46",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-18 11:39:50",
+              "type": "search",
+              "detail": "Depo Sorgu: VENTOSAL 2.5 MG 2.5 ML 20 FLK."
+            },
+            {
+              "t": "2026-11-18 11:40:15",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-18 11:40:15",
+              "type": "cart",
+              "detail": "Sepete Ekle (SELCUK): VENTOSAL 2.5 MG 2.5 ML 20 FL x5"
+            },
+            {
+              "t": "2026-11-18 11:40:19",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-18 11:40:22",
+              "type": "search",
+              "detail": "Depo Sorgu: INFLACORT 0.25 MG 2 ML 20 FLK."
             }
           ]
         }
