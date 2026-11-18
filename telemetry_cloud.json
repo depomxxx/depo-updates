@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 18:01:17",
+  "updated_at": "2026-11-18 18:01:21",
   "count": 7,
   "items": [
     {
@@ -707,17 +707,17 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "40AB-8832-D69D",
-      "last_pc_name": "DESKTOP-SMI9E20",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.14",
-      "last_seen_at": "2026-11-18 18:01:17",
-      "last_action": "[DESKTOP-SMI9E20] Canlı MF Sorgulama (25 Ürün)",
+      "last_seen_at": "2026-11-18 18:01:21",
+      "last_action": "[DESKTOP-OTHNDUE] Sepete Ekle (ALLIANCE): OROFERON 30 DRJ x10",
       "today_date": "2026-11-18",
       "today_searches": 62,
-      "today_cart_adds": 143,
+      "today_cart_adds": 145,
       "today_smart_orders": 331,
       "total_searches": 658,
-      "total_cart_adds": 1058,
+      "total_cart_adds": 1060,
       "total_smart_orders": 1277,
       "total_days_used": 13,
       "pc_count": 9,
@@ -822,27 +822,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-18 18:01:16",
-          "last_action": "Depo Sorgu: OROFERON 80 MG 30 DEPO FTB.",
+          "last_seen_at": "2026-11-18 18:01:21",
+          "last_action": "Sepete Ekle (ALLIANCE): OROFERON 30 DRJ x10",
           "today_date": "2026-11-18",
           "today_searches": 34,
-          "today_cart_adds": 52,
+          "today_cart_adds": 54,
           "today_smart_orders": 151,
           "total_searches": 167,
-          "total_cart_adds": 459,
+          "total_cart_adds": 461,
           "total_smart_orders": 594,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-18 18:00:24",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 50 Kalem)"
-            },
-            {
-              "t": "2026-11-18 18:00:24",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-18 18:00:42",
               "type": "mf_resolve",
@@ -907,6 +897,16 @@
               "t": "2026-11-18 18:01:16",
               "type": "search",
               "detail": "Depo Sorgu: OROFERON 80 MG 30 DEPO FTB."
+            },
+            {
+              "t": "2026-11-18 18:01:20",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-18 18:01:21",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): OROFERON 30 DRJ x10"
             }
           ]
         },
