@@ -1,11 +1,11 @@
 {
-  "version": "1.9.11",
+  "version": "1.9.12",
   "app_name": "Farma Radar",
-  "release_date": "2026-11-18 12:39:58",
+  "release_date": "2026-11-18 13:24:26",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.9.11.zip?t=1794994799",
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.9.12.zip?t=1794997467",
   "sha256": "",
-  "package_sha256": "345cbe67b38f57484047a53d6bf40f4ee58c17ea13559755e91638359199f210",
-  "size_kb": 903.8,
-  "changelog": "- Alliance Healthcare ve İSKOOP için kilitsiz (lock-free) keep-alive HTTPX hızlı sorgu motoru: Tarayıcı/Chrome açılmasını beklemeden anında ilk sorgu ve çoklu bilgisayar / muadil sorgularında 4x daha hızlı paralel yanıt\n- İSKOOP kalıcı disk MATNR önbelleği ve Alliance kalıcı ItemID/ItemString önbelleği + toplu sepette tek seferde birleşik şube sorgusu (ItemsBranchDetail batch)"
+  "package_sha256": "5e3fd229d4250bee784aa38fc085280ad9d8a7a10ac1b708ba34fc0456e9b980",
+  "size_kb": 912.9,
+  "changelog": "v1.9.12: TRIA uzak ağ (LAN) ve yüksek hacimli veritabanları (Eda Eczanesi vb.) için kalıcı Oracle bağlantı havuzu (ConnectionPool), indeksli SQL optimizasyonu (Günün Çıkışları, 6 Aylık Toplu Sipariş, Ürün Arama & SGK Muadil), açık emanet tek-geçişli LEFT JOIN hızlandırması, paralel arama ön-yükleme ve Stale-While-Revalidate önbellek motoru."
 }
