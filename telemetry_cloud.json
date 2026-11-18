@@ -8,7 +8,7 @@
       "pharmacist_name": "GAMZE ASLAN",
       "phone": "05344064108",
       "city": "SAMSUN/ATAKUM",
-      "gln_no": "8680001134861",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "PRO_YILLIK",
       "expires_at": "2027-10-24",
@@ -19,12 +19,12 @@
       "last_seen_at": "2026-11-18 12:11:45",
       "last_action": "[ChagriBeg] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-18",
-      "today_searches": 8,
-      "today_cart_adds": 20,
-      "today_smart_orders": 60,
-      "total_searches": 283,
-      "total_cart_adds": 587,
-      "total_smart_orders": 875,
+      "today_searches": 10,
+      "today_cart_adds": 22,
+      "today_smart_orders": 64,
+      "total_searches": 285,
+      "total_cart_adds": 589,
+      "total_smart_orders": 879,
       "total_days_used": 13,
       "pc_count": 3,
       "devices": {
@@ -34,7 +34,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.10",
-          "last_seen_at": "2026-11-18 12:11:08",
+          "last_seen_at": "2026-11-18 12:11:45",
           "last_action": "Canlı MF Sorgulama (2 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 0,
@@ -128,52 +128,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.10",
-          "last_seen_at": "2026-11-18 12:09:53",
-          "last_action": "Canlı MF Sorgulama (2 Ürün)",
+          "last_seen_at": "2026-11-18 12:11:42",
+          "last_action": "Canlı MF Sorgulama (1 Ürün)",
           "today_date": "2026-11-18",
-          "today_searches": 6,
-          "today_cart_adds": 10,
-          "today_smart_orders": 36,
-          "total_searches": 139,
-          "total_cart_adds": 417,
-          "total_smart_orders": 479,
+          "today_searches": 8,
+          "today_cart_adds": 12,
+          "today_smart_orders": 40,
+          "total_searches": 141,
+          "total_cart_adds": 419,
+          "total_smart_orders": 483,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-18 12:07:16",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-18 12:07:19",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 21 Kalem)"
-            },
-            {
-              "t": "2026-11-18 12:07:19",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-18 12:07:20",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (2 Ürün)"
-            },
-            {
-              "t": "2026-11-18 12:07:43",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-18 12:07:46",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 21 Kalem)"
-            },
-            {
-              "t": "2026-11-18 12:07:46",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-18 12:07:47",
               "type": "mf_resolve",
@@ -213,6 +178,41 @@
               "t": "2026-11-18 12:09:53",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (2 Ürün)"
+            },
+            {
+              "t": "2026-11-18 12:10:44",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-18 12:10:51",
+              "type": "search",
+              "detail": "Depo Sorgu: COLEDAN D3 50.000 IU 8 CAP."
+            },
+            {
+              "t": "2026-11-18 12:11:05",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-18 12:11:38",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-18 12:11:41",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 22 Kalem)"
+            },
+            {
+              "t": "2026-11-18 12:11:41",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-18 12:11:42",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (1 Ürün)"
             }
           ]
         },
