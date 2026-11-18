@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 13:34:34",
+  "updated_at": "2026-11-18 13:34:37",
   "count": 7,
   "items": [
     {
@@ -702,21 +702,21 @@
       "pharmacist_name": "EDA BİLGİN",
       "phone": "05077034200",
       "city": "SAMSUN/İLKADIM",
-      "gln_no": "8680001000000",
+      "gln_no": "8680001112258",
       "otomasyon": "TRIA",
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D719-CEB2-1542",
-      "last_pc_name": "DESKTOP-M530BBB",
+      "hwid": "83F3-13F8-E632",
+      "last_pc_name": "Eskienes",
       "app_version": "1.9.12",
-      "last_seen_at": "2026-11-18 13:34:34",
-      "last_action": "[DESKTOP-M530BBB] Canlı MF Sorgulama (2 Ürün)",
+      "last_seen_at": "2026-11-18 13:34:37",
+      "last_action": "[Eskienes] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-18",
-      "today_searches": 31,
+      "today_searches": 32,
       "today_cart_adds": 44,
       "today_smart_orders": 168,
-      "total_searches": 627,
+      "total_searches": 628,
       "total_cart_adds": 959,
       "total_smart_orders": 1114,
       "total_days_used": 13,
@@ -728,7 +728,7 @@
           "desk_name": "Eskienes",
           "local_ip": "192.168.1.117",
           "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 13:33:58",
+          "last_seen_at": "2026-11-18 13:34:37",
           "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-18",
           "today_searches": 0,
@@ -822,22 +822,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 13:34:32",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-18 13:34:35",
+          "last_action": "Depo Sorgu: TAMCEF 300 MG 20 CAP.",
           "today_date": "2026-11-18",
-          "today_searches": 19,
+          "today_searches": 20,
           "today_cart_adds": 29,
           "today_smart_orders": 75,
-          "total_searches": 152,
+          "total_searches": 153,
           "total_cart_adds": 436,
           "total_smart_orders": 518,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-18 13:33:26",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-18 13:33:29",
               "type": "search",
@@ -907,6 +902,11 @@
               "t": "2026-11-18 13:34:32",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-18 13:34:35",
+              "type": "search",
+              "detail": "Depo Sorgu: TAMCEF 300 MG 20 CAP."
             }
           ]
         },
