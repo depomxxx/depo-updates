@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 13:32:45",
+  "updated_at": "2026-11-18 13:32:54",
   "count": 7,
   "items": [
     {
@@ -710,15 +710,15 @@
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.12",
-      "last_seen_at": "2026-11-18 13:32:35",
-      "last_action": "[DESKTOP-OTHNDUE] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-18 13:32:54",
+      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-18",
       "today_searches": 24,
-      "today_cart_adds": 34,
-      "today_smart_orders": 153,
+      "today_cart_adds": 35,
+      "today_smart_orders": 154,
       "total_searches": 620,
-      "total_cart_adds": 949,
-      "total_smart_orders": 1099,
+      "total_cart_adds": 950,
+      "total_smart_orders": 1100,
       "total_days_used": 13,
       "pc_count": 8,
       "devices": {
@@ -822,27 +822,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 13:32:35",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-18 13:32:54",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-18",
           "today_searches": 12,
-          "today_cart_adds": 19,
-          "today_smart_orders": 60,
+          "today_cart_adds": 20,
+          "today_smart_orders": 61,
           "total_searches": 145,
-          "total_cart_adds": 426,
-          "total_smart_orders": 503,
+          "total_cart_adds": 427,
+          "total_smart_orders": 504,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-18 12:49:49",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (1 Ürün)"
-            },
-            {
-              "t": "2026-11-18 13:25:25",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-18 13:29:32",
               "type": "critical_stock",
@@ -907,6 +897,16 @@
               "t": "2026-11-18 13:32:35",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-18 13:32:37",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): VENTOPIUM PLUS 05 MG/2.5 20 x5"
+            },
+            {
+              "t": "2026-11-18 13:32:54",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         },
