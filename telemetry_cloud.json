@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 13:36:32",
+  "updated_at": "2026-11-18 13:36:41",
   "count": 7,
   "items": [
     {
@@ -707,18 +707,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "B446-9737-94C4",
-      "last_pc_name": "DESKTOP-5PFFU5S",
+      "hwid": "40AB-8832-D69D",
+      "last_pc_name": "DESKTOP-SMI9E20",
       "app_version": "1.9.12",
-      "last_seen_at": "2026-11-18 13:36:15",
-      "last_action": "[DESKTOP-5PFFU5S] Canlı MF Sorgulama (3 Ürün)",
+      "last_seen_at": "2026-11-18 13:36:41",
+      "last_action": "[DESKTOP-SMI9E20] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-18",
       "today_searches": 32,
       "today_cart_adds": 48,
-      "today_smart_orders": 172,
+      "today_smart_orders": 173,
       "total_searches": 628,
       "total_cart_adds": 963,
-      "total_smart_orders": 1118,
+      "total_smart_orders": 1119,
       "total_days_used": 13,
       "pc_count": 9,
       "devices": {
@@ -822,7 +822,7 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 13:35:57",
+          "last_seen_at": "2026-11-18 13:36:35",
           "last_action": "Sepete Ekle (ALLIANCE): TENOVİRAL FİLM TABLET 245 MG x3",
           "today_date": "2026-11-18",
           "today_searches": 20,
@@ -1104,7 +1104,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 13:36:06",
+          "last_seen_at": "2026-11-18 13:36:08",
           "last_action": "Canlı MF Sorgulama (20 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 0,
@@ -1480,17 +1480,23 @@
           "desk_name": "DESKTOP-SMI9E20",
           "local_ip": "192.168.1.108",
           "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 13:36:08",
-          "last_action": "Program Açık (Canlı)",
+          "last_seen_at": "2026-11-18 13:36:41",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-18",
           "today_searches": 0,
           "today_cart_adds": 0,
-          "today_smart_orders": 0,
+          "today_smart_orders": 1,
           "total_searches": 0,
           "total_cart_adds": 0,
-          "total_smart_orders": 0,
+          "total_smart_orders": 1,
           "total_days_used": 1,
-          "recent_actions": []
+          "recent_actions": [
+            {
+              "t": "2026-11-18 13:36:41",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            }
+          ]
         }
       }
     },
