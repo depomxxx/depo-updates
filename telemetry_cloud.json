@@ -707,18 +707,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "5834-FAC9-B71F",
-      "last_pc_name": "DESKTOP-OTHNDUE",
+      "hwid": "B446-9737-94C4",
+      "last_pc_name": "DESKTOP-5PFFU5S",
       "app_version": "1.9.11",
-      "last_seen_at": "2026-11-18 12:41:04",
-      "last_action": "[DESKTOP-OTHNDUE] Canlı MF Sorgulama (15 Ürün)",
+      "last_seen_at": "2026-11-18 12:41:19",
+      "last_action": "[DESKTOP-5PFFU5S] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-18",
       "today_searches": 20,
       "today_cart_adds": 25,
-      "today_smart_orders": 101,
+      "today_smart_orders": 103,
       "total_searches": 616,
       "total_cart_adds": 940,
-      "total_smart_orders": 1047,
+      "total_smart_orders": 1049,
       "total_days_used": 13,
       "pc_count": 8,
       "devices": {
@@ -1010,22 +1010,17 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.9.11",
-          "last_seen_at": "2026-11-18 12:41:01",
+          "last_seen_at": "2026-11-18 12:41:19",
           "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-18",
           "today_searches": 0,
           "today_cart_adds": 0,
-          "today_smart_orders": 14,
+          "today_smart_orders": 15,
           "total_searches": 97,
           "total_cart_adds": 209,
-          "total_smart_orders": 66,
+          "total_smart_orders": 67,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-16 11:35:39",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-16 11:59:56",
               "type": "search",
@@ -1093,6 +1088,11 @@
             },
             {
               "t": "2026-11-18 12:40:39",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-18 12:41:19",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
             }
@@ -1386,22 +1386,17 @@
           "desk_name": "DESKTOP-1N3LQF0",
           "local_ip": "192.168.1.123",
           "app_version": "1.9.11",
-          "last_seen_at": "2026-11-18 12:41:02",
-          "last_action": "Depo Sorgu: REFRESH TEARS 15 ML GOZ GTT.",
+          "last_seen_at": "2026-11-18 12:41:09",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-18",
           "today_searches": 12,
           "today_cart_adds": 4,
-          "today_smart_orders": 8,
+          "today_smart_orders": 9,
           "total_searches": 77,
           "total_cart_adds": 30,
-          "total_smart_orders": 75,
+          "total_smart_orders": 76,
           "total_days_used": 9,
           "recent_actions": [
-            {
-              "t": "2026-11-18 09:29:25",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-18 09:29:29",
               "type": "search",
@@ -1471,6 +1466,11 @@
               "t": "2026-11-18 12:12:39",
               "type": "search",
               "detail": "Depo Sorgu: REFRESH TEARS 15 ML GOZ GTT."
+            },
+            {
+              "t": "2026-11-18 12:41:09",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         }
