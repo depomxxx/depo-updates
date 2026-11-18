@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 10:49:13",
+  "updated_at": "2026-11-18 10:49:29",
   "count": 7,
   "items": [
     {
@@ -260,14 +260,14 @@
       "hwid": "E6B1-5698-273E",
       "last_pc_name": "DESKTOP-6KFO8IF",
       "app_version": "1.9.9",
-      "last_seen_at": "2026-11-18 10:47:52",
+      "last_seen_at": "2026-11-18 10:49:29",
       "last_action": "[DESKTOP-6KFO8IF] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-18",
       "today_searches": 0,
-      "today_cart_adds": 1,
+      "today_cart_adds": 2,
       "today_smart_orders": 5,
       "total_searches": 275,
-      "total_cart_adds": 568,
+      "total_cart_adds": 569,
       "total_smart_orders": 820,
       "total_days_used": 12,
       "pc_count": 3,
@@ -372,22 +372,17 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.9",
-          "last_seen_at": "2026-11-18 10:47:52",
+          "last_seen_at": "2026-11-18 10:49:29",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-18",
           "today_searches": 0,
-          "today_cart_adds": 1,
+          "today_cart_adds": 2,
           "today_smart_orders": 5,
           "total_searches": 38,
-          "total_cart_adds": 77,
+          "total_cart_adds": 78,
           "total_smart_orders": 125,
           "total_days_used": 12,
           "recent_actions": [
-            {
-              "t": "2026-11-17 13:50:03",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (20 Ürün)"
-            },
             {
               "t": "2026-11-17 14:28:21",
               "type": "critical_stock",
@@ -455,6 +450,11 @@
             },
             {
               "t": "2026-11-18 10:47:52",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-18 10:48:02",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
