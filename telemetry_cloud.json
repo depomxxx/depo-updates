@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 09:36:51",
+  "updated_at": "2026-11-18 09:37:19",
   "count": 7,
   "items": [
     {
@@ -1350,13 +1350,13 @@
       "hwid": "2DED-CFF9-D593",
       "last_pc_name": "DESKTOP-8JN0NE5",
       "app_version": "1.9.9",
-      "last_seen_at": "2026-11-18 09:36:36",
-      "last_action": "Depo Fiyat Sorgulama",
+      "last_seen_at": "2026-11-18 09:37:19",
+      "last_action": "Depo Sorgu: FLEXTRA 400 MG 24 FTB.",
       "today_date": "2026-11-18",
-      "today_searches": 2,
+      "today_searches": 3,
       "today_cart_adds": 0,
       "today_smart_orders": 2,
-      "total_searches": 54,
+      "total_searches": 55,
       "total_cart_adds": 144,
       "total_days_used": 10,
       "total_smart_orders": 309,
@@ -1368,22 +1368,17 @@
           "desk_name": "DESKTOP-8JN0NE5",
           "local_ip": "192.168.1.37",
           "app_version": "1.9.9",
-          "last_seen_at": "2026-11-18 09:36:36",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-18 09:37:19",
+          "last_action": "Depo Sorgu: FLEXTRA 400 MG 24 FTB.",
           "today_date": "2026-11-18",
-          "today_searches": 2,
+          "today_searches": 3,
           "today_cart_adds": 0,
           "today_smart_orders": 2,
-          "total_searches": 54,
+          "total_searches": 55,
           "total_cart_adds": 144,
           "total_smart_orders": 309,
           "total_days_used": 10,
           "recent_actions": [
-            {
-              "t": "2026-11-17 17:29:06",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (BOTANIK • 70 Kalem)"
-            },
             {
               "t": "2026-11-17 17:29:06",
               "type": "mf_resolve",
@@ -1453,6 +1448,11 @@
               "t": "2026-11-18 09:36:06",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-18 09:37:19",
+              "type": "search",
+              "detail": "Depo Sorgu: FLEXTRA 400 MG 24 FTB."
             }
           ]
         }
