@@ -710,15 +710,15 @@
       "hwid": "B446-9737-94C4",
       "last_pc_name": "DESKTOP-5PFFU5S",
       "app_version": "1.9.10",
-      "last_seen_at": "2026-11-18 12:33:50",
-      "last_action": "[DESKTOP-1N3LQF0] Depo Sorgu: REFRESH TEARS 15 ML GOZ GTT.",
+      "last_seen_at": "2026-11-18 12:34:15",
+      "last_action": "[DESKTOP-5PFFU5S] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-18",
       "today_searches": 20,
       "today_cart_adds": 25,
-      "today_smart_orders": 81,
+      "today_smart_orders": 83,
       "total_searches": 616,
       "total_cart_adds": 940,
-      "total_smart_orders": 1027,
+      "total_smart_orders": 1029,
       "total_days_used": 13,
       "pc_count": 8,
       "devices": {
@@ -1010,27 +1010,17 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.9.10",
-          "last_seen_at": "2026-11-18 12:33:50",
-          "last_action": "Program Açık (Canlı)",
+          "last_seen_at": "2026-11-18 12:34:15",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-18",
           "today_searches": 0,
           "today_cart_adds": 0,
-          "today_smart_orders": 0,
+          "today_smart_orders": 2,
           "total_searches": 97,
           "total_cart_adds": 209,
-          "total_smart_orders": 52,
+          "total_smart_orders": 54,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-16 11:33:00",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-16 11:33:02",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (13 Ürün)"
-            },
             {
               "t": "2026-11-16 11:33:06",
               "type": "search",
@@ -1095,6 +1085,16 @@
               "t": "2026-11-16 12:00:06",
               "type": "search",
               "detail": "Depo Sorgu: ASACOL ENAMA 4 GR 100 ML 7 TUP"
+            },
+            {
+              "t": "2026-11-18 12:33:57",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-18 12:34:15",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         },
@@ -1386,7 +1386,7 @@
           "desk_name": "DESKTOP-1N3LQF0",
           "local_ip": "192.168.1.123",
           "app_version": "1.9.10",
-          "last_seen_at": "2026-11-18 12:33:48",
+          "last_seen_at": "2026-11-18 12:33:57",
           "last_action": "Depo Sorgu: REFRESH TEARS 15 ML GOZ GTT.",
           "today_date": "2026-11-18",
           "today_searches": 12,
