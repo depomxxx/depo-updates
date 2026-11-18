@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 10:40:15",
+  "updated_at": "2026-11-18 10:40:52",
   "count": 7,
   "items": [
     {
@@ -570,13 +570,13 @@
       "hwid": "D2E4-AA57-C021",
       "last_pc_name": "DESKTOP-1N3LQF0",
       "app_version": "1.9.9",
-      "last_seen_at": "2026-11-18 10:40:15",
-      "last_action": "[DESKTOP-1N3LQF0] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-18 10:40:52",
+      "last_action": "[DESKTOP-1N3LQF0] Depo Sorgu: APRANAX SEMIPLUS 20 FİLM TABLET",
       "today_date": "2026-11-18",
-      "today_searches": 6,
+      "today_searches": 10,
       "today_cart_adds": 4,
       "today_smart_orders": 4,
-      "total_searches": 602,
+      "total_searches": 606,
       "total_cart_adds": 919,
       "total_smart_orders": 950,
       "total_days_used": 12,
@@ -1246,32 +1246,17 @@
           "desk_name": "DESKTOP-1N3LQF0",
           "local_ip": "192.168.1.123",
           "app_version": "1.9.9",
-          "last_seen_at": "2026-11-18 10:40:15",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-18 10:40:52",
+          "last_action": "Depo Sorgu: APRANAX SEMIPLUS 20 FİLM TABLET",
           "today_date": "2026-11-18",
-          "today_searches": 6,
+          "today_searches": 10,
           "today_cart_adds": 4,
           "today_smart_orders": 4,
-          "total_searches": 71,
+          "total_searches": 75,
           "total_cart_adds": 30,
           "total_smart_orders": 71,
           "total_days_used": 9,
           "recent_actions": [
-            {
-              "t": "2026-11-17 14:31:46",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-17 14:31:58",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (20 Ürün)"
-            },
-            {
-              "t": "2026-11-18 09:28:58",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-18 09:29:07",
               "type": "mf_resolve",
@@ -1331,6 +1316,21 @@
               "t": "2026-11-18 10:40:15",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-18 10:40:20",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-18 10:40:32",
+              "type": "search",
+              "detail": "Depo Sorgu: APRANAX PLUS 20 FTB. *"
+            },
+            {
+              "t": "2026-11-18 10:40:52",
+              "type": "search",
+              "detail": "Depo Sorgu: APRANAX SEMIPLUS 20 FİLM TABLET"
             }
           ]
         }
