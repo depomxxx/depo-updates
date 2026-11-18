@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 12:10:33",
+  "updated_at": "2026-11-18 12:10:44",
   "count": 7,
   "items": [
     {
@@ -710,15 +710,15 @@
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.10",
-      "last_seen_at": "2026-11-18 12:09:52",
-      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları Yenileme (TRIA • 22 Kalem)",
+      "last_seen_at": "2026-11-18 12:10:44",
+      "last_action": "[DESKTOP-OTHNDUE] Depo Fiyat Sorgulama",
       "today_date": "2026-11-18",
-      "today_searches": 16,
+      "today_searches": 17,
       "today_cart_adds": 21,
-      "today_smart_orders": 67,
-      "total_searches": 612,
+      "today_smart_orders": 69,
+      "total_searches": 613,
       "total_cart_adds": 936,
-      "total_smart_orders": 1013,
+      "total_smart_orders": 1015,
       "total_days_used": 13,
       "pc_count": 8,
       "devices": {
@@ -728,7 +728,7 @@
           "desk_name": "Eskienes",
           "local_ip": "192.168.1.117",
           "app_version": "1.9.10",
-          "last_seen_at": "2026-11-18 12:09:33",
+          "last_seen_at": "2026-11-18 12:10:23",
           "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-18",
           "today_searches": 0,
@@ -822,32 +822,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.10",
-          "last_seen_at": "2026-11-18 12:09:52",
-          "last_action": "Günün Çıkışları Yenileme (TRIA • 22 Kalem)",
+          "last_seen_at": "2026-11-18 12:10:44",
+          "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-18",
-          "today_searches": 6,
+          "today_searches": 7,
           "today_cart_adds": 10,
-          "today_smart_orders": 34,
-          "total_searches": 139,
+          "today_smart_orders": 36,
+          "total_searches": 140,
           "total_cart_adds": 417,
-          "total_smart_orders": 477,
+          "total_smart_orders": 479,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-18 12:06:19",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-18 12:06:30",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (14 Ürün)"
-            },
-            {
-              "t": "2026-11-18 12:07:16",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-18 12:07:19",
               "type": "critical_stock",
@@ -907,6 +892,21 @@
               "t": "2026-11-18 12:09:52",
               "type": "critical_stock",
               "detail": "Günün Çıkışları Yenileme (TRIA • 22 Kalem)"
+            },
+            {
+              "t": "2026-11-18 12:09:52",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-18 12:09:53",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (2 Ürün)"
+            },
+            {
+              "t": "2026-11-18 12:10:44",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ]
         },
@@ -1104,7 +1104,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.10",
-          "last_seen_at": "2026-11-18 12:09:08",
+          "last_seen_at": "2026-11-18 12:10:14",
           "last_action": "Canlı MF Sorgulama (2 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 0,
