@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 15:31:13",
+  "updated_at": "2026-11-18 15:31:14",
   "count": 7,
   "items": [
     {
@@ -1814,13 +1814,13 @@
       "hwid": "1A4A-8625-6A54",
       "last_pc_name": "Cicobey",
       "app_version": "1.5.9",
-      "last_seen_at": "2026-11-18 15:29:49",
-      "last_action": "[Cicobey] Depo Fiyat Sorgulama",
+      "last_seen_at": "2026-11-18 15:31:14",
+      "last_action": "[Cicobey] Depo Sorgu: LANTUS 100 IU 3 ML 5 PEN",
       "today_date": "2026-11-18",
-      "today_searches": 9,
+      "today_searches": 10,
       "today_cart_adds": 9,
       "today_smart_orders": 9,
-      "total_searches": 172,
+      "total_searches": 173,
       "total_cart_adds": 635,
       "total_days_used": 13,
       "total_smart_orders": 444,
@@ -2000,22 +2000,17 @@
           "desk_name": "Cicobey",
           "local_ip": "192.168.1.8",
           "app_version": "1.5.9",
-          "last_seen_at": "2026-11-18 15:29:49",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-18 15:31:14",
+          "last_action": "Depo Sorgu: LANTUS 100 IU 3 ML 5 PEN",
           "today_date": "2026-11-18",
-          "today_searches": 9,
+          "today_searches": 10,
           "today_cart_adds": 9,
           "today_smart_orders": 9,
-          "total_searches": 47,
+          "total_searches": 48,
           "total_cart_adds": 71,
           "total_smart_orders": 90,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-18 14:15:45",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-18 14:16:33",
               "type": "cart",
@@ -2085,6 +2080,11 @@
               "t": "2026-11-18 15:29:49",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-18 15:29:56",
+              "type": "search",
+              "detail": "Depo Sorgu: LANTUS 100 IU 3 ML 5 PEN"
             }
           ]
         }
