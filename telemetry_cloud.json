@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 13:36:04",
+  "updated_at": "2026-11-18 13:36:06",
   "count": 7,
   "items": [
     {
@@ -8,23 +8,23 @@
       "pharmacist_name": "GAMZE ASLAN",
       "phone": "05344064108",
       "city": "SAMSUN/ATAKUM",
-      "gln_no": "8680001134861",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "PRO_YILLIK",
       "expires_at": "2027-10-24",
       "status": "AKTIF",
-      "hwid": "E4F7-229A-BABD",
-      "last_pc_name": "ChagriBeg",
+      "hwid": "E6B1-5698-273E",
+      "last_pc_name": "DESKTOP-6KFO8IF",
       "app_version": "1.9.12",
-      "last_seen_at": "2026-11-18 13:35:52",
-      "last_action": "[ChagriBeg] Canlı MF Sorgulama (19 Ürün)",
+      "last_seen_at": "2026-11-18 13:36:06",
+      "last_action": "[DESKTOP-6KFO8IF] Canlı MF Sorgulama (20 Ürün)",
       "today_date": "2026-11-18",
       "today_searches": 22,
-      "today_cart_adds": 46,
-      "today_smart_orders": 128,
+      "today_cart_adds": 50,
+      "today_smart_orders": 132,
       "total_searches": 297,
-      "total_cart_adds": 613,
-      "total_smart_orders": 943,
+      "total_cart_adds": 617,
+      "total_smart_orders": 947,
       "total_days_used": 13,
       "pc_count": 3,
       "devices": {
@@ -34,7 +34,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 13:35:08",
+          "last_seen_at": "2026-11-18 13:36:06",
           "last_action": "Canlı MF Sorgulama (20 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 0,
@@ -128,57 +128,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 13:34:35",
-          "last_action": "Depo Sorgu: TAMCEF 300 MG 20 CAP.",
+          "last_seen_at": "2026-11-18 13:35:57",
+          "last_action": "Sepete Ekle (ALLIANCE): TENOVİRAL FİLM TABLET 245 MG x3",
           "today_date": "2026-11-18",
           "today_searches": 20,
-          "today_cart_adds": 29,
-          "today_smart_orders": 75,
+          "today_cart_adds": 33,
+          "today_smart_orders": 79,
           "total_searches": 153,
-          "total_cart_adds": 436,
-          "total_smart_orders": 518,
+          "total_cart_adds": 440,
+          "total_smart_orders": 522,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-18 13:33:29",
-              "type": "search",
-              "detail": "Depo Sorgu: FLOBEN 2 MG 2 ML 10 FLK."
-            },
-            {
-              "t": "2026-11-18 13:33:34",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-18 13:33:35",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): FLOBEN 2 MG/2 ML NEBUL SUSP x5"
-            },
-            {
-              "t": "2026-11-18 13:33:43",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-18 13:33:45",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): FLOBEN 2 MG/2 ML NEBUL SUSP x10"
-            },
-            {
-              "t": "2026-11-18 13:34:02",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-18 13:34:02",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 25 Kalem)"
-            },
-            {
-              "t": "2026-11-18 13:34:02",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-18 13:34:02",
               "type": "mf_resolve",
@@ -213,6 +173,46 @@
               "t": "2026-11-18 13:34:35",
               "type": "search",
               "detail": "Depo Sorgu: TAMCEF 300 MG 20 CAP."
+            },
+            {
+              "t": "2026-11-18 13:34:38",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-18 13:34:41",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): TAMCEF 300 MG 20 KAPSUL x5"
+            },
+            {
+              "t": "2026-11-18 13:35:50",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-18 13:35:51",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 27 Kalem)"
+            },
+            {
+              "t": "2026-11-18 13:35:51",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-18 13:35:53",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (3 Ürün)"
+            },
+            {
+              "t": "2026-11-18 13:35:56",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-18 13:35:57",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): TENOVİRAL FİLM TABLET 245 MG x3"
             }
           ]
         },
