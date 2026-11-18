@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 12:48:41",
+  "updated_at": "2026-11-18 12:48:50",
   "count": 7,
   "items": [
     {
@@ -707,18 +707,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "B446-9737-94C4",
-      "last_pc_name": "DESKTOP-5PFFU5S",
+      "hwid": "D719-CEB2-1542",
+      "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.9.11",
-      "last_seen_at": "2026-11-18 12:48:41",
-      "last_action": "[DESKTOP-5PFFU5S] Canlı MF Sorgulama (1 Ürün)",
+      "last_seen_at": "2026-11-18 12:48:50",
+      "last_action": "[DESKTOP-M530BBB] Canlı MF Taraması",
       "today_date": "2026-11-18",
       "today_searches": 20,
       "today_cart_adds": 29,
-      "today_smart_orders": 119,
+      "today_smart_orders": 120,
       "total_searches": 616,
       "total_cart_adds": 944,
-      "total_smart_orders": 1065,
+      "total_smart_orders": 1066,
       "total_days_used": 13,
       "pc_count": 8,
       "devices": {
@@ -1292,22 +1292,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.11",
-          "last_seen_at": "2026-11-18 12:48:23",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-18 12:48:50",
+          "last_action": "Canlı MF Taraması",
           "today_date": "2026-11-18",
           "today_searches": 0,
           "today_cart_adds": 4,
-          "today_smart_orders": 6,
+          "today_smart_orders": 7,
           "total_searches": 97,
           "total_cart_adds": 102,
-          "total_smart_orders": 94,
+          "total_smart_orders": 95,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-16 10:00:17",
-              "type": "search",
-              "detail": "Depo Sorgu: BUŞONEX BUŞON YUMUŞATICI 20+50ML ŞIŞE/"
-            },
             {
               "t": "2026-11-16 10:48:15",
               "type": "search",
@@ -1377,6 +1372,11 @@
               "t": "2026-11-18 12:48:20",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-18 12:48:50",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
             }
           ]
         },
