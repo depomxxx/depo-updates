@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 15:25:19",
+  "updated_at": "2026-11-18 15:25:30",
   "count": 7,
   "items": [
     {
@@ -710,15 +710,15 @@
       "hwid": "D719-CEB2-1542",
       "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.9.14",
-      "last_seen_at": "2026-11-18 15:25:19",
-      "last_action": "[DESKTOP-M530BBB] Depo Sorgu: ARVELES 25 MG 20 FTB.",
+      "last_seen_at": "2026-11-18 15:25:30",
+      "last_action": "[DESKTOP-M530BBB] Canlı MF Taraması",
       "today_date": "2026-11-18",
-      "today_searches": 44,
+      "today_searches": 47,
       "today_cart_adds": 137,
-      "today_smart_orders": 309,
-      "total_searches": 640,
+      "today_smart_orders": 311,
+      "total_searches": 643,
       "total_cart_adds": 1052,
-      "total_smart_orders": 1255,
+      "total_smart_orders": 1257,
       "total_days_used": 13,
       "pc_count": 9,
       "devices": {
@@ -1010,22 +1010,17 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-18 15:25:12",
-          "last_action": "Canlı MF Sorgulama (17 Ürün)",
+          "last_seen_at": "2026-11-18 15:25:30",
+          "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-18",
-          "today_searches": 0,
+          "today_searches": 1,
           "today_cart_adds": 57,
           "today_smart_orders": 62,
-          "total_searches": 97,
+          "total_searches": 98,
           "total_cart_adds": 266,
           "total_smart_orders": 114,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-18 14:01:23",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (17 Ürün)"
-            },
             {
               "t": "2026-11-18 14:05:08",
               "type": "smart_order",
@@ -1095,6 +1090,11 @@
               "t": "2026-11-18 14:33:10",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (17 Ürün)"
+            },
+            {
+              "t": "2026-11-18 15:25:30",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ]
         },
@@ -1292,37 +1292,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-18 15:25:19",
-          "last_action": "Depo Sorgu: ARVELES 25 MG 20 FTB.",
+          "last_seen_at": "2026-11-18 15:25:30",
+          "last_action": "Canlı MF Taraması",
           "today_date": "2026-11-18",
-          "today_searches": 2,
+          "today_searches": 4,
           "today_cart_adds": 4,
-          "today_smart_orders": 22,
-          "total_searches": 99,
+          "today_smart_orders": 24,
+          "total_searches": 101,
           "total_cart_adds": 102,
-          "total_smart_orders": 110,
+          "total_smart_orders": 112,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-18 12:51:34",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-18 12:51:36",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (2 Ürün)"
-            },
-            {
-              "t": "2026-11-18 13:25:02",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-18 13:25:03",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-18 13:25:40",
               "type": "mf_resolve",
@@ -1377,6 +1357,26 @@
               "t": "2026-11-18 15:25:19",
               "type": "search",
               "detail": "Depo Sorgu: ARVELES 25 MG 20 FTB."
+            },
+            {
+              "t": "2026-11-18 15:25:19",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-18 15:25:27",
+              "type": "search",
+              "detail": "Depo Sorgu: ARVELES 25 MG 20 FTB."
+            },
+            {
+              "t": "2026-11-18 15:25:29",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-18 15:25:30",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
             }
           ]
         },
