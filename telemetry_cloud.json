@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 11:40:03",
+  "updated_at": "2026-11-18 11:40:15",
   "count": 7,
   "items": [
     {
@@ -613,17 +613,17 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D2E4-AA57-C021",
-      "last_pc_name": "DESKTOP-1N3LQF0",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.9",
-      "last_seen_at": "2026-11-18 11:39:54",
-      "last_action": "[DESKTOP-1N3LQF0] Canlı MF Sorgulama (22 Ürün)",
+      "last_seen_at": "2026-11-18 11:40:15",
+      "last_action": "[DESKTOP-OTHNDUE] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-18",
       "today_searches": 14,
-      "today_cart_adds": 11,
+      "today_cart_adds": 12,
       "today_smart_orders": 45,
       "total_searches": 610,
-      "total_cart_adds": 926,
+      "total_cart_adds": 927,
       "total_smart_orders": 991,
       "total_days_used": 13,
       "pc_count": 8,
@@ -634,7 +634,7 @@
           "desk_name": "Eskienes",
           "local_ip": "192.168.1.117",
           "app_version": "1.9.9",
-          "last_seen_at": "2026-11-18 11:39:29",
+          "last_seen_at": "2026-11-18 11:39:54",
           "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-18",
           "today_searches": 0,
@@ -728,22 +728,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.9",
-          "last_seen_at": "2026-11-18 11:39:50",
-          "last_action": "Depo Sorgu: VENTOSAL 2.5 MG 2.5 ML 20 FLK.",
+          "last_seen_at": "2026-11-18 11:40:15",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-18",
           "today_searches": 4,
-          "today_cart_adds": 0,
+          "today_cart_adds": 1,
           "today_smart_orders": 17,
           "total_searches": 137,
-          "total_cart_adds": 407,
+          "total_cart_adds": 408,
           "total_smart_orders": 460,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-18 11:36:31",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-18 11:36:32",
               "type": "mf_resolve",
@@ -813,6 +808,11 @@
               "t": "2026-11-18 11:39:50",
               "type": "search",
               "detail": "Depo Sorgu: VENTOSAL 2.5 MG 2.5 ML 20 FLK."
+            },
+            {
+              "t": "2026-11-18 11:40:15",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
@@ -1010,7 +1010,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.9",
-          "last_seen_at": "2026-11-18 11:39:08",
+          "last_seen_at": "2026-11-18 11:40:08",
           "last_action": "Canlı MF Sorgulama (18 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 0,
