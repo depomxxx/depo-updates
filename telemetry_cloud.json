@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 14:33:10",
+  "updated_at": "2026-11-18 14:33:13",
   "count": 7,
   "items": [
     {
@@ -702,23 +702,23 @@
       "pharmacist_name": "EDA BİLGİN",
       "phone": "05077034200",
       "city": "SAMSUN/İLKADIM",
-      "gln_no": "8680001000000",
+      "gln_no": "8680001112258",
       "otomasyon": "TRIA",
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D2E4-AA57-C021",
-      "last_pc_name": "DESKTOP-1N3LQF0",
+      "hwid": "D719-CEB2-1542",
+      "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.9.14",
-      "last_seen_at": "2026-11-18 14:33:11",
-      "last_action": "[DESKTOP-1N3LQF0] Canlı MF Taraması",
+      "last_seen_at": "2026-11-18 14:33:13",
+      "last_action": "[DESKTOP-M530BBB] Canlı MF Sorgulama (6 Ürün)",
       "today_date": "2026-11-18",
       "today_searches": 40,
       "today_cart_adds": 130,
-      "today_smart_orders": 271,
+      "today_smart_orders": 274,
       "total_searches": 636,
       "total_cart_adds": 1045,
-      "total_smart_orders": 1217,
+      "total_smart_orders": 1220,
       "total_days_used": 13,
       "pc_count": 9,
       "devices": {
@@ -915,28 +915,18 @@
           "pc_name": "Eda-Bilgin",
           "desk_name": "Eda-Bilgin",
           "local_ip": "192.168.1.120",
-          "app_version": "1.9.13",
-          "last_seen_at": "2026-11-18 14:32:50",
-          "last_action": "Canlı MF Sorgulama (2 Ürün)",
+          "app_version": "1.9.14",
+          "last_seen_at": "2026-11-18 14:33:13",
+          "last_action": "Canlı MF Taraması",
           "today_date": "2026-11-18",
           "today_searches": 0,
           "today_cart_adds": 5,
-          "today_smart_orders": 8,
+          "today_smart_orders": 10,
           "total_searches": 57,
           "total_cart_adds": 14,
-          "total_smart_orders": 64,
+          "total_smart_orders": 66,
           "total_days_used": 10,
           "recent_actions": [
-            {
-              "t": "2026-11-17 18:30:07",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-17 18:30:10",
-              "type": "search",
-              "detail": "Depo Sorgu: INFERJECT 500 MG 10 ML 1 FLK."
-            },
             {
               "t": "2026-11-18 14:09:31",
               "type": "critical_stock",
@@ -1001,6 +991,16 @@
               "t": "2026-11-18 14:29:27",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (2 Ürün)"
+            },
+            {
+              "t": "2026-11-18 14:33:12",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-18 14:33:12",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
             }
           ]
         },
@@ -1292,22 +1292,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-18 14:33:05",
-          "last_action": "Canlı MF Taraması",
+          "last_seen_at": "2026-11-18 14:33:13",
+          "last_action": "Canlı MF Sorgulama (6 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 0,
           "today_cart_adds": 4,
-          "today_smart_orders": 21,
+          "today_smart_orders": 22,
           "total_searches": 97,
           "total_cart_adds": 102,
-          "total_smart_orders": 109,
+          "total_smart_orders": 110,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-18 12:48:50",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-18 12:48:50",
               "type": "mf_resolve",
@@ -1377,6 +1372,11 @@
               "t": "2026-11-18 14:33:04",
               "type": "mf_resolve",
               "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-18 14:33:13",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (6 Ürün)"
             }
           ]
         },
