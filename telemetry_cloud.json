@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 15:28:50",
+  "updated_at": "2026-11-18 15:29:05",
   "count": 7,
   "items": [
     {
@@ -1804,16 +1804,16 @@
       "hwid": "1A4A-8625-6A54",
       "last_pc_name": "Cicobey",
       "app_version": "1.5.9",
-      "last_seen_at": "2026-11-18 15:27:25",
-      "last_action": "[Cicobey] Depo Sorgu: DETRUSITOL SR 4 MG 28 CAP.",
+      "last_seen_at": "2026-11-18 15:29:05",
+      "last_action": "[Cicobey] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-18",
       "today_searches": 8,
       "today_cart_adds": 9,
-      "today_smart_orders": 8,
+      "today_smart_orders": 9,
       "total_searches": 171,
       "total_cart_adds": 635,
       "total_days_used": 13,
-      "total_smart_orders": 443,
+      "total_smart_orders": 444,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -1990,22 +1990,17 @@
           "desk_name": "Cicobey",
           "local_ip": "192.168.1.8",
           "app_version": "1.5.9",
-          "last_seen_at": "2026-11-18 15:27:25",
-          "last_action": "Depo Sorgu: DETRUSITOL SR 4 MG 28 CAP.",
+          "last_seen_at": "2026-11-18 15:29:05",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-18",
           "today_searches": 8,
           "today_cart_adds": 9,
-          "today_smart_orders": 8,
+          "today_smart_orders": 9,
           "total_searches": 46,
           "total_cart_adds": 71,
-          "total_smart_orders": 89,
+          "total_smart_orders": 90,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-18 14:12:57",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-18 14:13:26",
               "type": "search",
@@ -2075,6 +2070,11 @@
               "t": "2026-11-18 15:26:07",
               "type": "search",
               "detail": "Depo Sorgu: DETRUSITOL SR 4 MG 28 CAP."
+            },
+            {
+              "t": "2026-11-18 15:27:38",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         }
