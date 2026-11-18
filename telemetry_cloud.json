@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 14:00:21",
+  "updated_at": "2026-11-18 14:00:23",
   "count": 7,
   "items": [
     {
@@ -707,17 +707,17 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D719-CEB2-1542",
-      "last_pc_name": "DESKTOP-M530BBB",
+      "hwid": "B446-9737-94C4",
+      "last_pc_name": "DESKTOP-5PFFU5S",
       "app_version": "1.9.12",
-      "last_seen_at": "2026-11-18 14:00:19",
-      "last_action": "[DESKTOP-M530BBB] Canlı MF Sorgulama (2 Ürün)",
+      "last_seen_at": "2026-11-18 14:00:23",
+      "last_action": "[DESKTOP-5PFFU5S] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-18",
       "today_searches": 34,
-      "today_cart_adds": 101,
+      "today_cart_adds": 102,
       "today_smart_orders": 219,
       "total_searches": 630,
-      "total_cart_adds": 1016,
+      "total_cart_adds": 1017,
       "total_smart_orders": 1165,
       "total_days_used": 13,
       "pc_count": 9,
@@ -1010,22 +1010,17 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 14:00:12",
-          "last_action": "Sepete Ekle (ALLIANCE): CADUET 5 MG/10 MG 30 FILM KA x4",
+          "last_seen_at": "2026-11-18 14:00:23",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-18",
           "today_searches": 0,
-          "today_cart_adds": 47,
+          "today_cart_adds": 48,
           "today_smart_orders": 48,
           "total_searches": 97,
-          "total_cart_adds": 256,
+          "total_cart_adds": 257,
           "total_smart_orders": 100,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-18 13:53:38",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): ANKEP 25 MG 30 FILM TABLET x3"
-            },
             {
               "t": "2026-11-18 13:54:09",
               "type": "cart",
@@ -1095,6 +1090,11 @@
               "t": "2026-11-18 13:59:47",
               "type": "cart",
               "detail": "Sepete Ekle (ALLIANCE): CADUET 5 MG/10 MG 30 FILM KA x4"
+            },
+            {
+              "t": "2026-11-18 14:00:23",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
