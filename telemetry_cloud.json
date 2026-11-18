@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 15:19:01",
+  "updated_at": "2026-11-18 15:19:03",
   "count": 7,
   "items": [
     {
@@ -8,23 +8,23 @@
       "pharmacist_name": "GAMZE ASLAN",
       "phone": "05344064108",
       "city": "SAMSUN/ATAKUM",
-      "gln_no": "8680001134861",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "PRO_YILLIK",
       "expires_at": "2027-10-24",
       "status": "AKTIF",
-      "hwid": "E4F7-229A-BABD",
-      "last_pc_name": "ChagriBeg",
+      "hwid": "E6B1-5698-273E",
+      "last_pc_name": "DESKTOP-6KFO8IF",
       "app_version": "1.9.14",
-      "last_seen_at": "2026-11-18 15:18:55",
-      "last_action": "[ChagriBeg] Sepete Ekle (ALLIANCE): FLOBEN NEBÜLİZASYON SÜSPANSİ x6",
+      "last_seen_at": "2026-11-18 15:19:03",
+      "last_action": "[DESKTOP-6KFO8IF] Canlı MF Sorgulama (2 Ürün)",
       "today_date": "2026-11-18",
       "today_searches": 28,
       "today_cart_adds": 81,
-      "today_smart_orders": 221,
+      "today_smart_orders": 225,
       "total_searches": 303,
       "total_cart_adds": 648,
-      "total_smart_orders": 1036,
+      "total_smart_orders": 1040,
       "total_days_used": 13,
       "pc_count": 3,
       "devices": {
@@ -34,7 +34,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-18 15:18:08",
+          "last_seen_at": "2026-11-18 15:19:03",
           "last_action": "Canlı MF Sorgulama (2 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 0,
@@ -128,37 +128,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-18 15:17:26",
+          "last_seen_at": "2026-11-18 15:18:45",
           "last_action": "Canlı MF Sorgulama (1 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 26,
           "today_cart_adds": 50,
-          "today_smart_orders": 137,
+          "today_smart_orders": 141,
           "total_searches": 159,
           "total_cart_adds": 457,
-          "total_smart_orders": 580,
+          "total_smart_orders": 584,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-18 14:34:46",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (1 Ürün)"
-            },
-            {
-              "t": "2026-11-18 15:09:48",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-18 15:09:48",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 33 Kalem)"
-            },
-            {
-              "t": "2026-11-18 15:09:48",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-18 15:09:54",
               "type": "cart",
@@ -211,6 +191,26 @@
             },
             {
               "t": "2026-11-18 15:16:53",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (1 Ürün)"
+            },
+            {
+              "t": "2026-11-18 15:17:44",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-18 15:17:44",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 34 Kalem)"
+            },
+            {
+              "t": "2026-11-18 15:17:44",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-18 15:17:44",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (1 Ürün)"
             }
