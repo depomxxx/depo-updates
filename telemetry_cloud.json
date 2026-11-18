@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 10:46:55",
+  "updated_at": "2026-11-18 10:47:18",
   "count": 7,
   "items": [
     {
@@ -260,15 +260,15 @@
       "hwid": "E6B1-5698-273E",
       "last_pc_name": "DESKTOP-6KFO8IF",
       "app_version": "1.9.9",
-      "last_seen_at": "2026-11-18 10:46:55",
-      "last_action": "Program Açık (Canlı)",
+      "last_seen_at": "2026-11-18 10:47:18",
+      "last_action": "[DESKTOP-6KFO8IF] Canlı MF Sorgulama (12 Ürün)",
       "today_date": "2026-11-18",
       "today_searches": 0,
       "today_cart_adds": 0,
-      "today_smart_orders": 0,
+      "today_smart_orders": 5,
       "total_searches": 275,
       "total_cart_adds": 567,
-      "total_smart_orders": 815,
+      "total_smart_orders": 820,
       "total_days_used": 12,
       "pc_count": 3,
       "devices": {
@@ -372,42 +372,17 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.9",
-          "last_seen_at": "2026-11-18 10:46:55",
-          "last_action": "Program Açık (Canlı)",
+          "last_seen_at": "2026-11-18 10:47:18",
+          "last_action": "Canlı MF Sorgulama (12 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 0,
           "today_cart_adds": 0,
-          "today_smart_orders": 0,
+          "today_smart_orders": 5,
           "total_searches": 38,
           "total_cart_adds": 76,
-          "total_smart_orders": 120,
+          "total_smart_orders": 125,
           "total_days_used": 12,
           "recent_actions": [
-            {
-              "t": "2026-11-17 10:40:18",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-17 10:40:21",
-              "type": "search",
-              "detail": "Depo Sorgu: LUSTRAL SPECIAL 100 MG 28 TB."
-            },
-            {
-              "t": "2026-11-17 13:01:21",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-17 13:21:21",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-17 13:49:22",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-17 13:49:22",
               "type": "mf_resolve",
@@ -457,6 +432,31 @@
               "t": "2026-11-17 15:45:55",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (5 Ürün)"
+            },
+            {
+              "t": "2026-11-18 10:46:59",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-18 10:46:59",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-18 10:47:04",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-18 10:47:06",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 12 Kalem)"
+            },
+            {
+              "t": "2026-11-18 10:47:18",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (12 Ürün)"
             }
           ]
         },
