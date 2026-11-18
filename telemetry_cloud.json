@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 13:58:42",
+  "updated_at": "2026-11-18 13:58:48",
   "count": 7,
   "items": [
     {
@@ -707,17 +707,17 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "B446-9737-94C4",
-      "last_pc_name": "DESKTOP-5PFFU5S",
+      "hwid": "D719-CEB2-1542",
+      "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.9.12",
-      "last_seen_at": "2026-11-18 13:58:21",
-      "last_action": "[DESKTOP-5PFFU5S] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-18 13:58:48",
+      "last_action": "[DESKTOP-M530BBB] Canlı MF Sorgulama (2 Ürün)",
       "today_date": "2026-11-18",
       "today_searches": 34,
-      "today_cart_adds": 93,
+      "today_cart_adds": 96,
       "today_smart_orders": 217,
       "total_searches": 630,
-      "total_cart_adds": 1008,
+      "total_cart_adds": 1011,
       "total_smart_orders": 1163,
       "total_days_used": 13,
       "pc_count": 9,
@@ -1010,32 +1010,17 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 13:58:21",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-18 13:58:34",
+          "last_action": "Sepete Ekle (ALLIANCE): NEXIVOL 5 MG 28 TABLET x10",
           "today_date": "2026-11-18",
           "today_searches": 0,
-          "today_cart_adds": 39,
+          "today_cart_adds": 42,
           "today_smart_orders": 46,
           "total_searches": 97,
-          "total_cart_adds": 248,
+          "total_cart_adds": 251,
           "total_smart_orders": 98,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-18 13:44:34",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-18 13:44:36",
-              "type": "cart",
-              "detail": "Sepete Ekle (ISKOOP): GLUKOFEN 1000 MG 100 FILM TA x10"
-            },
-            {
-              "t": "2026-11-18 13:45:12",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-18 13:45:12",
               "type": "mf_resolve",
@@ -1095,6 +1080,21 @@
               "t": "2026-11-18 13:58:21",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-18 13:58:24",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): VASOXEN 5 MG 28 TB. x20"
+            },
+            {
+              "t": "2026-11-18 13:58:33",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-18 13:58:34",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): NEXIVOL 5 MG 28 TABLET x10"
             }
           ]
         },
@@ -1292,7 +1292,7 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 13:57:52",
+          "last_seen_at": "2026-11-18 13:58:48",
           "last_action": "Canlı MF Sorgulama (2 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 0,
@@ -1386,7 +1386,7 @@
           "desk_name": "DESKTOP-1N3LQF0",
           "local_ip": "192.168.1.123",
           "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 13:58:04",
+          "last_seen_at": "2026-11-18 13:58:29",
           "last_action": "Canlı MF Sorgulama (2 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 12,
