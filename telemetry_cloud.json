@@ -710,15 +710,15 @@
       "hwid": "B446-9737-94C4",
       "last_pc_name": "DESKTOP-5PFFU5S",
       "app_version": "1.9.12",
-      "last_seen_at": "2026-11-18 13:40:04",
+      "last_seen_at": "2026-11-18 13:40:25",
       "last_action": "[DESKTOP-5PFFU5S] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-18",
       "today_searches": 34,
-      "today_cart_adds": 57,
-      "today_smart_orders": 186,
+      "today_cart_adds": 60,
+      "today_smart_orders": 189,
       "total_searches": 630,
-      "total_cart_adds": 972,
-      "total_smart_orders": 1132,
+      "total_cart_adds": 975,
+      "total_smart_orders": 1135,
       "total_days_used": 13,
       "pc_count": 9,
       "devices": {
@@ -1010,47 +1010,17 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 13:40:04",
+          "last_seen_at": "2026-11-18 13:40:25",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-18",
           "today_searches": 0,
-          "today_cart_adds": 3,
-          "today_smart_orders": 39,
+          "today_cart_adds": 6,
+          "today_smart_orders": 42,
           "total_searches": 97,
-          "total_cart_adds": 212,
-          "total_smart_orders": 91,
+          "total_cart_adds": 215,
+          "total_smart_orders": 94,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-18 13:25:13",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-18 13:25:13",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-18 13:25:17",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (3 Ürün)"
-            },
-            {
-              "t": "2026-11-18 13:39:22",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş Planlama"
-            },
-            {
-              "t": "2026-11-18 13:39:22",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş (TRIA • 80 Kalem)"
-            },
-            {
-              "t": "2026-11-18 13:39:22",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-18 13:39:26",
               "type": "mf_resolve",
@@ -1093,6 +1063,36 @@
             },
             {
               "t": "2026-11-18 13:40:00",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-18 13:40:04",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (35 Ürün)"
+            },
+            {
+              "t": "2026-11-18 13:40:05",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-18 13:40:13",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-18 13:40:16",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): DRAMAMINE 50 MG 12 TABLET x3"
+            },
+            {
+              "t": "2026-11-18 13:40:17",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (24 Ürün)"
+            },
+            {
+              "t": "2026-11-18 13:40:25",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
