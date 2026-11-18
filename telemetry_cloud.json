@@ -16,15 +16,15 @@
       "hwid": "E6B1-5698-273E",
       "last_pc_name": "DESKTOP-6KFO8IF",
       "app_version": "1.9.14",
-      "last_seen_at": "2026-11-18 15:08:27",
+      "last_seen_at": "2026-11-18 15:09:57",
       "last_action": "[DESKTOP-6KFO8IF] Canlı MF Sorgulama (2 Ürün)",
       "today_date": "2026-11-18",
       "today_searches": 28,
-      "today_cart_adds": 79,
-      "today_smart_orders": 209,
+      "today_cart_adds": 80,
+      "today_smart_orders": 212,
       "total_searches": 303,
-      "total_cart_adds": 646,
-      "total_smart_orders": 1024,
+      "total_cart_adds": 647,
+      "total_smart_orders": 1027,
       "total_days_used": 13,
       "pc_count": 3,
       "devices": {
@@ -34,7 +34,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-18 15:08:27",
+          "last_seen_at": "2026-11-18 15:09:57",
           "last_action": "Canlı MF Sorgulama (2 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 0,
@@ -128,37 +128,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-18 15:08:26",
-          "last_action": "Canlı MF Sorgulama (1 Ürün)",
+          "last_seen_at": "2026-11-18 15:09:56",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-18",
           "today_searches": 26,
-          "today_cart_adds": 48,
-          "today_smart_orders": 125,
+          "today_cart_adds": 49,
+          "today_smart_orders": 128,
           "total_searches": 159,
-          "total_cart_adds": 455,
-          "total_smart_orders": 568,
+          "total_cart_adds": 456,
+          "total_smart_orders": 571,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-18 14:33:00",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-18 14:33:15",
-              "type": "cart",
-              "detail": "Toplu Sepet (ALLIANCE): 3 Kalem"
-            },
-            {
-              "t": "2026-11-18 14:33:20",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-18 14:34:03",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-18 14:34:03",
               "type": "critical_stock",
@@ -213,6 +193,26 @@
               "t": "2026-11-18 14:34:46",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (1 Ürün)"
+            },
+            {
+              "t": "2026-11-18 15:09:48",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-18 15:09:48",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 33 Kalem)"
+            },
+            {
+              "t": "2026-11-18 15:09:48",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-18 15:09:54",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
@@ -222,7 +222,7 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-18 15:08:19",
+          "last_seen_at": "2026-11-18 15:09:49",
           "last_action": "Sepete Ekle (ALLIANCE): FLOBEN NEBÜLİZASYON SÜSPANSİ x6",
           "today_date": "2026-11-18",
           "today_searches": 2,
