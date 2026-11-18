@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 16:45:40",
+  "updated_at": "2026-11-18 16:45:45",
   "count": 7,
   "items": [
     {
@@ -567,17 +567,17 @@
       "plan": "PRO_YILLIK",
       "expires_at": "2027-11-11",
       "status": "AKTIF",
-      "hwid": "02C6-F4BB-F656",
-      "last_pc_name": "DESKTOP-NPTIN4D",
+      "hwid": "2DED-CFF9-D593",
+      "last_pc_name": "DESKTOP-8JN0NE5",
       "app_version": "1.9.14",
-      "last_seen_at": "2026-11-18 16:45:07",
-      "last_action": "[DESKTOP-NPTIN4D] Canlı MF Taraması",
+      "last_seen_at": "2026-11-18 16:45:45",
+      "last_action": "[DESKTOP-8JN0NE5] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-18",
-      "today_searches": 21,
-      "today_cart_adds": 16,
+      "today_searches": 22,
+      "today_cart_adds": 18,
       "today_smart_orders": 53,
-      "total_searches": 74,
-      "total_cart_adds": 160,
+      "total_searches": 75,
+      "total_cart_adds": 162,
       "total_days_used": 10,
       "total_smart_orders": 346,
       "pc_count": 2,
@@ -588,27 +588,17 @@
           "desk_name": "DESKTOP-8JN0NE5",
           "local_ip": "192.168.1.37",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-18 16:44:06",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-18 16:45:45",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-18",
-          "today_searches": 21,
-          "today_cart_adds": 16,
+          "today_searches": 22,
+          "today_cart_adds": 18,
           "today_smart_orders": 39,
-          "total_searches": 73,
-          "total_cart_adds": 160,
+          "total_searches": 74,
+          "total_cart_adds": 162,
           "total_smart_orders": 346,
           "total_days_used": 10,
           "recent_actions": [
-            {
-              "t": "2026-11-18 14:29:29",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-18 14:29:29",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-18 14:30:11",
               "type": "mf_resolve",
@@ -673,6 +663,16 @@
               "t": "2026-11-18 16:44:06",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-18 16:44:08",
+              "type": "search",
+              "detail": "Depo Sorgu: CAPICADE HAS KURU CILT TEM JELİ 150 ML"
+            },
+            {
+              "t": "2026-11-18 16:44:14",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
