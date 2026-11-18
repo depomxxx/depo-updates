@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 18:02:42",
+  "updated_at": "2026-11-18 18:02:40",
   "count": 7,
   "items": [
     {
@@ -702,21 +702,21 @@
       "pharmacist_name": "EDA BİLGİN",
       "phone": "05077034200",
       "city": "SAMSUN/İLKADIM",
-      "gln_no": "8680001000000",
+      "gln_no": "8680001112258",
       "otomasyon": "TRIA",
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D719-CEB2-1542",
-      "last_pc_name": "DESKTOP-M530BBB",
+      "hwid": "83F3-13F8-E632",
+      "last_pc_name": "Eskienes",
       "app_version": "1.9.14",
-      "last_seen_at": "2026-11-18 18:02:36",
-      "last_action": "[DESKTOP-M530BBB] Canlı MF Sorgulama (4 Ürün)",
+      "last_seen_at": "2026-11-18 18:02:40",
+      "last_action": "[Eskienes] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-18",
-      "today_searches": 65,
+      "today_searches": 66,
       "today_cart_adds": 145,
       "today_smart_orders": 331,
-      "total_searches": 661,
+      "total_searches": 662,
       "total_cart_adds": 1060,
       "total_smart_orders": 1277,
       "total_days_used": 13,
@@ -728,7 +728,7 @@
           "desk_name": "Eskienes",
           "local_ip": "192.168.1.117",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-18 18:01:56",
+          "last_seen_at": "2026-11-18 18:02:40",
           "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-18",
           "today_searches": 0,
@@ -822,22 +822,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-18 18:02:24",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-18 18:02:30",
+          "last_action": "Depo Sorgu: GYNO-FERRO SANOL 30 CAP.",
           "today_date": "2026-11-18",
-          "today_searches": 37,
+          "today_searches": 38,
           "today_cart_adds": 54,
           "today_smart_orders": 151,
-          "total_searches": 170,
+          "total_searches": 171,
           "total_cart_adds": 461,
           "total_smart_orders": 594,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-18 18:00:47",
-              "type": "search",
-              "detail": "Depo Sorgu: BUGIYA PROBIYOTIK"
-            },
             {
               "t": "2026-11-18 18:00:49",
               "type": "search",
@@ -907,6 +902,11 @@
               "t": "2026-11-18 18:02:24",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-18 18:02:30",
+              "type": "search",
+              "detail": "Depo Sorgu: GYNO-FERRO SANOL 30 CAP."
             }
           ]
         },
