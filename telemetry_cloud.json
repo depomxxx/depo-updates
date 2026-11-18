@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 13:47:18",
+  "updated_at": "2026-11-18 13:47:38",
   "count": 7,
   "items": [
     {
@@ -570,7 +570,7 @@
       "hwid": "02C6-F4BB-F656",
       "last_pc_name": "DESKTOP-NPTIN4D",
       "app_version": "1.9.12",
-      "last_seen_at": "2026-11-18 13:46:07",
+      "last_seen_at": "2026-11-18 13:47:38",
       "last_action": "[DESKTOP-NPTIN4D] Canlı MF Taraması",
       "today_date": "2026-11-18",
       "today_searches": 14,
@@ -682,7 +682,7 @@
           "desk_name": "DESKTOP-NPTIN4D",
           "local_ip": "192.168.1.116",
           "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 13:46:07",
+          "last_seen_at": "2026-11-18 13:47:38",
           "last_action": "Canlı MF Taraması",
           "today_date": "2026-11-18",
           "today_searches": 0,
