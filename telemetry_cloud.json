@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 14:33:33",
+  "updated_at": "2026-11-18 14:33:39",
   "count": 7,
   "items": [
     {
@@ -707,18 +707,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D719-CEB2-1542",
-      "last_pc_name": "DESKTOP-M530BBB",
+      "hwid": "8FD3-5823-91F4",
+      "last_pc_name": "Eda-Bilgin",
       "app_version": "1.9.14",
-      "last_seen_at": "2026-11-18 14:33:13",
-      "last_action": "[DESKTOP-M530BBB] Canlı MF Sorgulama (6 Ürün)",
+      "last_seen_at": "2026-11-18 14:33:39",
+      "last_action": "[Eda-Bilgin] Canlı MF Taraması",
       "today_date": "2026-11-18",
       "today_searches": 40,
       "today_cart_adds": 130,
-      "today_smart_orders": 274,
+      "today_smart_orders": 276,
       "total_searches": 636,
       "total_cart_adds": 1045,
-      "total_smart_orders": 1220,
+      "total_smart_orders": 1222,
       "total_days_used": 13,
       "pc_count": 9,
       "devices": {
@@ -916,15 +916,15 @@
           "desk_name": "Eda-Bilgin",
           "local_ip": "192.168.1.120",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-18 14:33:13",
+          "last_seen_at": "2026-11-18 14:33:39",
           "last_action": "Canlı MF Taraması",
           "today_date": "2026-11-18",
           "today_searches": 0,
           "today_cart_adds": 5,
-          "today_smart_orders": 10,
+          "today_smart_orders": 11,
           "total_searches": 57,
           "total_cart_adds": 14,
-          "total_smart_orders": 66,
+          "total_smart_orders": 67,
           "total_days_used": 10,
           "recent_actions": [
             {
@@ -1010,7 +1010,7 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-18 14:33:10",
+          "last_seen_at": "2026-11-18 14:33:23",
           "last_action": "Canlı MF Sorgulama (17 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 0,
@@ -1292,7 +1292,7 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-18 14:33:13",
+          "last_seen_at": "2026-11-18 14:33:29",
           "last_action": "Canlı MF Sorgulama (6 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 0,
@@ -1386,22 +1386,17 @@
           "desk_name": "DESKTOP-1N3LQF0",
           "local_ip": "192.168.1.123",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-18 14:33:11",
-          "last_action": "Canlı MF Taraması",
+          "last_seen_at": "2026-11-18 14:33:36",
+          "last_action": "Canlı MF Sorgulama (6 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 16,
           "today_cart_adds": 10,
-          "today_smart_orders": 23,
+          "today_smart_orders": 24,
           "total_searches": 81,
           "total_cart_adds": 36,
-          "total_smart_orders": 90,
+          "total_smart_orders": 91,
           "total_days_used": 9,
           "recent_actions": [
-            {
-              "t": "2026-11-18 14:03:25",
-              "type": "search",
-              "detail": "Depo Sorgu: SABALAKS %53.1+37 10 GR LAV"
-            },
             {
               "t": "2026-11-18 14:06:23",
               "type": "cart",
@@ -1471,6 +1466,11 @@
               "t": "2026-11-18 14:33:10",
               "type": "mf_resolve",
               "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-18 14:33:19",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (6 Ürün)"
             }
           ]
         },
