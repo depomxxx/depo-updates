@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 13:45:14",
+  "updated_at": "2026-11-18 13:45:12",
   "count": 7,
   "items": [
     {
@@ -702,7 +702,7 @@
       "pharmacist_name": "EDA BİLGİN",
       "phone": "05077034200",
       "city": "SAMSUN/İLKADIM",
-      "gln_no": "8680001112258",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
@@ -715,10 +715,10 @@
       "today_date": "2026-11-18",
       "today_searches": 34,
       "today_cart_adds": 79,
-      "today_smart_orders": 191,
+      "today_smart_orders": 192,
       "total_searches": 630,
       "total_cart_adds": 994,
-      "total_smart_orders": 1137,
+      "total_smart_orders": 1138,
       "total_days_used": 13,
       "pc_count": 9,
       "devices": {
@@ -1010,22 +1010,17 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 13:44:47",
-          "last_action": "Sepete Ekle (ISKOOP): GLUKOFEN 1000 MG 100 FILM TA x10",
+          "last_seen_at": "2026-11-18 13:45:12",
+          "last_action": "Canlı MF Taraması",
           "today_date": "2026-11-18",
           "today_searches": 0,
           "today_cart_adds": 25,
-          "today_smart_orders": 44,
+          "today_smart_orders": 45,
           "total_searches": 97,
           "total_cart_adds": 234,
-          "total_smart_orders": 96,
+          "total_smart_orders": 97,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-18 13:42:14",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (1 Ürün)"
-            },
             {
               "t": "2026-11-18 13:42:22",
               "type": "cart",
@@ -1095,6 +1090,11 @@
               "t": "2026-11-18 13:44:36",
               "type": "cart",
               "detail": "Sepete Ekle (ISKOOP): GLUKOFEN 1000 MG 100 FILM TA x10"
+            },
+            {
+              "t": "2026-11-18 13:45:12",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
             }
           ]
         },
