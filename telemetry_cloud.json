@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 12:00:08",
+  "updated_at": "2026-11-18 12:00:21",
   "count": 7,
   "items": [
     {
@@ -570,14 +570,14 @@
       "hwid": "2DED-CFF9-D593",
       "last_pc_name": "DESKTOP-8JN0NE5",
       "app_version": "1.9.9",
-      "last_seen_at": "2026-11-18 12:00:00",
-      "last_action": "[DESKTOP-8JN0NE5] Depo Fiyat Sorgulama",
+      "last_seen_at": "2026-11-18 12:00:21",
+      "last_action": "[DESKTOP-8JN0NE5] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-18",
-      "today_searches": 9,
-      "today_cart_adds": 6,
+      "today_searches": 10,
+      "today_cart_adds": 7,
       "today_smart_orders": 24,
-      "total_searches": 62,
-      "total_cart_adds": 150,
+      "total_searches": 63,
+      "total_cart_adds": 151,
       "total_days_used": 10,
       "total_smart_orders": 317,
       "pc_count": 2,
@@ -588,27 +588,17 @@
           "desk_name": "DESKTOP-8JN0NE5",
           "local_ip": "192.168.1.37",
           "app_version": "1.9.9",
-          "last_seen_at": "2026-11-18 12:00:00",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-18 12:00:21",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-18",
-          "today_searches": 9,
-          "today_cart_adds": 6,
+          "today_searches": 10,
+          "today_cart_adds": 7,
           "today_smart_orders": 10,
-          "total_searches": 61,
-          "total_cart_adds": 150,
+          "total_searches": 62,
+          "total_cart_adds": 151,
           "total_smart_orders": 317,
           "total_days_used": 10,
           "recent_actions": [
-            {
-              "t": "2026-11-18 11:37:47",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-18 11:38:20",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-18 11:38:30",
               "type": "mf_resolve",
@@ -673,6 +663,16 @@
               "t": "2026-11-18 12:00:00",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-18 12:00:05",
+              "type": "search",
+              "detail": "Depo Sorgu: PROGESTAN DEX 25 MG 7 AMP."
+            },
+            {
+              "t": "2026-11-18 12:00:21",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
