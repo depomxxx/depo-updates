@@ -1,11 +1,11 @@
 {
-  "version": "1.9.9",
+  "version": "1.9.10",
   "app_name": "Farma Radar",
-  "release_date": "2026-11-17 14:27:34",
+  "release_date": "2026-11-18 12:04:36",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.9.9.zip?t=1794914856",
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.9.10.zip?t=1794992678",
   "sha256": "",
-  "package_sha256": "7b67c5ed8813206d82e608da8ec2a9436acbf862a56791adb6d011a6e57c43ec",
-  "size_kb": 888.9,
-  "changelog": "v1.9.9: TRIA otomasyonu için açık emanet çıkışı (≤21 gün kritik stoğa düşenler) desteği eklendi; TRIA takas hareketlerinde karşı eczane adı, Türkçe karakter ve gelen/giden yön tespiti iyileştirildi."
+  "package_sha256": "f86a6afa14b3e0599898764abc02270864493eb1dd0c47b0db2100944015eca0",
+  "size_kb": 895.8,
+  "changelog": "- Alliance Healthcare v2.3+ şifreli ürün/kampanya protokolü (ItemDetailv3) tam uyumu: 'CUrLTxF6w1... is not valid JSON' sipariş/sepet hatası giderildi\n- Alliance tekli ve toplu sepete eklemede miktara göre otomatik MF kademesi seçimi ve tedarikçi onay (SupplierControlParam) desteği eklendi"
 }
