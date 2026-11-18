@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 12:48:15",
+  "updated_at": "2026-11-18 12:48:20",
   "count": 7,
   "items": [
     {
@@ -707,18 +707,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D2E4-AA57-C021",
-      "last_pc_name": "DESKTOP-1N3LQF0",
+      "hwid": "D719-CEB2-1542",
+      "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.9.11",
-      "last_seen_at": "2026-11-18 12:48:14",
-      "last_action": "[DESKTOP-1N3LQF0] Canlı MF Sorgulama (26 Ürün)",
+      "last_seen_at": "2026-11-18 12:48:20",
+      "last_action": "[DESKTOP-M530BBB] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-18",
       "today_searches": 20,
       "today_cart_adds": 29,
-      "today_smart_orders": 118,
+      "today_smart_orders": 119,
       "total_searches": 616,
       "total_cart_adds": 944,
-      "total_smart_orders": 1064,
+      "total_smart_orders": 1065,
       "total_days_used": 13,
       "pc_count": 8,
       "devices": {
@@ -1292,22 +1292,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.11",
-          "last_seen_at": "2026-11-18 12:47:58",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-18 12:48:20",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-18",
           "today_searches": 0,
           "today_cart_adds": 4,
-          "today_smart_orders": 5,
+          "today_smart_orders": 6,
           "total_searches": 97,
           "total_cart_adds": 102,
-          "total_smart_orders": 93,
+          "total_smart_orders": 94,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-16 10:00:08",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-16 10:00:17",
               "type": "search",
@@ -1377,6 +1372,11 @@
               "t": "2026-11-18 12:47:15",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-18 12:48:20",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         },
