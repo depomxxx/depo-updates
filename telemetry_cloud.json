@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 15:29:47",
+  "updated_at": "2026-11-18 15:29:49",
   "count": 7,
   "items": [
     {
@@ -1808,19 +1808,19 @@
       "city": "SINOP SARAYDÜZÜ",
       "gln_no": "8680001111111",
       "otomasyon": "BOTANIK",
-      "plan": "DENEME_30GUN",
-      "expires_at": "2026-12-02",
+      "plan": "PRO_YILLIK",
+      "expires_at": "2027-05-17",
       "status": "AKTIF",
       "hwid": "1A4A-8625-6A54",
       "last_pc_name": "Cicobey",
       "app_version": "1.5.9",
-      "last_seen_at": "2026-11-18 15:29:05",
-      "last_action": "[Cicobey] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-18 15:29:49",
+      "last_action": "[Cicobey] Depo Fiyat Sorgulama",
       "today_date": "2026-11-18",
-      "today_searches": 8,
+      "today_searches": 9,
       "today_cart_adds": 9,
       "today_smart_orders": 9,
-      "total_searches": 171,
+      "total_searches": 172,
       "total_cart_adds": 635,
       "total_days_used": 13,
       "total_smart_orders": 444,
@@ -2000,22 +2000,17 @@
           "desk_name": "Cicobey",
           "local_ip": "192.168.1.8",
           "app_version": "1.5.9",
-          "last_seen_at": "2026-11-18 15:29:05",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-18 15:29:49",
+          "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-18",
-          "today_searches": 8,
+          "today_searches": 9,
           "today_cart_adds": 9,
           "today_smart_orders": 9,
-          "total_searches": 46,
+          "total_searches": 47,
           "total_cart_adds": 71,
           "total_smart_orders": 90,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-18 14:13:26",
-              "type": "search",
-              "detail": "Depo Sorgu: ON CALL PLUS STRIP 50 LI"
-            },
             {
               "t": "2026-11-18 14:15:45",
               "type": "critical_stock",
@@ -2085,6 +2080,11 @@
               "t": "2026-11-18 15:27:38",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-18 15:29:49",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ]
         }
