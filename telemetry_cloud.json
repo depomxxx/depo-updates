@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 14:33:20",
+  "updated_at": "2026-11-18 14:33:24",
   "count": 7,
   "items": [
     {
@@ -325,16 +325,16 @@
       "status": "AKTIF",
       "hwid": "3FB2-2E58-20EC",
       "last_pc_name": "LAPTOP-NTJEFOD2",
-      "app_version": "1.9.13",
-      "last_seen_at": "2026-11-18 14:30:41",
-      "last_action": "Canlı MF Sorgulama (30 Ürün)",
+      "app_version": "1.9.14",
+      "last_seen_at": "2026-11-18 14:33:24",
+      "last_action": "Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-18",
       "today_searches": 4,
       "today_cart_adds": 7,
-      "today_smart_orders": 15,
+      "today_smart_orders": 22,
       "total_searches": 46,
       "total_cart_adds": 33,
-      "total_smart_orders": 122,
+      "total_smart_orders": 129,
       "total_days_used": 2,
       "pc_count": 1,
       "devices": {
@@ -343,53 +343,18 @@
           "pc_name": "LAPTOP-NTJEFOD2",
           "desk_name": "LAPTOP-NTJEFOD2",
           "local_ip": "192.168.1.53",
-          "app_version": "1.9.13",
-          "last_seen_at": "2026-11-18 14:30:41",
-          "last_action": "Canlı MF Sorgulama (30 Ürün)",
+          "app_version": "1.9.14",
+          "last_seen_at": "2026-11-18 14:33:24",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-18",
           "today_searches": 4,
           "today_cart_adds": 7,
-          "today_smart_orders": 15,
+          "today_smart_orders": 22,
           "total_searches": 46,
           "total_cart_adds": 33,
-          "total_smart_orders": 122,
+          "total_smart_orders": 129,
           "total_days_used": 2,
           "recent_actions": [
-            {
-              "t": "2026-11-18 10:54:44",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-18 10:54:53",
-              "type": "search",
-              "detail": "Depo Sorgu: PANOCER 40 MG 28 TB."
-            },
-            {
-              "t": "2026-11-18 10:55:00",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-18 10:55:03",
-              "type": "search",
-              "detail": "Depo Sorgu: PANOCER 40 MG 28 TB."
-            },
-            {
-              "t": "2026-11-18 10:55:19",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-18 12:05:23",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-18 12:05:26",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-18 12:05:38",
               "type": "critical_stock",
@@ -429,6 +394,41 @@
               "t": "2026-11-18 14:30:41",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (30 Ürün)"
+            },
+            {
+              "t": "2026-11-18 14:30:42",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-18 14:30:42",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (2 Ürün)"
+            },
+            {
+              "t": "2026-11-18 14:31:30",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-18 14:31:31",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TEBEOS • 40 Kalem)"
+            },
+            {
+              "t": "2026-11-18 14:31:31",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-18 14:31:32",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (1 Ürün)"
+            },
+            {
+              "t": "2026-11-18 14:33:24",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         }
