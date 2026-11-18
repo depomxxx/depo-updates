@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 13:52:59",
+  "updated_at": "2026-11-18 13:52:56",
   "count": 7,
   "items": [
     {
@@ -707,17 +707,17 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "5834-FAC9-B71F",
-      "last_pc_name": "DESKTOP-OTHNDUE",
+      "hwid": "D2E4-AA57-C021",
+      "last_pc_name": "DESKTOP-1N3LQF0",
       "app_version": "1.9.12",
-      "last_seen_at": "2026-11-18 13:52:56",
-      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-18 13:52:57",
+      "last_action": "[DESKTOP-1N3LQF0] Canlı MF Sorgulama (2 Ürün)",
       "today_date": "2026-11-18",
       "today_searches": 34,
-      "today_cart_adds": 81,
+      "today_cart_adds": 82,
       "today_smart_orders": 214,
       "total_searches": 630,
-      "total_cart_adds": 996,
+      "total_cart_adds": 997,
       "total_smart_orders": 1160,
       "total_days_used": 13,
       "pc_count": 9,
@@ -1010,22 +1010,17 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 13:52:42",
-          "last_action": "Sepete Ekle (ALLIANCE): NAPROSYN PLUS %10 + %5 DERIY x5",
+          "last_seen_at": "2026-11-18 13:52:56",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-18",
           "today_searches": 0,
-          "today_cart_adds": 27,
+          "today_cart_adds": 28,
           "today_smart_orders": 46,
           "total_searches": 97,
-          "total_cart_adds": 236,
+          "total_cart_adds": 237,
           "total_smart_orders": 98,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-18 13:42:50",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): NOVOMIX 30 FLEXPEN 100 IU/ML x10"
-            },
             {
               "t": "2026-11-18 13:42:53",
               "type": "cart",
@@ -1095,6 +1090,11 @@
               "t": "2026-11-18 13:45:33",
               "type": "cart",
               "detail": "Sepete Ekle (ALLIANCE): NAPROSYN PLUS %10 + %5 DERIY x5"
+            },
+            {
+              "t": "2026-11-18 13:52:56",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
@@ -1292,7 +1292,7 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 13:52:45",
+          "last_seen_at": "2026-11-18 13:52:52",
           "last_action": "Canlı MF Sorgulama (2 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 0,
@@ -1386,7 +1386,7 @@
           "desk_name": "DESKTOP-1N3LQF0",
           "local_ip": "192.168.1.123",
           "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 13:52:52",
+          "last_seen_at": "2026-11-18 13:52:57",
           "last_action": "Canlı MF Sorgulama (2 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 12,
