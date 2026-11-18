@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 12:40:47",
+  "updated_at": "2026-11-18 12:40:48",
   "count": 7,
   "items": [
     {
@@ -1490,16 +1490,16 @@
       "hwid": "47CB-2231-637D",
       "last_pc_name": "DESKTOP-F1KQPJ2",
       "app_version": "1.9.11",
-      "last_seen_at": "2026-11-18 12:40:22",
+      "last_seen_at": "2026-11-18 12:40:48",
       "last_action": "[DESKTOP-F1KQPJ2] Canlı MF Taraması",
       "today_date": "2026-11-18",
       "today_searches": 11,
       "today_cart_adds": 0,
-      "today_smart_orders": 12,
+      "today_smart_orders": 13,
       "total_searches": 79,
       "total_cart_adds": 36,
       "total_days_used": 4,
-      "total_smart_orders": 62,
+      "total_smart_orders": 63,
       "pc_count": 3,
       "devices": {
         "2F66-9873-3F47": {
@@ -1641,15 +1641,15 @@
           "desk_name": "DESKTOP-F1KQPJ2",
           "local_ip": "192.168.1.28",
           "app_version": "1.9.11",
-          "last_seen_at": "2026-11-18 12:40:22",
+          "last_seen_at": "2026-11-18 12:40:48",
           "last_action": "Canlı MF Taraması",
           "today_date": "2026-11-18",
           "today_searches": 11,
           "today_cart_adds": 0,
-          "today_smart_orders": 12,
+          "today_smart_orders": 13,
           "total_searches": 62,
           "total_cart_adds": 29,
-          "total_smart_orders": 47,
+          "total_smart_orders": 48,
           "total_days_used": 4,
           "recent_actions": [
             {
