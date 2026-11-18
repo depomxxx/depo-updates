@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 16:58:06",
+  "updated_at": "2026-11-18 17:00:47",
   "count": 7,
   "items": [
     {
@@ -1814,13 +1814,13 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.9.14",
-      "last_seen_at": "2026-11-18 16:58:54",
-      "last_action": "[DESKTOP-T4EAUS3] Depo Fiyat Sorgulama",
+      "last_seen_at": "2026-11-18 17:00:47",
+      "last_action": "[DESKTOP-T4EAUS3] Depo Sorgu: ALDACTONE A 25 MG 20 TB.",
       "today_date": "2026-11-18",
-      "today_searches": 11,
+      "today_searches": 14,
       "today_cart_adds": 13,
       "today_smart_orders": 16,
-      "total_searches": 174,
+      "total_searches": 177,
       "total_cart_adds": 639,
       "total_days_used": 13,
       "total_smart_orders": 451,
@@ -1906,32 +1906,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-18 16:58:54",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-18 17:00:47",
+          "last_action": "Depo Sorgu: ALDACTONE A 25 MG 20 TB.",
           "today_date": "2026-11-18",
-          "today_searches": 1,
+          "today_searches": 4,
           "today_cart_adds": 4,
           "today_smart_orders": 7,
-          "total_searches": 92,
+          "total_searches": 95,
           "total_cart_adds": 372,
           "total_smart_orders": 349,
           "total_days_used": 12,
           "recent_actions": [
-            {
-              "t": "2026-11-17 15:49:25",
-              "type": "search",
-              "detail": "Depo Sorgu: DETRUSITOL SR 4 MG 28 CAP."
-            },
-            {
-              "t": "2026-11-17 15:49:38",
-              "type": "search",
-              "detail": "Depo Sorgu: ALDACTONE A 25 MG 20 TB."
-            },
-            {
-              "t": "2026-11-17 15:49:55",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-17 15:49:56",
               "type": "critical_stock",
@@ -1991,6 +1976,21 @@
               "t": "2026-11-18 16:58:54",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-18 16:58:59",
+              "type": "search",
+              "detail": "Depo Sorgu: HYONAT %0.15 TEK DOZ 20 FLK."
+            },
+            {
+              "t": "2026-11-18 16:58:59",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-18 16:59:04",
+              "type": "search",
+              "detail": "Depo Sorgu: ALDACTONE A 25 MG 20 TB."
             }
           ]
         },
