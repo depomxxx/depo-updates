@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 14:30:03",
+  "updated_at": "2026-11-18 14:30:09",
   "count": 7,
   "items": [
     {
@@ -1799,16 +1799,16 @@
       "hwid": "1A4A-8625-6A54",
       "last_pc_name": "Cicobey",
       "app_version": "1.5.9",
-      "last_seen_at": "2026-11-18 14:29:06",
+      "last_seen_at": "2026-11-18 14:30:09",
       "last_action": "[Cicobey] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-18",
       "today_searches": 6,
-      "today_cart_adds": 6,
-      "today_smart_orders": 6,
+      "today_cart_adds": 7,
+      "today_smart_orders": 7,
       "total_searches": 169,
-      "total_cart_adds": 632,
+      "total_cart_adds": 633,
       "total_days_used": 13,
-      "total_smart_orders": 441,
+      "total_smart_orders": 442,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -1985,27 +1985,17 @@
           "desk_name": "Cicobey",
           "local_ip": "192.168.1.8",
           "app_version": "1.5.9",
-          "last_seen_at": "2026-11-18 14:29:06",
+          "last_seen_at": "2026-11-18 14:30:09",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-18",
           "today_searches": 6,
-          "today_cart_adds": 6,
-          "today_smart_orders": 6,
+          "today_cart_adds": 7,
+          "today_smart_orders": 7,
           "total_searches": 44,
-          "total_cart_adds": 68,
-          "total_smart_orders": 87,
+          "total_cart_adds": 69,
+          "total_smart_orders": 88,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-18 11:48:23",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-18 11:48:28",
-              "type": "search",
-              "detail": "Depo Sorgu: DETRUSITOL SR 4 MG 28 CAP."
-            },
             {
               "t": "2026-11-18 11:48:34",
               "type": "search",
@@ -2068,6 +2058,16 @@
             },
             {
               "t": "2026-11-18 14:16:42",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-18 14:29:15",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-18 14:30:09",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
