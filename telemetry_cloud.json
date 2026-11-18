@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 11:40:15",
+  "updated_at": "2026-11-18 11:40:17",
   "count": 7,
   "items": [
     {
@@ -608,22 +608,22 @@
       "pharmacist_name": "EDA BİLGİN",
       "phone": "05077034200",
       "city": "SAMSUN/İLKADIM",
-      "gln_no": "8680001000000",
+      "gln_no": "8680001112258",
       "otomasyon": "TRIA",
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "5834-FAC9-B71F",
-      "last_pc_name": "DESKTOP-OTHNDUE",
+      "hwid": "83F3-13F8-E632",
+      "last_pc_name": "Eskienes",
       "app_version": "1.9.9",
-      "last_seen_at": "2026-11-18 11:40:15",
-      "last_action": "[DESKTOP-OTHNDUE] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-18 11:40:17",
+      "last_action": "[Eskienes] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-18",
       "today_searches": 14,
-      "today_cart_adds": 12,
+      "today_cart_adds": 13,
       "today_smart_orders": 45,
       "total_searches": 610,
-      "total_cart_adds": 927,
+      "total_cart_adds": 928,
       "total_smart_orders": 991,
       "total_days_used": 13,
       "pc_count": 8,
@@ -634,7 +634,7 @@
           "desk_name": "Eskienes",
           "local_ip": "192.168.1.117",
           "app_version": "1.9.9",
-          "last_seen_at": "2026-11-18 11:39:54",
+          "last_seen_at": "2026-11-18 11:40:17",
           "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-18",
           "today_searches": 0,
@@ -729,21 +729,16 @@
           "local_ip": "192.168.1.107",
           "app_version": "1.9.9",
           "last_seen_at": "2026-11-18 11:40:15",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_action": "Sepete Ekle (SELCUK): VENTOSAL 2.5 MG 2.5 ML 20 FL x5",
           "today_date": "2026-11-18",
           "today_searches": 4,
-          "today_cart_adds": 1,
+          "today_cart_adds": 2,
           "today_smart_orders": 17,
           "total_searches": 137,
-          "total_cart_adds": 408,
+          "total_cart_adds": 409,
           "total_smart_orders": 460,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-18 11:36:32",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-18 11:36:32",
               "type": "mf_resolve",
@@ -813,6 +808,11 @@
               "t": "2026-11-18 11:40:15",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-18 11:40:15",
+              "type": "cart",
+              "detail": "Sepete Ekle (SELCUK): VENTOSAL 2.5 MG 2.5 ML 20 FL x5"
             }
           ]
         },
