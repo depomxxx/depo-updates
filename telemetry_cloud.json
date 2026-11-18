@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 14:31:45",
+  "updated_at": "2026-11-18 14:32:11",
   "count": 7,
   "items": [
     {
@@ -707,17 +707,17 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "E6B1-5698-273E",
-      "last_pc_name": "DESKTOP-6KFO8IF",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.13",
-      "last_seen_at": "2026-11-18 14:31:47",
-      "last_action": "[DESKTOP-6KFO8IF] Canlı MF Sorgulama (27 Ürün)",
+      "last_seen_at": "2026-11-18 14:32:11",
+      "last_action": "[DESKTOP-OTHNDUE] Depo Fiyat Sorgulama",
       "today_date": "2026-11-18",
-      "today_searches": 38,
-      "today_cart_adds": 126,
+      "today_searches": 39,
+      "today_cart_adds": 128,
       "today_smart_orders": 261,
-      "total_searches": 634,
-      "total_cart_adds": 1041,
+      "total_searches": 635,
+      "total_cart_adds": 1043,
       "total_smart_orders": 1207,
       "total_days_used": 13,
       "pc_count": 9,
@@ -728,7 +728,7 @@
           "desk_name": "Eskienes",
           "local_ip": "192.168.1.117",
           "app_version": "1.9.13",
-          "last_seen_at": "2026-11-18 14:31:37",
+          "last_seen_at": "2026-11-18 14:32:02",
           "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-18",
           "today_searches": 0,
@@ -822,32 +822,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.13",
-          "last_seen_at": "2026-11-18 14:31:47",
-          "last_action": "Sepete Ekle (ALLIANCE): NADIXA %1 30 GR KREM x2",
+          "last_seen_at": "2026-11-18 14:32:11",
+          "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-18",
-          "today_searches": 22,
-          "today_cart_adds": 39,
+          "today_searches": 23,
+          "today_cart_adds": 41,
           "today_smart_orders": 114,
-          "total_searches": 155,
-          "total_cart_adds": 446,
+          "total_searches": 156,
+          "total_cart_adds": 448,
           "total_smart_orders": 557,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-18 14:29:41",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-18 14:29:41",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-18 14:30:10",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (26 Ürün)"
-            },
             {
               "t": "2026-11-18 14:31:29",
               "type": "critical_stock",
@@ -907,6 +892,21 @@
               "t": "2026-11-18 14:31:47",
               "type": "cart",
               "detail": "Sepete Ekle (ALLIANCE): NADIXA %1 30 GR KREM x2"
+            },
+            {
+              "t": "2026-11-18 14:32:00",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-18 14:32:02",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): PREGNOM MAX 60 SOFT JEL KAPS x1"
+            },
+            {
+              "t": "2026-11-18 14:32:11",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ]
         },
