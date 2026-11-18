@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 14:32:41",
+  "updated_at": "2026-11-18 14:32:43",
   "count": 7,
   "items": [
     {
@@ -8,23 +8,23 @@
       "pharmacist_name": "GAMZE ASLAN",
       "phone": "05344064108",
       "city": "SAMSUN/ATAKUM",
-      "gln_no": "8680001134861",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "PRO_YILLIK",
       "expires_at": "2027-10-24",
       "status": "AKTIF",
-      "hwid": "E4F7-229A-BABD",
-      "last_pc_name": "ChagriBeg",
+      "hwid": "E6B1-5698-273E",
+      "last_pc_name": "DESKTOP-6KFO8IF",
       "app_version": "1.9.13",
-      "last_seen_at": "2026-11-18 14:31:32",
-      "last_action": "[ChagriBeg] Canlı MF Sorgulama (8 Ürün)",
+      "last_seen_at": "2026-11-18 14:32:43",
+      "last_action": "[DESKTOP-6KFO8IF] Canlı MF Sorgulama (27 Ürün)",
       "today_date": "2026-11-18",
-      "today_searches": 24,
-      "today_cart_adds": 64,
-      "today_smart_orders": 181,
-      "total_searches": 299,
-      "total_cart_adds": 631,
-      "total_smart_orders": 996,
+      "today_searches": 26,
+      "today_cart_adds": 71,
+      "today_smart_orders": 189,
+      "total_searches": 301,
+      "total_cart_adds": 638,
+      "total_smart_orders": 1004,
       "total_days_used": 13,
       "pc_count": 3,
       "devices": {
@@ -34,7 +34,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.13",
-          "last_seen_at": "2026-11-18 14:31:22",
+          "last_seen_at": "2026-11-18 14:32:43",
           "last_action": "Canlı MF Sorgulama (27 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 0,
@@ -128,91 +128,91 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.13",
-          "last_seen_at": "2026-11-18 14:30:57",
-          "last_action": "Canlı MF Sorgulama (26 Ürün)",
+          "last_seen_at": "2026-11-18 14:32:41",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-18",
-          "today_searches": 22,
-          "today_cart_adds": 35,
-          "today_smart_orders": 106,
-          "total_searches": 155,
-          "total_cart_adds": 442,
-          "total_smart_orders": 549,
+          "today_searches": 24,
+          "today_cart_adds": 42,
+          "today_smart_orders": 114,
+          "total_searches": 157,
+          "total_cart_adds": 449,
+          "total_smart_orders": 557,
           "total_days_used": 13,
           "recent_actions": [
             {
-              "t": "2026-11-18 13:47:01",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-18 13:47:01",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 27 Kalem)"
-            },
-            {
-              "t": "2026-11-18 13:47:01",
+              "t": "2026-11-18 14:31:29",
               "type": "mf_resolve",
               "detail": "Canlı MF Taraması"
             },
             {
-              "t": "2026-11-18 13:47:02",
+              "t": "2026-11-18 14:31:30",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (1 Ürün)"
             },
             {
-              "t": "2026-11-18 13:49:29",
+              "t": "2026-11-18 14:31:32",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
             },
             {
-              "t": "2026-11-18 13:49:29",
+              "t": "2026-11-18 14:31:32",
               "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 27 Kalem)"
+              "detail": "Günün Çıkışları Yenileme (TRIA • 34 Kalem)"
             },
             {
-              "t": "2026-11-18 13:49:29",
+              "t": "2026-11-18 14:31:32",
               "type": "mf_resolve",
               "detail": "Canlı MF Taraması"
             },
             {
-              "t": "2026-11-18 13:49:30",
+              "t": "2026-11-18 14:31:33",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (1 Ürün)"
             },
             {
-              "t": "2026-11-18 13:52:56",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
+              "t": "2026-11-18 14:31:37",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             },
             {
-              "t": "2026-11-18 13:52:56",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 27 Kalem)"
+              "t": "2026-11-18 14:31:40",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): BACTRİM FORTE TABLET 800 MG/ x2"
             },
             {
-              "t": "2026-11-18 13:52:56",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
+              "t": "2026-11-18 14:31:46",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             },
             {
-              "t": "2026-11-18 13:52:57",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (1 Ürün)"
+              "t": "2026-11-18 14:31:47",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): NADIXA %1 30 GR KREM x2"
             },
             {
-              "t": "2026-11-18 14:29:41",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
+              "t": "2026-11-18 14:32:00",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             },
             {
-              "t": "2026-11-18 14:29:41",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
+              "t": "2026-11-18 14:32:02",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): PREGNOM MAX 60 SOFT JEL KAPS x1"
             },
             {
-              "t": "2026-11-18 14:30:10",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (26 Ürün)"
+              "t": "2026-11-18 14:32:11",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-18 14:32:16",
+              "type": "search",
+              "detail": "Depo Sorgu: DEPORES FREE %0.05 5.5 ML GTT"
+            },
+            {
+              "t": "2026-11-18 14:32:41",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
@@ -222,7 +222,7 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.9.13",
-          "last_seen_at": "2026-11-18 14:31:32",
+          "last_seen_at": "2026-11-18 14:32:23",
           "last_action": "Canlı MF Sorgulama (8 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 2,
