@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 18:04:07",
+  "updated_at": "2026-11-18 18:04:08",
   "count": 7,
   "items": [
     {
@@ -16,14 +16,14 @@
       "hwid": "E6B1-5698-273E",
       "last_pc_name": "DESKTOP-6KFO8IF",
       "app_version": "1.9.14",
-      "last_seen_at": "2026-11-18 18:02:42",
+      "last_seen_at": "2026-11-18 18:04:08",
       "last_action": "[DESKTOP-6KFO8IF] Canlı MF Sorgulama (2 Ürün)",
       "today_date": "2026-11-18",
       "today_searches": 40,
-      "today_cart_adds": 85,
+      "today_cart_adds": 89,
       "today_smart_orders": 235,
       "total_searches": 315,
-      "total_cart_adds": 652,
+      "total_cart_adds": 656,
       "total_smart_orders": 1050,
       "total_days_used": 13,
       "pc_count": 3,
@@ -34,7 +34,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-18 18:02:42",
+          "last_seen_at": "2026-11-18 18:04:08",
           "last_action": "Canlı MF Sorgulama (2 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 0,
@@ -128,32 +128,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-18 18:02:30",
-          "last_action": "Depo Sorgu: GYNO-FERRO SANOL 30 CAP.",
+          "last_seen_at": "2026-11-18 18:04:06",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-18",
           "today_searches": 38,
-          "today_cart_adds": 54,
+          "today_cart_adds": 58,
           "today_smart_orders": 151,
           "total_searches": 171,
-          "total_cart_adds": 461,
+          "total_cart_adds": 465,
           "total_smart_orders": 594,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-18 18:00:49",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-18 18:00:51",
-              "type": "search",
-              "detail": "Depo Sorgu: TARDEN 40 MG 30 FTB."
-            },
-            {
-              "t": "2026-11-18 18:01:00",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-18 18:01:02",
               "type": "search",
@@ -213,6 +198,21 @@
               "t": "2026-11-18 18:02:30",
               "type": "search",
               "detail": "Depo Sorgu: GYNO-FERRO SANOL 30 CAP."
+            },
+            {
+              "t": "2026-11-18 18:02:47",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-18 18:03:00",
+              "type": "cart",
+              "detail": "Toplu Sepet (ALLIANCE): 8 Kalem"
+            },
+            {
+              "t": "2026-11-18 18:03:10",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
@@ -222,7 +222,7 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-18 18:02:41",
+          "last_seen_at": "2026-11-18 18:04:07",
           "last_action": "Sepete Ekle (ALLIANCE): FLOBEN NEBÜLİZASYON SÜSPANSİ x6",
           "today_date": "2026-11-18",
           "today_searches": 2,
