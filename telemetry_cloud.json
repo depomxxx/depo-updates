@@ -707,16 +707,16 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "B446-9737-94C4",
-      "last_pc_name": "DESKTOP-5PFFU5S",
+      "hwid": "D2E4-AA57-C021",
+      "last_pc_name": "DESKTOP-1N3LQF0",
       "app_version": "1.9.12",
-      "last_seen_at": "2026-11-18 14:07:42",
-      "last_action": "[DESKTOP-5PFFU5S] Sepete Ekle (ALLIANCE): DRAMAMINE 50 MG 12 TABLET x3",
+      "last_seen_at": "2026-11-18 14:07:45",
+      "last_action": "[DESKTOP-1N3LQF0] Depo Fiyat Sorgulama",
       "today_date": "2026-11-18",
-      "today_searches": 36,
+      "today_searches": 37,
       "today_cart_adds": 115,
       "today_smart_orders": 227,
-      "total_searches": 632,
+      "total_searches": 633,
       "total_cart_adds": 1030,
       "total_smart_orders": 1173,
       "total_days_used": 13,
@@ -1386,22 +1386,17 @@
           "desk_name": "DESKTOP-1N3LQF0",
           "local_ip": "192.168.1.123",
           "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 14:07:38",
-          "last_action": "Sepete Ekle (NEVZAT): SABALAKS LAVMAN 10 GR x18",
+          "last_seen_at": "2026-11-18 14:07:45",
+          "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-18",
-          "today_searches": 14,
+          "today_searches": 15,
           "today_cart_adds": 8,
           "today_smart_orders": 16,
-          "total_searches": 79,
+          "total_searches": 80,
           "total_cart_adds": 34,
           "total_smart_orders": 83,
           "total_days_used": 9,
           "recent_actions": [
-            {
-              "t": "2026-11-18 12:12:39",
-              "type": "search",
-              "detail": "Depo Sorgu: REFRESH TEARS 15 ML GOZ GTT."
-            },
             {
               "t": "2026-11-18 12:41:09",
               "type": "critical_stock",
@@ -1471,6 +1466,11 @@
               "t": "2026-11-18 14:07:03",
               "type": "cart",
               "detail": "Sepete Ekle (NEVZAT): SABALAKS LAVMAN 10 GR x18"
+            },
+            {
+              "t": "2026-11-18 14:07:45",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ]
         },
