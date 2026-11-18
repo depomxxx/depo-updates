@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 14:33:13",
+  "updated_at": "2026-11-18 14:33:16",
   "count": 7,
   "items": [
     {
@@ -567,19 +567,19 @@
       "plan": "PRO_YILLIK",
       "expires_at": "2027-11-11",
       "status": "AKTIF",
-      "hwid": "02C6-F4BB-F656",
-      "last_pc_name": "DESKTOP-NPTIN4D",
-      "app_version": "1.9.13",
-      "last_seen_at": "2026-11-18 14:32:26",
-      "last_action": "[DESKTOP-NPTIN4D] Canlı MF Taraması",
+      "hwid": "2DED-CFF9-D593",
+      "last_pc_name": "DESKTOP-8JN0NE5",
+      "app_version": "1.9.14",
+      "last_seen_at": "2026-11-18 14:33:15",
+      "last_action": "[DESKTOP-8JN0NE5] Canlı MF Taraması",
       "today_date": "2026-11-18",
-      "today_searches": 14,
+      "today_searches": 16,
       "today_cart_adds": 14,
-      "today_smart_orders": 51,
-      "total_searches": 67,
+      "today_smart_orders": 53,
+      "total_searches": 69,
       "total_cart_adds": 158,
       "total_days_used": 10,
-      "total_smart_orders": 344,
+      "total_smart_orders": 346,
       "pc_count": 2,
       "devices": {
         "2DED-CFF9-D593": {
@@ -587,38 +587,18 @@
           "pc_name": "DESKTOP-8JN0NE5",
           "desk_name": "DESKTOP-8JN0NE5",
           "local_ip": "192.168.1.37",
-          "app_version": "1.9.13",
-          "last_seen_at": "2026-11-18 14:31:34",
-          "last_action": "Canlı MF Sorgulama (12 Ürün)",
+          "app_version": "1.9.14",
+          "last_seen_at": "2026-11-18 14:33:15",
+          "last_action": "Canlı MF Taraması",
           "today_date": "2026-11-18",
-          "today_searches": 14,
+          "today_searches": 16,
           "today_cart_adds": 14,
-          "today_smart_orders": 37,
-          "total_searches": 66,
+          "today_smart_orders": 39,
+          "total_searches": 68,
           "total_cart_adds": 158,
-          "total_smart_orders": 344,
+          "total_smart_orders": 346,
           "total_days_used": 10,
           "recent_actions": [
-            {
-              "t": "2026-11-18 13:44:07",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (BOTANIK • 45 Kalem)"
-            },
-            {
-              "t": "2026-11-18 13:44:07",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-18 13:44:20",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (11 Ürün)"
-            },
-            {
-              "t": "2026-11-18 13:45:46",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-18 13:46:03",
               "type": "cart",
@@ -673,6 +653,26 @@
               "t": "2026-11-18 14:30:26",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (12 Ürün)"
+            },
+            {
+              "t": "2026-11-18 14:32:59",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-18 14:33:13",
+              "type": "search",
+              "detail": "Depo Sorgu: HIPP 3 ORGANIK COMBIOTIK 350 GR"
+            },
+            {
+              "t": "2026-11-18 14:33:14",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-18 14:33:14",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
             }
           ]
         },
