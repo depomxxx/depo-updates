@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 17:49:49",
+  "updated_at": "2026-11-18 17:50:07",
   "count": 7,
   "items": [
     {
@@ -710,15 +710,15 @@
       "hwid": "D719-CEB2-1542",
       "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.9.14",
-      "last_seen_at": "2026-11-18 17:49:49",
+      "last_seen_at": "2026-11-18 17:50:07",
       "last_action": "[DESKTOP-M530BBB] Canlı MF Taraması",
       "today_date": "2026-11-18",
       "today_searches": 54,
       "today_cart_adds": 141,
-      "today_smart_orders": 322,
+      "today_smart_orders": 324,
       "total_searches": 650,
       "total_cart_adds": 1056,
-      "total_smart_orders": 1268,
+      "total_smart_orders": 1270,
       "total_days_used": 13,
       "pc_count": 9,
       "devices": {
@@ -1010,7 +1010,7 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-18 17:49:10",
+          "last_seen_at": "2026-11-18 17:50:01",
           "last_action": "Depo Sorgu: PAROL 500 MG 20 TB.",
           "today_date": "2026-11-18",
           "today_searches": 4,
@@ -1292,27 +1292,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-18 17:49:49",
+          "last_seen_at": "2026-11-18 17:50:07",
           "last_action": "Canlı MF Taraması",
           "today_date": "2026-11-18",
           "today_searches": 8,
           "today_cart_adds": 6,
-          "today_smart_orders": 32,
+          "today_smart_orders": 34,
           "total_searches": 105,
           "total_cart_adds": 104,
-          "total_smart_orders": 120,
+          "total_smart_orders": 122,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-18 15:25:30",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-18 15:25:38",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-18 15:25:52",
               "type": "search",
@@ -1375,6 +1365,16 @@
             },
             {
               "t": "2026-11-18 17:49:49",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-18 17:50:06",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (30 Ürün)"
+            },
+            {
+              "t": "2026-11-18 17:50:07",
               "type": "mf_resolve",
               "detail": "Canlı MF Taraması"
             }
