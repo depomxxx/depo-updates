@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 12:34:47",
+  "updated_at": "2026-11-18 12:34:55",
   "count": 7,
   "items": [
     {
@@ -710,15 +710,15 @@
       "hwid": "B446-9737-94C4",
       "last_pc_name": "DESKTOP-5PFFU5S",
       "app_version": "1.9.10",
-      "last_seen_at": "2026-11-18 12:34:15",
+      "last_seen_at": "2026-11-18 12:34:55",
       "last_action": "[DESKTOP-5PFFU5S] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-18",
       "today_searches": 20,
       "today_cart_adds": 25,
-      "today_smart_orders": 83,
+      "today_smart_orders": 85,
       "total_searches": 616,
       "total_cart_adds": 940,
-      "total_smart_orders": 1029,
+      "total_smart_orders": 1031,
       "total_days_used": 13,
       "pc_count": 8,
       "devices": {
@@ -1010,15 +1010,15 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.9.10",
-          "last_seen_at": "2026-11-18 12:34:15",
+          "last_seen_at": "2026-11-18 12:34:55",
           "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-18",
           "today_searches": 0,
           "today_cart_adds": 0,
-          "today_smart_orders": 2,
+          "today_smart_orders": 4,
           "total_searches": 97,
           "total_cart_adds": 209,
-          "total_smart_orders": 54,
+          "total_smart_orders": 56,
           "total_days_used": 8,
           "recent_actions": [
             {
