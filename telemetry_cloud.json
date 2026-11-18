@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 12:30:36",
+  "updated_at": "2026-11-18 12:30:46",
   "count": 7,
   "items": [
     {
@@ -1490,13 +1490,13 @@
       "hwid": "47CB-2231-637D",
       "last_pc_name": "DESKTOP-F1KQPJ2",
       "app_version": "1.9.10",
-      "last_seen_at": "2026-11-18 12:29:04",
-      "last_action": "[DESKTOP-F1KQPJ2] Depo Fiyat Sorgulama",
+      "last_seen_at": "2026-11-18 12:30:46",
+      "last_action": "[DESKTOP-F1KQPJ2] Depo Sorgu: FLEXO %5 40 GR JEL",
       "today_date": "2026-11-18",
-      "today_searches": 10,
+      "today_searches": 11,
       "today_cart_adds": 0,
       "today_smart_orders": 10,
-      "total_searches": 78,
+      "total_searches": 79,
       "total_cart_adds": 36,
       "total_days_used": 4,
       "total_smart_orders": 60,
@@ -1641,22 +1641,17 @@
           "desk_name": "DESKTOP-F1KQPJ2",
           "local_ip": "192.168.1.28",
           "app_version": "1.9.10",
-          "last_seen_at": "2026-11-18 12:29:04",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-18 12:30:46",
+          "last_action": "Depo Sorgu: FLEXO %5 40 GR JEL",
           "today_date": "2026-11-18",
-          "today_searches": 10,
+          "today_searches": 11,
           "today_cart_adds": 0,
           "today_smart_orders": 10,
-          "total_searches": 61,
+          "total_searches": 62,
           "total_cart_adds": 29,
           "total_smart_orders": 45,
           "total_days_used": 4,
           "recent_actions": [
-            {
-              "t": "2026-11-18 11:53:42",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-18 11:53:42",
               "type": "mf_resolve",
@@ -1726,6 +1721,11 @@
               "t": "2026-11-18 12:29:04",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-18 12:29:09",
+              "type": "search",
+              "detail": "Depo Sorgu: FLEXO %5 40 GR JEL"
             }
           ]
         }
