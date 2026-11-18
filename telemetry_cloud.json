@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 13:37:01",
+  "updated_at": "2026-11-18 13:37:09",
   "count": 7,
   "items": [
     {
@@ -707,18 +707,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "5834-FAC9-B71F",
-      "last_pc_name": "DESKTOP-OTHNDUE",
+      "hwid": "40AB-8832-D69D",
+      "last_pc_name": "DESKTOP-SMI9E20",
       "app_version": "1.9.12",
-      "last_seen_at": "2026-11-18 13:36:42",
-      "last_action": "[DESKTOP-OTHNDUE] Depo Fiyat Sorgulama",
+      "last_seen_at": "2026-11-18 13:37:09",
+      "last_action": "[DESKTOP-SMI9E20] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-18",
-      "today_searches": 33,
-      "today_cart_adds": 48,
-      "today_smart_orders": 173,
-      "total_searches": 629,
-      "total_cart_adds": 963,
-      "total_smart_orders": 1119,
+      "today_searches": 34,
+      "today_cart_adds": 53,
+      "today_smart_orders": 175,
+      "total_searches": 630,
+      "total_cart_adds": 968,
+      "total_smart_orders": 1121,
       "total_days_used": 13,
       "pc_count": 9,
       "devices": {
@@ -728,7 +728,7 @@
           "desk_name": "Eskienes",
           "local_ip": "192.168.1.117",
           "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 13:36:08",
+          "last_seen_at": "2026-11-18 13:36:58",
           "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-18",
           "today_searches": 0,
@@ -822,32 +822,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 13:36:42",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-18 13:36:51",
+          "last_action": "Sepete Ekle (ALLIANCE): VENTOPIUM PLUS 05 MG/2.5 20 x10",
           "today_date": "2026-11-18",
-          "today_searches": 21,
-          "today_cart_adds": 33,
+          "today_searches": 22,
+          "today_cart_adds": 35,
           "today_smart_orders": 79,
-          "total_searches": 154,
-          "total_cart_adds": 440,
+          "total_searches": 155,
+          "total_cart_adds": 442,
           "total_smart_orders": 522,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-18 13:34:03",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-18 13:34:05",
-              "type": "search",
-              "detail": "Depo Sorgu: FLOBEN 2 MG 2 ML 10 FLK."
-            },
-            {
-              "t": "2026-11-18 13:34:11",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-18 13:34:17",
               "type": "cart",
@@ -907,6 +892,21 @@
               "t": "2026-11-18 13:36:42",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-18 13:36:46",
+              "type": "search",
+              "detail": "Depo Sorgu: VENTOPIUM PLUS 2.5/0.5 MG 2.5"
+            },
+            {
+              "t": "2026-11-18 13:36:50",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-18 13:36:51",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): VENTOPIUM PLUS 05 MG/2.5 20 x10"
             }
           ]
         },
@@ -1104,7 +1104,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 13:36:08",
+          "last_seen_at": "2026-11-18 13:37:08",
           "last_action": "Canlı MF Sorgulama (20 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 0,
@@ -1480,21 +1480,46 @@
           "desk_name": "DESKTOP-SMI9E20",
           "local_ip": "192.168.1.108",
           "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 13:36:41",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-18 13:37:09",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-18",
           "today_searches": 0,
-          "today_cart_adds": 0,
-          "today_smart_orders": 1,
+          "today_cart_adds": 3,
+          "today_smart_orders": 3,
           "total_searches": 0,
-          "total_cart_adds": 0,
-          "total_smart_orders": 1,
+          "total_cart_adds": 3,
+          "total_smart_orders": 3,
           "total_days_used": 1,
           "recent_actions": [
             {
               "t": "2026-11-18 13:36:41",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-18 13:36:41",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-18 13:36:45",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (6 Ürün)"
+            },
+            {
+              "t": "2026-11-18 13:36:55",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-18 13:36:56",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): PSOBETAZOL KÖPÜK %0.05 50ML  x2"
+            },
+            {
+              "t": "2026-11-18 13:37:09",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         }
