@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 14:32:50",
+  "updated_at": "2026-11-18 14:32:56",
   "count": 7,
   "items": [
     {
@@ -707,18 +707,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "8FD3-5823-91F4",
-      "last_pc_name": "Eda-Bilgin",
+      "hwid": "83F3-13F8-E632",
+      "last_pc_name": "Eskienes",
       "app_version": "1.9.13",
-      "last_seen_at": "2026-11-18 14:32:50",
-      "last_action": "[Eda-Bilgin] Canlı MF Sorgulama (2 Ürün)",
+      "last_seen_at": "2026-11-18 14:32:56",
+      "last_action": "[Eskienes] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-18",
       "today_searches": 40,
       "today_cart_adds": 129,
-      "today_smart_orders": 261,
+      "today_smart_orders": 264,
       "total_searches": 636,
       "total_cart_adds": 1044,
-      "total_smart_orders": 1207,
+      "total_smart_orders": 1210,
       "total_days_used": 13,
       "pc_count": 9,
       "devices": {
@@ -728,7 +728,7 @@
           "desk_name": "Eskienes",
           "local_ip": "192.168.1.117",
           "app_version": "1.9.13",
-          "last_seen_at": "2026-11-18 14:32:27",
+          "last_seen_at": "2026-11-18 14:32:56",
           "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-18",
           "today_searches": 0,
@@ -822,32 +822,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-18 14:32:46",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-18 14:32:55",
+          "last_action": "Canlı MF Sorgulama (1 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 24,
           "today_cart_adds": 42,
-          "today_smart_orders": 114,
+          "today_smart_orders": 117,
           "total_searches": 157,
           "total_cart_adds": 449,
-          "total_smart_orders": 557,
+          "total_smart_orders": 560,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-18 14:31:29",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-18 14:31:30",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (1 Ürün)"
-            },
-            {
-              "t": "2026-11-18 14:31:32",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-18 14:31:32",
               "type": "critical_stock",
@@ -907,6 +892,21 @@
               "t": "2026-11-18 14:32:41",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-18 14:32:54",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-18 14:32:54",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-18 14:32:55",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (1 Ürün)"
             }
           ]
         },
