@@ -715,10 +715,10 @@
       "today_date": "2026-11-18",
       "today_searches": 20,
       "today_cart_adds": 25,
-      "today_smart_orders": 110,
+      "today_smart_orders": 111,
       "total_searches": 616,
       "total_cart_adds": 940,
-      "total_smart_orders": 1056,
+      "total_smart_orders": 1057,
       "total_days_used": 13,
       "pc_count": 8,
       "devices": {
@@ -1010,22 +1010,17 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.9.11",
-          "last_seen_at": "2026-11-18 12:43:09",
-          "last_action": "Canlı MF Sorgulama (1 Ürün)",
+          "last_seen_at": "2026-11-18 12:43:25",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-18",
           "today_searches": 0,
           "today_cart_adds": 0,
-          "today_smart_orders": 19,
+          "today_smart_orders": 20,
           "total_searches": 97,
           "total_cart_adds": 209,
-          "total_smart_orders": 71,
+          "total_smart_orders": 72,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-18 12:35:37",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş Planlama"
-            },
             {
               "t": "2026-11-18 12:36:08",
               "type": "mf_resolve",
@@ -1095,6 +1090,11 @@
               "t": "2026-11-18 12:43:03",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (1 Ürün)"
+            },
+            {
+              "t": "2026-11-18 12:43:25",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         },
