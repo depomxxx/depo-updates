@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 11:45:35",
+  "updated_at": "2026-11-18 11:45:44",
   "count": 7,
   "items": [
     {
@@ -1745,16 +1745,16 @@
       "hwid": "1A4A-8625-6A54",
       "last_pc_name": "Cicobey",
       "app_version": "1.5.9",
-      "last_seen_at": "2026-11-18 11:44:02",
-      "last_action": "Program Açık (Canlı)",
+      "last_seen_at": "2026-11-18 11:45:44",
+      "last_action": "[Cicobey] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-18",
       "today_searches": 0,
       "today_cart_adds": 0,
-      "today_smart_orders": 0,
+      "today_smart_orders": 1,
       "total_searches": 163,
       "total_cart_adds": 626,
       "total_days_used": 13,
-      "total_smart_orders": 435,
+      "total_smart_orders": 436,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -1931,22 +1931,17 @@
           "desk_name": "Cicobey",
           "local_ip": "192.168.1.210",
           "app_version": "1.5.9",
-          "last_seen_at": "2026-11-18 11:44:02",
-          "last_action": "Program Açık (Canlı)",
+          "last_seen_at": "2026-11-18 11:45:44",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-18",
           "today_searches": 0,
           "today_cart_adds": 0,
-          "today_smart_orders": 0,
+          "today_smart_orders": 1,
           "total_searches": 38,
           "total_cart_adds": 62,
-          "total_smart_orders": 81,
+          "total_smart_orders": 82,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-16 13:43:15",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-16 13:43:15",
               "type": "mf_resolve",
@@ -2016,6 +2011,11 @@
               "t": "2026-11-16 17:26:56",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (23 Ürün)"
+            },
+            {
+              "t": "2026-11-18 11:44:03",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         }
