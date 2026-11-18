@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 15:16:52",
+  "updated_at": "2026-11-18 15:17:12",
   "count": 7,
   "items": [
     {
@@ -707,18 +707,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "5834-FAC9-B71F",
-      "last_pc_name": "DESKTOP-OTHNDUE",
+      "hwid": "40AB-8832-D69D",
+      "last_pc_name": "DESKTOP-SMI9E20",
       "app_version": "1.9.14",
-      "last_seen_at": "2026-11-18 15:16:52",
-      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-18 15:17:12",
+      "last_action": "[DESKTOP-SMI9E20] Sepete Ekle (ALLIANCE): POTRICAL-B %0,005 + %0,05 ME x2",
       "today_date": "2026-11-18",
       "today_searches": 42,
       "today_cart_adds": 137,
-      "today_smart_orders": 298,
+      "today_smart_orders": 301,
       "total_searches": 638,
       "total_cart_adds": 1052,
-      "total_smart_orders": 1244,
+      "total_smart_orders": 1247,
       "total_days_used": 13,
       "pc_count": 9,
       "devices": {
@@ -728,7 +728,7 @@
           "desk_name": "Eskienes",
           "local_ip": "192.168.1.117",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-18 15:15:57",
+          "last_seen_at": "2026-11-18 15:16:56",
           "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-18",
           "today_searches": 0,
@@ -822,32 +822,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-18 15:16:52",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-18 15:17:01",
+          "last_action": "Canlı MF Sorgulama (1 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 26,
           "today_cart_adds": 50,
-          "today_smart_orders": 134,
+          "today_smart_orders": 137,
           "total_searches": 159,
           "total_cart_adds": 457,
-          "total_smart_orders": 577,
+          "total_smart_orders": 580,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-18 14:34:46",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-18 14:34:46",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 34 Kalem)"
-            },
-            {
-              "t": "2026-11-18 14:34:46",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-18 14:34:46",
               "type": "mf_resolve",
@@ -907,6 +892,21 @@
               "t": "2026-11-18 15:16:52",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-18 15:16:52",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 34 Kalem)"
+            },
+            {
+              "t": "2026-11-18 15:16:52",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-18 15:16:53",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (1 Ürün)"
             }
           ]
         },
@@ -1104,7 +1104,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-18 15:16:08",
+          "last_seen_at": "2026-11-18 15:17:08",
           "last_action": "Canlı MF Sorgulama (2 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 0,
@@ -1480,7 +1480,7 @@
           "desk_name": "DESKTOP-SMI9E20",
           "local_ip": "192.168.1.108",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-18 15:15:41",
+          "last_seen_at": "2026-11-18 15:17:12",
           "last_action": "Sepete Ekle (ALLIANCE): POTRICAL-B %0,005 + %0,05 ME x2",
           "today_date": "2026-11-18",
           "today_searches": 0,
