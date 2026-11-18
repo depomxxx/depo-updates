@@ -715,10 +715,10 @@
       "today_date": "2026-11-18",
       "today_searches": 66,
       "today_cart_adds": 149,
-      "today_smart_orders": 331,
+      "today_smart_orders": 332,
       "total_searches": 662,
       "total_cart_adds": 1064,
-      "total_smart_orders": 1277,
+      "total_smart_orders": 1278,
       "total_days_used": 13,
       "pc_count": 9,
       "devices": {
@@ -822,22 +822,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-18 18:19:21",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-18 18:19:30",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-18",
           "today_searches": 38,
           "today_cart_adds": 58,
-          "today_smart_orders": 151,
+          "today_smart_orders": 152,
           "total_searches": 171,
           "total_cart_adds": 465,
-          "total_smart_orders": 594,
+          "total_smart_orders": 595,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-18 18:01:02",
-              "type": "search",
-              "detail": "Depo Sorgu: BESTİRON PLUS DEMİR İÇEREN SIVI TAKVİY"
-            },
             {
               "t": "2026-11-18 18:01:04",
               "type": "mf_resolve",
@@ -907,6 +902,11 @@
               "t": "2026-11-18 18:03:10",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-18 18:19:30",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         },
