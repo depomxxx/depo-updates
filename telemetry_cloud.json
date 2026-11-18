@@ -702,23 +702,23 @@
       "pharmacist_name": "EDA BİLGİN",
       "phone": "05077034200",
       "city": "SAMSUN/İLKADIM",
-      "gln_no": "8680001000000",
+      "gln_no": "8680001112258",
       "otomasyon": "TRIA",
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "40AB-8832-D69D",
-      "last_pc_name": "DESKTOP-SMI9E20",
+      "hwid": "8FD3-5823-91F4",
+      "last_pc_name": "Eda-Bilgin",
       "app_version": "1.9.12",
-      "last_seen_at": "2026-11-18 14:10:04",
-      "last_action": "[DESKTOP-SMI9E20] Sepete Ekle (ALLIANCE): POTRICAL-B %0,005 + %0,05 ME x2",
+      "last_seen_at": "2026-11-18 14:10:22",
+      "last_action": "[Eda-Bilgin] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-18",
       "today_searches": 38,
-      "today_cart_adds": 120,
-      "today_smart_orders": 229,
+      "today_cart_adds": 121,
+      "today_smart_orders": 232,
       "total_searches": 634,
-      "total_cart_adds": 1035,
-      "total_smart_orders": 1175,
+      "total_cart_adds": 1036,
+      "total_smart_orders": 1178,
       "total_days_used": 13,
       "pc_count": 9,
       "devices": {
@@ -916,37 +916,17 @@
           "desk_name": "Eda-Bilgin",
           "local_ip": "192.168.1.120",
           "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 14:10:03",
+          "last_seen_at": "2026-11-18 14:10:22",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-18",
           "today_searches": 0,
-          "today_cart_adds": 3,
-          "today_smart_orders": 2,
+          "today_cart_adds": 4,
+          "today_smart_orders": 5,
           "total_searches": 57,
-          "total_cart_adds": 12,
-          "total_smart_orders": 58,
+          "total_cart_adds": 13,
+          "total_smart_orders": 61,
           "total_days_used": 10,
           "recent_actions": [
-            {
-              "t": "2026-11-12 18:06:47",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (17 Ürün)"
-            },
-            {
-              "t": "2026-11-12 18:06:56",
-              "type": "search",
-              "detail": "Depo Sorgu: BRUFEN 400 MG 20 FTB."
-            },
-            {
-              "t": "2026-11-12 18:06:56",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-12 18:07:06",
-              "type": "search",
-              "detail": "Depo Sorgu: BRUFEN 400 MG 20 FTB."
-            },
             {
               "t": "2026-11-17 18:05:16",
               "type": "critical_stock",
@@ -999,6 +979,26 @@
             },
             {
               "t": "2026-11-18 14:10:03",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-18 14:10:05",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (30 Ürün)"
+            },
+            {
+              "t": "2026-11-18 14:10:05",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-18 14:10:13",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (10 Ürün)"
+            },
+            {
+              "t": "2026-11-18 14:10:22",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
