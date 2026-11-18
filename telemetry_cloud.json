@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 14:09:39",
+  "updated_at": "2026-11-18 14:09:45",
   "count": 7,
   "items": [
     {
@@ -707,18 +707,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "83F3-13F8-E632",
-      "last_pc_name": "Eskienes",
+      "hwid": "8FD3-5823-91F4",
+      "last_pc_name": "Eda-Bilgin",
       "app_version": "1.9.12",
-      "last_seen_at": "2026-11-18 14:09:29",
-      "last_action": "[Eskienes] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-18 14:09:45",
+      "last_action": "[Eda-Bilgin] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-18",
       "today_searches": 38,
-      "today_cart_adds": 117,
-      "today_smart_orders": 227,
+      "today_cart_adds": 118,
+      "today_smart_orders": 229,
       "total_searches": 634,
-      "total_cart_adds": 1032,
-      "total_smart_orders": 1173,
+      "total_cart_adds": 1033,
+      "total_smart_orders": 1175,
       "total_days_used": 13,
       "pc_count": 9,
       "devices": {
@@ -916,32 +916,17 @@
           "desk_name": "Eda-Bilgin",
           "local_ip": "192.168.1.120",
           "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 14:09:25",
-          "last_action": "Program Açık (Canlı)",
+          "last_seen_at": "2026-11-18 14:09:45",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-18",
           "today_searches": 0,
-          "today_cart_adds": 0,
-          "today_smart_orders": 0,
+          "today_cart_adds": 1,
+          "today_smart_orders": 2,
           "total_searches": 57,
-          "total_cart_adds": 9,
-          "total_smart_orders": 56,
+          "total_cart_adds": 10,
+          "total_smart_orders": 58,
           "total_days_used": 10,
           "recent_actions": [
-            {
-              "t": "2026-11-12 18:06:41",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-12 18:06:44",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (30 Ürün)"
-            },
-            {
-              "t": "2026-11-12 18:06:45",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-12 18:06:47",
               "type": "search",
@@ -1001,6 +986,21 @@
               "t": "2026-11-17 18:30:10",
               "type": "search",
               "detail": "Depo Sorgu: INFERJECT 500 MG 10 ML 1 FLK."
+            },
+            {
+              "t": "2026-11-18 14:09:31",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-18 14:09:32",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-18 14:09:45",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
@@ -1010,7 +1010,7 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 14:09:23",
+          "last_seen_at": "2026-11-18 14:09:39",
           "last_action": "Sepete Ekle (ALLIANCE): DRAMAMINE 50 MG 12 TABLET x3",
           "today_date": "2026-11-18",
           "today_searches": 0,
@@ -1386,7 +1386,7 @@
           "desk_name": "DESKTOP-1N3LQF0",
           "local_ip": "192.168.1.123",
           "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 14:09:19",
+          "last_seen_at": "2026-11-18 14:09:44",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-18",
           "today_searches": 16,
