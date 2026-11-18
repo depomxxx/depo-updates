@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 12:41:19",
+  "updated_at": "2026-11-18 12:41:43",
   "count": 7,
   "items": [
     {
@@ -16,15 +16,15 @@
       "hwid": "E4F7-229A-BABD",
       "last_pc_name": "ChagriBeg",
       "app_version": "1.9.11",
-      "last_seen_at": "2026-11-18 12:41:19",
-      "last_action": "[ChagriBeg] Canlı MF Taraması",
+      "last_seen_at": "2026-11-18 12:41:43",
+      "last_action": "[ChagriBeg] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-18",
       "today_searches": 10,
-      "today_cart_adds": 24,
-      "today_smart_orders": 80,
+      "today_cart_adds": 27,
+      "today_smart_orders": 81,
       "total_searches": 285,
-      "total_cart_adds": 591,
-      "total_smart_orders": 895,
+      "total_cart_adds": 594,
+      "total_smart_orders": 896,
       "total_days_used": 13,
       "pc_count": 3,
       "devices": {
@@ -34,7 +34,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.11",
-          "last_seen_at": "2026-11-18 12:41:06",
+          "last_seen_at": "2026-11-18 12:41:31",
           "last_action": "Canlı MF Sorgulama (21 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 0,
@@ -222,37 +222,17 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.9.11",
-          "last_seen_at": "2026-11-18 12:41:19",
-          "last_action": "Canlı MF Taraması",
+          "last_seen_at": "2026-11-18 12:41:43",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-18",
           "today_searches": 2,
-          "today_cart_adds": 3,
-          "today_smart_orders": 11,
+          "today_cart_adds": 6,
+          "today_smart_orders": 12,
           "total_searches": 106,
-          "total_cart_adds": 87,
-          "total_smart_orders": 263,
+          "total_cart_adds": 90,
+          "total_smart_orders": 264,
           "total_days_used": 12,
           "recent_actions": [
-            {
-              "t": "2026-11-18 11:45:32",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-18 11:45:37",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-18 11:45:46",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-18 11:45:55",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (21 Ürün)"
-            },
             {
               "t": "2026-11-18 12:05:56",
               "type": "critical_stock",
@@ -307,6 +287,26 @@
               "t": "2026-11-18 12:41:19",
               "type": "mf_resolve",
               "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-18 12:41:20",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (1 Ürün)"
+            },
+            {
+              "t": "2026-11-18 12:41:31",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-18 12:41:35",
+              "type": "cart",
+              "detail": "Toplu Sepet (ALLIANCE): 1 Kalem"
+            },
+            {
+              "t": "2026-11-18 12:41:43",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         }
