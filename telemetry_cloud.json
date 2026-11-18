@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 13:30:58",
+  "updated_at": "2026-11-18 13:31:08",
   "count": 7,
   "items": [
     {
@@ -8,23 +8,23 @@
       "pharmacist_name": "GAMZE ASLAN",
       "phone": "05344064108",
       "city": "SAMSUN/ATAKUM",
-      "gln_no": "8680001134861",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "PRO_YILLIK",
       "expires_at": "2027-10-24",
       "status": "AKTIF",
-      "hwid": "E4F7-229A-BABD",
-      "last_pc_name": "ChagriBeg",
+      "hwid": "E6B1-5698-273E",
+      "last_pc_name": "DESKTOP-6KFO8IF",
       "app_version": "1.9.12",
-      "last_seen_at": "2026-11-18 13:29:40",
-      "last_action": "[ChagriBeg] Canlı MF Sorgulama (19 Ürün)",
+      "last_seen_at": "2026-11-18 13:31:08",
+      "last_action": "[DESKTOP-6KFO8IF] Canlı MF Sorgulama (20 Ürün)",
       "today_date": "2026-11-18",
-      "today_searches": 10,
-      "today_cart_adds": 31,
-      "today_smart_orders": 109,
-      "total_searches": 285,
-      "total_cart_adds": 598,
-      "total_smart_orders": 924,
+      "today_searches": 12,
+      "today_cart_adds": 33,
+      "today_smart_orders": 113,
+      "total_searches": 287,
+      "total_cart_adds": 600,
+      "total_smart_orders": 928,
       "total_days_used": 13,
       "pc_count": 3,
       "devices": {
@@ -34,7 +34,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 13:29:08",
+          "last_seen_at": "2026-11-18 13:31:08",
           "last_action": "Canlı MF Sorgulama (20 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 0,
@@ -128,57 +128,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 13:29:00",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-18 13:30:52",
+          "last_action": "Sepete Ekle (ALLIANCE): FLOBEN 2 MG/2 ML NEBUL SUSP x5",
           "today_date": "2026-11-18",
-          "today_searches": 8,
-          "today_cart_adds": 14,
-          "today_smart_orders": 56,
-          "total_searches": 141,
-          "total_cart_adds": 421,
-          "total_smart_orders": 499,
+          "today_searches": 10,
+          "today_cart_adds": 16,
+          "today_smart_orders": 60,
+          "total_searches": 143,
+          "total_cart_adds": 423,
+          "total_smart_orders": 503,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-18 12:21:16",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (2 Ürün)"
-            },
-            {
-              "t": "2026-11-18 12:21:17",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-18 12:21:19",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): FOLIDOCE TABLET 28 TABLET/KU x1"
-            },
-            {
-              "t": "2026-11-18 12:30:27",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-18 12:30:30",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 26 Kalem)"
-            },
-            {
-              "t": "2026-11-18 12:30:30",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-18 12:30:37",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (4 Ürün)"
-            },
-            {
-              "t": "2026-11-18 12:40:45",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-18 12:40:45",
               "type": "mf_resolve",
@@ -213,6 +173,46 @@
               "t": "2026-11-18 13:25:25",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-18 13:29:32",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-18 13:29:32",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 24 Kalem)"
+            },
+            {
+              "t": "2026-11-18 13:29:32",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-18 13:29:33",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (1 Ürün)"
+            },
+            {
+              "t": "2026-11-18 13:29:37",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-18 13:29:41",
+              "type": "search",
+              "detail": "Depo Sorgu: FLOBEN 2 MG 2 ML 10 FLK."
+            },
+            {
+              "t": "2026-11-18 13:29:47",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-18 13:29:49",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): FLOBEN 2 MG/2 ML NEBUL SUSP x5"
             }
           ]
         },
@@ -222,7 +222,7 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 13:29:40",
+          "last_seen_at": "2026-11-18 13:30:41",
           "last_action": "Canlı MF Sorgulama (19 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 2,
