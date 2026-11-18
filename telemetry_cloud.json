@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 17:09:57",
+  "updated_at": "2026-11-18 17:10:03",
   "count": 7,
   "items": [
     {
@@ -567,11 +567,11 @@
       "plan": "PRO_YILLIK",
       "expires_at": "2027-11-11",
       "status": "AKTIF",
-      "hwid": "02C6-F4BB-F656",
-      "last_pc_name": "DESKTOP-NPTIN4D",
+      "hwid": "2DED-CFF9-D593",
+      "last_pc_name": "DESKTOP-8JN0NE5",
       "app_version": "1.9.14",
-      "last_seen_at": "2026-11-18 17:09:21",
-      "last_action": "[DESKTOP-NPTIN4D] Canlı MF Taraması",
+      "last_seen_at": "2026-11-18 17:10:03",
+      "last_action": "[DESKTOP-8JN0NE5] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-18",
       "today_searches": 22,
       "today_cart_adds": 18,
@@ -588,7 +588,7 @@
           "desk_name": "DESKTOP-8JN0NE5",
           "local_ip": "192.168.1.37",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-18 17:08:32",
+          "last_seen_at": "2026-11-18 17:10:03",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-18",
           "today_searches": 22,
