@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 12:22:12",
+  "updated_at": "2026-11-18 12:22:21",
   "count": 7,
   "items": [
     {
@@ -8,23 +8,23 @@
       "pharmacist_name": "GAMZE ASLAN",
       "phone": "05344064108",
       "city": "SAMSUN/ATAKUM",
-      "gln_no": "8680001134861",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "PRO_YILLIK",
       "expires_at": "2027-10-24",
       "status": "AKTIF",
-      "hwid": "E4F7-229A-BABD",
-      "last_pc_name": "ChagriBeg",
+      "hwid": "E6B1-5698-273E",
+      "last_pc_name": "DESKTOP-6KFO8IF",
       "app_version": "1.9.10",
-      "last_seen_at": "2026-11-18 12:21:31",
-      "last_action": "[ChagriBeg] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-18 12:22:21",
+      "last_action": "[DESKTOP-6KFO8IF] Canlı MF Sorgulama (2 Ürün)",
       "today_date": "2026-11-18",
       "today_searches": 10,
-      "today_cart_adds": 22,
-      "today_smart_orders": 64,
+      "today_cart_adds": 24,
+      "today_smart_orders": 68,
       "total_searches": 285,
-      "total_cart_adds": 589,
-      "total_smart_orders": 879,
+      "total_cart_adds": 591,
+      "total_smart_orders": 883,
       "total_days_used": 13,
       "pc_count": 3,
       "devices": {
@@ -34,7 +34,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.10",
-          "last_seen_at": "2026-11-18 12:21:08",
+          "last_seen_at": "2026-11-18 12:22:21",
           "last_action": "Canlı MF Sorgulama (2 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 0,
@@ -128,47 +128,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.10",
-          "last_seen_at": "2026-11-18 12:20:48",
-          "last_action": "Canlı MF Sorgulama (1 Ürün)",
+          "last_seen_at": "2026-11-18 12:22:19",
+          "last_action": "Sepete Ekle (ALLIANCE): FOLIDOCE TABLET 28 TABLET/KU x1",
           "today_date": "2026-11-18",
           "today_searches": 8,
-          "today_cart_adds": 12,
-          "today_smart_orders": 40,
+          "today_cart_adds": 14,
+          "today_smart_orders": 44,
           "total_searches": 141,
-          "total_cart_adds": 419,
-          "total_smart_orders": 483,
+          "total_cart_adds": 421,
+          "total_smart_orders": 487,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-18 12:07:47",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (1 Ürün)"
-            },
-            {
-              "t": "2026-11-18 12:08:07",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-18 12:08:18",
-              "type": "cart",
-              "detail": "Toplu Sepet (ALLIANCE): 5 Kalem"
-            },
-            {
-              "t": "2026-11-18 12:08:23",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-18 12:09:26",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-18 12:09:52",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 22 Kalem)"
-            },
             {
               "t": "2026-11-18 12:09:52",
               "type": "mf_resolve",
@@ -213,6 +183,36 @@
               "t": "2026-11-18 12:11:42",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (1 Ürün)"
+            },
+            {
+              "t": "2026-11-18 12:21:10",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-18 12:21:13",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 23 Kalem)"
+            },
+            {
+              "t": "2026-11-18 12:21:13",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-18 12:21:16",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (2 Ürün)"
+            },
+            {
+              "t": "2026-11-18 12:21:17",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-18 12:21:19",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): FOLIDOCE TABLET 28 TABLET/KU x1"
             }
           ]
         },
@@ -222,7 +222,7 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.9.10",
-          "last_seen_at": "2026-11-18 12:21:31",
+          "last_seen_at": "2026-11-18 12:21:40",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-18",
           "today_searches": 2,
