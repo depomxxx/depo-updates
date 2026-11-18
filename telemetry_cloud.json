@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 14:01:44",
+  "updated_at": "2026-11-18 14:01:50",
   "count": 7,
   "items": [
     {
@@ -707,18 +707,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "B446-9737-94C4",
-      "last_pc_name": "DESKTOP-5PFFU5S",
+      "hwid": "D719-CEB2-1542",
+      "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.9.12",
-      "last_seen_at": "2026-11-18 14:01:08",
-      "last_action": "[DESKTOP-5PFFU5S] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-18 14:01:50",
+      "last_action": "[DESKTOP-M530BBB] Canlı MF Sorgulama (2 Ürün)",
       "today_date": "2026-11-18",
       "today_searches": 34,
-      "today_cart_adds": 105,
-      "today_smart_orders": 219,
+      "today_cart_adds": 106,
+      "today_smart_orders": 223,
       "total_searches": 630,
-      "total_cart_adds": 1020,
-      "total_smart_orders": 1165,
+      "total_cart_adds": 1021,
+      "total_smart_orders": 1169,
       "total_days_used": 13,
       "pc_count": 9,
       "devices": {
@@ -1010,42 +1010,17 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 14:01:08",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-18 14:01:28",
+          "last_action": "Canlı MF Sorgulama (17 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 0,
-          "today_cart_adds": 51,
-          "today_smart_orders": 48,
+          "today_cart_adds": 52,
+          "today_smart_orders": 52,
           "total_searches": 97,
-          "total_cart_adds": 260,
-          "total_smart_orders": 100,
+          "total_cart_adds": 261,
+          "total_smart_orders": 104,
           "total_days_used": 8,
           "recent_actions": [
-            {
-              "t": "2026-11-18 13:54:31",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-18 13:54:33",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): NORODOL 10 MG 30 TABLET x4"
-            },
-            {
-              "t": "2026-11-18 13:58:21",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-18 13:58:24",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): VASOXEN 5 MG 28 TB. x20"
-            },
-            {
-              "t": "2026-11-18 13:58:33",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-18 13:58:34",
               "type": "cart",
@@ -1095,6 +1070,31 @@
               "t": "2026-11-18 14:01:08",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-18 14:01:12",
+              "type": "cart",
+              "detail": "Toplu Sepet (ALLIANCE): 1 Kalem"
+            },
+            {
+              "t": "2026-11-18 14:01:12",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş Planlama"
+            },
+            {
+              "t": "2026-11-18 14:01:13",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş (TRIA • 246 Kalem)"
+            },
+            {
+              "t": "2026-11-18 14:01:13",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-18 14:01:23",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (17 Ürün)"
             }
           ]
         },
@@ -1292,7 +1292,7 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 14:00:52",
+          "last_seen_at": "2026-11-18 14:01:50",
           "last_action": "Canlı MF Sorgulama (2 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 0,
