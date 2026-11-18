@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 14:34:41",
+  "updated_at": "2026-11-18 14:34:46",
   "count": 7,
   "items": [
     {
@@ -707,18 +707,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "B446-9737-94C4",
-      "last_pc_name": "DESKTOP-5PFFU5S",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.14",
-      "last_seen_at": "2026-11-18 14:34:38",
-      "last_action": "[DESKTOP-5PFFU5S] Canlı MF Sorgulama (17 Ürün)",
+      "last_seen_at": "2026-11-18 14:34:46",
+      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-18",
-      "today_searches": 41,
-      "today_cart_adds": 133,
-      "today_smart_orders": 285,
-      "total_searches": 637,
-      "total_cart_adds": 1048,
-      "total_smart_orders": 1231,
+      "today_searches": 42,
+      "today_cart_adds": 135,
+      "today_smart_orders": 286,
+      "total_searches": 638,
+      "total_cart_adds": 1050,
+      "total_smart_orders": 1232,
       "total_days_used": 13,
       "pc_count": 9,
       "devices": {
@@ -822,37 +822,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-18 14:34:27",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-18 14:34:46",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-18",
-          "today_searches": 25,
-          "today_cart_adds": 46,
-          "today_smart_orders": 121,
-          "total_searches": 158,
-          "total_cart_adds": 453,
-          "total_smart_orders": 564,
+          "today_searches": 26,
+          "today_cart_adds": 48,
+          "today_smart_orders": 122,
+          "total_searches": 159,
+          "total_cart_adds": 455,
+          "total_smart_orders": 565,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-18 14:32:02",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): PREGNOM MAX 60 SOFT JEL KAPS x1"
-            },
-            {
-              "t": "2026-11-18 14:32:11",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-18 14:32:16",
-              "type": "search",
-              "detail": "Depo Sorgu: DEPORES FREE %0.05 5.5 ML GTT"
-            },
-            {
-              "t": "2026-11-18 14:32:41",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-18 14:32:54",
               "type": "critical_stock",
@@ -907,6 +887,26 @@
               "t": "2026-11-18 14:34:27",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-18 14:34:34",
+              "type": "search",
+              "detail": "Depo Sorgu: TAMCEF 300 MG 20 CAP."
+            },
+            {
+              "t": "2026-11-18 14:34:41",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-18 14:34:42",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): TAMCEF 300 MG 20 KAPSUL x5"
+            },
+            {
+              "t": "2026-11-18 14:34:46",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         },
@@ -1104,7 +1104,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-18 14:34:13",
+          "last_seen_at": "2026-11-18 14:34:38",
           "last_action": "Canlı MF Sorgulama (2 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 0,
