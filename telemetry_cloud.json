@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 12:40:14",
+  "updated_at": "2026-11-18 12:40:22",
   "count": 7,
   "items": [
     {
@@ -1489,17 +1489,17 @@
       "status": "AKTIF",
       "hwid": "47CB-2231-637D",
       "last_pc_name": "DESKTOP-F1KQPJ2",
-      "app_version": "1.9.10",
-      "last_seen_at": "2026-11-18 12:40:11",
-      "last_action": "[DESKTOP-F1KQPJ2] Depo Sorgu: FLEXO %5 40 GR JEL",
+      "app_version": "1.9.11",
+      "last_seen_at": "2026-11-18 12:40:22",
+      "last_action": "[DESKTOP-F1KQPJ2] Canlı MF Taraması",
       "today_date": "2026-11-18",
       "today_searches": 11,
       "today_cart_adds": 0,
-      "today_smart_orders": 10,
+      "today_smart_orders": 12,
       "total_searches": 79,
       "total_cart_adds": 36,
       "total_days_used": 4,
-      "total_smart_orders": 60,
+      "total_smart_orders": 62,
       "pc_count": 3,
       "devices": {
         "2F66-9873-3F47": {
@@ -1640,28 +1640,18 @@
           "pc_name": "DESKTOP-F1KQPJ2",
           "desk_name": "DESKTOP-F1KQPJ2",
           "local_ip": "192.168.1.28",
-          "app_version": "1.9.10",
-          "last_seen_at": "2026-11-18 12:40:11",
-          "last_action": "Depo Sorgu: FLEXO %5 40 GR JEL",
+          "app_version": "1.9.11",
+          "last_seen_at": "2026-11-18 12:40:22",
+          "last_action": "Canlı MF Taraması",
           "today_date": "2026-11-18",
           "today_searches": 11,
           "today_cart_adds": 0,
-          "today_smart_orders": 10,
+          "today_smart_orders": 12,
           "total_searches": 62,
           "total_cart_adds": 29,
-          "total_smart_orders": 45,
+          "total_smart_orders": 47,
           "total_days_used": 4,
           "recent_actions": [
-            {
-              "t": "2026-11-18 11:53:42",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-18 11:53:47",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-18 11:54:01",
               "type": "search",
@@ -1726,6 +1716,16 @@
               "t": "2026-11-18 12:29:09",
               "type": "search",
               "detail": "Depo Sorgu: FLEXO %5 40 GR JEL"
+            },
+            {
+              "t": "2026-11-18 12:40:21",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-18 12:40:21",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
             }
           ]
         }
