@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 09:35:56",
+  "updated_at": "2026-11-18 09:36:36",
   "count": 7,
   "items": [
     {
@@ -1350,16 +1350,16 @@
       "hwid": "2DED-CFF9-D593",
       "last_pc_name": "DESKTOP-8JN0NE5",
       "app_version": "1.9.9",
-      "last_seen_at": "2026-11-18 09:35:56",
-      "last_action": "Program Açık (Canlı)",
+      "last_seen_at": "2026-11-18 09:36:36",
+      "last_action": "Depo Fiyat Sorgulama",
       "today_date": "2026-11-18",
-      "today_searches": 0,
+      "today_searches": 2,
       "today_cart_adds": 0,
-      "today_smart_orders": 0,
-      "total_searches": 52,
+      "today_smart_orders": 2,
+      "total_searches": 54,
       "total_cart_adds": 144,
       "total_days_used": 10,
-      "total_smart_orders": 307,
+      "total_smart_orders": 309,
       "pc_count": 1,
       "devices": {
         "2DED-CFF9-D593": {
@@ -1368,32 +1368,17 @@
           "desk_name": "DESKTOP-8JN0NE5",
           "local_ip": "192.168.1.37",
           "app_version": "1.9.9",
-          "last_seen_at": "2026-11-18 09:35:56",
-          "last_action": "Program Açık (Canlı)",
+          "last_seen_at": "2026-11-18 09:36:36",
+          "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-18",
-          "today_searches": 0,
+          "today_searches": 2,
           "today_cart_adds": 0,
-          "today_smart_orders": 0,
-          "total_searches": 52,
+          "today_smart_orders": 2,
+          "total_searches": 54,
           "total_cart_adds": 144,
-          "total_smart_orders": 307,
+          "total_smart_orders": 309,
           "total_days_used": 10,
           "recent_actions": [
-            {
-              "t": "2026-11-17 14:57:20",
-              "type": "search",
-              "detail": "Depo Sorgu: BENEXOL B12 250/250/1 MG 50 FT"
-            },
-            {
-              "t": "2026-11-17 14:57:45",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (29 Ürün)"
-            },
-            {
-              "t": "2026-11-17 17:29:04",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-17 17:29:06",
               "type": "critical_stock",
@@ -1453,6 +1438,21 @@
               "t": "2026-11-17 17:30:07",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (1 Ürün)"
+            },
+            {
+              "t": "2026-11-18 09:36:02",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-18 09:36:03",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-18 09:36:06",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ]
         }
