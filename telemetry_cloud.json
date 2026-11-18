@@ -707,18 +707,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "5834-FAC9-B71F",
-      "last_pc_name": "DESKTOP-OTHNDUE",
+      "hwid": "D2E4-AA57-C021",
+      "last_pc_name": "DESKTOP-1N3LQF0",
       "app_version": "1.9.11",
-      "last_seen_at": "2026-11-18 12:51:26",
-      "last_action": "[DESKTOP-OTHNDUE] Canlı MF Sorgulama (1 Ürün)",
+      "last_seen_at": "2026-11-18 12:51:34",
+      "last_action": "[DESKTOP-1N3LQF0] Canlı MF Sorgulama (26 Ürün)",
       "today_date": "2026-11-18",
       "today_searches": 20,
       "today_cart_adds": 29,
-      "today_smart_orders": 125,
+      "today_smart_orders": 127,
       "total_searches": 616,
       "total_cart_adds": 944,
-      "total_smart_orders": 1071,
+      "total_smart_orders": 1073,
       "total_days_used": 13,
       "pc_count": 8,
       "devices": {
@@ -1292,27 +1292,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.11",
-          "last_seen_at": "2026-11-18 12:50:51",
-          "last_action": "Canlı MF Sorgulama (1 Ürün)",
+          "last_seen_at": "2026-11-18 12:51:34",
+          "last_action": "Canlı MF Taraması",
           "today_date": "2026-11-18",
           "today_searches": 0,
           "today_cart_adds": 4,
-          "today_smart_orders": 8,
+          "today_smart_orders": 10,
           "total_searches": 97,
           "total_cart_adds": 102,
-          "total_smart_orders": 96,
+          "total_smart_orders": 98,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-16 10:48:23",
-              "type": "search",
-              "detail": "Depo Sorgu: BEFIXO 3 ML 5 AMP."
-            },
-            {
-              "t": "2026-11-16 11:33:44",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-16 11:33:54",
               "type": "search",
@@ -1377,6 +1367,16 @@
               "t": "2026-11-18 12:48:50",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (1 Ürün)"
+            },
+            {
+              "t": "2026-11-18 12:50:54",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-18 12:51:34",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
             }
           ]
         },
@@ -1386,7 +1386,7 @@
           "desk_name": "DESKTOP-1N3LQF0",
           "local_ip": "192.168.1.123",
           "app_version": "1.9.11",
-          "last_seen_at": "2026-11-18 12:50:44",
+          "last_seen_at": "2026-11-18 12:51:34",
           "last_action": "Canlı MF Sorgulama (26 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 12,
