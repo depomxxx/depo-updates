@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 13:58:54",
+  "updated_at": "2026-11-18 13:59:14",
   "count": 7,
   "items": [
     {
@@ -567,11 +567,11 @@
       "plan": "PRO_YILLIK",
       "expires_at": "2027-11-11",
       "status": "AKTIF",
-      "hwid": "02C6-F4BB-F656",
-      "last_pc_name": "DESKTOP-NPTIN4D",
+      "hwid": "2DED-CFF9-D593",
+      "last_pc_name": "DESKTOP-8JN0NE5",
       "app_version": "1.9.12",
-      "last_seen_at": "2026-11-18 13:58:14",
-      "last_action": "[DESKTOP-NPTIN4D] Canlı MF Taraması",
+      "last_seen_at": "2026-11-18 13:59:14",
+      "last_action": "[DESKTOP-8JN0NE5] Canlı MF Sorgulama (1 Ürün)",
       "today_date": "2026-11-18",
       "today_searches": 14,
       "today_cart_adds": 14,
@@ -588,7 +588,7 @@
           "desk_name": "DESKTOP-8JN0NE5",
           "local_ip": "192.168.1.37",
           "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 13:57:39",
+          "last_seen_at": "2026-11-18 13:59:14",
           "last_action": "Canlı MF Sorgulama (1 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 14,
