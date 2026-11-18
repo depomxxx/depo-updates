@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 18:21:18",
+  "updated_at": "2026-11-18 18:21:39",
   "count": 7,
   "items": [
     {
@@ -707,17 +707,17 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D2E4-AA57-C021",
-      "last_pc_name": "DESKTOP-1N3LQF0",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.14",
-      "last_seen_at": "2026-11-18 18:21:18",
-      "last_action": "[DESKTOP-1N3LQF0] Canlı MF Sorgulama (6 Ürün)",
+      "last_seen_at": "2026-11-18 18:21:39",
+      "last_action": "[DESKTOP-OTHNDUE] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-18",
       "today_searches": 68,
-      "today_cart_adds": 150,
+      "today_cart_adds": 152,
       "today_smart_orders": 335,
       "total_searches": 664,
-      "total_cart_adds": 1065,
+      "total_cart_adds": 1067,
       "total_smart_orders": 1281,
       "total_days_used": 13,
       "pc_count": 9,
@@ -822,27 +822,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-18 18:21:18",
+          "last_seen_at": "2026-11-18 18:21:39",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-18",
           "today_searches": 40,
-          "today_cart_adds": 59,
+          "today_cart_adds": 61,
           "today_smart_orders": 155,
           "total_searches": 173,
-          "total_cart_adds": 466,
+          "total_cart_adds": 468,
           "total_smart_orders": 598,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-18 18:01:21",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): OROFERON 30 DRJ x10"
-            },
-            {
-              "t": "2026-11-18 18:01:28",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-18 18:01:31",
               "type": "search",
@@ -905,6 +895,16 @@
             },
             {
               "t": "2026-11-18 18:21:18",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-18 18:21:22",
+              "type": "cart",
+              "detail": "Toplu Sepet (ALLIANCE): 2 Kalem"
+            },
+            {
+              "t": "2026-11-18 18:21:39",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
