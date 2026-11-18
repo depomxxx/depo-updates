@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 14:07:30",
+  "updated_at": "2026-11-18 14:07:42",
   "count": 7,
   "items": [
     {
@@ -707,17 +707,17 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D2E4-AA57-C021",
-      "last_pc_name": "DESKTOP-1N3LQF0",
+      "hwid": "B446-9737-94C4",
+      "last_pc_name": "DESKTOP-5PFFU5S",
       "app_version": "1.9.12",
-      "last_seen_at": "2026-11-18 14:07:03",
-      "last_action": "[DESKTOP-1N3LQF0] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-18 14:07:42",
+      "last_action": "[DESKTOP-5PFFU5S] Sepete Ekle (ALLIANCE): DRAMAMINE 50 MG 12 TABLET x3",
       "today_date": "2026-11-18",
       "today_searches": 36,
-      "today_cart_adds": 114,
+      "today_cart_adds": 115,
       "today_smart_orders": 227,
       "total_searches": 632,
-      "total_cart_adds": 1029,
+      "total_cart_adds": 1030,
       "total_smart_orders": 1173,
       "total_days_used": 13,
       "pc_count": 9,
@@ -1010,7 +1010,7 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 14:06:52",
+          "last_seen_at": "2026-11-18 14:07:42",
           "last_action": "Sepete Ekle (ALLIANCE): DRAMAMINE 50 MG 12 TABLET x3",
           "today_date": "2026-11-18",
           "today_searches": 0,
@@ -1386,22 +1386,17 @@
           "desk_name": "DESKTOP-1N3LQF0",
           "local_ip": "192.168.1.123",
           "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 14:07:03",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-18 14:07:38",
+          "last_action": "Sepete Ekle (NEVZAT): SABALAKS LAVMAN 10 GR x18",
           "today_date": "2026-11-18",
           "today_searches": 14,
-          "today_cart_adds": 7,
+          "today_cart_adds": 8,
           "today_smart_orders": 16,
           "total_searches": 79,
-          "total_cart_adds": 33,
+          "total_cart_adds": 34,
           "total_smart_orders": 83,
           "total_days_used": 9,
           "recent_actions": [
-            {
-              "t": "2026-11-18 12:12:27",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-18 12:12:39",
               "type": "search",
@@ -1471,6 +1466,11 @@
               "t": "2026-11-18 14:07:03",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-18 14:07:03",
+              "type": "cart",
+              "detail": "Sepete Ekle (NEVZAT): SABALAKS LAVMAN 10 GR x18"
             }
           ]
         },
