@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 13:46:03",
+  "updated_at": "2026-11-18 13:46:04",
   "count": 7,
   "items": [
     {
@@ -707,18 +707,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "40AB-8832-D69D",
-      "last_pc_name": "DESKTOP-SMI9E20",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.12",
-      "last_seen_at": "2026-11-18 13:45:47",
-      "last_action": "[DESKTOP-SMI9E20] Sepete Ekle (ALLIANCE): POTRICAL-B %0,005 + %0,05 ME x2",
+      "last_seen_at": "2026-11-18 13:46:04",
+      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-18",
       "today_searches": 34,
       "today_cart_adds": 80,
-      "today_smart_orders": 193,
+      "today_smart_orders": 194,
       "total_searches": 630,
       "total_cart_adds": 995,
-      "total_smart_orders": 1139,
+      "total_smart_orders": 1140,
       "total_days_used": 13,
       "pc_count": 9,
       "devices": {
@@ -728,7 +728,7 @@
           "desk_name": "Eskienes",
           "local_ip": "192.168.1.117",
           "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 13:45:14",
+          "last_seen_at": "2026-11-18 13:45:58",
           "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-18",
           "today_searches": 0,
@@ -822,22 +822,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 13:45:40",
-          "last_action": "Sepete Ekle (ALLIANCE): VENTOPIUM PLUS 05 MG/2.5 20 x10",
+          "last_seen_at": "2026-11-18 13:46:04",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-18",
           "today_searches": 22,
           "today_cart_adds": 35,
-          "today_smart_orders": 79,
+          "today_smart_orders": 80,
           "total_searches": 155,
           "total_cart_adds": 442,
-          "total_smart_orders": 522,
+          "total_smart_orders": 523,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-18 13:34:17",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): FLOBEN 2 MG/2 ML NEBUL SUSP x10"
-            },
             {
               "t": "2026-11-18 13:34:32",
               "type": "search",
@@ -907,6 +902,11 @@
               "t": "2026-11-18 13:36:51",
               "type": "cart",
               "detail": "Sepete Ekle (ALLIANCE): VENTOPIUM PLUS 05 MG/2.5 20 x10"
+            },
+            {
+              "t": "2026-11-18 13:46:04",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         },
