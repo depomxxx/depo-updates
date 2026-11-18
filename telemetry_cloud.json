@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 12:10:57",
+  "updated_at": "2026-11-18 12:11:05",
   "count": 7,
   "items": [
     {
@@ -707,17 +707,17 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D2E4-AA57-C021",
-      "last_pc_name": "DESKTOP-1N3LQF0",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.10",
-      "last_seen_at": "2026-11-18 12:10:57",
-      "last_action": "[DESKTOP-1N3LQF0] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-18 12:11:05",
+      "last_action": "[DESKTOP-OTHNDUE] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-18",
-      "today_searches": 17,
-      "today_cart_adds": 21,
+      "today_searches": 18,
+      "today_cart_adds": 22,
       "today_smart_orders": 69,
-      "total_searches": 613,
-      "total_cart_adds": 936,
+      "total_searches": 614,
+      "total_cart_adds": 937,
       "total_smart_orders": 1015,
       "total_days_used": 13,
       "pc_count": 8,
@@ -728,7 +728,7 @@
           "desk_name": "Eskienes",
           "local_ip": "192.168.1.117",
           "app_version": "1.9.10",
-          "last_seen_at": "2026-11-18 12:10:47",
+          "last_seen_at": "2026-11-18 12:10:48",
           "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-18",
           "today_searches": 0,
@@ -822,27 +822,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.10",
-          "last_seen_at": "2026-11-18 12:10:44",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-18 12:11:05",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-18",
-          "today_searches": 7,
-          "today_cart_adds": 10,
+          "today_searches": 8,
+          "today_cart_adds": 11,
           "today_smart_orders": 36,
-          "total_searches": 140,
-          "total_cart_adds": 417,
+          "total_searches": 141,
+          "total_cart_adds": 418,
           "total_smart_orders": 479,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-18 12:07:19",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 21 Kalem)"
-            },
-            {
-              "t": "2026-11-18 12:07:19",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-18 12:07:20",
               "type": "mf_resolve",
@@ -907,6 +897,16 @@
               "t": "2026-11-18 12:10:44",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-18 12:10:51",
+              "type": "search",
+              "detail": "Depo Sorgu: COLEDAN D3 50.000 IU 8 CAP."
+            },
+            {
+              "t": "2026-11-18 12:11:05",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
