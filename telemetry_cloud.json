@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 12:41:43",
+  "updated_at": "2026-11-18 12:41:46",
   "count": 7,
   "items": [
     {
@@ -1490,16 +1490,16 @@
       "hwid": "47CB-2231-637D",
       "last_pc_name": "DESKTOP-F1KQPJ2",
       "app_version": "1.9.11",
-      "last_seen_at": "2026-11-18 12:40:48",
-      "last_action": "[DESKTOP-F1KQPJ2] Canlı MF Taraması",
+      "last_seen_at": "2026-11-18 12:41:46",
+      "last_action": "[DESKTOP-F1KQPJ2] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-18",
       "today_searches": 11,
       "today_cart_adds": 0,
-      "today_smart_orders": 13,
+      "today_smart_orders": 15,
       "total_searches": 79,
       "total_cart_adds": 36,
       "total_days_used": 4,
-      "total_smart_orders": 63,
+      "total_smart_orders": 65,
       "pc_count": 3,
       "devices": {
         "2F66-9873-3F47": {
@@ -1641,27 +1641,17 @@
           "desk_name": "DESKTOP-F1KQPJ2",
           "local_ip": "192.168.1.28",
           "app_version": "1.9.11",
-          "last_seen_at": "2026-11-18 12:40:48",
-          "last_action": "Canlı MF Taraması",
+          "last_seen_at": "2026-11-18 12:41:46",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-18",
           "today_searches": 11,
           "today_cart_adds": 0,
-          "today_smart_orders": 13,
+          "today_smart_orders": 15,
           "total_searches": 62,
           "total_cart_adds": 29,
-          "total_smart_orders": 48,
+          "total_smart_orders": 50,
           "total_days_used": 4,
           "recent_actions": [
-            {
-              "t": "2026-11-18 11:54:01",
-              "type": "search",
-              "detail": "Depo Sorgu: ELLA 30 MG 1 FTB."
-            },
-            {
-              "t": "2026-11-18 11:54:01",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-18 11:54:15",
               "type": "search",
@@ -1726,6 +1716,16 @@
               "t": "2026-11-18 12:40:21",
               "type": "mf_resolve",
               "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-18 12:40:48",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (14 Ürün)"
+            },
+            {
+              "t": "2026-11-18 12:41:46",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         }
