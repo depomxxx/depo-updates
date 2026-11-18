@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 13:26:24",
+  "updated_at": "2026-11-18 13:26:28",
   "count": 7,
   "items": [
     {
@@ -702,23 +702,23 @@
       "pharmacist_name": "EDA BİLGİN",
       "phone": "05077034200",
       "city": "SAMSUN/İLKADIM",
-      "gln_no": "8680001112258",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "83F3-13F8-E632",
-      "last_pc_name": "Eskienes",
+      "hwid": "B446-9737-94C4",
+      "last_pc_name": "DESKTOP-5PFFU5S",
       "app_version": "1.9.12",
-      "last_seen_at": "2026-11-18 13:26:24",
-      "last_action": "[Eskienes] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-18 13:26:28",
+      "last_action": "[DESKTOP-5PFFU5S] Canlı MF Sorgulama (3 Ürün)",
       "today_date": "2026-11-18",
       "today_searches": 20,
       "today_cart_adds": 29,
-      "today_smart_orders": 146,
+      "today_smart_orders": 148,
       "total_searches": 616,
       "total_cart_adds": 944,
-      "total_smart_orders": 1092,
+      "total_smart_orders": 1094,
       "total_days_used": 13,
       "pc_count": 8,
       "devices": {
@@ -1010,7 +1010,7 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 13:25:38",
+          "last_seen_at": "2026-11-18 13:26:28",
           "last_action": "Canlı MF Sorgulama (3 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 0,
@@ -1292,7 +1292,7 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 13:25:43",
+          "last_seen_at": "2026-11-18 13:26:18",
           "last_action": "Canlı MF Sorgulama (2 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 0,
@@ -1386,27 +1386,17 @@
           "desk_name": "DESKTOP-1N3LQF0",
           "local_ip": "192.168.1.123",
           "app_version": "1.9.12",
-          "last_seen_at": "2026-11-18 13:25:47",
-          "last_action": "Canlı MF Sorgulama (30 Ürün)",
+          "last_seen_at": "2026-11-18 13:26:24",
+          "last_action": "Canlı MF Sorgulama (2 Ürün)",
           "today_date": "2026-11-18",
           "today_searches": 12,
           "today_cart_adds": 4,
-          "today_smart_orders": 14,
+          "today_smart_orders": 16,
           "total_searches": 77,
           "total_cart_adds": 30,
-          "total_smart_orders": 81,
+          "total_smart_orders": 83,
           "total_days_used": 9,
           "recent_actions": [
-            {
-              "t": "2026-11-18 10:40:20",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-18 10:40:32",
-              "type": "search",
-              "detail": "Depo Sorgu: APRANAX PLUS 20 FTB. *"
-            },
             {
               "t": "2026-11-18 10:40:52",
               "type": "search",
@@ -1471,6 +1461,16 @@
               "t": "2026-11-18 13:25:47",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (30 Ürün)"
+            },
+            {
+              "t": "2026-11-18 13:25:47",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-18 13:25:49",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (2 Ürün)"
             }
           ]
         }
