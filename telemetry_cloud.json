@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 15:06:10",
+  "updated_at": "2026-11-19 15:06:31",
   "count": 7,
   "items": [
     {
@@ -8,23 +8,23 @@
       "pharmacist_name": "GAMZE ASLAN",
       "phone": "05344064108",
       "city": "SAMSUN/ATAKUM",
-      "gln_no": "8680001000000",
+      "gln_no": "8680001134861",
       "otomasyon": "TRIA",
       "plan": "PRO_YILLIK",
       "expires_at": "2027-10-24",
       "status": "AKTIF",
-      "hwid": "E6B1-5698-273E",
-      "last_pc_name": "DESKTOP-6KFO8IF",
+      "hwid": "E4F7-229A-BABD",
+      "last_pc_name": "ChagriBeg",
       "app_version": "1.9.16",
-      "last_seen_at": "2026-11-19 15:05:19",
-      "last_action": "[DESKTOP-6KFO8IF] Canlı MF Sorgulama (16 Ürün)",
+      "last_seen_at": "2026-11-19 15:06:31",
+      "last_action": "[ChagriBeg] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-19",
       "today_searches": 4,
       "today_cart_adds": 27,
-      "today_smart_orders": 110,
+      "today_smart_orders": 111,
       "total_searches": 321,
       "total_cart_adds": 687,
-      "total_smart_orders": 1164,
+      "total_smart_orders": 1165,
       "total_days_used": 14,
       "pc_count": 3,
       "devices": {
@@ -34,7 +34,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.16",
-          "last_seen_at": "2026-11-19 15:05:19",
+          "last_seen_at": "2026-11-19 15:06:05",
           "last_action": "Canlı MF Sorgulama (16 Ürün)",
           "today_date": "2026-11-19",
           "today_searches": 0,
@@ -222,22 +222,17 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.9.16",
-          "last_seen_at": "2026-11-19 15:05:14",
-          "last_action": "Canlı MF Sorgulama (16 Ürün)",
+          "last_seen_at": "2026-11-19 15:06:31",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-19",
           "today_searches": 0,
           "today_cart_adds": 0,
-          "today_smart_orders": 6,
+          "today_smart_orders": 7,
           "total_searches": 106,
           "total_cart_adds": 108,
-          "total_smart_orders": 312,
+          "total_smart_orders": 313,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-18 14:13:42",
-              "type": "cart",
-              "detail": "Sepete Ekle (NEVZAT): TAMCEF KAPSÜL 300 MG 20 KAPS x1"
-            },
             {
               "t": "2026-11-18 14:29:52",
               "type": "critical_stock",
@@ -307,6 +302,11 @@
               "t": "2026-11-19 14:46:50",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (16 Ürün)"
+            },
+            {
+              "t": "2026-11-19 15:06:31",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         }
