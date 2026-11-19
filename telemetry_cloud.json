@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 13:25:49",
+  "updated_at": "2026-11-19 13:28:13",
   "count": 7,
   "items": [
     {
@@ -1814,16 +1814,16 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.9.14",
-      "last_seen_at": "2026-11-19 13:27:53",
-      "last_action": "[DESKTOP-T4EAUS3] Depo Sorgu: DETRUSITOL SR 4 MG 28 CAP.",
+      "last_seen_at": "2026-11-19 13:28:13",
+      "last_action": "[DESKTOP-T4EAUS3] Depo Sorgu: GLIFIX 30 MG 90 TB.",
       "today_date": "2026-11-19",
-      "today_searches": 10,
+      "today_searches": 16,
       "today_cart_adds": 18,
-      "today_smart_orders": 21,
-      "total_searches": 187,
+      "today_smart_orders": 23,
+      "total_searches": 193,
       "total_cart_adds": 657,
       "total_days_used": 14,
-      "total_smart_orders": 472,
+      "total_smart_orders": 474,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -1906,47 +1906,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-19 13:27:53",
-          "last_action": "Depo Sorgu: DETRUSITOL SR 4 MG 28 CAP.",
+          "last_seen_at": "2026-11-19 13:28:13",
+          "last_action": "Depo Sorgu: GLIFIX 30 MG 90 TB.",
           "today_date": "2026-11-19",
-          "today_searches": 10,
+          "today_searches": 16,
           "today_cart_adds": 18,
           "today_smart_orders": 21,
-          "total_searches": 105,
+          "total_searches": 111,
           "total_cart_adds": 390,
           "total_smart_orders": 370,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-19 13:25:25",
-              "type": "cart",
-              "detail": "Toplu Sepet (ALLIANCE): 7 Kalem"
-            },
-            {
-              "t": "2026-11-19 13:25:39",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-19 13:25:59",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-19 13:25:59",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (BOTANIK • 39 Kalem)"
-            },
-            {
-              "t": "2026-11-19 13:25:59",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-19 13:26:01",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (2 Ürün)"
-            },
             {
               "t": "2026-11-19 13:26:03",
               "type": "search",
@@ -1991,6 +1961,36 @@
               "t": "2026-11-19 13:27:53",
               "type": "search",
               "detail": "Depo Sorgu: DETRUSITOL SR 4 MG 28 CAP."
+            },
+            {
+              "t": "2026-11-19 13:28:00",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-19 13:28:02",
+              "type": "search",
+              "detail": "Depo Sorgu: LIXIANA 60 MG 28 FTB."
+            },
+            {
+              "t": "2026-11-19 13:28:05",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-19 13:28:07",
+              "type": "search",
+              "detail": "Depo Sorgu: CARDURA XL 8 MG 30 TB."
+            },
+            {
+              "t": "2026-11-19 13:28:11",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-19 13:28:13",
+              "type": "search",
+              "detail": "Depo Sorgu: GLIFIX 30 MG 90 TB."
             }
           ]
         },
@@ -2000,27 +2000,17 @@
           "desk_name": "Cicobey",
           "local_ip": "192.168.1.42",
           "app_version": "1.5.9",
-          "last_seen_at": "2026-11-19 13:25:37",
-          "last_action": "Program Açık (Canlı)",
+          "last_seen_at": "2026-11-19 13:25:41",
+          "last_action": "Canlı MF Taraması",
           "today_date": "2026-11-19",
           "today_searches": 0,
           "today_cart_adds": 0,
-          "today_smart_orders": 0,
+          "today_smart_orders": 2,
           "total_searches": 48,
           "total_cart_adds": 71,
-          "total_smart_orders": 90,
+          "total_smart_orders": 92,
           "total_days_used": 14,
           "recent_actions": [
-            {
-              "t": "2026-11-18 14:16:33",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-18 14:16:36",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): APRANAX FORTE 550MG 20 TABLE x1"
-            },
             {
               "t": "2026-11-18 14:16:38",
               "type": "cart",
@@ -2085,6 +2075,16 @@
               "t": "2026-11-18 15:29:56",
               "type": "search",
               "detail": "Depo Sorgu: LANTUS 100 IU 3 ML 5 PEN"
+            },
+            {
+              "t": "2026-11-19 13:25:40",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-19 13:25:40",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
             }
           ]
         }
