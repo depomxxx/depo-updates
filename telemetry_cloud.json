@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 16:30:32",
+  "updated_at": "2026-11-19 16:30:54",
   "count": 7,
   "items": [
     {
@@ -710,15 +710,15 @@
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.18",
-      "last_seen_at": "2026-11-19 16:29:22",
-      "last_action": "[DESKTOP-OTHNDUE] Toplu Sepet (ALLIANCE): 1 Kalem",
+      "last_seen_at": "2026-11-19 16:30:54",
+      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-19",
       "today_searches": 14,
       "today_cart_adds": 39,
-      "today_smart_orders": 150,
+      "today_smart_orders": 151,
       "total_searches": 678,
       "total_cart_adds": 1107,
-      "total_smart_orders": 1431,
+      "total_smart_orders": 1432,
       "total_days_used": 14,
       "pc_count": 9,
       "devices": {
@@ -822,22 +822,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.18",
-          "last_seen_at": "2026-11-19 16:29:22",
-          "last_action": "Toplu Sepet (ALLIANCE): 1 Kalem",
+          "last_seen_at": "2026-11-19 16:30:54",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-19",
           "today_searches": 4,
           "today_cart_adds": 29,
-          "today_smart_orders": 125,
+          "today_smart_orders": 126,
           "total_searches": 177,
           "total_cart_adds": 498,
-          "total_smart_orders": 723,
+          "total_smart_orders": 724,
           "total_days_used": 14,
           "recent_actions": [
-            {
-              "t": "2026-11-19 15:50:34",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 50 Kalem)"
-            },
             {
               "t": "2026-11-19 15:50:36",
               "type": "critical_stock",
@@ -907,6 +902,11 @@
               "t": "2026-11-19 16:21:42",
               "type": "cart",
               "detail": "Toplu Sepet (ALLIANCE): 1 Kalem"
+            },
+            {
+              "t": "2026-11-19 16:30:54",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         },
@@ -1104,7 +1104,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.18",
-          "last_seen_at": "2026-11-19 16:29:05",
+          "last_seen_at": "2026-11-19 16:30:05",
           "last_action": "Canlı MF Sorgulama (13 Ürün)",
           "today_date": "2026-11-19",
           "today_searches": 0,
