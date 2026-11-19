@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 13:49:33",
+  "updated_at": "2026-11-19 13:47:33",
   "count": 7,
   "items": [
     {
@@ -1818,12 +1818,12 @@
       "last_action": "[DESKTOP-T4EAUS3] Canlı MF Sorgulama (2 Ürün)",
       "today_date": "2026-11-19",
       "today_searches": 38,
-      "today_cart_adds": 30,
-      "today_smart_orders": 45,
+      "today_cart_adds": 32,
+      "today_smart_orders": 46,
       "total_searches": 215,
-      "total_cart_adds": 669,
+      "total_cart_adds": 671,
       "total_days_used": 14,
-      "total_smart_orders": 496,
+      "total_smart_orders": 497,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -2000,32 +2000,17 @@
           "desk_name": "Cicobey",
           "local_ip": "192.168.1.42",
           "app_version": "1.5.9",
-          "last_seen_at": "2026-11-19 13:47:22",
-          "last_action": "Canlı MF Taraması",
+          "last_seen_at": "2026-11-19 13:47:33",
+          "last_action": "Toplu Sepet (ALLIANCE): 5 Kalem",
           "today_date": "2026-11-19",
           "today_searches": 0,
-          "today_cart_adds": 6,
-          "today_smart_orders": 20,
+          "today_cart_adds": 8,
+          "today_smart_orders": 21,
           "total_searches": 48,
-          "total_cart_adds": 77,
-          "total_smart_orders": 110,
+          "total_cart_adds": 79,
+          "total_smart_orders": 111,
           "total_days_used": 14,
           "recent_actions": [
-            {
-              "t": "2026-11-19 13:40:56",
-              "type": "cart",
-              "detail": "Eczatrend Katılım: BETASERC 24 MG 60 TB. x20"
-            },
-            {
-              "t": "2026-11-19 13:41:56",
-              "type": "cart",
-              "detail": "Eczatrend Katılım: DUPHASTON FİLM TABLET 10 mg 20 x5"
-            },
-            {
-              "t": "2026-11-19 13:42:33",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş Planlama"
-            },
             {
               "t": "2026-11-19 13:42:34",
               "type": "smart_order",
@@ -2085,6 +2070,21 @@
               "t": "2026-11-19 13:47:11",
               "type": "mf_resolve",
               "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-19 13:47:23",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-19 13:47:24",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (7 Ürün)"
+            },
+            {
+              "t": "2026-11-19 13:47:33",
+              "type": "cart",
+              "detail": "Toplu Sepet (ALLIANCE): 5 Kalem"
             }
           ]
         }
