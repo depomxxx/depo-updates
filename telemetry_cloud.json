@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 13:28:59",
+  "updated_at": "2026-11-19 13:29:21",
   "count": 7,
   "items": [
     {
@@ -1814,16 +1814,16 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.9.14",
-      "last_seen_at": "2026-11-19 13:28:59",
-      "last_action": "[DESKTOP-T4EAUS3] Depo Sorgu: MADOPAR 125/25 MG 30 TB.",
+      "last_seen_at": "2026-11-19 13:29:21",
+      "last_action": "[DESKTOP-T4EAUS3] Depo Fiyat Sorgulama",
       "today_date": "2026-11-19",
-      "today_searches": 26,
+      "today_searches": 31,
       "today_cart_adds": 20,
-      "today_smart_orders": 29,
-      "total_searches": 203,
+      "today_smart_orders": 30,
+      "total_searches": 208,
       "total_cart_adds": 659,
       "total_days_used": 14,
-      "total_smart_orders": 480,
+      "total_smart_orders": 481,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -1906,42 +1906,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-19 13:28:59",
-          "last_action": "Depo Sorgu: MADOPAR 125/25 MG 30 TB.",
+          "last_seen_at": "2026-11-19 13:29:21",
+          "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-19",
-          "today_searches": 26,
+          "today_searches": 31,
           "today_cart_adds": 18,
           "today_smart_orders": 21,
-          "total_searches": 121,
+          "total_searches": 126,
           "total_cart_adds": 390,
           "total_smart_orders": 370,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-19 13:28:02",
-              "type": "search",
-              "detail": "Depo Sorgu: LIXIANA 60 MG 28 FTB."
-            },
-            {
-              "t": "2026-11-19 13:28:05",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-19 13:28:07",
-              "type": "search",
-              "detail": "Depo Sorgu: CARDURA XL 8 MG 30 TB."
-            },
-            {
-              "t": "2026-11-19 13:28:11",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-19 13:28:13",
-              "type": "search",
-              "detail": "Depo Sorgu: GLIFIX 30 MG 90 TB."
-            },
             {
               "t": "2026-11-19 13:28:22",
               "type": "search",
@@ -1991,6 +1966,31 @@
               "t": "2026-11-19 13:28:59",
               "type": "search",
               "detail": "Depo Sorgu: MADOPAR 125/25 MG 30 TB."
+            },
+            {
+              "t": "2026-11-19 13:29:03",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-19 13:29:07",
+              "type": "search",
+              "detail": "Depo Sorgu: ON CALL PLUS STRIP 50 LI"
+            },
+            {
+              "t": "2026-11-19 13:29:10",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-19 13:29:13",
+              "type": "search",
+              "detail": "Depo Sorgu: PLAVIX 75 MG 90 FILM TABLET"
+            },
+            {
+              "t": "2026-11-19 13:29:21",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ]
         },
@@ -2000,22 +2000,17 @@
           "desk_name": "Cicobey",
           "local_ip": "192.168.1.42",
           "app_version": "1.5.9",
-          "last_seen_at": "2026-11-19 13:26:47",
-          "last_action": "Canlı MF Sorgulama (9 Ürün)",
+          "last_seen_at": "2026-11-19 13:27:04",
+          "last_action": "Canlı MF Sorgulama (18 Ürün)",
           "today_date": "2026-11-19",
           "today_searches": 0,
           "today_cart_adds": 2,
-          "today_smart_orders": 8,
+          "today_smart_orders": 9,
           "total_searches": 48,
           "total_cart_adds": 73,
-          "total_smart_orders": 98,
+          "total_smart_orders": 99,
           "total_days_used": 14,
           "recent_actions": [
-            {
-              "t": "2026-11-18 15:25:58",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-18 15:26:07",
               "type": "search",
@@ -2085,6 +2080,11 @@
               "t": "2026-11-19 13:26:47",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (9 Ürün)"
+            },
+            {
+              "t": "2026-11-19 13:26:50",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (18 Ürün)"
             }
           ]
         }
