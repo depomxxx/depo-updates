@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 14:13:05",
+  "updated_at": "2026-11-19 14:13:20",
   "count": 7,
   "items": [
     {
@@ -1814,13 +1814,13 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.9.15",
-      "last_seen_at": "2026-11-19 14:15:15",
+      "last_seen_at": "2026-11-19 14:15:18",
       "last_action": "[DESKTOP-T4EAUS3] Canlı MF Sorgulama (10 Ürün)",
       "today_date": "2026-11-19",
-      "today_searches": 40,
+      "today_searches": 41,
       "today_cart_adds": 52,
       "today_smart_orders": 74,
-      "total_searches": 217,
+      "total_searches": 218,
       "total_cart_adds": 691,
       "total_days_used": 14,
       "total_smart_orders": 525,
@@ -1906,7 +1906,7 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.9.15",
-          "last_seen_at": "2026-11-19 14:15:15",
+          "last_seen_at": "2026-11-19 14:15:18",
           "last_action": "Canlı MF Sorgulama (10 Ürün)",
           "today_date": "2026-11-19",
           "today_searches": 38,
@@ -2000,22 +2000,17 @@
           "desk_name": "Cicobey",
           "local_ip": "192.168.1.42",
           "app_version": "1.5.9",
-          "last_seen_at": "2026-11-19 14:12:58",
-          "last_action": "Depo Sorgu: RELPAX 40 MG 3 FTB",
+          "last_seen_at": "2026-11-19 14:13:20",
+          "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-19",
-          "today_searches": 2,
+          "today_searches": 3,
           "today_cart_adds": 28,
           "today_smart_orders": 44,
-          "total_searches": 50,
+          "total_searches": 51,
           "total_cart_adds": 99,
           "total_smart_orders": 134,
           "total_days_used": 14,
           "recent_actions": [
-            {
-              "t": "2026-11-19 14:07:42",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş (BOTANIK • 106 Kalem)"
-            },
             {
               "t": "2026-11-19 14:07:42",
               "type": "mf_resolve",
@@ -2085,6 +2080,11 @@
               "t": "2026-11-19 14:12:53",
               "type": "search",
               "detail": "Depo Sorgu: RELPAX 40 MG 3 FTB"
+            },
+            {
+              "t": "2026-11-19 14:13:20",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ]
         }
