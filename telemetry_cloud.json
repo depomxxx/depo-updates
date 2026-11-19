@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 17:12:47",
+  "updated_at": "2026-11-19 17:12:50",
   "count": 7,
   "items": [
     {
@@ -1912,10 +1912,10 @@
       "last_action": "[DESKTOP-T4EAUS3] Canlı MF Sorgulama (2 Ürün)",
       "today_date": "2026-11-19",
       "today_searches": 47,
-      "today_cart_adds": 72,
+      "today_cart_adds": 74,
       "today_smart_orders": 139,
       "total_searches": 224,
-      "total_cart_adds": 711,
+      "total_cart_adds": 713,
       "total_days_used": 14,
       "total_smart_orders": 590,
       "pc_count": 3,
@@ -2094,27 +2094,17 @@
           "desk_name": "Cicobey",
           "local_ip": "192.168.1.42",
           "app_version": "1.5.9",
-          "last_seen_at": "2026-11-19 17:12:30",
-          "last_action": "Canlı MF Sorgulama (9 Ürün)",
+          "last_seen_at": "2026-11-19 17:12:50",
+          "last_action": "Toplu Sepet (ISKOOP): 3 Kalem",
           "today_date": "2026-11-19",
           "today_searches": 9,
-          "today_cart_adds": 37,
+          "today_cart_adds": 39,
           "today_smart_orders": 79,
           "total_searches": 57,
-          "total_cart_adds": 108,
+          "total_cart_adds": 110,
           "total_smart_orders": 169,
           "total_days_used": 14,
           "recent_actions": [
-            {
-              "t": "2026-11-19 16:40:03",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-19 16:40:03",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-19 16:40:32",
               "type": "mf_resolve",
@@ -2179,6 +2169,16 @@
               "t": "2026-11-19 17:11:05",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (9 Ürün)"
+            },
+            {
+              "t": "2026-11-19 17:12:36",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-19 17:12:50",
+              "type": "cart",
+              "detail": "Toplu Sepet (ISKOOP): 3 Kalem"
             }
           ]
         }
