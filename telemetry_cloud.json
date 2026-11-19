@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 16:21:29",
+  "updated_at": "2026-11-19 16:21:49",
   "count": 7,
   "items": [
     {
@@ -1818,10 +1818,10 @@
       "last_action": "[DESKTOP-T4EAUS3] Canlı MF Sorgulama (9 Ürün)",
       "today_date": "2026-11-19",
       "today_searches": 46,
-      "today_cart_adds": 63,
+      "today_cart_adds": 64,
       "today_smart_orders": 113,
       "total_searches": 223,
-      "total_cart_adds": 702,
+      "total_cart_adds": 703,
       "total_days_used": 14,
       "total_smart_orders": 564,
       "pc_count": 3,
@@ -2000,22 +2000,17 @@
           "desk_name": "Cicobey",
           "local_ip": "192.168.1.42",
           "app_version": "1.5.9",
-          "last_seen_at": "2026-11-19 16:21:29",
-          "last_action": "Depo Sorgu: OCEAN VITAMIN D3 1000 IU DAMLA 50 ML",
+          "last_seen_at": "2026-11-19 16:21:49",
+          "last_action": "Eczatrend Takas Açıldı: OCEAN VITAMIN D 1000 IU DAMLA (7+1)",
           "today_date": "2026-11-19",
           "today_searches": 8,
-          "today_cart_adds": 32,
+          "today_cart_adds": 33,
           "today_smart_orders": 66,
           "total_searches": 56,
-          "total_cart_adds": 103,
+          "total_cart_adds": 104,
           "total_smart_orders": 156,
           "total_days_used": 14,
           "recent_actions": [
-            {
-              "t": "2026-11-19 15:26:11",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (8 Ürün)"
-            },
             {
               "t": "2026-11-19 16:17:44",
               "type": "critical_stock",
@@ -2085,6 +2080,11 @@
               "t": "2026-11-19 16:20:13",
               "type": "search",
               "detail": "Depo Sorgu: OCEAN VITAMIN D3 1000 IU DAMLA 50 ML"
+            },
+            {
+              "t": "2026-11-19 16:21:49",
+              "type": "cart",
+              "detail": "Eczatrend Takas Açıldı: OCEAN VITAMIN D 1000 IU DAMLA (7+1)"
             }
           ]
         }
