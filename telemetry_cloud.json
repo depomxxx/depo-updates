@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 16:37:42",
+  "updated_at": "2026-11-19 16:35:35",
   "count": 7,
   "items": [
     {
@@ -710,15 +710,15 @@
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.18",
-      "last_seen_at": "2026-11-19 16:35:16",
-      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-19 16:35:35",
+      "last_action": "[DESKTOP-OTHNDUE] Toplu Sepet (ALLIANCE): 1 Kalem",
       "today_date": "2026-11-19",
-      "today_searches": 14,
-      "today_cart_adds": 41,
-      "today_smart_orders": 153,
-      "total_searches": 678,
-      "total_cart_adds": 1109,
-      "total_smart_orders": 1434,
+      "today_searches": 16,
+      "today_cart_adds": 43,
+      "today_smart_orders": 156,
+      "total_searches": 680,
+      "total_cart_adds": 1111,
+      "total_smart_orders": 1437,
       "total_days_used": 14,
       "pc_count": 9,
       "devices": {
@@ -822,52 +822,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.18",
-          "last_seen_at": "2026-11-19 16:35:16",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-19 16:35:35",
+          "last_action": "Toplu Sepet (ALLIANCE): 1 Kalem",
           "today_date": "2026-11-19",
-          "today_searches": 4,
-          "today_cart_adds": 31,
-          "today_smart_orders": 128,
-          "total_searches": 177,
-          "total_cart_adds": 500,
-          "total_smart_orders": 726,
+          "today_searches": 6,
+          "today_cart_adds": 33,
+          "today_smart_orders": 131,
+          "total_searches": 179,
+          "total_cart_adds": 502,
+          "total_smart_orders": 729,
           "total_days_used": 14,
           "recent_actions": [
-            {
-              "t": "2026-11-19 16:09:29",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-19 16:09:29",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 53 Kalem)"
-            },
-            {
-              "t": "2026-11-19 16:09:29",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-19 16:09:44",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (21 Ürün)"
-            },
-            {
-              "t": "2026-11-19 16:21:24",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-19 16:21:24",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 54 Kalem)"
-            },
-            {
-              "t": "2026-11-19 16:21:24",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-19 16:21:32",
               "type": "mf_resolve",
@@ -907,6 +872,41 @@
               "t": "2026-11-19 16:35:16",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-19 16:35:16",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 56 Kalem)"
+            },
+            {
+              "t": "2026-11-19 16:35:16",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-19 16:35:18",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (2 Ürün)"
+            },
+            {
+              "t": "2026-11-19 16:35:19",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-19 16:35:23",
+              "type": "search",
+              "detail": "Depo Sorgu: COLCHICUM DISPERT 0.5 MG 50 FT"
+            },
+            {
+              "t": "2026-11-19 16:35:33",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-19 16:35:35",
+              "type": "cart",
+              "detail": "Toplu Sepet (ALLIANCE): 1 Kalem"
             }
           ]
         },
