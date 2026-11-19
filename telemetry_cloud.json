@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 10:42:59",
+  "updated_at": "2026-11-19 10:45:23",
   "count": 7,
   "items": [
     {
@@ -1814,16 +1814,16 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.9.14",
-      "last_seen_at": "2026-11-19 10:45:04",
-      "last_action": "[DESKTOP-T4EAUS3] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-19 10:45:23",
+      "last_action": "[DESKTOP-T4EAUS3] Canlı MF Sorgulama (17 Ürün)",
       "today_date": "2026-11-19",
       "today_searches": 0,
-      "today_cart_adds": 4,
-      "today_smart_orders": 4,
+      "today_cart_adds": 7,
+      "today_smart_orders": 7,
       "total_searches": 177,
-      "total_cart_adds": 643,
+      "total_cart_adds": 646,
       "total_days_used": 13,
-      "total_smart_orders": 455,
+      "total_smart_orders": 458,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -1906,47 +1906,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-19 10:45:04",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-19 10:45:23",
+          "last_action": "Canlı MF Sorgulama (17 Ürün)",
           "today_date": "2026-11-19",
           "today_searches": 0,
-          "today_cart_adds": 4,
-          "today_smart_orders": 4,
+          "today_cart_adds": 7,
+          "today_smart_orders": 7,
           "total_searches": 95,
-          "total_cart_adds": 376,
-          "total_smart_orders": 353,
+          "total_cart_adds": 379,
+          "total_smart_orders": 356,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-18 16:56:43",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (26 Ürün)"
-            },
-            {
-              "t": "2026-11-18 16:57:38",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-18 16:58:14",
-              "type": "cart",
-              "detail": "Toplu Sepet (ISKOOP): 15 Kalem"
-            },
-            {
-              "t": "2026-11-18 16:58:31",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-18 16:58:54",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-18 16:58:59",
-              "type": "search",
-              "detail": "Depo Sorgu: HYONAT %0.15 TEK DOZ 20 FLK."
-            },
             {
               "t": "2026-11-18 16:58:59",
               "type": "search",
@@ -1991,6 +1961,36 @@
               "t": "2026-11-19 10:45:04",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-19 10:45:05",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (BOTANIK • 19 Kalem)"
+            },
+            {
+              "t": "2026-11-19 10:45:05",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-19 10:45:15",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-19 10:45:20",
+              "type": "cart",
+              "detail": "Toplu Sepet (ALLIANCE): 2 Kalem"
+            },
+            {
+              "t": "2026-11-19 10:45:21",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-19 10:45:23",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (17 Ürün)"
             }
           ]
         },
