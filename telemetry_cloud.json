@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 13:29:39",
+  "updated_at": "2026-11-19 13:30:03",
   "count": 7,
   "items": [
     {
@@ -1814,16 +1814,16 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.9.14",
-      "last_seen_at": "2026-11-19 13:31:03",
-      "last_action": "[DESKTOP-T4EAUS3] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-19 13:31:59",
+      "last_action": "[DESKTOP-T4EAUS3] Canlı MF Sorgulama (2 Ürün)",
       "today_date": "2026-11-19",
       "today_searches": 38,
       "today_cart_adds": 26,
-      "today_smart_orders": 31,
+      "today_smart_orders": 34,
       "total_searches": 215,
       "total_cart_adds": 665,
       "total_days_used": 14,
-      "total_smart_orders": 482,
+      "total_smart_orders": 485,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -1906,32 +1906,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-19 13:31:03",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-19 13:31:59",
+          "last_action": "Canlı MF Sorgulama (2 Ürün)",
           "today_date": "2026-11-19",
           "today_searches": 38,
           "today_cart_adds": 24,
-          "today_smart_orders": 22,
+          "today_smart_orders": 25,
           "total_searches": 133,
           "total_cart_adds": 396,
-          "total_smart_orders": 371,
+          "total_smart_orders": 374,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-19 13:29:03",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-19 13:29:07",
-              "type": "search",
-              "detail": "Depo Sorgu: ON CALL PLUS STRIP 50 LI"
-            },
-            {
-              "t": "2026-11-19 13:29:10",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-19 13:29:13",
               "type": "search",
@@ -1991,6 +1976,21 @@
               "t": "2026-11-19 13:31:03",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-19 13:31:03",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (BOTANIK • 39 Kalem)"
+            },
+            {
+              "t": "2026-11-19 13:31:03",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-19 13:31:05",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (2 Ürün)"
             }
           ]
         },
@@ -2000,7 +2000,7 @@
           "desk_name": "Cicobey",
           "local_ip": "192.168.1.42",
           "app_version": "1.5.9",
-          "last_seen_at": "2026-11-19 13:28:36",
+          "last_seen_at": "2026-11-19 13:30:03",
           "last_action": "Canlı MF Sorgulama (18 Ürün)",
           "today_date": "2026-11-19",
           "today_searches": 0,
