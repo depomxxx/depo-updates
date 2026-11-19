@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 16:19:40",
+  "updated_at": "2026-11-19 16:20:08",
   "count": 7,
   "items": [
     {
@@ -1814,16 +1814,16 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.9.18",
-      "last_seen_at": "2026-11-19 16:21:18",
+      "last_seen_at": "2026-11-19 16:22:18",
       "last_action": "[DESKTOP-T4EAUS3] Canlı MF Sorgulama (9 Ürün)",
       "today_date": "2026-11-19",
-      "today_searches": 44,
+      "today_searches": 45,
       "today_cart_adds": 63,
-      "today_smart_orders": 110,
-      "total_searches": 221,
+      "today_smart_orders": 113,
+      "total_searches": 222,
       "total_cart_adds": 702,
       "total_days_used": 14,
-      "total_smart_orders": 561,
+      "total_smart_orders": 564,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -1906,7 +1906,7 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.9.18",
-          "last_seen_at": "2026-11-19 16:21:18",
+          "last_seen_at": "2026-11-19 16:22:18",
           "last_action": "Canlı MF Sorgulama (9 Ürün)",
           "today_date": "2026-11-19",
           "today_searches": 38,
@@ -2000,37 +2000,17 @@
           "desk_name": "Cicobey",
           "local_ip": "192.168.1.42",
           "app_version": "1.5.9",
-          "last_seen_at": "2026-11-19 16:19:40",
-          "last_action": "Toplu Sipariş Planlama",
+          "last_seen_at": "2026-11-19 16:20:08",
+          "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-19",
-          "today_searches": 6,
+          "today_searches": 7,
           "today_cart_adds": 32,
-          "today_smart_orders": 63,
-          "total_searches": 54,
+          "today_smart_orders": 66,
+          "total_searches": 55,
           "total_cart_adds": 103,
-          "total_smart_orders": 153,
+          "total_smart_orders": 156,
           "total_days_used": 14,
           "recent_actions": [
-            {
-              "t": "2026-11-19 15:07:45",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-19 15:07:49",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-19 15:07:58",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (7 Ürün)"
-            },
-            {
-              "t": "2026-11-19 15:26:02",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-19 15:26:02",
               "type": "mf_resolve",
@@ -2085,6 +2065,26 @@
               "t": "2026-11-19 16:19:40",
               "type": "smart_order",
               "detail": "Toplu Sipariş Planlama"
+            },
+            {
+              "t": "2026-11-19 16:19:40",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş (BOTANIK • 134 Kalem)"
+            },
+            {
+              "t": "2026-11-19 16:19:40",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-19 16:19:52",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (12 Ürün)"
+            },
+            {
+              "t": "2026-11-19 16:20:08",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ]
         }
