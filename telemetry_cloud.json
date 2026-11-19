@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 17:10:34",
+  "updated_at": "2026-11-19 17:10:56",
   "count": 7,
   "items": [
     {
@@ -1912,12 +1912,12 @@
       "last_action": "[DESKTOP-T4EAUS3] Canlı MF Sorgulama (2 Ürün)",
       "today_date": "2026-11-19",
       "today_searches": 47,
-      "today_cart_adds": 71,
-      "today_smart_orders": 135,
+      "today_cart_adds": 72,
+      "today_smart_orders": 136,
       "total_searches": 224,
-      "total_cart_adds": 710,
+      "total_cart_adds": 711,
       "total_days_used": 14,
-      "total_smart_orders": 586,
+      "total_smart_orders": 587,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -2094,22 +2094,17 @@
           "desk_name": "Cicobey",
           "local_ip": "192.168.1.42",
           "app_version": "1.5.9",
-          "last_seen_at": "2026-11-19 17:10:27",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-19 17:10:56",
+          "last_action": "Toplu Sipariş Planlama",
           "today_date": "2026-11-19",
           "today_searches": 9,
-          "today_cart_adds": 36,
-          "today_smart_orders": 75,
+          "today_cart_adds": 37,
+          "today_smart_orders": 76,
           "total_searches": 57,
-          "total_cart_adds": 107,
-          "total_smart_orders": 165,
+          "total_cart_adds": 108,
+          "total_smart_orders": 166,
           "total_days_used": 14,
           "recent_actions": [
-            {
-              "t": "2026-11-19 16:20:08",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-19 16:20:13",
               "type": "search",
@@ -2179,6 +2174,11 @@
               "t": "2026-11-19 17:10:27",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-19 17:10:56",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş Planlama"
             }
           ]
         }
