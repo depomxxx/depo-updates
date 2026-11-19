@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 16:40:29",
+  "updated_at": "2026-11-19 16:40:34",
   "count": 7,
   "items": [
     {
@@ -16,15 +16,15 @@
       "hwid": "E4F7-229A-BABD",
       "last_pc_name": "ChagriBeg",
       "app_version": "1.9.18",
-      "last_seen_at": "2026-11-19 16:39:03",
+      "last_seen_at": "2026-11-19 16:40:34",
       "last_action": "[ChagriBeg] Canlı MF Sorgulama (30 Ürün)",
       "today_date": "2026-11-19",
       "today_searches": 8,
       "today_cart_adds": 41,
-      "today_smart_orders": 172,
+      "today_smart_orders": 174,
       "total_searches": 325,
       "total_cart_adds": 701,
-      "total_smart_orders": 1226,
+      "total_smart_orders": 1228,
       "total_days_used": 14,
       "pc_count": 3,
       "devices": {
@@ -33,28 +33,18 @@
           "pc_name": "DESKTOP-6KFO8IF",
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
-          "app_version": "1.9.18",
-          "last_seen_at": "2026-11-19 16:38:54",
-          "last_action": "Canlı MF Sorgulama (13 Ürün)",
+          "app_version": "1.9.19",
+          "last_seen_at": "2026-11-19 16:40:14",
+          "last_action": "Canlı MF Taraması",
           "today_date": "2026-11-19",
           "today_searches": 0,
           "today_cart_adds": 4,
-          "today_smart_orders": 18,
+          "today_smart_orders": 20,
           "total_searches": 38,
           "total_cart_adds": 87,
-          "total_smart_orders": 168,
+          "total_smart_orders": 170,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-19 13:02:57",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (23 Ürün)"
-            },
-            {
-              "t": "2026-11-19 13:02:57",
-              "type": "cart",
-              "detail": "Toplu Sepet (ALLIANCE): 1 Kalem"
-            },
             {
               "t": "2026-11-19 13:03:03",
               "type": "cart",
@@ -119,6 +109,16 @@
               "t": "2026-11-19 15:26:26",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (13 Ürün)"
+            },
+            {
+              "t": "2026-11-19 16:40:13",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-19 16:40:13",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
             }
           ]
         },
@@ -222,7 +222,7 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.9.18",
-          "last_seen_at": "2026-11-19 16:39:03",
+          "last_seen_at": "2026-11-19 16:40:34",
           "last_action": "Canlı MF Sorgulama (30 Ürün)",
           "today_date": "2026-11-19",
           "today_searches": 2,
