@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 09:52:43",
+  "updated_at": "2026-11-19 09:52:59",
   "count": 7,
   "items": [
     {
@@ -710,7 +710,7 @@
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.14",
-      "last_seen_at": "2026-11-19 09:51:23",
+      "last_seen_at": "2026-11-19 09:52:59",
       "last_action": "[DESKTOP-OTHNDUE] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-19",
       "today_searches": 2,
@@ -822,7 +822,7 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-19 09:51:23",
+          "last_seen_at": "2026-11-19 09:52:59",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-19",
           "today_searches": 0,
