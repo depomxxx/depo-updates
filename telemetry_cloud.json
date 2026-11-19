@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 13:28:40",
+  "updated_at": "2026-11-19 13:26:47",
   "count": 7,
   "items": [
     {
@@ -1814,16 +1814,16 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.9.14",
-      "last_seen_at": "2026-11-19 13:28:40",
+      "last_seen_at": "2026-11-19 13:28:57",
       "last_action": "[DESKTOP-T4EAUS3] Depo Fiyat Sorgulama",
       "today_date": "2026-11-19",
-      "today_searches": 21,
-      "today_cart_adds": 19,
-      "today_smart_orders": 26,
-      "total_searches": 198,
-      "total_cart_adds": 658,
+      "today_searches": 25,
+      "today_cart_adds": 20,
+      "today_smart_orders": 29,
+      "total_searches": 202,
+      "total_cart_adds": 659,
       "total_days_used": 14,
-      "total_smart_orders": 477,
+      "total_smart_orders": 480,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -1906,37 +1906,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-19 13:28:40",
+          "last_seen_at": "2026-11-19 13:28:57",
           "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-19",
-          "today_searches": 21,
+          "today_searches": 25,
           "today_cart_adds": 18,
           "today_smart_orders": 21,
-          "total_searches": 116,
+          "total_searches": 120,
           "total_cart_adds": 390,
           "total_smart_orders": 370,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-19 13:27:34",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-19 13:27:49",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-19 13:27:51",
-              "type": "search",
-              "detail": "Depo Sorgu: LIXIANA 60 MG 28 FTB."
-            },
-            {
-              "t": "2026-11-19 13:27:53",
-              "type": "search",
-              "detail": "Depo Sorgu: DETRUSITOL SR 4 MG 28 CAP."
-            },
             {
               "t": "2026-11-19 13:28:00",
               "type": "search",
@@ -1991,6 +1971,26 @@
               "t": "2026-11-19 13:28:40",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-19 13:28:42",
+              "type": "search",
+              "detail": "Depo Sorgu: LANTUS 100 IU 3 ML 5 PEN"
+            },
+            {
+              "t": "2026-11-19 13:28:48",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-19 13:28:50",
+              "type": "search",
+              "detail": "Depo Sorgu: GALVUS MET 50/1000 MG 60 FTB."
+            },
+            {
+              "t": "2026-11-19 13:28:57",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ]
         },
@@ -2000,37 +2000,17 @@
           "desk_name": "Cicobey",
           "local_ip": "192.168.1.42",
           "app_version": "1.5.9",
-          "last_seen_at": "2026-11-19 13:26:29",
-          "last_action": "Canlı MF Taraması",
+          "last_seen_at": "2026-11-19 13:26:47",
+          "last_action": "Canlı MF Sorgulama (9 Ürün)",
           "today_date": "2026-11-19",
           "today_searches": 0,
-          "today_cart_adds": 1,
-          "today_smart_orders": 5,
+          "today_cart_adds": 2,
+          "today_smart_orders": 8,
           "total_searches": 48,
-          "total_cart_adds": 72,
-          "total_smart_orders": 95,
+          "total_cart_adds": 73,
+          "total_smart_orders": 98,
           "total_days_used": 14,
           "recent_actions": [
-            {
-              "t": "2026-11-18 14:30:09",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-18 14:30:14",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): APRANAX FORTE 550MG 20 TABLE x1"
-            },
-            {
-              "t": "2026-11-18 14:33:15",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-18 14:34:02",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-18 15:25:58",
               "type": "search",
@@ -2085,6 +2065,26 @@
               "t": "2026-11-19 13:26:29",
               "type": "mf_resolve",
               "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-19 13:26:32",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-19 13:26:36",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (30 Ürün)"
+            },
+            {
+              "t": "2026-11-19 13:26:37",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-19 13:26:47",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (9 Ürün)"
             }
           ]
         }
