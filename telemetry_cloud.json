@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 13:40:14",
+  "updated_at": "2026-11-19 13:40:56",
   "count": 7,
   "items": [
     {
@@ -1814,14 +1814,14 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.9.14",
-      "last_seen_at": "2026-11-19 13:41:58",
+      "last_seen_at": "2026-11-19 13:42:18",
       "last_action": "[DESKTOP-T4EAUS3] Canlı MF Sorgulama (2 Ürün)",
       "today_date": "2026-11-19",
       "today_searches": 38,
-      "today_cart_adds": 26,
+      "today_cart_adds": 27,
       "today_smart_orders": 34,
       "total_searches": 215,
-      "total_cart_adds": 665,
+      "total_cart_adds": 666,
       "total_days_used": 14,
       "total_smart_orders": 485,
       "pc_count": 3,
@@ -1906,7 +1906,7 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-19 13:41:58",
+          "last_seen_at": "2026-11-19 13:42:18",
           "last_action": "Canlı MF Sorgulama (2 Ürün)",
           "today_date": "2026-11-19",
           "today_searches": 38,
@@ -2000,22 +2000,17 @@
           "desk_name": "Cicobey",
           "local_ip": "192.168.1.42",
           "app_version": "1.5.9",
-          "last_seen_at": "2026-11-19 13:39:48",
-          "last_action": "Canlı MF Sorgulama (18 Ürün)",
+          "last_seen_at": "2026-11-19 13:40:56",
+          "last_action": "Eczatrend Katılım: BETASERC 24 MG 60 TB. x20",
           "today_date": "2026-11-19",
           "today_searches": 0,
-          "today_cart_adds": 2,
+          "today_cart_adds": 3,
           "today_smart_orders": 9,
           "total_searches": 48,
-          "total_cart_adds": 73,
+          "total_cart_adds": 74,
           "total_smart_orders": 99,
           "total_days_used": 14,
           "recent_actions": [
-            {
-              "t": "2026-11-18 15:26:07",
-              "type": "search",
-              "detail": "Depo Sorgu: DETRUSITOL SR 4 MG 28 CAP."
-            },
             {
               "t": "2026-11-18 15:27:38",
               "type": "critical_stock",
@@ -2085,6 +2080,11 @@
               "t": "2026-11-19 13:26:50",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (18 Ürün)"
+            },
+            {
+              "t": "2026-11-19 13:40:56",
+              "type": "cart",
+              "detail": "Eczatrend Katılım: BETASERC 24 MG 60 TB. x20"
             }
           ]
         }
