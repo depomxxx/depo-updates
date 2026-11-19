@@ -1,11 +1,11 @@
 {
-  "version": "1.9.15",
+  "version": "1.9.16",
   "app_name": "Farma Radar",
-  "release_date": "2026-11-19 14:04:35",
+  "release_date": "2026-11-19 14:41:09",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.9.15.zip?t=1795086276",
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.9.16.zip?t=1795088471",
   "sha256": "",
-  "package_sha256": "d17131d27764fbdba5b756f1a848e4c4749d89cb5fd6925c2ebc39152d02b343",
-  "size_kb": 924.6,
-  "changelog": "v1.9.15 — Canlı Kalem Kalem Toplu Sipariş İlerleme Çubuğu ve Tablo Güncellemesi:\n• Toplu Sipariş, Günün Çıkışları, Eksik Aktarımı ve Çoklu Depo Dağıtımı ekranlarında %25/%30'da sabit kalan ilerleme çubuğu gerçek zamanlı kalem kalem ilerleme motoruna geçirildi.\n• Alliance, Selçuk, Nevzat ve İSKOOP toplu sepet aktarımında her ilaç eklendikçe anlık yüzde, kalem sayacı (X/N), tutar ve satır durumu canlı güncellenir.\n• Sırada bekleyen satırların işlem bitmeden kırmızı 'Stok Yok' görünmesi düzeltildi; aktif işlenen satır mavi vurgu ve otomatik kaydırma ile takip edilir."
+  "package_sha256": "59bb79678a1d19f75861d687403816137f87a9ee6f58ff0b4cd22f82b8e297e8",
+  "size_kb": 945.8,
+  "changelog": "v1.9.16 — Atıl Stok & EczaneTakas / Eczatrend Takas Değerlendirme Asistanı (₺):\n• Üst menüye Türk Lirası (₺) simgeli yeni 'Atıl Stok' vitrin modülü eklendi (Botanik EOS, TRIA ve TEBEOS %100 salt-okunur uyumlu).\n• Son 60/90/180/365 günde satılmayan hareketsiz stokları ve aşırı fazla stokları (son 30 günde yeni alınan ürünleri ve sarf/poşetleri koruyarak) tespit eder.\n• Yalnızca EczaneTakas ve Eczatrend üzerinden canlı takas teklifi taraması, uygulama içi tek tıkla Eczatrend/EczaneTakas takas ilanı açma ve Excel/CSV dışa aktarma eklendi."
 }
