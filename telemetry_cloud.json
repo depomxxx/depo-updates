@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 17:13:25",
+  "updated_at": "2026-11-19 17:13:32",
   "count": 7,
   "items": [
     {
@@ -1908,16 +1908,16 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-19 17:14:42",
+      "last_seen_at": "2026-11-19 17:15:18",
       "last_action": "[DESKTOP-T4EAUS3] Canlı MF Sorgulama (2 Ürün)",
       "today_date": "2026-11-19",
-      "today_searches": 47,
+      "today_searches": 48,
       "today_cart_adds": 74,
-      "today_smart_orders": 139,
-      "total_searches": 224,
+      "today_smart_orders": 143,
+      "total_searches": 225,
       "total_cart_adds": 713,
       "total_days_used": 14,
-      "total_smart_orders": 590,
+      "total_smart_orders": 594,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -2000,7 +2000,7 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-19 17:14:42",
+          "last_seen_at": "2026-11-19 17:15:18",
           "last_action": "Canlı MF Sorgulama (2 Ürün)",
           "today_date": "2026-11-19",
           "today_searches": 38,
@@ -2094,42 +2094,17 @@
           "desk_name": "Cicobey",
           "local_ip": "192.168.1.42",
           "app_version": "1.5.9",
-          "last_seen_at": "2026-11-19 17:12:50",
-          "last_action": "Toplu Sepet (ISKOOP): 3 Kalem",
+          "last_seen_at": "2026-11-19 17:13:32",
+          "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-19",
-          "today_searches": 9,
+          "today_searches": 10,
           "today_cart_adds": 39,
-          "today_smart_orders": 79,
-          "total_searches": 57,
+          "today_smart_orders": 83,
+          "total_searches": 58,
           "total_cart_adds": 110,
-          "total_smart_orders": 169,
+          "total_smart_orders": 173,
           "total_days_used": 14,
           "recent_actions": [
-            {
-              "t": "2026-11-19 16:40:32",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (3 Ürün)"
-            },
-            {
-              "t": "2026-11-19 17:08:04",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-19 17:08:04",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-19 17:08:32",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (30 Ürün)"
-            },
-            {
-              "t": "2026-11-19 17:08:32",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-19 17:08:44",
               "type": "mf_resolve",
@@ -2179,6 +2154,31 @@
               "t": "2026-11-19 17:12:50",
               "type": "cart",
               "detail": "Toplu Sepet (ISKOOP): 3 Kalem"
+            },
+            {
+              "t": "2026-11-19 17:12:50",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş Planlama"
+            },
+            {
+              "t": "2026-11-19 17:12:50",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş (BOTANIK • 137 Kalem)"
+            },
+            {
+              "t": "2026-11-19 17:12:51",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-19 17:12:55",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (2 Ürün)"
+            },
+            {
+              "t": "2026-11-19 17:13:32",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ]
         }
