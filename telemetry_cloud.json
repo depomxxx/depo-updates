@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 17:24:35",
+  "updated_at": "2026-11-19 17:26:50",
   "count": 7,
   "items": [
     {
@@ -1908,13 +1908,13 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-19 17:26:18",
+      "last_seen_at": "2026-11-19 17:26:50",
       "last_action": "[DESKTOP-T4EAUS3] Canlı MF Sorgulama (2 Ürün)",
       "today_date": "2026-11-19",
-      "today_searches": 53,
+      "today_searches": 54,
       "today_cart_adds": 82,
       "today_smart_orders": 147,
-      "total_searches": 230,
+      "total_searches": 231,
       "total_cart_adds": 721,
       "total_days_used": 14,
       "total_smart_orders": 598,
@@ -2000,7 +2000,7 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-19 17:26:18",
+          "last_seen_at": "2026-11-19 17:26:50",
           "last_action": "Canlı MF Sorgulama (2 Ürün)",
           "today_date": "2026-11-19",
           "today_searches": 38,
@@ -2094,22 +2094,17 @@
           "desk_name": "Cicobey",
           "local_ip": "192.168.1.42",
           "app_version": "1.5.9",
-          "last_seen_at": "2026-11-19 17:24:19",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-19 17:24:38",
+          "last_action": "Depo Sorgu: AUGMENTIN BID 1 GR 14 FTB.",
           "today_date": "2026-11-19",
-          "today_searches": 15,
+          "today_searches": 16,
           "today_cart_adds": 47,
           "today_smart_orders": 87,
-          "total_searches": 63,
+          "total_searches": 64,
           "total_cart_adds": 118,
           "total_smart_orders": 177,
           "total_days_used": 14,
           "recent_actions": [
-            {
-              "t": "2026-11-19 17:13:37",
-              "type": "search",
-              "detail": "Depo Sorgu: CORASPIN 100 MG 30 TB."
-            },
             {
               "t": "2026-11-19 17:14:32",
               "type": "cart",
@@ -2179,6 +2174,11 @@
               "t": "2026-11-19 17:24:19",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-19 17:24:24",
+              "type": "search",
+              "detail": "Depo Sorgu: AUGMENTIN BID 1 GR 14 FTB."
             }
           ]
         }
