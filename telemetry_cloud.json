@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 13:08:36",
+  "updated_at": "2026-11-19 13:06:42",
   "count": 7,
   "items": [
     {
@@ -16,7 +16,7 @@
       "hwid": "E4F7-229A-BABD",
       "last_pc_name": "ChagriBeg",
       "app_version": "1.9.14",
-      "last_seen_at": "2026-11-19 13:05:11",
+      "last_seen_at": "2026-11-19 13:06:42",
       "last_action": "[DESKTOP-6KFO8IF] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-19",
       "today_searches": 4,
@@ -34,7 +34,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-19 13:05:08",
+          "last_seen_at": "2026-11-19 13:06:23",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-19",
           "today_searches": 0,
@@ -222,7 +222,7 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-19 13:05:11",
+          "last_seen_at": "2026-11-19 13:06:42",
           "last_action": "Program Açık (Canlı)",
           "today_date": "2026-11-19",
           "today_searches": 0,
