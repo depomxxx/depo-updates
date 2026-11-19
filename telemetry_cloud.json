@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 16:20:08",
+  "updated_at": "2026-11-19 16:22:33",
   "count": 7,
   "items": [
     {
@@ -1814,13 +1814,13 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.9.18",
-      "last_seen_at": "2026-11-19 16:22:18",
+      "last_seen_at": "2026-11-19 16:22:33",
       "last_action": "[DESKTOP-T4EAUS3] Canlı MF Sorgulama (9 Ürün)",
       "today_date": "2026-11-19",
-      "today_searches": 45,
+      "today_searches": 46,
       "today_cart_adds": 63,
       "today_smart_orders": 113,
-      "total_searches": 222,
+      "total_searches": 223,
       "total_cart_adds": 702,
       "total_days_used": 14,
       "total_smart_orders": 564,
@@ -1906,7 +1906,7 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.9.18",
-          "last_seen_at": "2026-11-19 16:22:18",
+          "last_seen_at": "2026-11-19 16:22:33",
           "last_action": "Canlı MF Sorgulama (9 Ürün)",
           "today_date": "2026-11-19",
           "today_searches": 38,
@@ -2000,22 +2000,17 @@
           "desk_name": "Cicobey",
           "local_ip": "192.168.1.42",
           "app_version": "1.5.9",
-          "last_seen_at": "2026-11-19 16:20:08",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-19 16:20:21",
+          "last_action": "Depo Sorgu: OCEAN VITAMIN D3 1000 IU DAMLA 50 ML",
           "today_date": "2026-11-19",
-          "today_searches": 7,
+          "today_searches": 8,
           "today_cart_adds": 32,
           "today_smart_orders": 66,
-          "total_searches": 55,
+          "total_searches": 56,
           "total_cart_adds": 103,
           "total_smart_orders": 156,
           "total_days_used": 14,
           "recent_actions": [
-            {
-              "t": "2026-11-19 15:26:02",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-19 15:26:11",
               "type": "mf_resolve",
@@ -2085,6 +2080,11 @@
               "t": "2026-11-19 16:20:08",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-19 16:20:13",
+              "type": "search",
+              "detail": "Depo Sorgu: OCEAN VITAMIN D3 1000 IU DAMLA 50 ML"
             }
           ]
         }
