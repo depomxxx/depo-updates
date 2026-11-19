@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 17:07:08",
+  "updated_at": "2026-11-19 17:05:12",
   "count": 7,
   "items": [
     {
@@ -804,15 +804,15 @@
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-19 17:04:31",
-      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-19 17:05:12",
+      "last_action": "[DESKTOP-OTHNDUE] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-19",
-      "today_searches": 16,
-      "today_cart_adds": 45,
-      "today_smart_orders": 165,
-      "total_searches": 680,
-      "total_cart_adds": 1113,
-      "total_smart_orders": 1446,
+      "today_searches": 20,
+      "today_cart_adds": 46,
+      "today_smart_orders": 168,
+      "total_searches": 684,
+      "total_cart_adds": 1114,
+      "total_smart_orders": 1449,
       "total_days_used": 14,
       "pc_count": 9,
       "devices": {
@@ -916,57 +916,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-19 17:04:31",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-19 17:05:12",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-19",
-          "today_searches": 6,
-          "today_cart_adds": 35,
-          "today_smart_orders": 135,
-          "total_searches": 179,
-          "total_cart_adds": 504,
-          "total_smart_orders": 733,
+          "today_searches": 10,
+          "today_cart_adds": 36,
+          "today_smart_orders": 138,
+          "total_searches": 183,
+          "total_cart_adds": 505,
+          "total_smart_orders": 736,
           "total_days_used": 14,
           "recent_actions": [
-            {
-              "t": "2026-11-19 16:30:59",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-19 16:31:01",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-19 16:35:16",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-19 16:35:16",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 56 Kalem)"
-            },
-            {
-              "t": "2026-11-19 16:35:16",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-19 16:35:18",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (2 Ürün)"
-            },
-            {
-              "t": "2026-11-19 16:35:19",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-19 16:35:23",
-              "type": "search",
-              "detail": "Depo Sorgu: COLCHICUM DISPERT 0.5 MG 50 FT"
-            },
             {
               "t": "2026-11-19 16:35:33",
               "type": "cart",
@@ -1001,6 +961,46 @@
               "t": "2026-11-19 17:04:31",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-19 17:04:31",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 60 Kalem)"
+            },
+            {
+              "t": "2026-11-19 17:04:31",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-19 17:04:39",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-19 17:04:44",
+              "type": "search",
+              "detail": "Depo Sorgu: NOTUSS 7.5 MG 100 ML SRP."
+            },
+            {
+              "t": "2026-11-19 17:04:46",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (16 Ürün)"
+            },
+            {
+              "t": "2026-11-19 17:04:53",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-19 17:04:56",
+              "type": "search",
+              "detail": "Depo Sorgu: ZADITEN 1 MG 100 ML SRP."
+            },
+            {
+              "t": "2026-11-19 17:05:12",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
@@ -1198,7 +1198,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-19 17:04:05",
+          "last_seen_at": "2026-11-19 17:05:04",
           "last_action": "Canlı MF Sorgulama (4 Ürün)",
           "today_date": "2026-11-19",
           "today_searches": 0,
