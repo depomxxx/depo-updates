@@ -1,11 +1,11 @@
 {
-  "version": "1.9.18",
+  "version": "1.9.19",
   "app_name": "Farma Radar",
-  "release_date": "2026-11-19 15:25:02",
+  "release_date": "2026-11-19 16:39:53",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.9.18.zip?t=1795091104",
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.9.19.zip?t=1795095595",
   "sha256": "",
-  "package_sha256": "b65bf82f4f40fe9f344cdb57a94c92f08bc4b74436d017e6eca1496a51011711",
-  "size_kb": 948.9,
-  "changelog": "v1.9.18 — Üst Bar ve Atıl Stok Tablosu Yatay Hizalama & Dengeleme:\n• Sayfa ve yazı boyutları küçültülmeden üst navigasyon çubuğundaki durum/sepet rozetleri dengelendi; sepet dolu olduğunda veya 125% ekran ölçeğinde oluşan alt yatay kaydırma çubuğu tamamen kaldırıldı.\n• Atıl Stok tablosu sütun genişlikleri tam ekran oranına sabitlendi."
+  "package_sha256": "f70e9ed02c5e48aa08cc9e588eb3dbdef8844f3afb92d0cf5f2aa4a07a166c3a",
+  "size_kb": 948.8,
+  "changelog": "v1.9.19 — Üst Navigasyon Barı Çakışma Düzeltmesi & Geniş Hizalama:\n• Yok Listesi ile Otomasyon (Botanik) butonlarının üst üste binmesine yol açan min-w-0 / 1280px sıkışması giderildi.\n• Üst bar ve sayfa kapsayıcısı 1440px genişliğe hizalandı; dar pencerelerde yatay kaydırma veya çakışma olmadan esnek sarma eklendi."
 }
