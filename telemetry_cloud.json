@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 14:14:29",
+  "updated_at": "2026-11-19 14:16:45",
   "count": 7,
   "items": [
     {
@@ -1814,14 +1814,14 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.9.15",
-      "last_seen_at": "2026-11-19 14:15:18",
-      "last_action": "[DESKTOP-T4EAUS3] Canlı MF Sorgulama (10 Ürün)",
+      "last_seen_at": "2026-11-19 14:16:45",
+      "last_action": "[DESKTOP-T4EAUS3] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-19",
-      "today_searches": 41,
-      "today_cart_adds": 52,
+      "today_searches": 42,
+      "today_cart_adds": 53,
       "today_smart_orders": 74,
-      "total_searches": 218,
-      "total_cart_adds": 691,
+      "total_searches": 219,
+      "total_cart_adds": 692,
       "total_days_used": 14,
       "total_smart_orders": 525,
       "pc_count": 3,
@@ -1906,22 +1906,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.9.15",
-          "last_seen_at": "2026-11-19 14:15:18",
-          "last_action": "Canlı MF Sorgulama (10 Ürün)",
+          "last_seen_at": "2026-11-19 14:16:45",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-19",
           "today_searches": 38,
-          "today_cart_adds": 24,
+          "today_cart_adds": 25,
           "today_smart_orders": 30,
           "total_searches": 133,
-          "total_cart_adds": 396,
+          "total_cart_adds": 397,
           "total_smart_orders": 379,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-19 13:30:10",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-19 13:30:21",
               "type": "search",
@@ -1991,6 +1986,11 @@
               "t": "2026-11-19 14:08:13",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (10 Ürün)"
+            },
+            {
+              "t": "2026-11-19 14:16:45",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
@@ -2000,22 +2000,17 @@
           "desk_name": "Cicobey",
           "local_ip": "192.168.1.42",
           "app_version": "1.5.9",
-          "last_seen_at": "2026-11-19 14:13:20",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-19 14:14:13",
+          "last_action": "Depo Sorgu: TRAVAZOL %1+0.1 15 GR KR.",
           "today_date": "2026-11-19",
-          "today_searches": 3,
+          "today_searches": 4,
           "today_cart_adds": 28,
           "today_smart_orders": 44,
-          "total_searches": 51,
+          "total_searches": 52,
           "total_cart_adds": 99,
           "total_smart_orders": 134,
           "total_days_used": 14,
           "recent_actions": [
-            {
-              "t": "2026-11-19 14:07:42",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-19 14:07:51",
               "type": "mf_resolve",
@@ -2085,6 +2080,11 @@
               "t": "2026-11-19 14:13:20",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-19 14:13:21",
+              "type": "search",
+              "detail": "Depo Sorgu: TRAVAZOL %1+0.1 15 GR KR."
             }
           ]
         }
