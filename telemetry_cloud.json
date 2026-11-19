@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 09:51:14",
+  "updated_at": "2026-11-19 09:51:21",
   "count": 7,
   "items": [
     {
@@ -710,14 +710,14 @@
       "hwid": "D719-CEB2-1542",
       "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.9.14",
-      "last_seen_at": "2026-11-19 09:50:00",
+      "last_seen_at": "2026-11-19 09:51:21",
       "last_action": "[DESKTOP-M530BBB] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-19",
       "today_searches": 2,
-      "today_cart_adds": 9,
+      "today_cart_adds": 12,
       "today_smart_orders": 25,
       "total_searches": 666,
-      "total_cart_adds": 1077,
+      "total_cart_adds": 1080,
       "total_smart_orders": 1306,
       "total_days_used": 14,
       "pc_count": 9,
@@ -1292,27 +1292,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-19 09:50:00",
+          "last_seen_at": "2026-11-19 09:51:21",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-19",
           "today_searches": 2,
-          "today_cart_adds": 1,
+          "today_cart_adds": 4,
           "today_smart_orders": 7,
           "total_searches": 107,
-          "total_cart_adds": 105,
+          "total_cart_adds": 108,
           "total_smart_orders": 130,
           "total_days_used": 14,
           "recent_actions": [
-            {
-              "t": "2026-11-18 17:49:48",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (30 Ürün)"
-            },
-            {
-              "t": "2026-11-18 17:49:49",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-18 17:50:06",
               "type": "mf_resolve",
@@ -1375,6 +1365,16 @@
             },
             {
               "t": "2026-11-19 09:50:00",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-19 09:50:02",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): PAXERA 20 MG 28 FILM TABLET x5"
+            },
+            {
+              "t": "2026-11-19 09:50:04",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
