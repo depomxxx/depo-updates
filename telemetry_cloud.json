@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 16:39:08",
+  "updated_at": "2026-11-19 16:40:04",
   "count": 7,
   "items": [
     {
@@ -1814,16 +1814,16 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.9.18",
-      "last_seen_at": "2026-11-19 16:40:44",
+      "last_seen_at": "2026-11-19 16:41:18",
       "last_action": "[DESKTOP-T4EAUS3] Canlı MF Sorgulama (2 Ürün)",
       "today_date": "2026-11-19",
       "today_searches": 47,
       "today_cart_adds": 68,
-      "today_smart_orders": 123,
+      "today_smart_orders": 125,
       "total_searches": 224,
       "total_cart_adds": 707,
       "total_days_used": 14,
-      "total_smart_orders": 574,
+      "total_smart_orders": 576,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -1906,7 +1906,7 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.9.18",
-          "last_seen_at": "2026-11-19 16:40:44",
+          "last_seen_at": "2026-11-19 16:41:18",
           "last_action": "Canlı MF Sorgulama (2 Ürün)",
           "today_date": "2026-11-19",
           "today_searches": 38,
@@ -2000,27 +2000,17 @@
           "desk_name": "Cicobey",
           "local_ip": "192.168.1.42",
           "app_version": "1.5.9",
-          "last_seen_at": "2026-11-19 16:38:32",
-          "last_action": "Piyasa Fiyat Kıyaslama: OCEAN VITAMIN D3 1000 IU DAMLA 5",
+          "last_seen_at": "2026-11-19 16:40:04",
+          "last_action": "Canlı MF Taraması",
           "today_date": "2026-11-19",
           "today_searches": 9,
           "today_cart_adds": 33,
-          "today_smart_orders": 66,
+          "today_smart_orders": 68,
           "total_searches": 57,
           "total_cart_adds": 104,
-          "total_smart_orders": 156,
+          "total_smart_orders": 158,
           "total_days_used": 14,
           "recent_actions": [
-            {
-              "t": "2026-11-19 16:17:45",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-19 16:18:14",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (30 Ürün)"
-            },
             {
               "t": "2026-11-19 16:18:15",
               "type": "mf_resolve",
@@ -2085,6 +2075,16 @@
               "t": "2026-11-19 16:22:09",
               "type": "search",
               "detail": "Piyasa Fiyat Kıyaslama: OCEAN VITAMIN D3 1000 IU DAMLA 5"
+            },
+            {
+              "t": "2026-11-19 16:40:03",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-19 16:40:03",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
             }
           ]
         }
