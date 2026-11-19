@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 13:27:55",
+  "updated_at": "2026-11-19 13:30:10",
   "count": 7,
   "items": [
     {
@@ -1814,14 +1814,14 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.9.14",
-      "last_seen_at": "2026-11-19 13:29:21",
-      "last_action": "[DESKTOP-T4EAUS3] Depo Fiyat Sorgulama",
+      "last_seen_at": "2026-11-19 13:30:10",
+      "last_action": "[DESKTOP-T4EAUS3] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-19",
-      "today_searches": 31,
-      "today_cart_adds": 20,
+      "today_searches": 34,
+      "today_cart_adds": 21,
       "today_smart_orders": 30,
-      "total_searches": 208,
-      "total_cart_adds": 659,
+      "total_searches": 211,
+      "total_cart_adds": 660,
       "total_days_used": 14,
       "total_smart_orders": 481,
       "pc_count": 3,
@@ -1906,37 +1906,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-19 13:29:21",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-19 13:30:10",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-19",
-          "today_searches": 31,
-          "today_cart_adds": 18,
+          "today_searches": 34,
+          "today_cart_adds": 19,
           "today_smart_orders": 21,
-          "total_searches": 126,
-          "total_cart_adds": 390,
+          "total_searches": 129,
+          "total_cart_adds": 391,
           "total_smart_orders": 370,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-19 13:28:22",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-19 13:28:24",
-              "type": "search",
-              "detail": "Depo Sorgu: EXFORGE 10/160 MG 28 FTB."
-            },
-            {
-              "t": "2026-11-19 13:28:28",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-19 13:28:30",
-              "type": "search",
-              "detail": "Depo Sorgu: ZANIPRESS 20/10 MG 90 FTB."
-            },
             {
               "t": "2026-11-19 13:28:40",
               "type": "search",
@@ -1991,6 +1971,26 @@
               "t": "2026-11-19 13:29:21",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-19 13:29:24",
+              "type": "search",
+              "detail": "Depo Sorgu: VISCOTEARS 2 MG 10 GR OFT.JEL"
+            },
+            {
+              "t": "2026-11-19 13:29:27",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-19 13:29:29",
+              "type": "search",
+              "detail": "Depo Sorgu: CO-DIOVAN 80/12.5 MG 28 FTB."
+            },
+            {
+              "t": "2026-11-19 13:30:10",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
@@ -2000,7 +2000,7 @@
           "desk_name": "Cicobey",
           "local_ip": "192.168.1.42",
           "app_version": "1.5.9",
-          "last_seen_at": "2026-11-19 13:27:04",
+          "last_seen_at": "2026-11-19 13:27:45",
           "last_action": "Canlı MF Sorgulama (18 Ürün)",
           "today_date": "2026-11-19",
           "today_searches": 0,
