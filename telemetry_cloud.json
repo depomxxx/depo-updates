@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 09:49:57",
+  "updated_at": "2026-11-19 09:50:00",
   "count": 7,
   "items": [
     {
@@ -707,17 +707,17 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "5834-FAC9-B71F",
-      "last_pc_name": "DESKTOP-OTHNDUE",
+      "hwid": "D719-CEB2-1542",
+      "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.9.14",
-      "last_seen_at": "2026-11-19 09:49:57",
-      "last_action": "[DESKTOP-OTHNDUE] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-19 09:50:00",
+      "last_action": "[DESKTOP-M530BBB] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-19",
-      "today_searches": 1,
-      "today_cart_adds": 8,
+      "today_searches": 2,
+      "today_cart_adds": 9,
       "today_smart_orders": 25,
-      "total_searches": 665,
-      "total_cart_adds": 1076,
+      "total_searches": 666,
+      "total_cart_adds": 1077,
       "total_smart_orders": 1306,
       "total_days_used": 14,
       "pc_count": 9,
@@ -1292,27 +1292,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-19 09:49:17",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-19 09:50:00",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-19",
-          "today_searches": 1,
-          "today_cart_adds": 0,
+          "today_searches": 2,
+          "today_cart_adds": 1,
           "today_smart_orders": 7,
-          "total_searches": 106,
-          "total_cart_adds": 104,
+          "total_searches": 107,
+          "total_cart_adds": 105,
           "total_smart_orders": 130,
           "total_days_used": 14,
           "recent_actions": [
-            {
-              "t": "2026-11-18 17:49:31",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 68 Kalem)"
-            },
-            {
-              "t": "2026-11-18 17:49:31",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-18 17:49:48",
               "type": "mf_resolve",
@@ -1377,6 +1367,16 @@
               "t": "2026-11-19 09:49:17",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-19 09:49:28",
+              "type": "search",
+              "detail": "Depo Sorgu: PAXERA 20 MG 28 FTB."
+            },
+            {
+              "t": "2026-11-19 09:50:00",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
