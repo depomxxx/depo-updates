@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 13:42:28",
+  "updated_at": "2026-11-19 13:42:33",
   "count": 7,
   "items": [
     {
@@ -1819,11 +1819,11 @@
       "today_date": "2026-11-19",
       "today_searches": 38,
       "today_cart_adds": 28,
-      "today_smart_orders": 34,
+      "today_smart_orders": 35,
       "total_searches": 215,
       "total_cart_adds": 667,
       "total_days_used": 14,
-      "total_smart_orders": 485,
+      "total_smart_orders": 486,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -2000,22 +2000,17 @@
           "desk_name": "Cicobey",
           "local_ip": "192.168.1.42",
           "app_version": "1.5.9",
-          "last_seen_at": "2026-11-19 13:41:56",
-          "last_action": "Eczatrend Katılım: DUPHASTON FİLM TABLET 10 mg 20 x5",
+          "last_seen_at": "2026-11-19 13:42:33",
+          "last_action": "Toplu Sipariş Planlama",
           "today_date": "2026-11-19",
           "today_searches": 0,
           "today_cart_adds": 4,
-          "today_smart_orders": 9,
+          "today_smart_orders": 10,
           "total_searches": 48,
           "total_cart_adds": 75,
-          "total_smart_orders": 99,
+          "total_smart_orders": 100,
           "total_days_used": 14,
           "recent_actions": [
-            {
-              "t": "2026-11-18 15:29:49",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-18 15:29:56",
               "type": "search",
@@ -2085,6 +2080,11 @@
               "t": "2026-11-19 13:41:56",
               "type": "cart",
               "detail": "Eczatrend Katılım: DUPHASTON FİLM TABLET 10 mg 20 x5"
+            },
+            {
+              "t": "2026-11-19 13:42:33",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş Planlama"
             }
           ]
         }
