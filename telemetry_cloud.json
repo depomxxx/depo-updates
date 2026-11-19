@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 08:40:01",
+  "updated_at": "2026-11-19 08:40:09",
   "count": 7,
   "items": [
     {
@@ -710,15 +710,15 @@
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.14",
-      "last_seen_at": "2026-11-19 08:39:42",
-      "last_action": "[DESKTOP-M530BBB] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-19 08:40:09",
+      "last_action": "[DESKTOP-OTHNDUE] Toplu Sipariş Planlama",
       "today_date": "2026-11-19",
       "today_searches": 0,
       "today_cart_adds": 0,
-      "today_smart_orders": 1,
+      "today_smart_orders": 4,
       "total_searches": 664,
       "total_cart_adds": 1068,
-      "total_smart_orders": 1282,
+      "total_smart_orders": 1285,
       "total_days_used": 14,
       "pc_count": 9,
       "devices": {
@@ -822,27 +822,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-19 08:39:42",
-          "last_action": "Program Açık (Canlı)",
+          "last_seen_at": "2026-11-19 08:40:09",
+          "last_action": "Toplu Sipariş Planlama",
           "today_date": "2026-11-19",
           "today_searches": 0,
           "today_cart_adds": 0,
-          "today_smart_orders": 0,
+          "today_smart_orders": 3,
           "total_searches": 173,
           "total_cart_adds": 469,
-          "total_smart_orders": 598,
+          "total_smart_orders": 601,
           "total_days_used": 14,
           "recent_actions": [
-            {
-              "t": "2026-11-18 18:01:31",
-              "type": "search",
-              "detail": "Depo Sorgu: MONUROL 3 GR 1 SASE"
-            },
-            {
-              "t": "2026-11-18 18:02:24",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-18 18:02:30",
               "type": "search",
@@ -907,6 +897,16 @@
               "t": "2026-11-18 18:21:39",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-19 08:39:50",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-19 08:40:09",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş Planlama"
             }
           ]
         },
