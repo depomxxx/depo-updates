@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 17:14:56",
+  "updated_at": "2026-11-19 17:14:58",
   "count": 7,
   "items": [
     {
@@ -1912,10 +1912,10 @@
       "last_action": "[DESKTOP-T4EAUS3] Canlı MF Sorgulama (2 Ürün)",
       "today_date": "2026-11-19",
       "today_searches": 49,
-      "today_cart_adds": 75,
+      "today_cart_adds": 79,
       "today_smart_orders": 143,
       "total_searches": 226,
-      "total_cart_adds": 714,
+      "total_cart_adds": 718,
       "total_days_used": 14,
       "total_smart_orders": 594,
       "pc_count": 3,
@@ -2094,27 +2094,17 @@
           "desk_name": "Cicobey",
           "local_ip": "192.168.1.42",
           "app_version": "1.5.9",
-          "last_seen_at": "2026-11-19 17:14:32",
+          "last_seen_at": "2026-11-19 17:14:58",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-19",
           "today_searches": 11,
-          "today_cart_adds": 40,
+          "today_cart_adds": 44,
           "today_smart_orders": 83,
           "total_searches": 59,
-          "total_cart_adds": 111,
+          "total_cart_adds": 115,
           "total_smart_orders": 173,
           "total_days_used": 14,
           "recent_actions": [
-            {
-              "t": "2026-11-19 17:10:16",
-              "type": "cart",
-              "detail": "Toplu Sepet (ALLIANCE): 3 Kalem"
-            },
-            {
-              "t": "2026-11-19 17:10:27",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-19 17:10:56",
               "type": "smart_order",
@@ -2177,6 +2167,16 @@
             },
             {
               "t": "2026-11-19 17:14:32",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-19 17:14:34",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): CORASPIN 100 MG 30 TB x1"
+            },
+            {
+              "t": "2026-11-19 17:14:38",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
