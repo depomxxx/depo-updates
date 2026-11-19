@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 17:15:49",
+  "updated_at": "2026-11-19 17:16:04",
   "count": 7,
   "items": [
     {
@@ -1911,10 +1911,10 @@
       "last_seen_at": "2026-11-19 17:17:44",
       "last_action": "[DESKTOP-T4EAUS3] Canlı MF Sorgulama (2 Ürün)",
       "today_date": "2026-11-19",
-      "today_searches": 49,
+      "today_searches": 50,
       "today_cart_adds": 80,
       "today_smart_orders": 143,
-      "total_searches": 226,
+      "total_searches": 227,
       "total_cart_adds": 719,
       "total_days_used": 14,
       "total_smart_orders": 594,
@@ -2094,22 +2094,17 @@
           "desk_name": "Cicobey",
           "local_ip": "192.168.1.42",
           "app_version": "1.5.9",
-          "last_seen_at": "2026-11-19 17:15:32",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-19 17:16:04",
+          "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-19",
-          "today_searches": 11,
+          "today_searches": 12,
           "today_cart_adds": 45,
           "today_smart_orders": 83,
-          "total_searches": 59,
+          "total_searches": 60,
           "total_cart_adds": 116,
           "total_smart_orders": 173,
           "total_days_used": 14,
           "recent_actions": [
-            {
-              "t": "2026-11-19 17:10:56",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş (BOTANIK • 137 Kalem)"
-            },
             {
               "t": "2026-11-19 17:10:57",
               "type": "mf_resolve",
@@ -2179,6 +2174,11 @@
               "t": "2026-11-19 17:15:00",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-19 17:16:04",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ]
         }
