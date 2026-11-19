@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 08:44:58",
+  "updated_at": "2026-11-19 08:45:13",
   "count": 7,
   "items": [
     {
@@ -702,22 +702,22 @@
       "pharmacist_name": "EDA BİLGİN",
       "phone": "05077034200",
       "city": "SAMSUN/İLKADIM",
-      "gln_no": "8680001112258",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "8FD3-5823-91F4",
-      "last_pc_name": "Eda-Bilgin",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.14",
-      "last_seen_at": "2026-11-19 08:44:58",
-      "last_action": "[DESKTOP-OTHNDUE] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-19 08:45:13",
+      "last_action": "[DESKTOP-OTHNDUE] Toplu Sepet (ALLIANCE): 9 Kalem",
       "today_date": "2026-11-19",
       "today_searches": 0,
-      "today_cart_adds": 1,
+      "today_cart_adds": 2,
       "today_smart_orders": 15,
       "total_searches": 664,
-      "total_cart_adds": 1069,
+      "total_cart_adds": 1070,
       "total_smart_orders": 1296,
       "total_days_used": 14,
       "pc_count": 9,
@@ -822,22 +822,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-19 08:44:55",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-19 08:45:13",
+          "last_action": "Toplu Sepet (ALLIANCE): 9 Kalem",
           "today_date": "2026-11-19",
           "today_searches": 0,
-          "today_cart_adds": 1,
+          "today_cart_adds": 2,
           "today_smart_orders": 14,
           "total_searches": 173,
-          "total_cart_adds": 470,
+          "total_cart_adds": 471,
           "total_smart_orders": 612,
           "total_days_used": 14,
           "recent_actions": [
-            {
-              "t": "2026-11-18 18:21:39",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-19 08:39:50",
               "type": "critical_stock",
@@ -907,6 +902,11 @@
               "t": "2026-11-19 08:44:55",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-19 08:45:13",
+              "type": "cart",
+              "detail": "Toplu Sepet (ALLIANCE): 9 Kalem"
             }
           ]
         },
