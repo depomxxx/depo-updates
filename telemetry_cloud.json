@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 16:17:55",
+  "updated_at": "2026-11-19 16:18:14",
   "count": 7,
   "items": [
     {
@@ -1814,16 +1814,16 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.9.18",
-      "last_seen_at": "2026-11-19 16:19:31",
+      "last_seen_at": "2026-11-19 16:20:18",
       "last_action": "[DESKTOP-T4EAUS3] Canlı MF Sorgulama (9 Ürün)",
       "today_date": "2026-11-19",
       "today_searches": 44,
       "today_cart_adds": 59,
-      "today_smart_orders": 105,
+      "today_smart_orders": 107,
       "total_searches": 221,
       "total_cart_adds": 698,
       "total_days_used": 14,
-      "total_smart_orders": 556,
+      "total_smart_orders": 558,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -1906,7 +1906,7 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.9.18",
-          "last_seen_at": "2026-11-19 16:19:31",
+          "last_seen_at": "2026-11-19 16:20:18",
           "last_action": "Canlı MF Sorgulama (9 Ürün)",
           "today_date": "2026-11-19",
           "today_searches": 38,
@@ -2000,27 +2000,17 @@
           "desk_name": "Cicobey",
           "local_ip": "192.168.1.42",
           "app_version": "1.5.9",
-          "last_seen_at": "2026-11-19 16:17:44",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-19 16:18:14",
+          "last_action": "Canlı MF Sorgulama (30 Ürün)",
           "today_date": "2026-11-19",
           "today_searches": 6,
           "today_cart_adds": 28,
-          "today_smart_orders": 58,
+          "today_smart_orders": 60,
           "total_searches": 54,
           "total_cart_adds": 99,
-          "total_smart_orders": 148,
+          "total_smart_orders": 150,
           "total_days_used": 14,
           "recent_actions": [
-            {
-              "t": "2026-11-19 14:32:15",
-              "type": "search",
-              "detail": "Depo Sorgu: TRAVAZOL %1+0.1 15 GR KR."
-            },
-            {
-              "t": "2026-11-19 14:32:17",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-19 14:32:18",
               "type": "critical_stock",
@@ -2085,6 +2075,16 @@
               "t": "2026-11-19 16:17:44",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-19 16:17:45",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-19 16:18:14",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (30 Ürün)"
             }
           ]
         }
