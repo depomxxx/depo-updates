@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 12:34:43",
+  "updated_at": "2026-11-19 12:34:58",
   "count": 7,
   "items": [
     {
@@ -710,13 +710,13 @@
       "hwid": "D719-CEB2-1542",
       "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.9.14",
-      "last_seen_at": "2026-11-19 12:34:37",
-      "last_action": "[DESKTOP-M530BBB] Depo Sorgu: LANTUS 100I U/ML SUBKUTAN KULL. ICIN E",
+      "last_seen_at": "2026-11-19 12:34:58",
+      "last_action": "[DESKTOP-M530BBB] Depo Sorgu: LANTUS 100 IU 3 ML 5 PEN",
       "today_date": "2026-11-19",
-      "today_searches": 12,
+      "today_searches": 14,
       "today_cart_adds": 23,
       "today_smart_orders": 69,
-      "total_searches": 676,
+      "total_searches": 678,
       "total_cart_adds": 1091,
       "total_smart_orders": 1350,
       "total_days_used": 14,
@@ -1292,27 +1292,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-19 12:34:37",
-          "last_action": "Depo Sorgu: LANTUS 100I U/ML SUBKUTAN KULL. ICIN E",
+          "last_seen_at": "2026-11-19 12:34:58",
+          "last_action": "Depo Sorgu: LANTUS 100 IU 3 ML 5 PEN",
           "today_date": "2026-11-19",
-          "today_searches": 8,
+          "today_searches": 10,
           "today_cart_adds": 6,
           "today_smart_orders": 7,
-          "total_searches": 113,
+          "total_searches": 115,
           "total_cart_adds": 110,
           "total_smart_orders": 130,
           "total_days_used": 14,
           "recent_actions": [
-            {
-              "t": "2026-11-19 09:48:27",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (7 Ürün)"
-            },
-            {
-              "t": "2026-11-19 09:48:50",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-19 09:48:50",
               "type": "mf_resolve",
@@ -1377,6 +1367,16 @@
               "t": "2026-11-19 12:34:37",
               "type": "search",
               "detail": "Depo Sorgu: LANTUS 100I U/ML SUBKUTAN KULL. ICIN E"
+            },
+            {
+              "t": "2026-11-19 12:34:52",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-19 12:34:58",
+              "type": "search",
+              "detail": "Depo Sorgu: LANTUS 100 IU 3 ML 5 PEN"
             }
           ]
         },
