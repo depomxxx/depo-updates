@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 16:35:35",
+  "updated_at": "2026-11-19 16:35:52",
   "count": 7,
   "items": [
     {
@@ -8,23 +8,23 @@
       "pharmacist_name": "GAMZE ASLAN",
       "phone": "05344064108",
       "city": "SAMSUN/ATAKUM",
-      "gln_no": "8680001134861",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "PRO_YILLIK",
       "expires_at": "2027-10-24",
       "status": "AKTIF",
-      "hwid": "E4F7-229A-BABD",
-      "last_pc_name": "ChagriBeg",
+      "hwid": "E6B1-5698-273E",
+      "last_pc_name": "DESKTOP-6KFO8IF",
       "app_version": "1.9.18",
-      "last_seen_at": "2026-11-19 16:34:30",
-      "last_action": "[ChagriBeg] Canlı MF Sorgulama (30 Ürün)",
+      "last_seen_at": "2026-11-19 16:35:52",
+      "last_action": "[DESKTOP-6KFO8IF] Canlı MF Sorgulama (13 Ürün)",
       "today_date": "2026-11-19",
-      "today_searches": 6,
-      "today_cart_adds": 37,
-      "today_smart_orders": 168,
-      "total_searches": 323,
-      "total_cart_adds": 697,
-      "total_smart_orders": 1222,
+      "today_searches": 8,
+      "today_cart_adds": 39,
+      "today_smart_orders": 172,
+      "total_searches": 325,
+      "total_cart_adds": 699,
+      "total_smart_orders": 1226,
       "total_days_used": 14,
       "pc_count": 3,
       "devices": {
@@ -34,7 +34,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.18",
-          "last_seen_at": "2026-11-19 16:34:21",
+          "last_seen_at": "2026-11-19 16:35:52",
           "last_action": "Canlı MF Sorgulama (13 Ürün)",
           "today_date": "2026-11-19",
           "today_searches": 0,
@@ -128,57 +128,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.18",
-          "last_seen_at": "2026-11-19 16:33:49",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-19 16:35:35",
+          "last_action": "Toplu Sepet (ALLIANCE): 1 Kalem",
           "today_date": "2026-11-19",
-          "today_searches": 4,
-          "today_cart_adds": 31,
-          "today_smart_orders": 127,
-          "total_searches": 177,
-          "total_cart_adds": 500,
-          "total_smart_orders": 725,
+          "today_searches": 6,
+          "today_cart_adds": 33,
+          "today_smart_orders": 131,
+          "total_searches": 179,
+          "total_cart_adds": 502,
+          "total_smart_orders": 729,
           "total_days_used": 14,
           "recent_actions": [
-            {
-              "t": "2026-11-19 15:51:44",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 50 Kalem)"
-            },
-            {
-              "t": "2026-11-19 16:09:29",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-19 16:09:29",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 53 Kalem)"
-            },
-            {
-              "t": "2026-11-19 16:09:29",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-19 16:09:44",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (21 Ürün)"
-            },
-            {
-              "t": "2026-11-19 16:21:24",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-19 16:21:24",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 54 Kalem)"
-            },
-            {
-              "t": "2026-11-19 16:21:24",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-19 16:21:32",
               "type": "mf_resolve",
@@ -213,6 +173,46 @@
               "t": "2026-11-19 16:31:01",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-19 16:35:16",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-19 16:35:16",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 56 Kalem)"
+            },
+            {
+              "t": "2026-11-19 16:35:16",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-19 16:35:18",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (2 Ürün)"
+            },
+            {
+              "t": "2026-11-19 16:35:19",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-19 16:35:23",
+              "type": "search",
+              "detail": "Depo Sorgu: COLCHICUM DISPERT 0.5 MG 50 FT"
+            },
+            {
+              "t": "2026-11-19 16:35:33",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-19 16:35:35",
+              "type": "cart",
+              "detail": "Toplu Sepet (ALLIANCE): 1 Kalem"
             }
           ]
         },
@@ -222,7 +222,7 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.9.18",
-          "last_seen_at": "2026-11-19 16:34:30",
+          "last_seen_at": "2026-11-19 16:35:43",
           "last_action": "Canlı MF Sorgulama (30 Ürün)",
           "today_date": "2026-11-19",
           "today_searches": 2,
