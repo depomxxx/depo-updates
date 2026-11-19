@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 13:28:50",
+  "updated_at": "2026-11-19 13:31:03",
   "count": 7,
   "items": [
     {
@@ -1814,16 +1814,16 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.9.14",
-      "last_seen_at": "2026-11-19 13:30:28",
-      "last_action": "[DESKTOP-T4EAUS3] Depo Fiyat Sorgulama",
+      "last_seen_at": "2026-11-19 13:31:03",
+      "last_action": "[DESKTOP-T4EAUS3] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-19",
-      "today_searches": 37,
-      "today_cart_adds": 22,
-      "today_smart_orders": 30,
-      "total_searches": 214,
-      "total_cart_adds": 661,
+      "today_searches": 38,
+      "today_cart_adds": 26,
+      "today_smart_orders": 31,
+      "total_searches": 215,
+      "total_cart_adds": 665,
       "total_days_used": 14,
-      "total_smart_orders": 481,
+      "total_smart_orders": 482,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -1906,32 +1906,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-19 13:30:28",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-19 13:31:03",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-19",
-          "today_searches": 37,
-          "today_cart_adds": 20,
-          "today_smart_orders": 21,
-          "total_searches": 132,
-          "total_cart_adds": 392,
-          "total_smart_orders": 370,
+          "today_searches": 38,
+          "today_cart_adds": 24,
+          "today_smart_orders": 22,
+          "total_searches": 133,
+          "total_cart_adds": 396,
+          "total_smart_orders": 371,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-19 13:28:50",
-              "type": "search",
-              "detail": "Depo Sorgu: GALVUS MET 50/1000 MG 60 FTB."
-            },
-            {
-              "t": "2026-11-19 13:28:57",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-19 13:28:59",
-              "type": "search",
-              "detail": "Depo Sorgu: MADOPAR 125/25 MG 30 TB."
-            },
             {
               "t": "2026-11-19 13:29:03",
               "type": "search",
@@ -1991,6 +1976,21 @@
               "t": "2026-11-19 13:30:28",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-19 13:30:30",
+              "type": "search",
+              "detail": "Depo Sorgu: LIPANTHYL 267 MG 90 CAP."
+            },
+            {
+              "t": "2026-11-19 13:30:35",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-19 13:31:03",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         },
@@ -2000,7 +2000,7 @@
           "desk_name": "Cicobey",
           "local_ip": "192.168.1.42",
           "app_version": "1.5.9",
-          "last_seen_at": "2026-11-19 13:28:11",
+          "last_seen_at": "2026-11-19 13:28:36",
           "last_action": "Canlı MF Sorgulama (18 Ürün)",
           "today_date": "2026-11-19",
           "today_searches": 0,
