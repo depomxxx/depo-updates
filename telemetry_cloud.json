@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 08:35:52",
+  "updated_at": "2026-11-19 08:35:55",
   "count": 7,
   "items": [
     {
@@ -702,23 +702,23 @@
       "pharmacist_name": "EDA BİLGİN",
       "phone": "05077034200",
       "city": "SAMSUN/İLKADIM",
-      "gln_no": "8680001112258",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "8FD3-5823-91F4",
-      "last_pc_name": "Eda-Bilgin",
+      "hwid": "D719-CEB2-1542",
+      "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.9.14",
-      "last_seen_at": "2026-11-19 08:35:52",
-      "last_action": "Program Açık (Canlı)",
+      "last_seen_at": "2026-11-19 08:35:55",
+      "last_action": "[DESKTOP-M530BBB] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-19",
       "today_searches": 0,
       "today_cart_adds": 0,
-      "today_smart_orders": 0,
+      "today_smart_orders": 1,
       "total_searches": 664,
       "total_cart_adds": 1068,
-      "total_smart_orders": 1281,
+      "total_smart_orders": 1282,
       "total_days_used": 14,
       "pc_count": 9,
       "devices": {
@@ -1292,22 +1292,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-19 08:34:45",
-          "last_action": "Program Açık (Canlı)",
+          "last_seen_at": "2026-11-19 08:35:55",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-19",
           "today_searches": 0,
           "today_cart_adds": 0,
-          "today_smart_orders": 0,
+          "today_smart_orders": 1,
           "total_searches": 105,
           "total_cart_adds": 104,
-          "total_smart_orders": 123,
+          "total_smart_orders": 124,
           "total_days_used": 14,
           "recent_actions": [
-            {
-              "t": "2026-11-18 15:25:55",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-18 15:25:56",
               "type": "cart",
@@ -1377,6 +1372,11 @@
               "t": "2026-11-18 17:50:09",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (4 Ürün)"
+            },
+            {
+              "t": "2026-11-19 08:35:55",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         },
