@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 13:26:24",
+  "updated_at": "2026-11-19 13:28:40",
   "count": 7,
   "items": [
     {
@@ -1814,16 +1814,16 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.9.14",
-      "last_seen_at": "2026-11-19 13:28:34",
-      "last_action": "[DESKTOP-T4EAUS3] Depo Sorgu: ZANIPRESS 20/10 MG 90 FTB.",
+      "last_seen_at": "2026-11-19 13:28:40",
+      "last_action": "[DESKTOP-T4EAUS3] Depo Fiyat Sorgulama",
       "today_date": "2026-11-19",
-      "today_searches": 20,
+      "today_searches": 21,
       "today_cart_adds": 19,
-      "today_smart_orders": 23,
-      "total_searches": 197,
+      "today_smart_orders": 26,
+      "total_searches": 198,
       "total_cart_adds": 658,
       "total_days_used": 14,
-      "total_smart_orders": 474,
+      "total_smart_orders": 477,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -1906,22 +1906,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-19 13:28:34",
-          "last_action": "Depo Sorgu: ZANIPRESS 20/10 MG 90 FTB.",
+          "last_seen_at": "2026-11-19 13:28:40",
+          "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-19",
-          "today_searches": 20,
+          "today_searches": 21,
           "today_cart_adds": 18,
           "today_smart_orders": 21,
-          "total_searches": 115,
+          "total_searches": 116,
           "total_cart_adds": 390,
           "total_smart_orders": 370,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-19 13:26:21",
-              "type": "search",
-              "detail": "Depo Sorgu: DETRUSITOL SR 4 MG 28 CAP."
-            },
             {
               "t": "2026-11-19 13:27:34",
               "type": "cart",
@@ -1991,6 +1986,11 @@
               "t": "2026-11-19 13:28:30",
               "type": "search",
               "detail": "Depo Sorgu: ZANIPRESS 20/10 MG 90 FTB."
+            },
+            {
+              "t": "2026-11-19 13:28:40",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ]
         },
@@ -2000,32 +2000,17 @@
           "desk_name": "Cicobey",
           "local_ip": "192.168.1.42",
           "app_version": "1.5.9",
-          "last_seen_at": "2026-11-19 13:26:25",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-19 13:26:29",
+          "last_action": "Canlı MF Taraması",
           "today_date": "2026-11-19",
           "today_searches": 0,
           "today_cart_adds": 1,
-          "today_smart_orders": 2,
+          "today_smart_orders": 5,
           "total_searches": 48,
           "total_cart_adds": 72,
-          "total_smart_orders": 92,
+          "total_smart_orders": 95,
           "total_days_used": 14,
           "recent_actions": [
-            {
-              "t": "2026-11-18 14:16:41",
-              "type": "cart",
-              "detail": "Sepete Ekle (ISKOOP): APRANAX FORTE 550MG 20 TABLE x1"
-            },
-            {
-              "t": "2026-11-18 14:16:42",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-18 14:29:15",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-18 14:30:09",
               "type": "cart",
@@ -2085,6 +2070,21 @@
               "t": "2026-11-19 13:26:25",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-19 13:26:29",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş Planlama"
+            },
+            {
+              "t": "2026-11-19 13:26:29",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş (BOTANIK • 94 Kalem)"
+            },
+            {
+              "t": "2026-11-19 13:26:29",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
             }
           ]
         }
