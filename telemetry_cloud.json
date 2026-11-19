@@ -570,16 +570,16 @@
       "hwid": "8089-AB28-DD6F",
       "last_pc_name": "DESKTOP-8JN0NE5",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-19 17:20:11",
-      "last_action": "[DESKTOP-8JN0NE5] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-19 17:20:34",
+      "last_action": "[DESKTOP-8JN0NE5] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-19",
       "today_searches": 0,
-      "today_cart_adds": 0,
-      "today_smart_orders": 12,
+      "today_cart_adds": 1,
+      "today_smart_orders": 14,
       "total_searches": 149,
-      "total_cart_adds": 324,
+      "total_cart_adds": 325,
       "total_days_used": 11,
-      "total_smart_orders": 704,
+      "total_smart_orders": 706,
       "pc_count": 3,
       "devices": {
         "2DED-CFF9-D593": {
@@ -700,32 +700,17 @@
           "desk_name": "DESKTOP-8JN0NE5",
           "local_ip": "192.168.1.37",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-19 17:20:11",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-19 17:20:34",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-19",
           "today_searches": 0,
-          "today_cart_adds": 0,
-          "today_smart_orders": 12,
+          "today_cart_adds": 1,
+          "today_smart_orders": 14,
           "total_searches": 74,
-          "total_cart_adds": 162,
-          "total_smart_orders": 358,
+          "total_cart_adds": 163,
+          "total_smart_orders": 360,
           "total_days_used": 11,
           "recent_actions": [
-            {
-              "t": "2026-11-18 16:44:06",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-18 16:44:08",
-              "type": "search",
-              "detail": "Depo Sorgu: CAPICADE HAS KURU CILT TEM JELİ 150 ML"
-            },
-            {
-              "t": "2026-11-18 16:44:14",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-19 16:46:49",
               "type": "critical_stock",
@@ -785,6 +770,21 @@
               "t": "2026-11-19 17:20:11",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-19 17:20:11",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (BOTANIK • 57 Kalem)"
+            },
+            {
+              "t": "2026-11-19 17:20:11",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-19 17:20:34",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         }
