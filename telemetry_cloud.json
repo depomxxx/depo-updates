@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 16:40:27",
+  "updated_at": "2026-11-19 16:40:29",
   "count": 7,
   "items": [
     {
@@ -1819,11 +1819,11 @@
       "today_date": "2026-11-19",
       "today_searches": 47,
       "today_cart_adds": 68,
-      "today_smart_orders": 125,
+      "today_smart_orders": 126,
       "total_searches": 224,
       "total_cart_adds": 707,
       "total_days_used": 14,
-      "total_smart_orders": 576,
+      "total_smart_orders": 577,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -2000,15 +2000,15 @@
           "desk_name": "Cicobey",
           "local_ip": "192.168.1.42",
           "app_version": "1.5.9",
-          "last_seen_at": "2026-11-19 16:40:09",
+          "last_seen_at": "2026-11-19 16:40:29",
           "last_action": "Canlı MF Taraması",
           "today_date": "2026-11-19",
           "today_searches": 9,
           "today_cart_adds": 33,
-          "today_smart_orders": 68,
+          "today_smart_orders": 69,
           "total_searches": 57,
           "total_cart_adds": 104,
-          "total_smart_orders": 158,
+          "total_smart_orders": 159,
           "total_days_used": 14,
           "recent_actions": [
             {
