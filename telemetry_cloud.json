@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 14:17:06",
+  "updated_at": "2026-11-19 14:15:03",
   "count": 7,
   "items": [
     {
@@ -1814,14 +1814,14 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.9.15",
-      "last_seen_at": "2026-11-19 14:17:06",
-      "last_action": "[DESKTOP-T4EAUS3] Toplu Sepet (ISKOOP): 2 Kalem",
+      "last_seen_at": "2026-11-19 14:17:11",
+      "last_action": "[DESKTOP-T4EAUS3] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-19",
       "today_searches": 42,
-      "today_cart_adds": 57,
+      "today_cart_adds": 59,
       "today_smart_orders": 74,
       "total_searches": 219,
-      "total_cart_adds": 696,
+      "total_cart_adds": 698,
       "total_days_used": 14,
       "total_smart_orders": 525,
       "pc_count": 3,
@@ -1906,22 +1906,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.9.15",
-          "last_seen_at": "2026-11-19 14:17:06",
-          "last_action": "Toplu Sepet (ISKOOP): 2 Kalem",
+          "last_seen_at": "2026-11-19 14:17:11",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-19",
           "today_searches": 38,
-          "today_cart_adds": 29,
+          "today_cart_adds": 31,
           "today_smart_orders": 30,
           "total_searches": 133,
-          "total_cart_adds": 401,
+          "total_cart_adds": 403,
           "total_smart_orders": 379,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-19 13:30:35",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-19 13:31:03",
               "type": "critical_stock",
@@ -1991,6 +1986,11 @@
               "t": "2026-11-19 14:17:06",
               "type": "cart",
               "detail": "Toplu Sepet (ISKOOP): 2 Kalem"
+            },
+            {
+              "t": "2026-11-19 14:17:09",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
@@ -2000,7 +2000,7 @@
           "desk_name": "Cicobey",
           "local_ip": "192.168.1.42",
           "app_version": "1.5.9",
-          "last_seen_at": "2026-11-19 14:14:38",
+          "last_seen_at": "2026-11-19 14:15:03",
           "last_action": "Depo Sorgu: TRAVAZOL %1+0.1 15 GR KR.",
           "today_date": "2026-11-19",
           "today_searches": 4,
