@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 16:22:05",
+  "updated_at": "2026-11-19 16:22:09",
   "count": 7,
   "items": [
     {
@@ -1814,13 +1814,13 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.9.18",
-      "last_seen_at": "2026-11-19 16:24:04",
+      "last_seen_at": "2026-11-19 16:24:18",
       "last_action": "[DESKTOP-T4EAUS3] Canlı MF Sorgulama (9 Ürün)",
       "today_date": "2026-11-19",
-      "today_searches": 46,
+      "today_searches": 47,
       "today_cart_adds": 64,
       "today_smart_orders": 113,
-      "total_searches": 223,
+      "total_searches": 224,
       "total_cart_adds": 703,
       "total_days_used": 14,
       "total_smart_orders": 564,
@@ -1906,7 +1906,7 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.9.18",
-          "last_seen_at": "2026-11-19 16:24:04",
+          "last_seen_at": "2026-11-19 16:24:18",
           "last_action": "Canlı MF Sorgulama (9 Ürün)",
           "today_date": "2026-11-19",
           "today_searches": 38,
@@ -2000,22 +2000,17 @@
           "desk_name": "Cicobey",
           "local_ip": "192.168.1.42",
           "app_version": "1.5.9",
-          "last_seen_at": "2026-11-19 16:21:52",
-          "last_action": "Eczatrend Takas Açıldı: OCEAN VITAMIN D 1000 IU DAMLA (7+1)",
+          "last_seen_at": "2026-11-19 16:22:09",
+          "last_action": "Piyasa Fiyat Kıyaslama: OCEAN VITAMIN D3 1000 IU DAMLA 5",
           "today_date": "2026-11-19",
-          "today_searches": 8,
+          "today_searches": 9,
           "today_cart_adds": 33,
           "today_smart_orders": 66,
-          "total_searches": 56,
+          "total_searches": 57,
           "total_cart_adds": 104,
           "total_smart_orders": 156,
           "total_days_used": 14,
           "recent_actions": [
-            {
-              "t": "2026-11-19 16:17:44",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-19 16:17:45",
               "type": "mf_resolve",
@@ -2085,6 +2080,11 @@
               "t": "2026-11-19 16:21:49",
               "type": "cart",
               "detail": "Eczatrend Takas Açıldı: OCEAN VITAMIN D 1000 IU DAMLA (7+1)"
+            },
+            {
+              "t": "2026-11-19 16:22:09",
+              "type": "search",
+              "detail": "Piyasa Fiyat Kıyaslama: OCEAN VITAMIN D3 1000 IU DAMLA 5"
             }
           ]
         }
