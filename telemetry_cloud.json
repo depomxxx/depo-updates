@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 17:14:18",
+  "updated_at": "2026-11-19 17:14:32",
   "count": 7,
   "items": [
     {
@@ -1908,14 +1908,14 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-19 17:16:13",
+      "last_seen_at": "2026-11-19 17:16:18",
       "last_action": "[DESKTOP-T4EAUS3] Canlı MF Sorgulama (2 Ürün)",
       "today_date": "2026-11-19",
       "today_searches": 49,
-      "today_cart_adds": 74,
+      "today_cart_adds": 75,
       "today_smart_orders": 143,
       "total_searches": 226,
-      "total_cart_adds": 713,
+      "total_cart_adds": 714,
       "total_days_used": 14,
       "total_smart_orders": 594,
       "pc_count": 3,
@@ -2000,7 +2000,7 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-19 17:16:13",
+          "last_seen_at": "2026-11-19 17:16:18",
           "last_action": "Canlı MF Sorgulama (2 Ürün)",
           "today_date": "2026-11-19",
           "today_searches": 38,
@@ -2094,22 +2094,17 @@
           "desk_name": "Cicobey",
           "local_ip": "192.168.1.42",
           "app_version": "1.5.9",
-          "last_seen_at": "2026-11-19 17:14:01",
-          "last_action": "Depo Sorgu: CORASPIN 100 MG 30 TB.",
+          "last_seen_at": "2026-11-19 17:14:32",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-19",
           "today_searches": 11,
-          "today_cart_adds": 39,
+          "today_cart_adds": 40,
           "today_smart_orders": 83,
           "total_searches": 59,
-          "total_cart_adds": 110,
+          "total_cart_adds": 111,
           "total_smart_orders": 173,
           "total_days_used": 14,
           "recent_actions": [
-            {
-              "t": "2026-11-19 17:10:01",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-19 17:10:16",
               "type": "cart",
@@ -2179,6 +2174,11 @@
               "t": "2026-11-19 17:13:37",
               "type": "search",
               "detail": "Depo Sorgu: CORASPIN 100 MG 30 TB."
+            },
+            {
+              "t": "2026-11-19 17:14:32",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         }
