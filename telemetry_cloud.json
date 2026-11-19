@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 11:07:18",
+  "updated_at": "2026-11-19 11:05:14",
   "count": 7,
   "items": [
     {
@@ -707,17 +707,17 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D719-CEB2-1542",
-      "last_pc_name": "DESKTOP-M530BBB",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.14",
-      "last_seen_at": "2026-11-19 11:04:17",
-      "last_action": "[DESKTOP-M530BBB] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-19 11:05:14",
+      "last_action": "[DESKTOP-OTHNDUE] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-19",
       "today_searches": 8,
-      "today_cart_adds": 19,
+      "today_cart_adds": 22,
       "today_smart_orders": 45,
       "total_searches": 672,
-      "total_cart_adds": 1087,
+      "total_cart_adds": 1090,
       "total_smart_orders": 1326,
       "total_days_used": 14,
       "pc_count": 9,
@@ -822,27 +822,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-19 11:03:46",
+          "last_seen_at": "2026-11-19 11:05:14",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-19",
           "today_searches": 4,
-          "today_cart_adds": 14,
+          "today_cart_adds": 17,
           "today_smart_orders": 38,
           "total_searches": 177,
-          "total_cart_adds": 483,
+          "total_cart_adds": 486,
           "total_smart_orders": 636,
           "total_days_used": 14,
           "recent_actions": [
-            {
-              "t": "2026-11-19 10:58:29",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-19 10:58:37",
-              "type": "search",
-              "detail": "Depo Sorgu: GRANEXA 2 MG 5 FTB."
-            },
             {
               "t": "2026-11-19 10:58:49",
               "type": "search",
@@ -905,6 +895,16 @@
             },
             {
               "t": "2026-11-19 11:03:46",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-19 11:03:52",
+              "type": "cart",
+              "detail": "Toplu Sepet (ALLIANCE): 3 Kalem"
+            },
+            {
+              "t": "2026-11-19 11:03:55",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
