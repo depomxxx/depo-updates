@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 16:28:26",
+  "updated_at": "2026-11-19 16:28:34",
   "count": 7,
   "items": [
     {
@@ -1814,16 +1814,16 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.9.18",
-      "last_seen_at": "2026-11-19 16:29:46",
-      "last_action": "[DESKTOP-T4EAUS3] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-19 16:30:24",
+      "last_action": "[DESKTOP-T4EAUS3] Canlı MF Sorgulama (2 Ürün)",
       "today_date": "2026-11-19",
       "today_searches": 47,
       "today_cart_adds": 68,
-      "today_smart_orders": 120,
+      "today_smart_orders": 123,
       "total_searches": 224,
       "total_cart_adds": 707,
       "total_days_used": 14,
-      "total_smart_orders": 571,
+      "total_smart_orders": 574,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -1906,32 +1906,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.9.18",
-          "last_seen_at": "2026-11-19 16:29:46",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-19 16:30:24",
+          "last_action": "Canlı MF Sorgulama (2 Ürün)",
           "today_date": "2026-11-19",
           "today_searches": 38,
           "today_cart_adds": 35,
-          "today_smart_orders": 54,
+          "today_smart_orders": 57,
           "total_searches": 133,
           "total_cart_adds": 407,
-          "total_smart_orders": 403,
+          "total_smart_orders": 406,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-19 15:10:17",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-19 15:10:21",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (3 Ürün)"
-            },
-            {
-              "t": "2026-11-19 15:28:17",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-19 15:28:17",
               "type": "mf_resolve",
@@ -1991,6 +1976,21 @@
               "t": "2026-11-19 16:29:46",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-19 16:29:46",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (BOTANIK • 55 Kalem)"
+            },
+            {
+              "t": "2026-11-19 16:29:46",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-19 16:29:49",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (2 Ürün)"
             }
           ]
         },
@@ -2000,7 +2000,7 @@
           "desk_name": "Cicobey",
           "local_ip": "192.168.1.42",
           "app_version": "1.5.9",
-          "last_seen_at": "2026-11-19 16:26:55",
+          "last_seen_at": "2026-11-19 16:28:34",
           "last_action": "Piyasa Fiyat Kıyaslama: OCEAN VITAMIN D3 1000 IU DAMLA 5",
           "today_date": "2026-11-19",
           "today_searches": 9,
