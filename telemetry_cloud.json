@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 13:42:33",
+  "updated_at": "2026-11-19 13:45:00",
   "count": 7,
   "items": [
     {
@@ -1814,16 +1814,16 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.9.14",
-      "last_seen_at": "2026-11-19 13:43:29",
+      "last_seen_at": "2026-11-19 13:45:00",
       "last_action": "[DESKTOP-T4EAUS3] Canlı MF Sorgulama (2 Ürün)",
       "today_date": "2026-11-19",
       "today_searches": 38,
       "today_cart_adds": 28,
-      "today_smart_orders": 35,
+      "today_smart_orders": 37,
       "total_searches": 215,
       "total_cart_adds": 667,
       "total_days_used": 14,
-      "total_smart_orders": 486,
+      "total_smart_orders": 488,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -1906,7 +1906,7 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-19 13:43:29",
+          "last_seen_at": "2026-11-19 13:45:00",
           "last_action": "Canlı MF Sorgulama (2 Ürün)",
           "today_date": "2026-11-19",
           "today_searches": 38,
@@ -2000,27 +2000,17 @@
           "desk_name": "Cicobey",
           "local_ip": "192.168.1.42",
           "app_version": "1.5.9",
-          "last_seen_at": "2026-11-19 13:42:33",
-          "last_action": "Toplu Sipariş Planlama",
+          "last_seen_at": "2026-11-19 13:42:45",
+          "last_action": "Canlı MF Taraması",
           "today_date": "2026-11-19",
           "today_searches": 0,
           "today_cart_adds": 4,
-          "today_smart_orders": 10,
+          "today_smart_orders": 12,
           "total_searches": 48,
           "total_cart_adds": 75,
-          "total_smart_orders": 100,
+          "total_smart_orders": 102,
           "total_days_used": 14,
           "recent_actions": [
-            {
-              "t": "2026-11-18 15:29:56",
-              "type": "search",
-              "detail": "Depo Sorgu: LANTUS 100 IU 3 ML 5 PEN"
-            },
-            {
-              "t": "2026-11-19 13:25:40",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-19 13:25:40",
               "type": "mf_resolve",
@@ -2085,6 +2075,16 @@
               "t": "2026-11-19 13:42:33",
               "type": "smart_order",
               "detail": "Toplu Sipariş Planlama"
+            },
+            {
+              "t": "2026-11-19 13:42:34",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş (BOTANIK • 250 Kalem)"
+            },
+            {
+              "t": "2026-11-19 13:42:34",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
             }
           ]
         }
