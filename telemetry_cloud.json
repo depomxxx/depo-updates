@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 15:27:30",
+  "updated_at": "2026-11-19 15:27:43",
   "count": 7,
   "items": [
     {
@@ -1814,16 +1814,16 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.9.18",
-      "last_seen_at": "2026-11-19 15:28:17",
-      "last_action": "[DESKTOP-T4EAUS3] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-19 15:29:34",
+      "last_action": "[DESKTOP-T4EAUS3] Canlı MF Sorgulama (9 Ürün)",
       "today_date": "2026-11-19",
       "today_searches": 44,
       "today_cart_adds": 59,
-      "today_smart_orders": 101,
+      "today_smart_orders": 104,
       "total_searches": 221,
       "total_cart_adds": 698,
       "total_days_used": 14,
-      "total_smart_orders": 552,
+      "total_smart_orders": 555,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -1906,27 +1906,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.9.18",
-          "last_seen_at": "2026-11-19 15:28:17",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-19 15:29:34",
+          "last_action": "Canlı MF Sorgulama (9 Ürün)",
           "today_date": "2026-11-19",
           "today_searches": 38,
           "today_cart_adds": 31,
-          "today_smart_orders": 45,
+          "today_smart_orders": 47,
           "total_searches": 133,
           "total_cart_adds": 403,
-          "total_smart_orders": 394,
+          "total_smart_orders": 396,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-19 14:17:19",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş Planlama"
-            },
-            {
-              "t": "2026-11-19 14:17:19",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş (BOTANIK • 106 Kalem)"
-            },
             {
               "t": "2026-11-19 14:17:20",
               "type": "mf_resolve",
@@ -1991,6 +1981,16 @@
               "t": "2026-11-19 15:28:17",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-19 15:28:17",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-19 15:28:26",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (9 Ürün)"
             }
           ]
         },
@@ -2000,22 +2000,17 @@
           "desk_name": "Cicobey",
           "local_ip": "192.168.1.42",
           "app_version": "1.5.9",
-          "last_seen_at": "2026-11-19 15:26:04",
-          "last_action": "Canlı MF Taraması",
+          "last_seen_at": "2026-11-19 15:27:43",
+          "last_action": "Canlı MF Sorgulama (8 Ürün)",
           "today_date": "2026-11-19",
           "today_searches": 6,
           "today_cart_adds": 28,
-          "today_smart_orders": 56,
+          "today_smart_orders": 57,
           "total_searches": 54,
           "total_cart_adds": 99,
-          "total_smart_orders": 146,
+          "total_smart_orders": 147,
           "total_days_used": 14,
           "recent_actions": [
-            {
-              "t": "2026-11-19 14:13:21",
-              "type": "search",
-              "detail": "Depo Sorgu: TRAVAZOL %1+0.1 15 GR KR."
-            },
             {
               "t": "2026-11-19 14:32:11",
               "type": "search",
@@ -2085,6 +2080,11 @@
               "t": "2026-11-19 15:26:02",
               "type": "mf_resolve",
               "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-19 15:26:11",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (8 Ürün)"
             }
           ]
         }
