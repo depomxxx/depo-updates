@@ -1,11 +1,11 @@
 {
-  "version": "1.9.17",
+  "version": "1.9.18",
   "app_name": "Farma Radar",
-  "release_date": "2026-11-19 15:07:27",
+  "release_date": "2026-11-19 15:25:02",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.9.17.zip?t=1795090048",
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.9.18.zip?t=1795091104",
   "sha256": "",
-  "package_sha256": "84843eca584b12371c92662401be2b4fb608c608a9893ed78398569bd5910393",
-  "size_kb": 948.7,
-  "changelog": "v1.9.17 — Botanik EOS Gerçek Son Birim Alış Maliyeti (KDV+MF Dahil) ve Net Ürün Grubu Ayrımı:\n• Botanik EOS üzerinde her ürünün son alış faturasındaki gerçek KDV dahil ve MF düşülmüş birim maliyeti (FSMaliyet), son alınan depo, MF baremi (örn. 50+8 MF) ve tarihi doğrudan hesaplanır.\n• Botanik UrunTip tablosu üzerinden İlaç, Dermo/Besin Takviyesi/OTC, Medikal/İtriyat ve Pasif İlaçlar birbirine karışmayacak şekilde net gruplara ayrıldı.\n• EczaneTakas ve Eczatrend canlı teklif taramasında son birim alış maliyetinize göre kutu başı ve toplam kâr/zarar fark analizi eklendi; TRIA ve TEBEOS mevcut kararlı yapısında korundu."
+  "package_sha256": "b65bf82f4f40fe9f344cdb57a94c92f08bc4b74436d017e6eca1496a51011711",
+  "size_kb": 948.9,
+  "changelog": "v1.9.18 — Üst Bar ve Atıl Stok Tablosu Yatay Hizalama & Dengeleme:\n• Sayfa ve yazı boyutları küçültülmeden üst navigasyon çubuğundaki durum/sepet rozetleri dengelendi; sepet dolu olduğunda veya 125% ekran ölçeğinde oluşan alt yatay kaydırma çubuğu tamamen kaldırıldı.\n• Atıl Stok tablosu sütun genişlikleri tam ekran oranına sabitlendi."
 }
