@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 10:33:39",
+  "updated_at": "2026-11-19 10:33:43",
   "count": 7,
   "items": [
     {
@@ -710,15 +710,15 @@
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.14",
-      "last_seen_at": "2026-11-19 10:33:02",
-      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-19 10:33:43",
+      "last_action": "[DESKTOP-OTHNDUE] Canlı MF Sorgulama (17 Ürün)",
       "today_date": "2026-11-19",
       "today_searches": 2,
       "today_cart_adds": 12,
-      "today_smart_orders": 26,
+      "today_smart_orders": 29,
       "total_searches": 666,
       "total_cart_adds": 1080,
-      "total_smart_orders": 1307,
+      "total_smart_orders": 1310,
       "total_days_used": 14,
       "pc_count": 9,
       "devices": {
@@ -822,32 +822,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-19 10:33:02",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-19 10:33:43",
+          "last_action": "Canlı MF Sorgulama (17 Ürün)",
           "today_date": "2026-11-19",
           "today_searches": 0,
           "today_cart_adds": 8,
-          "today_smart_orders": 19,
+          "today_smart_orders": 22,
           "total_searches": 173,
           "total_cart_adds": 477,
-          "total_smart_orders": 617,
+          "total_smart_orders": 620,
           "total_days_used": 14,
           "recent_actions": [
-            {
-              "t": "2026-11-19 08:40:48",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (35 Ürün)"
-            },
-            {
-              "t": "2026-11-19 08:40:49",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-19 08:41:11",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (35 Ürün)"
-            },
             {
               "t": "2026-11-19 08:41:11",
               "type": "mf_resolve",
@@ -907,6 +892,21 @@
               "t": "2026-11-19 10:33:02",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-19 10:33:02",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 18 Kalem)"
+            },
+            {
+              "t": "2026-11-19 10:33:02",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-19 10:33:43",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (17 Ürün)"
             }
           ]
         },
