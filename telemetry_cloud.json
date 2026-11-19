@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 18:21:58",
+  "updated_at": "2026-11-19 18:22:04",
   "count": 7,
   "items": [
     {
@@ -8,22 +8,22 @@
       "pharmacist_name": "GAMZE ASLAN",
       "phone": "05344064108",
       "city": "SAMSUN/ATAKUM",
-      "gln_no": "8680001134861",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "PRO_YILLIK",
       "expires_at": "2027-10-24",
       "status": "AKTIF",
-      "hwid": "E4F7-229A-BABD",
-      "last_pc_name": "ChagriBeg",
+      "hwid": "E6B1-5698-273E",
+      "last_pc_name": "DESKTOP-6KFO8IF",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-19 18:21:22",
-      "last_action": "[ChagriBeg] Canlı MF Sorgulama (2 Ürün)",
+      "last_seen_at": "2026-11-19 18:22:04",
+      "last_action": "[DESKTOP-6KFO8IF] Canlı MF Sorgulama (4 Ürün)",
       "today_date": "2026-11-19",
       "today_searches": 14,
-      "today_cart_adds": 45,
+      "today_cart_adds": 55,
       "today_smart_orders": 195,
       "total_searches": 331,
-      "total_cart_adds": 705,
+      "total_cart_adds": 715,
       "total_smart_orders": 1249,
       "total_days_used": 14,
       "pc_count": 3,
@@ -34,7 +34,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-19 18:21:04",
+          "last_seen_at": "2026-11-19 18:22:04",
           "last_action": "Canlı MF Sorgulama (4 Ürün)",
           "today_date": "2026-11-19",
           "today_searches": 0,
@@ -128,42 +128,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-19 18:20:36",
-          "last_action": "Depo Sorgu: IMOMOMEGA OMEGA3,VİTAMİN VE MİNERAL İÇ",
+          "last_seen_at": "2026-11-19 18:21:59",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-19",
           "today_searches": 12,
-          "today_cart_adds": 39,
+          "today_cart_adds": 49,
           "today_smart_orders": 144,
           "total_searches": 185,
-          "total_cart_adds": 508,
+          "total_cart_adds": 518,
           "total_smart_orders": 742,
           "total_days_used": 14,
           "recent_actions": [
-            {
-              "t": "2026-11-19 17:04:44",
-              "type": "search",
-              "detail": "Depo Sorgu: NOTUSS 7.5 MG 100 ML SRP."
-            },
-            {
-              "t": "2026-11-19 17:04:46",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (16 Ürün)"
-            },
-            {
-              "t": "2026-11-19 17:04:53",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-19 17:04:56",
-              "type": "search",
-              "detail": "Depo Sorgu: ZADITEN 1 MG 100 ML SRP."
-            },
-            {
-              "t": "2026-11-19 17:05:12",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-19 17:05:16",
               "type": "cart",
@@ -213,6 +188,31 @@
               "t": "2026-11-19 18:20:36",
               "type": "search",
               "detail": "Depo Sorgu: IMOMOMEGA OMEGA3,VİTAMİN VE MİNERAL İÇ"
+            },
+            {
+              "t": "2026-11-19 18:20:45",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-19 18:20:56",
+              "type": "cart",
+              "detail": "Toplu Sepet (ALLIANCE): 6 Kalem"
+            },
+            {
+              "t": "2026-11-19 18:21:07",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-19 18:21:29",
+              "type": "cart",
+              "detail": "Toplu Sepet (ISKOOP): 1 Kalem"
+            },
+            {
+              "t": "2026-11-19 18:21:42",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
@@ -222,7 +222,7 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-19 18:21:22",
+          "last_seen_at": "2026-11-19 18:21:44",
           "last_action": "Canlı MF Sorgulama (2 Ürün)",
           "today_date": "2026-11-19",
           "today_searches": 2,
