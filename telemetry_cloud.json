@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 14:54:43",
+  "updated_at": "2026-11-19 14:56:55",
   "count": 7,
   "items": [
     {
@@ -1814,16 +1814,16 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.9.16",
-      "last_seen_at": "2026-11-19 14:56:17",
-      "last_action": "[DESKTOP-T4EAUS3] Canlı MF Sorgulama (11 Ürün)",
+      "last_seen_at": "2026-11-19 14:56:55",
+      "last_action": "[DESKTOP-T4EAUS3] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-19",
       "today_searches": 44,
       "today_cart_adds": 59,
-      "today_smart_orders": 88,
+      "today_smart_orders": 89,
       "total_searches": 221,
       "total_cart_adds": 698,
       "total_days_used": 14,
-      "total_smart_orders": 539,
+      "total_smart_orders": 540,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -1906,22 +1906,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.9.16",
-          "last_seen_at": "2026-11-19 14:56:17",
-          "last_action": "Canlı MF Sorgulama (11 Ürün)",
+          "last_seen_at": "2026-11-19 14:56:55",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-19",
           "today_searches": 38,
           "today_cart_adds": 31,
-          "today_smart_orders": 37,
+          "today_smart_orders": 38,
           "total_searches": 133,
           "total_cart_adds": 403,
-          "total_smart_orders": 386,
+          "total_smart_orders": 387,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-19 14:08:01",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-19 14:08:13",
               "type": "mf_resolve",
@@ -1991,6 +1986,11 @@
               "t": "2026-11-19 14:44:27",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (11 Ürün)"
+            },
+            {
+              "t": "2026-11-19 14:56:55",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         },
@@ -2000,7 +2000,7 @@
           "desk_name": "Cicobey",
           "local_ip": "192.168.1.42",
           "app_version": "1.5.9",
-          "last_seen_at": "2026-11-19 14:54:03",
+          "last_seen_at": "2026-11-19 14:54:40",
           "last_action": "Canlı MF Sorgulama (11 Ürün)",
           "today_date": "2026-11-19",
           "today_searches": 6,
