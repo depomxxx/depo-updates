@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 13:25:59",
+  "updated_at": "2026-11-19 13:26:19",
   "count": 7,
   "items": [
     {
@@ -1814,16 +1814,16 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.9.14",
-      "last_seen_at": "2026-11-19 13:25:59",
-      "last_action": "[DESKTOP-T4EAUS3] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-19 13:26:19",
+      "last_action": "[DESKTOP-T4EAUS3] Depo Fiyat Sorgulama",
       "today_date": "2026-11-19",
-      "today_searches": 0,
+      "today_searches": 5,
       "today_cart_adds": 16,
-      "today_smart_orders": 18,
-      "total_searches": 177,
+      "today_smart_orders": 21,
+      "total_searches": 182,
       "total_cart_adds": 655,
       "total_days_used": 13,
-      "total_smart_orders": 469,
+      "total_smart_orders": 472,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -1906,52 +1906,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-19 13:25:59",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-19 13:26:19",
+          "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-19",
-          "today_searches": 0,
+          "today_searches": 5,
           "today_cart_adds": 16,
-          "today_smart_orders": 18,
-          "total_searches": 95,
+          "today_smart_orders": 21,
+          "total_searches": 100,
           "total_cart_adds": 388,
-          "total_smart_orders": 367,
+          "total_smart_orders": 370,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-19 11:41:36",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-19 11:42:03",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (27 Ürün)"
-            },
-            {
-              "t": "2026-11-19 11:42:24",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-19 11:42:39",
-              "type": "cart",
-              "detail": "Toplu Sepet (ALLIANCE): 8 Kalem"
-            },
-            {
-              "t": "2026-11-19 11:42:40",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-19 13:24:24",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-19 13:24:25",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (BOTANIK • 39 Kalem)"
-            },
             {
               "t": "2026-11-19 13:24:25",
               "type": "mf_resolve",
@@ -1991,6 +1956,41 @@
               "t": "2026-11-19 13:25:59",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-19 13:25:59",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (BOTANIK • 39 Kalem)"
+            },
+            {
+              "t": "2026-11-19 13:25:59",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-19 13:26:01",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (2 Ürün)"
+            },
+            {
+              "t": "2026-11-19 13:26:03",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-19 13:26:10",
+              "type": "search",
+              "detail": "Depo Sorgu: ALDACTONE A 25 MG 20 TB."
+            },
+            {
+              "t": "2026-11-19 13:26:11",
+              "type": "search",
+              "detail": "Depo Sorgu: HYONAT %0.15 TEK DOZ 20 FLK."
+            },
+            {
+              "t": "2026-11-19 13:26:19",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ]
         },
