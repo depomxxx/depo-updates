@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 09:48:50",
+  "updated_at": "2026-11-19 09:49:17",
   "count": 7,
   "items": [
     {
@@ -710,15 +710,15 @@
       "hwid": "D719-CEB2-1542",
       "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.9.14",
-      "last_seen_at": "2026-11-19 09:48:50",
-      "last_action": "[DESKTOP-M530BBB] Canlı MF Taraması",
+      "last_seen_at": "2026-11-19 09:49:17",
+      "last_action": "[DESKTOP-M530BBB] Depo Fiyat Sorgulama",
       "today_date": "2026-11-19",
-      "today_searches": 0,
+      "today_searches": 1,
       "today_cart_adds": 8,
-      "today_smart_orders": 24,
-      "total_searches": 664,
+      "today_smart_orders": 25,
+      "total_searches": 665,
       "total_cart_adds": 1076,
-      "total_smart_orders": 1305,
+      "total_smart_orders": 1306,
       "total_days_used": 14,
       "pc_count": 9,
       "devices": {
@@ -1292,27 +1292,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-19 09:48:50",
-          "last_action": "Canlı MF Taraması",
+          "last_seen_at": "2026-11-19 09:49:17",
+          "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-19",
-          "today_searches": 0,
+          "today_searches": 1,
           "today_cart_adds": 0,
-          "today_smart_orders": 6,
-          "total_searches": 105,
+          "today_smart_orders": 7,
+          "total_searches": 106,
           "total_cart_adds": 104,
-          "total_smart_orders": 129,
+          "total_smart_orders": 130,
           "total_days_used": 14,
           "recent_actions": [
-            {
-              "t": "2026-11-18 17:48:53",
-              "type": "search",
-              "detail": "Depo Sorgu: BEFIXO 3 ML 5 AMP."
-            },
-            {
-              "t": "2026-11-18 17:49:30",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-18 17:49:31",
               "type": "critical_stock",
@@ -1377,6 +1367,16 @@
               "t": "2026-11-19 09:48:50",
               "type": "mf_resolve",
               "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-19 09:48:50",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (1 Ürün)"
+            },
+            {
+              "t": "2026-11-19 09:49:17",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ]
         },
