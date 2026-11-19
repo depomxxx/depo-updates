@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 16:17:41",
+  "updated_at": "2026-11-19 16:17:44",
   "count": 7,
   "items": [
     {
@@ -1819,11 +1819,11 @@
       "today_date": "2026-11-19",
       "today_searches": 44,
       "today_cart_adds": 59,
-      "today_smart_orders": 104,
+      "today_smart_orders": 105,
       "total_searches": 221,
       "total_cart_adds": 698,
       "total_days_used": 14,
-      "total_smart_orders": 555,
+      "total_smart_orders": 556,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -2000,22 +2000,17 @@
           "desk_name": "Cicobey",
           "local_ip": "192.168.1.42",
           "app_version": "1.5.9",
-          "last_seen_at": "2026-11-19 16:17:19",
-          "last_action": "Canlı MF Sorgulama (8 Ürün)",
+          "last_seen_at": "2026-11-19 16:17:44",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-19",
           "today_searches": 6,
           "today_cart_adds": 28,
-          "today_smart_orders": 57,
+          "today_smart_orders": 58,
           "total_searches": 54,
           "total_cart_adds": 99,
-          "total_smart_orders": 147,
+          "total_smart_orders": 148,
           "total_days_used": 14,
           "recent_actions": [
-            {
-              "t": "2026-11-19 14:32:11",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-19 14:32:15",
               "type": "search",
@@ -2085,6 +2080,11 @@
               "t": "2026-11-19 15:26:11",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (8 Ürün)"
+            },
+            {
+              "t": "2026-11-19 16:17:44",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         }
