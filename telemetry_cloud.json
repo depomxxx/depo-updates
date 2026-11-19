@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 17:04:31",
+  "updated_at": "2026-11-19 17:04:53",
   "count": 7,
   "items": [
     {
@@ -8,7 +8,7 @@
       "pharmacist_name": "GAMZE ASLAN",
       "phone": "05344064108",
       "city": "SAMSUN/ATAKUM",
-      "gln_no": "8680001134861",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "PRO_YILLIK",
       "expires_at": "2027-10-24",
@@ -16,15 +16,15 @@
       "hwid": "E6B1-5698-273E",
       "last_pc_name": "DESKTOP-6KFO8IF",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-19 17:04:05",
+      "last_seen_at": "2026-11-19 17:04:53",
       "last_action": "[DESKTOP-6KFO8IF] Canlı MF Sorgulama (4 Ürün)",
       "today_date": "2026-11-19",
-      "today_searches": 8,
+      "today_searches": 10,
       "today_cart_adds": 41,
-      "today_smart_orders": 185,
-      "total_searches": 325,
+      "today_smart_orders": 189,
+      "total_searches": 327,
       "total_cart_adds": 701,
-      "total_smart_orders": 1239,
+      "total_smart_orders": 1243,
       "total_days_used": 14,
       "pc_count": 3,
       "devices": {
@@ -34,7 +34,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-19 17:04:05",
+          "last_seen_at": "2026-11-19 17:04:53",
           "last_action": "Canlı MF Sorgulama (4 Ürün)",
           "today_date": "2026-11-19",
           "today_searches": 0,
@@ -128,47 +128,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-19 17:02:22",
-          "last_action": "Canlı MF Sorgulama (21 Ürün)",
+          "last_seen_at": "2026-11-19 17:04:47",
+          "last_action": "Canlı MF Sorgulama (16 Ürün)",
           "today_date": "2026-11-19",
-          "today_searches": 6,
+          "today_searches": 8,
           "today_cart_adds": 35,
-          "today_smart_orders": 134,
-          "total_searches": 179,
+          "today_smart_orders": 138,
+          "total_searches": 181,
           "total_cart_adds": 504,
-          "total_smart_orders": 732,
+          "total_smart_orders": 736,
           "total_days_used": 14,
           "recent_actions": [
-            {
-              "t": "2026-11-19 16:30:54",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 54 Kalem)"
-            },
-            {
-              "t": "2026-11-19 16:30:59",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-19 16:31:01",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-19 16:35:16",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-19 16:35:16",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 56 Kalem)"
-            },
-            {
-              "t": "2026-11-19 16:35:16",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-19 16:35:18",
               "type": "mf_resolve",
@@ -213,6 +183,36 @@
               "t": "2026-11-19 16:41:02",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (21 Ürün)"
+            },
+            {
+              "t": "2026-11-19 17:04:31",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-19 17:04:31",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 60 Kalem)"
+            },
+            {
+              "t": "2026-11-19 17:04:31",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-19 17:04:39",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-19 17:04:44",
+              "type": "search",
+              "detail": "Depo Sorgu: NOTUSS 7.5 MG 100 ML SRP."
+            },
+            {
+              "t": "2026-11-19 17:04:46",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (16 Ürün)"
             }
           ]
         },
@@ -222,7 +222,7 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-19 17:04:04",
+          "last_seen_at": "2026-11-19 17:04:44",
           "last_action": "Canlı MF Sorgulama (2 Ürün)",
           "today_date": "2026-11-19",
           "today_searches": 2,
