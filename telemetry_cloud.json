@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 14:08:14",
+  "updated_at": "2026-11-19 14:08:25",
   "count": 7,
   "items": [
     {
@@ -16,7 +16,7 @@
       "hwid": "E4F7-229A-BABD",
       "last_pc_name": "ChagriBeg",
       "app_version": "1.9.15",
-      "last_seen_at": "2026-11-19 14:06:54",
+      "last_seen_at": "2026-11-19 14:08:25",
       "last_action": "[ChagriBeg] Canlı MF Sorgulama (25 Ürün)",
       "today_date": "2026-11-19",
       "today_searches": 4,
@@ -34,7 +34,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.15",
-          "last_seen_at": "2026-11-19 14:06:54",
+          "last_seen_at": "2026-11-19 14:07:44",
           "last_action": "Canlı MF Sorgulama (12 Ürün)",
           "today_date": "2026-11-19",
           "today_searches": 0,
@@ -222,7 +222,7 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.9.15",
-          "last_seen_at": "2026-11-19 14:06:54",
+          "last_seen_at": "2026-11-19 14:08:25",
           "last_action": "Canlı MF Sorgulama (25 Ürün)",
           "today_date": "2026-11-19",
           "today_searches": 0,
