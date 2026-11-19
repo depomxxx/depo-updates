@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 16:27:23",
+  "updated_at": "2026-11-19 16:29:46",
   "count": 7,
   "items": [
     {
@@ -1814,16 +1814,16 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.9.18",
-      "last_seen_at": "2026-11-19 16:29:27",
-      "last_action": "[DESKTOP-T4EAUS3] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-19 16:29:46",
+      "last_action": "[DESKTOP-T4EAUS3] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-19",
       "today_searches": 47,
-      "today_cart_adds": 65,
-      "today_smart_orders": 116,
+      "today_cart_adds": 68,
+      "today_smart_orders": 120,
       "total_searches": 224,
-      "total_cart_adds": 704,
+      "total_cart_adds": 707,
       "total_days_used": 14,
-      "total_smart_orders": 567,
+      "total_smart_orders": 571,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -1906,47 +1906,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.9.18",
-          "last_seen_at": "2026-11-19 16:29:27",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-19 16:29:46",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-19",
           "today_searches": 38,
-          "today_cart_adds": 32,
-          "today_smart_orders": 50,
+          "today_cart_adds": 35,
+          "today_smart_orders": 54,
           "total_searches": 133,
-          "total_cart_adds": 404,
-          "total_smart_orders": 399,
+          "total_cart_adds": 407,
+          "total_smart_orders": 403,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-19 14:44:27",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (11 Ürün)"
-            },
-            {
-              "t": "2026-11-19 14:56:55",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-19 14:56:55",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (BOTANIK • 44 Kalem)"
-            },
-            {
-              "t": "2026-11-19 14:56:55",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-19 14:57:01",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (4 Ürün)"
-            },
-            {
-              "t": "2026-11-19 15:10:16",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-19 15:10:17",
               "type": "mf_resolve",
@@ -1991,6 +1961,36 @@
               "t": "2026-11-19 16:29:27",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-19 16:29:31",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (30 Ürün)"
+            },
+            {
+              "t": "2026-11-19 16:29:31",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-19 16:29:34",
+              "type": "cart",
+              "detail": "Toplu Sepet (ISKOOP): 2 Kalem"
+            },
+            {
+              "t": "2026-11-19 16:29:35",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-19 16:29:43",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (15 Ürün)"
+            },
+            {
+              "t": "2026-11-19 16:29:46",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         },
