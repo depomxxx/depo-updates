@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 09:48:12",
+  "updated_at": "2026-11-19 09:48:20",
   "count": 7,
   "items": [
     {
@@ -710,15 +710,15 @@
       "hwid": "D719-CEB2-1542",
       "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.9.14",
-      "last_seen_at": "2026-11-19 09:47:24",
-      "last_action": "[DESKTOP-M530BBB] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-19 09:48:20",
+      "last_action": "[DESKTOP-M530BBB] Toplu Sipariş Planlama",
       "today_date": "2026-11-19",
       "today_searches": 0,
       "today_cart_adds": 8,
-      "today_smart_orders": 19,
+      "today_smart_orders": 20,
       "total_searches": 664,
       "total_cart_adds": 1076,
-      "total_smart_orders": 1300,
+      "total_smart_orders": 1301,
       "total_days_used": 14,
       "pc_count": 9,
       "devices": {
@@ -1292,22 +1292,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-19 09:47:24",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-19 09:48:20",
+          "last_action": "Toplu Sipariş Planlama",
           "today_date": "2026-11-19",
           "today_searches": 0,
           "today_cart_adds": 0,
-          "today_smart_orders": 1,
+          "today_smart_orders": 2,
           "total_searches": 105,
           "total_cart_adds": 104,
-          "total_smart_orders": 124,
+          "total_smart_orders": 125,
           "total_days_used": 14,
           "recent_actions": [
-            {
-              "t": "2026-11-18 15:25:56",
-              "type": "cart",
-              "detail": "Sepete Ekle (NEVZAT): ARVELES 25 MG.20 FCT x1"
-            },
             {
               "t": "2026-11-18 15:26:00",
               "type": "mf_resolve",
@@ -1377,6 +1372,11 @@
               "t": "2026-11-19 08:35:55",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-19 09:48:20",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş Planlama"
             }
           ]
         },
