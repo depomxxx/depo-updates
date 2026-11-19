@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 13:25:37",
+  "updated_at": "2026-11-19 13:27:53",
   "count": 7,
   "items": [
     {
@@ -1814,13 +1814,13 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.9.14",
-      "last_seen_at": "2026-11-19 13:27:36",
-      "last_action": "[DESKTOP-T4EAUS3] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-19 13:27:53",
+      "last_action": "[DESKTOP-T4EAUS3] Depo Sorgu: DETRUSITOL SR 4 MG 28 CAP.",
       "today_date": "2026-11-19",
-      "today_searches": 6,
+      "today_searches": 10,
       "today_cart_adds": 18,
       "today_smart_orders": 21,
-      "total_searches": 183,
+      "total_searches": 187,
       "total_cart_adds": 657,
       "total_days_used": 14,
       "total_smart_orders": 472,
@@ -1906,32 +1906,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.9.14",
-          "last_seen_at": "2026-11-19 13:27:36",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-19 13:27:53",
+          "last_action": "Depo Sorgu: DETRUSITOL SR 4 MG 28 CAP.",
           "today_date": "2026-11-19",
-          "today_searches": 6,
+          "today_searches": 10,
           "today_cart_adds": 18,
           "today_smart_orders": 21,
-          "total_searches": 101,
+          "total_searches": 105,
           "total_cart_adds": 390,
           "total_smart_orders": 370,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-19 13:24:54",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-19 13:24:57",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (2 Ürün)"
-            },
-            {
-              "t": "2026-11-19 13:25:12",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-19 13:25:25",
               "type": "cart",
@@ -1991,6 +1976,21 @@
               "t": "2026-11-19 13:27:34",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-19 13:27:49",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-19 13:27:51",
+              "type": "search",
+              "detail": "Depo Sorgu: LIXIANA 60 MG 28 FTB."
+            },
+            {
+              "t": "2026-11-19 13:27:53",
+              "type": "search",
+              "detail": "Depo Sorgu: DETRUSITOL SR 4 MG 28 CAP."
             }
           ]
         },
