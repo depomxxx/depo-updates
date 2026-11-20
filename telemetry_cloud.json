@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 15:15:44",
+  "updated_at": "2026-11-20 15:13:37",
   "count": 7,
   "items": [
     {
@@ -801,18 +801,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D2E4-AA57-C021",
-      "last_pc_name": "DESKTOP-1N3LQF0",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-20 15:13:06",
-      "last_action": "[DESKTOP-1N3LQF0] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-20 15:13:37",
+      "last_action": "[DESKTOP-OTHNDUE] Canlı MF Sorgulama (11 Ürün)",
       "today_date": "2026-11-20",
       "today_searches": 6,
-      "today_cart_adds": 12,
-      "today_smart_orders": 37,
+      "today_cart_adds": 14,
+      "today_smart_orders": 39,
       "total_searches": 692,
-      "total_cart_adds": 1139,
-      "total_smart_orders": 1496,
+      "total_cart_adds": 1141,
+      "total_smart_orders": 1498,
       "total_days_used": 15,
       "pc_count": 9,
       "devices": {
@@ -916,37 +916,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-20 15:12:09",
-          "last_action": "Canlı MF Sorgulama (30 Ürün)",
+          "last_seen_at": "2026-11-20 15:13:37",
+          "last_action": "Canlı MF Sorgulama (11 Ürün)",
           "today_date": "2026-11-20",
           "today_searches": 4,
-          "today_cart_adds": 10,
-          "today_smart_orders": 25,
+          "today_cart_adds": 12,
+          "today_smart_orders": 27,
           "total_searches": 189,
-          "total_cart_adds": 528,
-          "total_smart_orders": 771,
+          "total_cart_adds": 530,
+          "total_smart_orders": 773,
           "total_days_used": 15,
           "recent_actions": [
-            {
-              "t": "2026-11-20 10:45:03",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-20 10:45:11",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (12 Ürün)"
-            },
-            {
-              "t": "2026-11-20 10:45:28",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-20 10:45:35",
-              "type": "cart",
-              "detail": "Toplu Sepet (ALLIANCE): 3 Kalem"
-            },
             {
               "t": "2026-11-20 10:45:36",
               "type": "cart",
@@ -1001,6 +981,26 @@
               "t": "2026-11-20 15:12:09",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (30 Ürün)"
+            },
+            {
+              "t": "2026-11-20 15:12:09",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-20 15:12:12",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-20 15:12:15",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): VENEGIS XR 37.5 MG 28 KAP x10"
+            },
+            {
+              "t": "2026-11-20 15:12:15",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (11 Ürün)"
             }
           ]
         },
