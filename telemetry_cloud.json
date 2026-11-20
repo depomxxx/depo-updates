@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 11:09:19",
+  "updated_at": "2026-11-20 11:11:52",
   "count": 7,
   "items": [
     {
@@ -1908,16 +1908,16 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-20 11:11:21",
-      "last_action": "[DESKTOP-T4EAUS3] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-20 11:11:52",
+      "last_action": "[DESKTOP-T4EAUS3] Depo Fiyat Sorgulama",
       "today_date": "2026-11-20",
-      "today_searches": 2,
+      "today_searches": 5,
       "today_cart_adds": 4,
-      "today_smart_orders": 4,
-      "total_searches": 233,
+      "today_smart_orders": 11,
+      "total_searches": 236,
       "total_cart_adds": 725,
       "total_days_used": 14,
-      "total_smart_orders": 602,
+      "total_smart_orders": 609,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -2000,67 +2000,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-20 11:11:21",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-20 11:11:52",
+          "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-20",
-          "today_searches": 2,
+          "today_searches": 5,
           "today_cart_adds": 4,
-          "today_smart_orders": 4,
-          "total_searches": 135,
+          "today_smart_orders": 11,
+          "total_searches": 138,
           "total_cart_adds": 411,
-          "total_smart_orders": 413,
+          "total_smart_orders": 420,
           "total_days_used": 14,
           "recent_actions": [
-            {
-              "t": "2026-11-19 16:29:46",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (BOTANIK • 55 Kalem)"
-            },
-            {
-              "t": "2026-11-19 16:29:46",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-19 16:29:49",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (2 Ürün)"
-            },
-            {
-              "t": "2026-11-19 16:43:17",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-19 16:43:17",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-19 16:43:20",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (2 Ürün)"
-            },
-            {
-              "t": "2026-11-20 11:08:10",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-20 11:08:10",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-20 11:09:01",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (21 Ürün)"
-            },
-            {
-              "t": "2026-11-20 11:09:39",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-20 11:09:42",
               "type": "search",
@@ -2085,6 +2035,56 @@
               "t": "2026-11-20 11:11:21",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-20 11:11:21",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (BOTANIK • 21 Kalem)"
+            },
+            {
+              "t": "2026-11-20 11:11:21",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-20 11:11:22",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (1 Ürün)"
+            },
+            {
+              "t": "2026-11-20 11:11:26",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-20 11:11:26",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (BOTANIK • 21 Kalem)"
+            },
+            {
+              "t": "2026-11-20 11:11:26",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-20 11:11:26",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (1 Ürün)"
+            },
+            {
+              "t": "2026-11-20 11:11:30",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-20 11:11:33",
+              "type": "search",
+              "detail": "Depo Sorgu: TOREDA SR 4 MG 28 CAP."
+            },
+            {
+              "t": "2026-11-20 11:11:52",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ]
         },
