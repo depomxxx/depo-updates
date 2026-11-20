@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 15:14:13",
+  "updated_at": "2026-11-20 15:14:25",
   "count": 7,
   "items": [
     {
@@ -804,14 +804,14 @@
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-20 15:14:05",
-      "last_action": "[DESKTOP-OTHNDUE] Toplu Sepet (ALLIANCE): 8 Kalem",
+      "last_seen_at": "2026-11-20 15:14:25",
+      "last_action": "[DESKTOP-OTHNDUE] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-20",
       "today_searches": 6,
-      "today_cart_adds": 16,
+      "today_cart_adds": 20,
       "today_smart_orders": 39,
       "total_searches": 692,
-      "total_cart_adds": 1143,
+      "total_cart_adds": 1147,
       "total_smart_orders": 1498,
       "total_days_used": 15,
       "pc_count": 9,
@@ -916,32 +916,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-20 15:14:05",
-          "last_action": "Toplu Sepet (ALLIANCE): 8 Kalem",
+          "last_seen_at": "2026-11-20 15:14:25",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-20",
           "today_searches": 4,
-          "today_cart_adds": 14,
+          "today_cart_adds": 18,
           "today_smart_orders": 27,
           "total_searches": 189,
-          "total_cart_adds": 532,
+          "total_cart_adds": 536,
           "total_smart_orders": 773,
           "total_days_used": 15,
           "recent_actions": [
-            {
-              "t": "2026-11-20 10:45:51",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 17 Kalem)"
-            },
-            {
-              "t": "2026-11-20 10:46:00",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-20 10:46:03",
-              "type": "cart",
-              "detail": "Toplu Sepet (ALLIANCE): 1 Kalem"
-            },
             {
               "t": "2026-11-20 15:11:45",
               "type": "critical_stock",
@@ -1001,6 +986,21 @@
               "t": "2026-11-20 15:14:05",
               "type": "cart",
               "detail": "Toplu Sepet (ALLIANCE): 8 Kalem"
+            },
+            {
+              "t": "2026-11-20 15:14:07",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-20 15:14:09",
+              "type": "cart",
+              "detail": "Toplu Sepet (SELCUK): 2 Kalem"
+            },
+            {
+              "t": "2026-11-20 15:14:12",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
