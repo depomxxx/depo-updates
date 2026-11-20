@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 17:58:19",
+  "updated_at": "2026-11-20 17:58:29",
   "count": 7,
   "items": [
     {
@@ -801,17 +801,17 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "5834-FAC9-B71F",
-      "last_pc_name": "DESKTOP-OTHNDUE",
+      "hwid": "D719-CEB2-1542",
+      "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-20 17:58:19",
-      "last_action": "[DESKTOP-OTHNDUE] Canlı MF Sorgulama (1 Ürün)",
+      "last_seen_at": "2026-11-20 17:58:29",
+      "last_action": "[DESKTOP-M530BBB] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-20",
-      "today_searches": 13,
-      "today_cart_adds": 29,
+      "today_searches": 14,
+      "today_cart_adds": 30,
       "today_smart_orders": 60,
-      "total_searches": 699,
-      "total_cart_adds": 1156,
+      "total_searches": 700,
+      "total_cart_adds": 1157,
       "total_smart_orders": 1519,
       "total_days_used": 15,
       "pc_count": 9,
@@ -1386,27 +1386,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-20 17:58:07",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-20 17:58:29",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-20",
-          "today_searches": 3,
-          "today_cart_adds": 2,
+          "today_searches": 4,
+          "today_cart_adds": 3,
           "today_smart_orders": 14,
-          "total_searches": 118,
-          "total_cart_adds": 112,
+          "total_searches": 119,
+          "total_cart_adds": 113,
           "total_smart_orders": 144,
           "total_days_used": 15,
           "recent_actions": [
-            {
-              "t": "2026-11-20 09:34:09",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-20 09:34:11",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (2 Ürün)"
-            },
             {
               "t": "2026-11-20 11:52:05",
               "type": "search",
@@ -1471,6 +1461,16 @@
               "t": "2026-11-20 17:58:07",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-20 17:58:14",
+              "type": "search",
+              "detail": "Depo Sorgu: GYNO LOMEXIN 600 MG 2 VAG. OVU"
+            },
+            {
+              "t": "2026-11-20 17:58:29",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
