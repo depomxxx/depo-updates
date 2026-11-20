@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 09:33:51",
+  "updated_at": "2026-11-20 09:34:09",
   "count": 7,
   "items": [
     {
@@ -801,18 +801,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "5834-FAC9-B71F",
-      "last_pc_name": "DESKTOP-OTHNDUE",
+      "hwid": "D719-CEB2-1542",
+      "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-20 09:33:51",
-      "last_action": "[DESKTOP-OTHNDUE] Canlı MF Sorgulama (5 Ürün)",
+      "last_seen_at": "2026-11-20 09:34:09",
+      "last_action": "[DESKTOP-M530BBB] Toplu Sipariş Planlama",
       "today_date": "2026-11-20",
       "today_searches": 0,
       "today_cart_adds": 0,
-      "today_smart_orders": 4,
+      "today_smart_orders": 5,
       "total_searches": 686,
       "total_cart_adds": 1127,
-      "total_smart_orders": 1463,
+      "total_smart_orders": 1464,
       "total_days_used": 15,
       "pc_count": 9,
       "devices": {
@@ -1386,22 +1386,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-20 09:33:31",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-20 09:34:09",
+          "last_action": "Toplu Sipariş Planlama",
           "today_date": "2026-11-20",
           "today_searches": 0,
           "today_cart_adds": 0,
-          "today_smart_orders": 1,
+          "today_smart_orders": 2,
           "total_searches": 115,
           "total_cart_adds": 110,
-          "total_smart_orders": 131,
+          "total_smart_orders": 132,
           "total_days_used": 15,
           "recent_actions": [
-            {
-              "t": "2026-11-19 09:49:17",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-19 09:49:28",
               "type": "search",
@@ -1471,6 +1466,11 @@
               "t": "2026-11-20 08:34:31",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-20 09:34:09",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş Planlama"
             }
           ]
         },
