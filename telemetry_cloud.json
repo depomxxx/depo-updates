@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 09:40:12",
+  "updated_at": "2026-11-20 09:40:46",
   "count": 7,
   "items": [
     {
@@ -801,18 +801,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D2E4-AA57-C021",
-      "last_pc_name": "DESKTOP-1N3LQF0",
+      "hwid": "D719-CEB2-1542",
+      "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-20 09:40:11",
-      "last_action": "[DESKTOP-1N3LQF0] Canlı MF Sorgulama (2 Ürün)",
+      "last_seen_at": "2026-11-20 09:40:46",
+      "last_action": "[DESKTOP-M530BBB] Canlı MF Sorgulama (2 Ürün)",
       "today_date": "2026-11-20",
       "today_searches": 0,
       "today_cart_adds": 0,
-      "today_smart_orders": 11,
+      "today_smart_orders": 15,
       "total_searches": 686,
       "total_cart_adds": 1127,
-      "total_smart_orders": 1470,
+      "total_smart_orders": 1474,
       "total_days_used": 15,
       "pc_count": 9,
       "devices": {
@@ -1386,7 +1386,7 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-20 09:39:56",
+          "last_seen_at": "2026-11-20 09:40:46",
           "last_action": "Canlı MF Sorgulama (2 Ürün)",
           "today_date": "2026-11-20",
           "today_searches": 0,
@@ -1480,37 +1480,17 @@
           "desk_name": "DESKTOP-1N3LQF0",
           "local_ip": "192.168.1.123",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-20 09:40:11",
-          "last_action": "Canlı MF Sorgulama (2 Ürün)",
+          "last_seen_at": "2026-11-20 09:40:43",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-20",
           "today_searches": 0,
           "today_cart_adds": 0,
-          "today_smart_orders": 3,
+          "today_smart_orders": 7,
           "total_searches": 81,
           "total_cart_adds": 36,
-          "total_smart_orders": 94,
+          "total_smart_orders": 98,
           "total_days_used": 10,
           "recent_actions": [
-            {
-              "t": "2026-11-18 14:07:03",
-              "type": "cart",
-              "detail": "Sepete Ekle (NEVZAT): SABALAKS LAVMAN 10 GR x18"
-            },
-            {
-              "t": "2026-11-18 14:07:45",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-18 14:07:51",
-              "type": "search",
-              "detail": "Depo Sorgu: SABALAKS %53.1+37 10 GR LAV"
-            },
-            {
-              "t": "2026-11-18 14:08:08",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-18 14:29:56",
               "type": "critical_stock",
@@ -1565,6 +1545,26 @@
               "t": "2026-11-20 09:40:08",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (2 Ürün)"
+            },
+            {
+              "t": "2026-11-20 09:40:16",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-20 09:40:17",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-20 09:40:19",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (2 Ürün)"
+            },
+            {
+              "t": "2026-11-20 09:40:26",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         },
