@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 15:11:35",
+  "updated_at": "2026-11-20 15:11:45",
   "count": 7,
   "items": [
     {
@@ -801,18 +801,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D2E4-AA57-C021",
-      "last_pc_name": "DESKTOP-1N3LQF0",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-20 15:11:35",
-      "last_action": "[DESKTOP-1N3LQF0] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-20 15:11:45",
+      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-20",
       "today_searches": 4,
       "today_cart_adds": 12,
-      "today_smart_orders": 33,
+      "today_smart_orders": 34,
       "total_searches": 690,
       "total_cart_adds": 1139,
-      "total_smart_orders": 1492,
+      "total_smart_orders": 1493,
       "total_days_used": 15,
       "pc_count": 9,
       "devices": {
@@ -916,22 +916,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-20 15:10:15",
-          "last_action": "Toplu Sepet (ALLIANCE): 1 Kalem",
+          "last_seen_at": "2026-11-20 15:11:45",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-20",
           "today_searches": 2,
           "today_cart_adds": 10,
-          "today_smart_orders": 21,
+          "today_smart_orders": 22,
           "total_searches": 187,
           "total_cart_adds": 528,
-          "total_smart_orders": 767,
+          "total_smart_orders": 768,
           "total_days_used": 15,
           "recent_actions": [
-            {
-              "t": "2026-11-20 10:19:03",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-20 10:19:05",
               "type": "mf_resolve",
@@ -1001,6 +996,11 @@
               "t": "2026-11-20 10:46:03",
               "type": "cart",
               "detail": "Toplu Sepet (ALLIANCE): 1 Kalem"
+            },
+            {
+              "t": "2026-11-20 15:11:45",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         },
