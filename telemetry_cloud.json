@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 11:10:42",
+  "updated_at": "2026-11-20 11:13:35",
   "count": 7,
   "items": [
     {
@@ -1908,14 +1908,14 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-20 11:11:52",
-      "last_action": "[DESKTOP-T4EAUS3] Depo Fiyat Sorgulama",
+      "last_seen_at": "2026-11-20 11:13:35",
+      "last_action": "[DESKTOP-T4EAUS3] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-20",
-      "today_searches": 5,
-      "today_cart_adds": 4,
+      "today_searches": 6,
+      "today_cart_adds": 6,
       "today_smart_orders": 11,
-      "total_searches": 236,
-      "total_cart_adds": 725,
+      "total_searches": 237,
+      "total_cart_adds": 727,
       "total_days_used": 14,
       "total_smart_orders": 609,
       "pc_count": 3,
@@ -2000,27 +2000,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-20 11:11:52",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-20 11:13:35",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-20",
-          "today_searches": 5,
-          "today_cart_adds": 4,
+          "today_searches": 6,
+          "today_cart_adds": 6,
           "today_smart_orders": 11,
-          "total_searches": 138,
-          "total_cart_adds": 411,
+          "total_searches": 139,
+          "total_cart_adds": 413,
           "total_smart_orders": 420,
           "total_days_used": 14,
           "recent_actions": [
-            {
-              "t": "2026-11-20 11:09:42",
-              "type": "search",
-              "detail": "Depo Sorgu: MAJEZIK %0.25 30 ML ORAL SPR."
-            },
-            {
-              "t": "2026-11-20 11:10:12",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-20 11:10:46",
               "type": "cart",
@@ -2085,6 +2075,16 @@
               "t": "2026-11-20 11:11:52",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-20 11:11:55",
+              "type": "search",
+              "detail": "Depo Sorgu: TOREDA SR 4 MG 28 CAP."
+            },
+            {
+              "t": "2026-11-20 11:12:05",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
