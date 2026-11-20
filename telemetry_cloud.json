@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 14:04:28",
+  "updated_at": "2026-11-20 14:02:26",
   "count": 7,
   "items": [
     {
@@ -567,19 +567,19 @@
       "plan": "PRO_YILLIK",
       "expires_at": "2027-11-11",
       "status": "AKTIF",
-      "hwid": "8089-AB28-DD6F",
+      "hwid": "2DED-CFF9-D593",
       "last_pc_name": "DESKTOP-8JN0NE5",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-19 17:45:26",
-      "last_action": "[DESKTOP-8JN0NE5] Canlı MF Sorgulama (2 Ürün)",
-      "today_date": "2026-11-19",
+      "last_seen_at": "2026-11-20 14:02:25",
+      "last_action": "Program Açık (Canlı)",
+      "today_date": "2026-11-20",
       "today_searches": 0,
-      "today_cart_adds": 4,
-      "today_smart_orders": 20,
+      "today_cart_adds": 0,
+      "today_smart_orders": 0,
       "total_searches": 149,
-      "total_cart_adds": 328,
-      "total_days_used": 11,
-      "total_smart_orders": 712,
+      "total_cart_adds": 332,
+      "total_days_used": 12,
+      "total_smart_orders": 732,
       "pc_count": 3,
       "devices": {
         "2DED-CFF9-D593": {
@@ -587,92 +587,92 @@
           "pc_name": "DESKTOP-8JN0NE5",
           "desk_name": "DESKTOP-8JN0NE5",
           "local_ip": "192.168.1.37",
-          "app_version": "1.9.14",
-          "last_seen_at": "2026-11-18 17:10:03",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
-          "today_date": "2026-11-18",
-          "today_searches": 22,
-          "today_cart_adds": 18,
-          "today_smart_orders": 39,
+          "app_version": "1.9.19",
+          "last_seen_at": "2026-11-20 14:02:25",
+          "last_action": "Program Açık (Canlı)",
+          "today_date": "2026-11-20",
+          "today_searches": 0,
+          "today_cart_adds": 0,
+          "today_smart_orders": 0,
           "total_searches": 74,
-          "total_cart_adds": 162,
-          "total_smart_orders": 346,
-          "total_days_used": 10,
+          "total_cart_adds": 166,
+          "total_smart_orders": 366,
+          "total_days_used": 12,
           "recent_actions": [
             {
-              "t": "2026-11-18 14:30:11",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (30 Ürün)"
-            },
-            {
-              "t": "2026-11-18 14:30:11",
+              "t": "2026-11-19 16:51:17",
               "type": "mf_resolve",
               "detail": "Canlı MF Taraması"
             },
             {
-              "t": "2026-11-18 14:30:26",
+              "t": "2026-11-19 16:51:20",
               "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (12 Ürün)"
+              "detail": "Canlı MF Sorgulama (2 Ürün)"
             },
             {
-              "t": "2026-11-18 14:32:59",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-18 14:33:13",
-              "type": "search",
-              "detail": "Depo Sorgu: HIPP 3 ORGANIK COMBIOTIK 350 GR"
-            },
-            {
-              "t": "2026-11-18 14:33:14",
+              "t": "2026-11-19 17:20:11",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
             },
             {
-              "t": "2026-11-18 14:33:14",
+              "t": "2026-11-19 17:20:11",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (BOTANIK • 57 Kalem)"
+            },
+            {
+              "t": "2026-11-19 17:20:11",
               "type": "mf_resolve",
               "detail": "Canlı MF Taraması"
             },
             {
-              "t": "2026-11-18 14:33:30",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-18 14:33:42",
-              "type": "search",
-              "detail": "Depo Sorgu: HIPP 3 ORGANIK COMBIOTIK 350 GR"
-            },
-            {
-              "t": "2026-11-18 16:43:15",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-18 16:43:18",
-              "type": "search",
-              "detail": "Depo Sorgu: CAPICADE NEMLENDIRICI YÜZ KREMİ 50ML"
-            },
-            {
-              "t": "2026-11-18 16:43:39",
+              "t": "2026-11-19 17:20:34",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
             },
             {
-              "t": "2026-11-18 16:44:06",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
+              "t": "2026-11-19 17:20:37",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (30 Ürün)"
             },
             {
-              "t": "2026-11-18 16:44:08",
-              "type": "search",
-              "detail": "Depo Sorgu: CAPICADE HAS KURU CILT TEM JELİ 150 ML"
+              "t": "2026-11-19 17:20:37",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
             },
             {
-              "t": "2026-11-18 16:44:14",
+              "t": "2026-11-19 17:20:38",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): BERAZINC 50MG 40 SERT KAPSÜL x2"
+            },
+            {
+              "t": "2026-11-19 17:20:46",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-19 17:20:48",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (11 Ürün)"
+            },
+            {
+              "t": "2026-11-19 17:20:48",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-19 17:34:37",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-19 17:34:38",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-19 17:34:41",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (2 Ürün)"
             }
           ]
         },
