@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 11:52:46",
+  "updated_at": "2026-11-20 11:53:04",
   "count": 7,
   "items": [
     {
@@ -801,17 +801,17 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D2E4-AA57-C021",
-      "last_pc_name": "DESKTOP-1N3LQF0",
+      "hwid": "D719-CEB2-1542",
+      "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-20 11:52:46",
-      "last_action": "[DESKTOP-1N3LQF0] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-20 11:53:04",
+      "last_action": "[DESKTOP-M530BBB] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-20",
       "today_searches": 4,
-      "today_cart_adds": 10,
+      "today_cart_adds": 11,
       "today_smart_orders": 33,
       "total_searches": 690,
-      "total_cart_adds": 1137,
+      "total_cart_adds": 1138,
       "total_smart_orders": 1492,
       "total_days_used": 15,
       "pc_count": 9,
@@ -1386,22 +1386,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-20 11:52:26",
-          "last_action": "Depo Sorgu: RELACTAZ DAMLA %56.9  15 ML ŞIŞE",
+          "last_seen_at": "2026-11-20 11:53:04",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-20",
           "today_searches": 2,
-          "today_cart_adds": 0,
+          "today_cart_adds": 1,
           "today_smart_orders": 5,
           "total_searches": 117,
-          "total_cart_adds": 110,
+          "total_cart_adds": 111,
           "total_smart_orders": 135,
           "total_days_used": 15,
           "recent_actions": [
-            {
-              "t": "2026-11-19 11:03:25",
-              "type": "search",
-              "detail": "Depo Sorgu: YASMIN 3/0.03 MG 63 FTB."
-            },
             {
               "t": "2026-11-19 11:04:17",
               "type": "cart",
@@ -1471,6 +1466,11 @@
               "t": "2026-11-20 11:52:15",
               "type": "search",
               "detail": "Depo Sorgu: RELACTAZ DAMLA %56.9  15 ML ŞIŞE"
+            },
+            {
+              "t": "2026-11-20 11:53:04",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
@@ -1480,7 +1480,7 @@
           "desk_name": "DESKTOP-1N3LQF0",
           "local_ip": "192.168.1.123",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-20 11:52:46",
+          "last_seen_at": "2026-11-20 11:52:58",
           "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-20",
           "today_searches": 0,
