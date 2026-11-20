@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 16:20:33",
+  "updated_at": "2026-11-20 16:21:11",
   "count": 7,
   "items": [
     {
@@ -570,16 +570,16 @@
       "hwid": "2DED-CFF9-D593",
       "last_pc_name": "DESKTOP-8JN0NE5",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-20 16:20:33",
-      "last_action": "[DESKTOP-8JN0NE5] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-20 16:21:11",
+      "last_action": "[DESKTOP-8JN0NE5] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-20",
       "today_searches": 8,
-      "today_cart_adds": 20,
-      "today_smart_orders": 22,
+      "today_cart_adds": 23,
+      "today_smart_orders": 23,
       "total_searches": 157,
-      "total_cart_adds": 352,
+      "total_cart_adds": 355,
       "total_days_used": 12,
-      "total_smart_orders": 754,
+      "total_smart_orders": 755,
       "pc_count": 3,
       "devices": {
         "2DED-CFF9-D593": {
@@ -588,37 +588,17 @@
           "desk_name": "DESKTOP-8JN0NE5",
           "local_ip": "192.168.1.37",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-20 16:20:33",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-20 16:21:11",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-20",
           "today_searches": 8,
-          "today_cart_adds": 20,
-          "today_smart_orders": 22,
+          "today_cart_adds": 23,
+          "today_smart_orders": 23,
           "total_searches": 82,
-          "total_cart_adds": 186,
-          "total_smart_orders": 388,
+          "total_cart_adds": 189,
+          "total_smart_orders": 389,
           "total_days_used": 12,
           "recent_actions": [
-            {
-              "t": "2026-11-20 15:30:12",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-20 15:30:13",
-              "type": "search",
-              "detail": "Depo Sorgu: FAMODIN 40 MG 30 TB."
-            },
-            {
-              "t": "2026-11-20 15:30:13",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-20 15:30:15",
-              "type": "search",
-              "detail": "Depo Sorgu: FAMODIN 40 MG 30 TB."
-            },
             {
               "t": "2026-11-20 15:30:37",
               "type": "cart",
@@ -673,6 +653,26 @@
               "t": "2026-11-20 16:20:33",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-20 16:20:34",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (BOTANIK • 67 Kalem)"
+            },
+            {
+              "t": "2026-11-20 16:20:39",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-20 16:20:45",
+              "type": "cart",
+              "detail": "Toplu Sepet (ISKOOP): 2 Kalem"
+            },
+            {
+              "t": "2026-11-20 16:21:11",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
