@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 16:19:23",
+  "updated_at": "2026-11-20 16:19:53",
   "count": 7,
   "items": [
     {
@@ -804,7 +804,7 @@
       "hwid": "D2E4-AA57-C021",
       "last_pc_name": "DESKTOP-1N3LQF0",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-20 16:18:22",
+      "last_seen_at": "2026-11-20 16:19:53",
       "last_action": "[DESKTOP-1N3LQF0] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-20",
       "today_searches": 12,
@@ -1480,7 +1480,7 @@
           "desk_name": "DESKTOP-1N3LQF0",
           "local_ip": "192.168.1.123",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-20 16:18:22",
+          "last_seen_at": "2026-11-20 16:19:53",
           "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-20",
           "today_searches": 0,
