@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 11:10:12",
+  "updated_at": "2026-11-20 11:10:46",
   "count": 7,
   "items": [
     {
@@ -1908,14 +1908,14 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-20 11:10:12",
-      "last_action": "[DESKTOP-T4EAUS3] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-20 11:10:46",
+      "last_action": "[DESKTOP-T4EAUS3] Toplu Sepet (ALLIANCE): 12 Kalem",
       "today_date": "2026-11-20",
       "today_searches": 2,
-      "today_cart_adds": 1,
+      "today_cart_adds": 2,
       "today_smart_orders": 3,
       "total_searches": 233,
-      "total_cart_adds": 722,
+      "total_cart_adds": 723,
       "total_days_used": 14,
       "total_smart_orders": 601,
       "pc_count": 3,
@@ -2000,22 +2000,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-20 11:10:12",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-20 11:10:46",
+          "last_action": "Toplu Sepet (ALLIANCE): 12 Kalem",
           "today_date": "2026-11-20",
           "today_searches": 2,
-          "today_cart_adds": 1,
+          "today_cart_adds": 2,
           "today_smart_orders": 3,
           "total_searches": 135,
-          "total_cart_adds": 408,
+          "total_cart_adds": 409,
           "total_smart_orders": 412,
           "total_days_used": 14,
           "recent_actions": [
-            {
-              "t": "2026-11-19 16:29:35",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-19 16:29:43",
               "type": "mf_resolve",
@@ -2085,6 +2080,11 @@
               "t": "2026-11-20 11:10:12",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-20 11:10:46",
+              "type": "cart",
+              "detail": "Toplu Sepet (ALLIANCE): 12 Kalem"
             }
           ]
         },
