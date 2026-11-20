@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 11:07:47",
+  "updated_at": "2026-11-20 11:10:12",
   "count": 7,
   "items": [
     {
@@ -1908,14 +1908,14 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-20 11:09:39",
-      "last_action": "[DESKTOP-T4EAUS3] Depo Fiyat Sorgulama",
+      "last_seen_at": "2026-11-20 11:10:12",
+      "last_action": "[DESKTOP-T4EAUS3] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-20",
-      "today_searches": 1,
-      "today_cart_adds": 0,
+      "today_searches": 2,
+      "today_cart_adds": 1,
       "today_smart_orders": 3,
-      "total_searches": 232,
-      "total_cart_adds": 721,
+      "total_searches": 233,
+      "total_cart_adds": 722,
       "total_days_used": 14,
       "total_smart_orders": 601,
       "pc_count": 3,
@@ -2000,27 +2000,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-20 11:09:39",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-20 11:10:12",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-20",
-          "today_searches": 1,
-          "today_cart_adds": 0,
+          "today_searches": 2,
+          "today_cart_adds": 1,
           "today_smart_orders": 3,
-          "total_searches": 134,
-          "total_cart_adds": 407,
+          "total_searches": 135,
+          "total_cart_adds": 408,
           "total_smart_orders": 412,
           "total_days_used": 14,
           "recent_actions": [
-            {
-              "t": "2026-11-19 16:29:31",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-19 16:29:34",
-              "type": "cart",
-              "detail": "Toplu Sepet (ISKOOP): 2 Kalem"
-            },
             {
               "t": "2026-11-19 16:29:35",
               "type": "cart",
@@ -2085,6 +2075,16 @@
               "t": "2026-11-20 11:09:39",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-20 11:09:42",
+              "type": "search",
+              "detail": "Depo Sorgu: MAJEZIK %0.25 30 ML ORAL SPR."
+            },
+            {
+              "t": "2026-11-20 11:10:12",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
