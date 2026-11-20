@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 15:30:29",
+  "updated_at": "2026-11-20 15:30:37",
   "count": 7,
   "items": [
     {
@@ -570,14 +570,14 @@
       "hwid": "2DED-CFF9-D593",
       "last_pc_name": "DESKTOP-8JN0NE5",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-20 15:30:13",
-      "last_action": "[DESKTOP-8JN0NE5] Depo Sorgu: FAMODIN 40 MG 30 TB.",
+      "last_seen_at": "2026-11-20 15:30:37",
+      "last_action": "[DESKTOP-8JN0NE5] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-20",
-      "today_searches": 4,
-      "today_cart_adds": 12,
+      "today_searches": 6,
+      "today_cart_adds": 13,
       "today_smart_orders": 17,
-      "total_searches": 153,
-      "total_cart_adds": 344,
+      "total_searches": 155,
+      "total_cart_adds": 345,
       "total_days_used": 12,
       "total_smart_orders": 749,
       "pc_count": 3,
@@ -588,32 +588,17 @@
           "desk_name": "DESKTOP-8JN0NE5",
           "local_ip": "192.168.1.37",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-20 15:30:13",
-          "last_action": "Depo Sorgu: FAMODIN 40 MG 30 TB.",
+          "last_seen_at": "2026-11-20 15:30:37",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-20",
-          "today_searches": 4,
-          "today_cart_adds": 12,
+          "today_searches": 6,
+          "today_cart_adds": 13,
           "today_smart_orders": 17,
-          "total_searches": 78,
-          "total_cart_adds": 178,
+          "total_searches": 80,
+          "total_cart_adds": 179,
           "total_smart_orders": 383,
           "total_days_used": 12,
           "recent_actions": [
-            {
-              "t": "2026-11-20 15:20:59",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-20 15:21:00",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-20 15:21:28",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-20 15:21:28",
               "type": "critical_stock",
@@ -673,6 +658,21 @@
               "t": "2026-11-20 15:30:13",
               "type": "search",
               "detail": "Depo Sorgu: FAMODIN 40 MG 30 TB."
+            },
+            {
+              "t": "2026-11-20 15:30:13",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-20 15:30:15",
+              "type": "search",
+              "detail": "Depo Sorgu: FAMODIN 40 MG 30 TB."
+            },
+            {
+              "t": "2026-11-20 15:30:37",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
