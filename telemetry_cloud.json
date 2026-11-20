@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 15:19:53",
+  "updated_at": "2026-11-20 15:20:27",
   "count": 7,
   "items": [
     {
@@ -804,15 +804,15 @@
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-20 15:19:20",
-      "last_action": "[DESKTOP-OTHNDUE] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-20 15:20:27",
+      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-20",
       "today_searches": 6,
       "today_cart_adds": 25,
-      "today_smart_orders": 39,
+      "today_smart_orders": 44,
       "total_searches": 692,
       "total_cart_adds": 1152,
-      "total_smart_orders": 1498,
+      "total_smart_orders": 1503,
       "total_days_used": 15,
       "pc_count": 9,
       "devices": {
@@ -916,42 +916,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-20 15:19:20",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-20 15:20:27",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-20",
           "today_searches": 4,
           "today_cart_adds": 23,
-          "today_smart_orders": 27,
+          "today_smart_orders": 32,
           "total_searches": 189,
           "total_cart_adds": 541,
-          "total_smart_orders": 773,
+          "total_smart_orders": 778,
           "total_days_used": 15,
           "recent_actions": [
-            {
-              "t": "2026-11-20 15:11:45",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-20 15:11:45",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 41 Kalem)"
-            },
-            {
-              "t": "2026-11-20 15:11:45",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-20 15:11:52",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-20 15:11:55",
-              "type": "search",
-              "detail": "Depo Sorgu: VENEGIS XR 37.5 MG 28 CAP."
-            },
             {
               "t": "2026-11-20 15:12:09",
               "type": "mf_resolve",
@@ -1001,6 +976,31 @@
               "t": "2026-11-20 15:14:12",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-20 15:19:27",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-20 15:19:27",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 42 Kalem)"
+            },
+            {
+              "t": "2026-11-20 15:19:27",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-20 15:19:29",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (4 Ürün)"
+            },
+            {
+              "t": "2026-11-20 15:20:27",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         },
