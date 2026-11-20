@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 16:10:16",
+  "updated_at": "2026-11-20 16:08:13",
   "count": 7,
   "items": [
     {
@@ -570,16 +570,16 @@
       "hwid": "2DED-CFF9-D593",
       "last_pc_name": "DESKTOP-8JN0NE5",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-20 16:07:16",
+      "last_seen_at": "2026-11-20 16:08:13",
       "last_action": "[DESKTOP-8JN0NE5] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-20",
       "today_searches": 6,
-      "today_cart_adds": 16,
-      "today_smart_orders": 17,
+      "today_cart_adds": 17,
+      "today_smart_orders": 19,
       "total_searches": 155,
-      "total_cart_adds": 348,
+      "total_cart_adds": 349,
       "total_days_used": 12,
-      "total_smart_orders": 749,
+      "total_smart_orders": 751,
       "pc_count": 3,
       "devices": {
         "2DED-CFF9-D593": {
@@ -588,32 +588,17 @@
           "desk_name": "DESKTOP-8JN0NE5",
           "local_ip": "192.168.1.37",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-20 16:07:16",
+          "last_seen_at": "2026-11-20 16:08:13",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-20",
           "today_searches": 6,
-          "today_cart_adds": 16,
-          "today_smart_orders": 17,
+          "today_cart_adds": 17,
+          "today_smart_orders": 19,
           "total_searches": 80,
-          "total_cart_adds": 182,
-          "total_smart_orders": 383,
+          "total_cart_adds": 183,
+          "total_smart_orders": 385,
           "total_days_used": 12,
           "recent_actions": [
-            {
-              "t": "2026-11-20 15:21:28",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (BOTANIK • 56 Kalem)"
-            },
-            {
-              "t": "2026-11-20 15:21:30",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-20 15:21:30",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (BOTANIK • 56 Kalem)"
-            },
             {
               "t": "2026-11-20 15:25:38",
               "type": "cart",
@@ -671,6 +656,21 @@
             },
             {
               "t": "2026-11-20 15:30:37",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-20 16:07:24",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-20 16:07:24",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (BOTANIK • 65 Kalem)"
+            },
+            {
+              "t": "2026-11-20 16:08:13",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
