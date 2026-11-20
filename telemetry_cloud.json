@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 15:32:16",
+  "updated_at": "2026-11-20 15:30:13",
   "count": 7,
   "items": [
     {
@@ -570,13 +570,13 @@
       "hwid": "2DED-CFF9-D593",
       "last_pc_name": "DESKTOP-8JN0NE5",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-20 15:29:54",
-      "last_action": "[DESKTOP-8JN0NE5] Depo Fiyat Sorgulama",
+      "last_seen_at": "2026-11-20 15:30:13",
+      "last_action": "[DESKTOP-8JN0NE5] Depo Sorgu: FAMODIN 40 MG 30 TB.",
       "today_date": "2026-11-20",
-      "today_searches": 1,
+      "today_searches": 4,
       "today_cart_adds": 12,
       "today_smart_orders": 17,
-      "total_searches": 150,
+      "total_searches": 153,
       "total_cart_adds": 344,
       "total_days_used": 12,
       "total_smart_orders": 749,
@@ -588,32 +588,17 @@
           "desk_name": "DESKTOP-8JN0NE5",
           "local_ip": "192.168.1.37",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-20 15:29:54",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-20 15:30:13",
+          "last_action": "Depo Sorgu: FAMODIN 40 MG 30 TB.",
           "today_date": "2026-11-20",
-          "today_searches": 1,
+          "today_searches": 4,
           "today_cart_adds": 12,
           "today_smart_orders": 17,
-          "total_searches": 75,
+          "total_searches": 78,
           "total_cart_adds": 178,
           "total_smart_orders": 383,
           "total_days_used": 12,
           "recent_actions": [
-            {
-              "t": "2026-11-20 15:19:23",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-20 15:20:34",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-20 15:20:53",
-              "type": "cart",
-              "detail": "Toplu Sepet (ALLIANCE): 10 Kalem"
-            },
             {
               "t": "2026-11-20 15:20:59",
               "type": "cart",
@@ -673,6 +658,21 @@
               "t": "2026-11-20 15:29:54",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-20 15:30:01",
+              "type": "search",
+              "detail": "Depo Sorgu: SONDA FOLEY RUSH NO:16"
+            },
+            {
+              "t": "2026-11-20 15:30:12",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-20 15:30:13",
+              "type": "search",
+              "detail": "Depo Sorgu: FAMODIN 40 MG 30 TB."
             }
           ]
         },
