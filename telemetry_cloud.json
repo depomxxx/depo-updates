@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 14:16:53",
+  "updated_at": "2026-11-20 14:17:13",
   "count": 7,
   "items": [
     {
@@ -801,11 +801,11 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D2E4-AA57-C021",
-      "last_pc_name": "DESKTOP-1N3LQF0",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-20 14:16:53",
-      "last_action": "[DESKTOP-1N3LQF0] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-20 14:17:13",
+      "last_action": "[DESKTOP-OTHNDUE] Toplu Sepet (ALLIANCE): 1 Kalem",
       "today_date": "2026-11-20",
       "today_searches": 4,
       "today_cart_adds": 12,
@@ -916,7 +916,7 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-20 14:15:42",
+          "last_seen_at": "2026-11-20 14:17:13",
           "last_action": "Toplu Sepet (ALLIANCE): 1 Kalem",
           "today_date": "2026-11-20",
           "today_searches": 2,
