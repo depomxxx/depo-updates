@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 15:27:27",
+  "updated_at": "2026-11-20 15:27:32",
   "count": 7,
   "items": [
     {
@@ -570,16 +570,16 @@
       "hwid": "2DED-CFF9-D593",
       "last_pc_name": "DESKTOP-8JN0NE5",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-20 15:27:10",
-      "last_action": "[DESKTOP-8JN0NE5] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-20 15:27:32",
+      "last_action": "[DESKTOP-8JN0NE5] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-20",
       "today_searches": 0,
-      "today_cart_adds": 11,
-      "today_smart_orders": 15,
+      "today_cart_adds": 12,
+      "today_smart_orders": 16,
       "total_searches": 149,
-      "total_cart_adds": 343,
+      "total_cart_adds": 344,
       "total_days_used": 12,
-      "total_smart_orders": 747,
+      "total_smart_orders": 748,
       "pc_count": 3,
       "devices": {
         "2DED-CFF9-D593": {
@@ -588,22 +588,17 @@
           "desk_name": "DESKTOP-8JN0NE5",
           "local_ip": "192.168.1.37",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-20 15:27:10",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-20 15:27:32",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-20",
           "today_searches": 0,
-          "today_cart_adds": 11,
-          "today_smart_orders": 15,
+          "today_cart_adds": 12,
+          "today_smart_orders": 16,
           "total_searches": 74,
-          "total_cart_adds": 177,
-          "total_smart_orders": 381,
+          "total_cart_adds": 178,
+          "total_smart_orders": 382,
           "total_days_used": 12,
           "recent_actions": [
-            {
-              "t": "2026-11-20 14:03:51",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-20 14:03:52",
               "type": "mf_resolve",
@@ -673,6 +668,11 @@
               "t": "2026-11-20 15:27:10",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-20 15:27:32",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         },
