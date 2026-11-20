@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 11:52:05",
+  "updated_at": "2026-11-20 11:52:46",
   "count": 7,
   "items": [
     {
@@ -804,13 +804,13 @@
       "hwid": "D2E4-AA57-C021",
       "last_pc_name": "DESKTOP-1N3LQF0",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-20 11:52:07",
+      "last_seen_at": "2026-11-20 11:52:46",
       "last_action": "[DESKTOP-1N3LQF0] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-20",
-      "today_searches": 3,
+      "today_searches": 4,
       "today_cart_adds": 10,
       "today_smart_orders": 33,
-      "total_searches": 689,
+      "total_searches": 690,
       "total_cart_adds": 1137,
       "total_smart_orders": 1492,
       "total_days_used": 15,
@@ -1386,22 +1386,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-20 11:52:05",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-20 11:52:26",
+          "last_action": "Depo Sorgu: RELACTAZ DAMLA %56.9  15 ML ŞIŞE",
           "today_date": "2026-11-20",
-          "today_searches": 1,
+          "today_searches": 2,
           "today_cart_adds": 0,
           "today_smart_orders": 5,
-          "total_searches": 116,
+          "total_searches": 117,
           "total_cart_adds": 110,
           "total_smart_orders": 135,
           "total_days_used": 15,
           "recent_actions": [
-            {
-              "t": "2026-11-19 11:03:11",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-19 11:03:25",
               "type": "search",
@@ -1471,6 +1466,11 @@
               "t": "2026-11-20 11:52:05",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-20 11:52:15",
+              "type": "search",
+              "detail": "Depo Sorgu: RELACTAZ DAMLA %56.9  15 ML ŞIŞE"
             }
           ]
         },
@@ -1480,7 +1480,7 @@
           "desk_name": "DESKTOP-1N3LQF0",
           "local_ip": "192.168.1.123",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-20 11:52:07",
+          "last_seen_at": "2026-11-20 11:52:46",
           "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-20",
           "today_searches": 0,
