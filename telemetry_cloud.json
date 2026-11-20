@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 16:09:53",
+  "updated_at": "2026-11-20 16:10:18",
   "count": 7,
   "items": [
     {
@@ -570,13 +570,13 @@
       "hwid": "2DED-CFF9-D593",
       "last_pc_name": "DESKTOP-8JN0NE5",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-20 16:08:54",
-      "last_action": "[DESKTOP-8JN0NE5] Depo Fiyat Sorgulama",
+      "last_seen_at": "2026-11-20 16:10:18",
+      "last_action": "[DESKTOP-8JN0NE5] Depo Sorgu: PULCET 40 MG 28 TB",
       "today_date": "2026-11-20",
-      "today_searches": 7,
+      "today_searches": 8,
       "today_cart_adds": 20,
       "today_smart_orders": 21,
-      "total_searches": 156,
+      "total_searches": 157,
       "total_cart_adds": 352,
       "total_days_used": 12,
       "total_smart_orders": 753,
@@ -588,22 +588,17 @@
           "desk_name": "DESKTOP-8JN0NE5",
           "local_ip": "192.168.1.37",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-20 16:08:54",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-20 16:10:18",
+          "last_action": "Depo Sorgu: PULCET 40 MG 28 TB",
           "today_date": "2026-11-20",
-          "today_searches": 7,
+          "today_searches": 8,
           "today_cart_adds": 20,
           "today_smart_orders": 21,
-          "total_searches": 81,
+          "total_searches": 82,
           "total_cart_adds": 186,
           "total_smart_orders": 387,
           "total_days_used": 12,
           "recent_actions": [
-            {
-              "t": "2026-11-20 15:29:54",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-20 15:30:01",
               "type": "search",
@@ -673,6 +668,11 @@
               "t": "2026-11-20 16:08:54",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-20 16:08:56",
+              "type": "search",
+              "detail": "Depo Sorgu: PULCET 40 MG 28 TB"
             }
           ]
         },
