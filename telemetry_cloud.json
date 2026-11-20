@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 15:14:13",
+  "updated_at": "2026-11-20 15:12:09",
   "count": 7,
   "items": [
     {
@@ -804,15 +804,15 @@
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-20 15:11:45",
-      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-20 15:12:09",
+      "last_action": "[DESKTOP-OTHNDUE] Canlı MF Sorgulama (30 Ürün)",
       "today_date": "2026-11-20",
-      "today_searches": 4,
+      "today_searches": 6,
       "today_cart_adds": 12,
-      "today_smart_orders": 34,
-      "total_searches": 690,
+      "today_smart_orders": 37,
+      "total_searches": 692,
       "total_cart_adds": 1139,
-      "total_smart_orders": 1493,
+      "total_smart_orders": 1496,
       "total_days_used": 15,
       "pc_count": 9,
       "devices": {
@@ -916,42 +916,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-20 15:11:45",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-20 15:12:09",
+          "last_action": "Canlı MF Sorgulama (30 Ürün)",
           "today_date": "2026-11-20",
-          "today_searches": 2,
+          "today_searches": 4,
           "today_cart_adds": 10,
-          "today_smart_orders": 22,
-          "total_searches": 187,
+          "today_smart_orders": 25,
+          "total_searches": 189,
           "total_cart_adds": 528,
-          "total_smart_orders": 768,
+          "total_smart_orders": 771,
           "total_days_used": 15,
           "recent_actions": [
-            {
-              "t": "2026-11-20 10:19:05",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (3 Ürün)"
-            },
-            {
-              "t": "2026-11-20 10:19:20",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-20 10:19:20",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 10 Kalem)"
-            },
-            {
-              "t": "2026-11-20 10:45:03",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-20 10:45:03",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 17 Kalem)"
-            },
             {
               "t": "2026-11-20 10:45:03",
               "type": "mf_resolve",
@@ -1001,6 +976,31 @@
               "t": "2026-11-20 15:11:45",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-20 15:11:45",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 41 Kalem)"
+            },
+            {
+              "t": "2026-11-20 15:11:45",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-20 15:11:52",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-20 15:11:55",
+              "type": "search",
+              "detail": "Depo Sorgu: VENEGIS XR 37.5 MG 28 CAP."
+            },
+            {
+              "t": "2026-11-20 15:12:09",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (30 Ürün)"
             }
           ]
         },
