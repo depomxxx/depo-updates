@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 16:08:34",
+  "updated_at": "2026-11-20 16:08:54",
   "count": 7,
   "items": [
     {
@@ -570,16 +570,16 @@
       "hwid": "2DED-CFF9-D593",
       "last_pc_name": "DESKTOP-8JN0NE5",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-20 16:08:34",
-      "last_action": "[DESKTOP-8JN0NE5] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-20 16:08:54",
+      "last_action": "[DESKTOP-8JN0NE5] Depo Fiyat Sorgulama",
       "today_date": "2026-11-20",
-      "today_searches": 6,
-      "today_cart_adds": 18,
-      "today_smart_orders": 19,
-      "total_searches": 155,
-      "total_cart_adds": 350,
+      "today_searches": 7,
+      "today_cart_adds": 20,
+      "today_smart_orders": 21,
+      "total_searches": 156,
+      "total_cart_adds": 352,
       "total_days_used": 12,
-      "total_smart_orders": 751,
+      "total_smart_orders": 753,
       "pc_count": 3,
       "devices": {
         "2DED-CFF9-D593": {
@@ -588,42 +588,17 @@
           "desk_name": "DESKTOP-8JN0NE5",
           "local_ip": "192.168.1.37",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-20 16:08:34",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-20 16:08:54",
+          "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-20",
-          "today_searches": 6,
-          "today_cart_adds": 18,
-          "today_smart_orders": 19,
-          "total_searches": 80,
-          "total_cart_adds": 184,
-          "total_smart_orders": 385,
+          "today_searches": 7,
+          "today_cart_adds": 20,
+          "today_smart_orders": 21,
+          "total_searches": 81,
+          "total_cart_adds": 186,
+          "total_smart_orders": 387,
           "total_days_used": 12,
           "recent_actions": [
-            {
-              "t": "2026-11-20 15:25:38",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-20 15:26:29",
-              "type": "cart",
-              "detail": "Toplu Sepet (ISKOOP): 17 Kalem"
-            },
-            {
-              "t": "2026-11-20 15:27:10",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-20 15:27:32",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-20 15:27:32",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (BOTANIK • 56 Kalem)"
-            },
             {
               "t": "2026-11-20 15:29:54",
               "type": "search",
@@ -673,6 +648,31 @@
               "t": "2026-11-20 16:08:13",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-20 16:08:35",
+              "type": "cart",
+              "detail": "Toplu Sepet (ISKOOP): 4 Kalem"
+            },
+            {
+              "t": "2026-11-20 16:08:36",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-20 16:08:48",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-20 16:08:48",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (BOTANIK • 65 Kalem)"
+            },
+            {
+              "t": "2026-11-20 16:08:54",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ]
         },
