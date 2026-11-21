@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21 16:32:38",
+  "updated_at": "2026-11-21 16:32:56",
   "count": 7,
   "items": [
     {
@@ -804,14 +804,14 @@
       "hwid": "D719-CEB2-1542",
       "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-21 16:32:26",
-      "last_action": "[DESKTOP-M530BBB] Depo Fiyat Sorgulama",
+      "last_seen_at": "2026-11-21 16:32:56",
+      "last_action": "[DESKTOP-M530BBB] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-21",
-      "today_searches": 1,
-      "today_cart_adds": 1,
+      "today_searches": 2,
+      "today_cart_adds": 2,
       "today_smart_orders": 14,
-      "total_searches": 701,
-      "total_cart_adds": 1159,
+      "total_searches": 702,
+      "total_cart_adds": 1160,
       "total_smart_orders": 1533,
       "total_days_used": 16,
       "pc_count": 9,
@@ -1386,27 +1386,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-21 16:32:26",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-21 16:32:56",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-21",
-          "today_searches": 1,
-          "today_cart_adds": 1,
+          "today_searches": 2,
+          "today_cart_adds": 2,
           "today_smart_orders": 14,
-          "total_searches": 120,
-          "total_cart_adds": 115,
+          "total_searches": 121,
+          "total_cart_adds": 116,
           "total_smart_orders": 158,
           "total_days_used": 16,
           "recent_actions": [
-            {
-              "t": "2026-11-21 08:53:06",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-21 08:53:14",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (1 Ürün)"
-            },
             {
               "t": "2026-11-21 10:13:44",
               "type": "critical_stock",
@@ -1471,6 +1461,16 @@
               "t": "2026-11-21 16:32:26",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-21 16:32:34",
+              "type": "search",
+              "detail": "Depo Sorgu: ELENATAL 3 KAPSÜL MULTİVİTAMİN, MİNERA"
+            },
+            {
+              "t": "2026-11-21 16:32:56",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
