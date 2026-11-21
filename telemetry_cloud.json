@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21 15:05:21",
+  "updated_at": "2026-11-21 15:05:39",
   "count": 7,
   "items": [
     {
@@ -570,16 +570,16 @@
       "hwid": "2DED-CFF9-D593",
       "last_pc_name": "DESKTOP-8JN0NE5",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-21 15:05:21",
-      "last_action": "[DESKTOP-8JN0NE5] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-21 15:05:39",
+      "last_action": "[DESKTOP-8JN0NE5] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-21",
       "today_searches": 0,
-      "today_cart_adds": 1,
-      "today_smart_orders": 7,
+      "today_cart_adds": 4,
+      "today_smart_orders": 8,
       "total_searches": 157,
-      "total_cart_adds": 357,
+      "total_cart_adds": 360,
       "total_days_used": 13,
-      "total_smart_orders": 764,
+      "total_smart_orders": 765,
       "pc_count": 3,
       "devices": {
         "2DED-CFF9-D593": {
@@ -588,32 +588,17 @@
           "desk_name": "DESKTOP-8JN0NE5",
           "local_ip": "192.168.1.37",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-21 15:05:21",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-21 15:05:39",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-21",
           "today_searches": 0,
-          "today_cart_adds": 1,
-          "today_smart_orders": 7,
+          "today_cart_adds": 4,
+          "today_smart_orders": 8,
           "total_searches": 82,
-          "total_cart_adds": 191,
-          "total_smart_orders": 398,
+          "total_cart_adds": 194,
+          "total_smart_orders": 399,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-20 16:08:56",
-              "type": "search",
-              "detail": "Depo Sorgu: PULCET 40 MG 28 TB"
-            },
-            {
-              "t": "2026-11-20 16:20:33",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-20 16:20:34",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (BOTANIK • 67 Kalem)"
-            },
             {
               "t": "2026-11-20 16:20:39",
               "type": "cart",
@@ -673,6 +658,21 @@
               "t": "2026-11-21 15:05:21",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-21 15:05:26",
+              "type": "cart",
+              "detail": "Toplu Sepet (ISKOOP): 1 Kalem"
+            },
+            {
+              "t": "2026-11-21 15:05:30",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-21 15:05:39",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         },
