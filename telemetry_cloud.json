@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21 10:15:39",
+  "updated_at": "2026-11-21 10:16:00",
   "count": 7,
   "items": [
     {
@@ -804,14 +804,14 @@
       "hwid": "D719-CEB2-1542",
       "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-21 10:15:39",
-      "last_action": "[DESKTOP-M530BBB] Canlı MF Sorgulama (15 Ürün)",
+      "last_seen_at": "2026-11-21 10:16:00",
+      "last_action": "[DESKTOP-M530BBB] Eczatrend Katılım: OTRIVINE 0.5 MG 10 ML PED SPR. x15",
       "today_date": "2026-11-21",
       "today_searches": 0,
-      "today_cart_adds": 0,
+      "today_cart_adds": 1,
       "today_smart_orders": 6,
       "total_searches": 700,
-      "total_cart_adds": 1158,
+      "total_cart_adds": 1159,
       "total_smart_orders": 1525,
       "total_days_used": 16,
       "pc_count": 9,
@@ -1386,22 +1386,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-21 10:15:39",
-          "last_action": "Canlı MF Sorgulama (15 Ürün)",
+          "last_seen_at": "2026-11-21 10:16:00",
+          "last_action": "Eczatrend Katılım: OTRIVINE 0.5 MG 10 ML PED SPR. x15",
           "today_date": "2026-11-21",
           "today_searches": 0,
-          "today_cart_adds": 0,
+          "today_cart_adds": 1,
           "today_smart_orders": 6,
           "total_searches": 119,
-          "total_cart_adds": 114,
+          "total_cart_adds": 115,
           "total_smart_orders": 150,
           "total_days_used": 16,
           "recent_actions": [
-            {
-              "t": "2026-11-20 17:56:52",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-20 17:57:07",
               "type": "mf_resolve",
@@ -1471,6 +1466,11 @@
               "t": "2026-11-21 10:14:04",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (15 Ürün)"
+            },
+            {
+              "t": "2026-11-21 10:16:00",
+              "type": "cart",
+              "detail": "Eczatrend Katılım: OTRIVINE 0.5 MG 10 ML PED SPR. x15"
             }
           ]
         },
