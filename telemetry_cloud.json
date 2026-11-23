@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 16:11:06",
+  "updated_at": "2026-11-23 16:13:37",
   "count": 7,
   "items": [
     {
@@ -1908,16 +1908,16 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-23 16:12:33",
-      "last_action": "[DESKTOP-T4EAUS3] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-23 16:13:37",
+      "last_action": "[DESKTOP-T4EAUS3] Depo Fiyat Sorgulama",
       "today_date": "2026-11-23",
-      "today_searches": 2,
+      "today_searches": 3,
       "today_cart_adds": 17,
-      "today_smart_orders": 13,
-      "total_searches": 239,
+      "today_smart_orders": 16,
+      "total_searches": 240,
       "total_cart_adds": 744,
       "total_days_used": 15,
-      "total_smart_orders": 626,
+      "total_smart_orders": 629,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -2000,37 +2000,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-23 16:12:33",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-23 16:13:37",
+          "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-23",
-          "today_searches": 2,
+          "today_searches": 3,
           "today_cart_adds": 17,
-          "today_smart_orders": 13,
-          "total_searches": 141,
+          "today_smart_orders": 16,
+          "total_searches": 142,
           "total_cart_adds": 430,
-          "total_smart_orders": 437,
+          "total_smart_orders": 440,
           "total_days_used": 15,
           "recent_actions": [
-            {
-              "t": "2026-11-23 11:38:25",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-23 11:38:30",
-              "type": "cart",
-              "detail": "Toplu Sepet (ALLIANCE): 2 Kalem"
-            },
-            {
-              "t": "2026-11-23 11:38:31",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-23 11:39:15",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-23 11:41:49",
               "type": "cart",
@@ -2085,6 +2065,26 @@
               "t": "2026-11-23 16:12:33",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-23 16:12:33",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (BOTANIK • 83 Kalem)"
+            },
+            {
+              "t": "2026-11-23 16:12:33",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-23 16:12:44",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (9 Ürün)"
+            },
+            {
+              "t": "2026-11-23 16:13:37",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ]
         },
