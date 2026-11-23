@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 13:52:13",
+  "updated_at": "2026-11-23 13:52:25",
   "count": 7,
   "items": [
     {
@@ -804,13 +804,13 @@
       "hwid": "8FD3-5823-91F4",
       "last_pc_name": "Eda-Bilgin",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-23 13:51:28",
+      "last_seen_at": "2026-11-23 13:52:25",
       "last_action": "[Eda-Bilgin] Depo Fiyat Sorgulama",
       "today_date": "2026-11-23",
-      "today_searches": 25,
+      "today_searches": 29,
       "today_cart_adds": 17,
       "today_smart_orders": 37,
-      "total_searches": 727,
+      "total_searches": 731,
       "total_cart_adds": 1178,
       "total_smart_orders": 1570,
       "total_days_used": 17,
@@ -1010,37 +1010,17 @@
           "desk_name": "Eda-Bilgin",
           "local_ip": "192.168.1.120",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-23 13:51:28",
+          "last_seen_at": "2026-11-23 13:52:25",
           "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-23",
-          "today_searches": 9,
+          "today_searches": 13,
           "today_cart_adds": 3,
           "today_smart_orders": 7,
-          "total_searches": 66,
+          "total_searches": 70,
           "total_cart_adds": 17,
           "total_smart_orders": 75,
           "total_days_used": 12,
           "recent_actions": [
-            {
-              "t": "2026-11-23 13:31:01",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (30 Ürün)"
-            },
-            {
-              "t": "2026-11-23 13:31:01",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-23 13:31:13",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (22 Ürün)"
-            },
-            {
-              "t": "2026-11-23 13:45:36",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-23 13:45:39",
               "type": "search",
@@ -1093,6 +1073,26 @@
             },
             {
               "t": "2026-11-23 13:51:28",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-23 13:51:31",
+              "type": "search",
+              "detail": "Depo Sorgu: BETASERC 24 MG 100 TB."
+            },
+            {
+              "t": "2026-11-23 13:51:41",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-23 13:51:43",
+              "type": "search",
+              "detail": "Depo Sorgu: BETASERC 16 MG 30 TB."
+            },
+            {
+              "t": "2026-11-23 13:52:25",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
             }
