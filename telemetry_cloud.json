@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 15:05:01",
+  "updated_at": "2026-11-23 15:05:22",
   "count": 7,
   "items": [
     {
@@ -804,14 +804,14 @@
       "hwid": "D719-CEB2-1542",
       "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-23 15:05:01",
-      "last_action": "[DESKTOP-M530BBB] Depo Fiyat Sorgulama",
+      "last_seen_at": "2026-11-23 15:05:22",
+      "last_action": "[DESKTOP-M530BBB] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-23",
-      "today_searches": 53,
-      "today_cart_adds": 22,
+      "today_searches": 56,
+      "today_cart_adds": 23,
       "today_smart_orders": 71,
-      "total_searches": 755,
-      "total_cart_adds": 1183,
+      "total_searches": 758,
+      "total_cart_adds": 1184,
       "total_smart_orders": 1604,
       "total_days_used": 17,
       "pc_count": 9,
@@ -1386,37 +1386,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.100",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-23 15:05:01",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-23 15:05:22",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-23",
-          "today_searches": 15,
-          "today_cart_adds": 4,
+          "today_searches": 18,
+          "today_cart_adds": 5,
           "today_smart_orders": 8,
-          "total_searches": 136,
-          "total_cart_adds": 121,
+          "total_searches": 139,
+          "total_cart_adds": 122,
           "total_smart_orders": 166,
           "total_days_used": 17,
           "recent_actions": [
-            {
-              "t": "2026-11-23 11:40:28",
-              "type": "search",
-              "detail": "Depo Sorgu: PX.IZOLEN 500 ML"
-            },
-            {
-              "t": "2026-11-23 11:41:04",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-23 11:42:31",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-23 11:42:40",
-              "type": "search",
-              "detail": "Depo Sorgu: ISOLYTE 500ML SOLUSYON SETLI MEDIFLEKS"
-            },
             {
               "t": "2026-11-23 14:13:34",
               "type": "critical_stock",
@@ -1471,6 +1451,26 @@
               "t": "2026-11-23 15:05:01",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-23 15:05:07",
+              "type": "search",
+              "detail": "Depo Sorgu: TARDEN 40 MG 30 FTB."
+            },
+            {
+              "t": "2026-11-23 15:05:08",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-23 15:05:09",
+              "type": "search",
+              "detail": "Depo Sorgu: TARDEN 40 MG 30 FTB."
+            },
+            {
+              "t": "2026-11-23 15:05:22",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
