@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 14:31:21",
+  "updated_at": "2026-11-23 14:31:22",
   "count": 7,
   "items": [
     {
@@ -801,16 +801,16 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "5834-FAC9-B71F",
-      "last_pc_name": "DESKTOP-OTHNDUE",
+      "hwid": "D719-CEB2-1542",
+      "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-23 14:31:06",
-      "last_action": "[DESKTOP-OTHNDUE] Toplu Sepet (ALLIANCE): 2 Kalem",
+      "last_seen_at": "2026-11-23 14:31:22",
+      "last_action": "[DESKTOP-M530BBB] Depo Fiyat Sorgulama",
       "today_date": "2026-11-23",
-      "today_searches": 48,
+      "today_searches": 49,
       "today_cart_adds": 20,
       "today_smart_orders": 57,
-      "total_searches": 750,
+      "total_searches": 751,
       "total_cart_adds": 1181,
       "total_smart_orders": 1590,
       "total_days_used": 17,
@@ -1386,22 +1386,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.100",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-23 14:30:40",
-          "last_action": "Canlı MF Sorgulama (20 Ürün)",
+          "last_seen_at": "2026-11-23 14:31:22",
+          "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-23",
-          "today_searches": 12,
+          "today_searches": 13,
           "today_cart_adds": 2,
           "today_smart_orders": 8,
-          "total_searches": 133,
+          "total_searches": 134,
           "total_cart_adds": 119,
           "total_smart_orders": 166,
           "total_days_used": 17,
           "recent_actions": [
-            {
-              "t": "2026-11-23 11:37:51",
-              "type": "search",
-              "detail": "Depo Sorgu: ISOLYTE 500ML SOLUSYON SETLI MEDIFLEKS"
-            },
             {
               "t": "2026-11-23 11:38:12",
               "type": "search",
@@ -1471,6 +1466,11 @@
               "t": "2026-11-23 14:14:28",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (20 Ürün)"
+            },
+            {
+              "t": "2026-11-23 14:31:22",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ]
         },
@@ -1480,7 +1480,7 @@
           "desk_name": "DESKTOP-1N3LQF0",
           "local_ip": "192.168.1.123",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-23 14:30:42",
+          "last_seen_at": "2026-11-23 14:30:59",
           "last_action": "Canlı MF Sorgulama (26 Ürün)",
           "today_date": "2026-11-23",
           "today_searches": 2,
