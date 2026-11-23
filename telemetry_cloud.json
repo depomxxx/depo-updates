@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 16:12:38",
+  "updated_at": "2026-11-23 16:15:06",
   "count": 7,
   "items": [
     {
@@ -1908,13 +1908,13 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-23 16:13:37",
-      "last_action": "[DESKTOP-T4EAUS3] Depo Fiyat Sorgulama",
+      "last_seen_at": "2026-11-23 16:15:06",
+      "last_action": "[DESKTOP-T4EAUS3] Depo Sorgu: ON CALL PLUS STRIP 50 LI",
       "today_date": "2026-11-23",
-      "today_searches": 3,
+      "today_searches": 4,
       "today_cart_adds": 17,
       "today_smart_orders": 16,
-      "total_searches": 240,
+      "total_searches": 241,
       "total_cart_adds": 744,
       "total_days_used": 15,
       "total_smart_orders": 629,
@@ -2000,22 +2000,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-23 16:13:37",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-23 16:15:06",
+          "last_action": "Depo Sorgu: ON CALL PLUS STRIP 50 LI",
           "today_date": "2026-11-23",
-          "today_searches": 3,
+          "today_searches": 4,
           "today_cart_adds": 17,
           "today_smart_orders": 16,
-          "total_searches": 142,
+          "total_searches": 143,
           "total_cart_adds": 430,
           "total_smart_orders": 440,
           "total_days_used": 15,
           "recent_actions": [
-            {
-              "t": "2026-11-23 11:41:49",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-23 11:41:53",
               "type": "cart",
@@ -2085,6 +2080,11 @@
               "t": "2026-11-23 16:13:37",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-23 16:13:42",
+              "type": "search",
+              "detail": "Depo Sorgu: ON CALL PLUS STRIP 50 LI"
             }
           ]
         },
