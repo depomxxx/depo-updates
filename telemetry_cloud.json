@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 13:48:54",
+  "updated_at": "2026-11-23 13:49:09",
   "count": 7,
   "items": [
     {
@@ -804,14 +804,14 @@
       "hwid": "8FD3-5823-91F4",
       "last_pc_name": "Eda-Bilgin",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-23 13:48:32",
-      "last_action": "[Eda-Bilgin] Depo Fiyat Sorgulama",
+      "last_seen_at": "2026-11-23 13:49:09",
+      "last_action": "[Eda-Bilgin] Eczatrend Katılım: BETASERC 24 MG 60 TB. x30",
       "today_date": "2026-11-23",
-      "today_searches": 23,
-      "today_cart_adds": 14,
+      "today_searches": 24,
+      "today_cart_adds": 15,
       "today_smart_orders": 37,
-      "total_searches": 725,
-      "total_cart_adds": 1175,
+      "total_searches": 726,
+      "total_cart_adds": 1176,
       "total_smart_orders": 1570,
       "total_days_used": 17,
       "pc_count": 9,
@@ -1010,27 +1010,17 @@
           "desk_name": "Eda-Bilgin",
           "local_ip": "192.168.1.120",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-23 13:48:32",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-23 13:49:09",
+          "last_action": "Eczatrend Katılım: BETASERC 24 MG 60 TB. x30",
           "today_date": "2026-11-23",
-          "today_searches": 7,
-          "today_cart_adds": 0,
+          "today_searches": 8,
+          "today_cart_adds": 1,
           "today_smart_orders": 7,
-          "total_searches": 64,
-          "total_cart_adds": 14,
+          "total_searches": 65,
+          "total_cart_adds": 15,
           "total_smart_orders": 75,
           "total_days_used": 12,
           "recent_actions": [
-            {
-              "t": "2026-11-18 14:33:40",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (6 Ürün)"
-            },
-            {
-              "t": "2026-11-23 13:30:05",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-23 13:30:07",
               "type": "mf_resolve",
@@ -1095,6 +1085,16 @@
               "t": "2026-11-23 13:48:32",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-23 13:48:33",
+              "type": "search",
+              "detail": "Depo Sorgu: BETASERC 24 MG 60 TB."
+            },
+            {
+              "t": "2026-11-23 13:49:09",
+              "type": "cart",
+              "detail": "Eczatrend Katılım: BETASERC 24 MG 60 TB. x30"
             }
           ]
         },
