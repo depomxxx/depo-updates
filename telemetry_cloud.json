@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 11:35:35",
+  "updated_at": "2026-11-23 11:36:01",
   "count": 7,
   "items": [
     {
@@ -1908,16 +1908,16 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-23 11:35:35",
-      "last_action": "Program Açık (Canlı)",
+      "last_seen_at": "2026-11-23 11:36:01",
+      "last_action": "[DESKTOP-T4EAUS3] Depo Sorgu: LIXIANA 60 MG 28 FTB.",
       "today_date": "2026-11-23",
-      "today_searches": 0,
+      "today_searches": 2,
       "today_cart_adds": 0,
-      "today_smart_orders": 0,
-      "total_searches": 237,
+      "today_smart_orders": 2,
+      "total_searches": 239,
       "total_cart_adds": 727,
       "total_days_used": 15,
-      "total_smart_orders": 613,
+      "total_smart_orders": 615,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -2000,37 +2000,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-23 11:35:35",
-          "last_action": "Program Açık (Canlı)",
+          "last_seen_at": "2026-11-23 11:36:01",
+          "last_action": "Depo Sorgu: LIXIANA 60 MG 28 FTB.",
           "today_date": "2026-11-23",
-          "today_searches": 0,
+          "today_searches": 2,
           "today_cart_adds": 0,
-          "today_smart_orders": 0,
-          "total_searches": 139,
+          "today_smart_orders": 2,
+          "total_searches": 141,
           "total_cart_adds": 413,
-          "total_smart_orders": 424,
+          "total_smart_orders": 426,
           "total_days_used": 15,
           "recent_actions": [
-            {
-              "t": "2026-11-20 11:11:21",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-20 11:11:22",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (1 Ürün)"
-            },
-            {
-              "t": "2026-11-20 11:11:26",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-20 11:11:26",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (BOTANIK • 21 Kalem)"
-            },
             {
               "t": "2026-11-20 11:11:26",
               "type": "mf_resolve",
@@ -2085,6 +2065,26 @@
               "t": "2026-11-20 11:16:38",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (1 Ürün)"
+            },
+            {
+              "t": "2026-11-23 11:35:39",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-23 11:35:39",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-23 11:35:46",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-23 11:36:01",
+              "type": "search",
+              "detail": "Depo Sorgu: LIXIANA 60 MG 28 FTB."
             }
           ]
         },
