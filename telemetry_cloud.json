@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 11:40:01",
+  "updated_at": "2026-11-23 11:40:03",
   "count": 7,
   "items": [
     {
@@ -801,16 +801,16 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "5834-FAC9-B71F",
-      "last_pc_name": "DESKTOP-OTHNDUE",
+      "hwid": "D719-CEB2-1542",
+      "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-23 11:38:57",
-      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-23 11:40:03",
+      "last_action": "[DESKTOP-M530BBB] Depo Sorgu: NOOTROPIL 1 GR 5 ML 12 AMP.",
       "today_date": "2026-11-23",
-      "today_searches": 9,
+      "today_searches": 10,
       "today_cart_adds": 8,
       "today_smart_orders": 13,
-      "total_searches": 711,
+      "total_searches": 712,
       "total_cart_adds": 1169,
       "total_smart_orders": 1546,
       "total_days_used": 17,
@@ -1386,22 +1386,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.100",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-23 11:38:12",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-23 11:40:03",
+          "last_action": "Depo Sorgu: NOOTROPIL 1 GR 5 ML 12 AMP.",
           "today_date": "2026-11-23",
-          "today_searches": 5,
+          "today_searches": 6,
           "today_cart_adds": 0,
           "today_smart_orders": 3,
-          "total_searches": 126,
+          "total_searches": 127,
           "total_cart_adds": 117,
           "total_smart_orders": 161,
           "total_days_used": 17,
           "recent_actions": [
-            {
-              "t": "2026-11-21 14:36:45",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-21 14:37:03",
               "type": "mf_resolve",
@@ -1471,6 +1466,11 @@
               "t": "2026-11-23 11:38:12",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-23 11:38:13",
+              "type": "search",
+              "detail": "Depo Sorgu: NOOTROPIL 1 GR 5 ML 12 AMP."
             }
           ]
         },
