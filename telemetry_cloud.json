@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 14:21:23",
+  "updated_at": "2026-11-23 14:19:10",
   "count": 7,
   "items": [
     {
@@ -804,15 +804,15 @@
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-23 14:18:49",
-      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-23 14:19:10",
+      "last_action": "[DESKTOP-OTHNDUE] Depo Fiyat Sorgulama",
       "today_date": "2026-11-23",
-      "today_searches": 40,
+      "today_searches": 43,
       "today_cart_adds": 18,
-      "today_smart_orders": 48,
-      "total_searches": 742,
+      "today_smart_orders": 50,
+      "total_searches": 745,
       "total_cart_adds": 1179,
-      "total_smart_orders": 1581,
+      "total_smart_orders": 1583,
       "total_days_used": 17,
       "pc_count": 9,
       "devices": {
@@ -916,42 +916,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-23 14:18:49",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-23 14:19:10",
+          "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-23",
-          "today_searches": 6,
+          "today_searches": 9,
           "today_cart_adds": 12,
-          "today_smart_orders": 28,
-          "total_searches": 201,
+          "today_smart_orders": 30,
+          "total_searches": 204,
           "total_cart_adds": 557,
-          "total_smart_orders": 813,
+          "total_smart_orders": 815,
           "total_days_used": 16,
           "recent_actions": [
-            {
-              "t": "2026-11-23 11:47:24",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 24 Kalem)"
-            },
-            {
-              "t": "2026-11-23 11:59:06",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-23 11:59:06",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 24 Kalem)"
-            },
-            {
-              "t": "2026-11-23 11:59:06",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-23 11:59:40",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (16 Ürün)"
-            },
             {
               "t": "2026-11-23 13:42:20",
               "type": "critical_stock",
@@ -1001,6 +976,31 @@
               "t": "2026-11-23 14:18:49",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-23 14:18:49",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 36 Kalem)"
+            },
+            {
+              "t": "2026-11-23 14:18:49",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-23 14:18:57",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-23 14:19:00",
+              "type": "search",
+              "detail": "Depo Sorgu: SECITA 20 MG 28 FTB"
+            },
+            {
+              "t": "2026-11-23 14:19:10",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ]
         },
