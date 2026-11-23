@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 17:50:41",
+  "updated_at": "2026-11-23 17:50:50",
   "count": 7,
   "items": [
     {
@@ -796,22 +796,22 @@
       "pharmacist_name": "EDA BİLGİN",
       "phone": "05077034200",
       "city": "SAMSUN/İLKADIM",
-      "gln_no": "8680001112258",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "8FD3-5823-91F4",
-      "last_pc_name": "Eda-Bilgin",
+      "hwid": "D719-CEB2-1542",
+      "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-23 17:50:41",
-      "last_action": "[Eda-Bilgin] Depo Sorgu: ZEDPREX 20 MG 24 CAP.",
+      "last_seen_at": "2026-11-23 17:50:50",
+      "last_action": "[DESKTOP-M530BBB] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-23",
       "today_searches": 66,
-      "today_cart_adds": 32,
+      "today_cart_adds": 33,
       "today_smart_orders": 85,
       "total_searches": 768,
-      "total_cart_adds": 1193,
+      "total_cart_adds": 1194,
       "total_smart_orders": 1618,
       "total_days_used": 17,
       "pc_count": 9,
@@ -1386,22 +1386,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.100",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-23 17:50:39",
-          "last_action": "Depo Sorgu: GYREX 200 MG 30 FTB.",
+          "last_seen_at": "2026-11-23 17:50:50",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-23",
           "today_searches": 28,
-          "today_cart_adds": 10,
+          "today_cart_adds": 11,
           "today_smart_orders": 8,
           "total_searches": 149,
-          "total_cart_adds": 127,
+          "total_cart_adds": 128,
           "total_smart_orders": 166,
           "total_days_used": 17,
           "recent_actions": [
-            {
-              "t": "2026-11-23 15:05:08",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-23 15:05:09",
               "type": "search",
@@ -1471,6 +1466,11 @@
               "t": "2026-11-23 17:50:22",
               "type": "search",
               "detail": "Depo Sorgu: GYREX 200 MG 30 FTB."
+            },
+            {
+              "t": "2026-11-23 17:50:50",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
