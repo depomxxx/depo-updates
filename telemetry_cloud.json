@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 14:59:29",
+  "updated_at": "2026-11-23 14:59:32",
   "count": 7,
   "items": [
     {
@@ -801,18 +801,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D719-CEB2-1542",
-      "last_pc_name": "DESKTOP-M530BBB",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-23 14:59:29",
-      "last_action": "[DESKTOP-M530BBB] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-23 14:59:32",
+      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-23",
       "today_searches": 52,
       "today_cart_adds": 22,
-      "today_smart_orders": 67,
+      "today_smart_orders": 68,
       "total_searches": 754,
       "total_cart_adds": 1183,
-      "total_smart_orders": 1600,
+      "total_smart_orders": 1601,
       "total_days_used": 17,
       "pc_count": 9,
       "devices": {
@@ -916,22 +916,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-23 14:58:22",
-          "last_action": "Günün Çıkışları Yenileme (TRIA • 42 Kalem)",
+          "last_seen_at": "2026-11-23 14:59:32",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-23",
           "today_searches": 14,
           "today_cart_adds": 14,
-          "today_smart_orders": 47,
+          "today_smart_orders": 48,
           "total_searches": 209,
           "total_cart_adds": 559,
-          "total_smart_orders": 832,
+          "total_smart_orders": 833,
           "total_days_used": 16,
           "recent_actions": [
-            {
-              "t": "2026-11-23 14:23:20",
-              "type": "search",
-              "detail": "Depo Sorgu: BENEXOL B12 250/250/1 MG 30 FT"
-            },
             {
               "t": "2026-11-23 14:25:16",
               "type": "critical_stock",
@@ -1001,6 +996,11 @@
               "t": "2026-11-23 14:52:16",
               "type": "critical_stock",
               "detail": "Günün Çıkışları Yenileme (TRIA • 42 Kalem)"
+            },
+            {
+              "t": "2026-11-23 14:59:32",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         },
