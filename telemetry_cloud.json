@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 11:58:55",
+  "updated_at": "2026-11-23 11:59:06",
   "count": 7,
   "items": [
     {
@@ -801,18 +801,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D719-CEB2-1542",
-      "last_pc_name": "DESKTOP-M530BBB",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-23 11:58:55",
-      "last_action": "[DESKTOP-M530BBB] Depo Sorgu: ISOLYTE 500ML SOLUSYON SETLI MEDIFLEKS",
+      "last_seen_at": "2026-11-23 11:59:06",
+      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-23",
       "today_searches": 14,
       "today_cart_adds": 10,
-      "today_smart_orders": 22,
+      "today_smart_orders": 23,
       "total_searches": 716,
       "total_cart_adds": 1171,
-      "total_smart_orders": 1555,
+      "total_smart_orders": 1556,
       "total_days_used": 17,
       "pc_count": 9,
       "devices": {
@@ -916,22 +916,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-23 11:58:04",
-          "last_action": "Günün Çıkışları Yenileme (TRIA • 24 Kalem)",
+          "last_seen_at": "2026-11-23 11:59:06",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-23",
           "today_searches": 4,
           "today_cart_adds": 8,
-          "today_smart_orders": 19,
+          "today_smart_orders": 20,
           "total_searches": 199,
           "total_cart_adds": 553,
-          "total_smart_orders": 804,
+          "total_smart_orders": 805,
           "total_days_used": 16,
           "recent_actions": [
-            {
-              "t": "2026-11-23 11:31:08",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-23 11:31:20",
               "type": "critical_stock",
@@ -1001,6 +996,11 @@
               "t": "2026-11-23 11:47:24",
               "type": "critical_stock",
               "detail": "Günün Çıkışları Yenileme (TRIA • 24 Kalem)"
+            },
+            {
+              "t": "2026-11-23 11:59:06",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         },
