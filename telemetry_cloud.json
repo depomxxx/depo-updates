@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 14:14:58",
+  "updated_at": "2026-11-23 14:15:26",
   "count": 7,
   "items": [
     {
@@ -796,23 +796,23 @@
       "pharmacist_name": "EDA BİLGİN",
       "phone": "05077034200",
       "city": "SAMSUN/İLKADIM",
-      "gln_no": "8680001000000",
+      "gln_no": "8680001112258",
       "otomasyon": "TRIA",
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "5834-FAC9-B71F",
-      "last_pc_name": "DESKTOP-OTHNDUE",
+      "hwid": "8FD3-5823-91F4",
+      "last_pc_name": "Eda-Bilgin",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-23 14:14:26",
-      "last_action": "[DESKTOP-OTHNDUE] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-23 14:15:26",
+      "last_action": "[Eda-Bilgin] Eczatrend Katılım: ZEDPREX KAPSÜL 20 mg 24 kapsül x20",
       "today_date": "2026-11-23",
       "today_searches": 40,
       "today_cart_adds": 18,
-      "today_smart_orders": 45,
+      "today_smart_orders": 47,
       "total_searches": 742,
       "total_cart_adds": 1179,
-      "total_smart_orders": 1578,
+      "total_smart_orders": 1580,
       "total_days_used": 17,
       "pc_count": 9,
       "devices": {
@@ -1010,7 +1010,7 @@
           "desk_name": "Eda-Bilgin",
           "local_ip": "192.168.1.120",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-23 14:13:55",
+          "last_seen_at": "2026-11-23 14:15:26",
           "last_action": "Eczatrend Katılım: ZEDPREX KAPSÜL 20 mg 24 kapsül x20",
           "today_date": "2026-11-23",
           "today_searches": 20,
@@ -1386,27 +1386,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.100",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-23 14:14:16",
-          "last_action": "Canlı MF Sorgulama (30 Ürün)",
+          "last_seen_at": "2026-11-23 14:15:25",
+          "last_action": "Canlı MF Sorgulama (20 Ürün)",
           "today_date": "2026-11-23",
           "today_searches": 12,
           "today_cart_adds": 2,
-          "today_smart_orders": 6,
+          "today_smart_orders": 8,
           "total_searches": 133,
           "total_cart_adds": 119,
-          "total_smart_orders": 164,
+          "total_smart_orders": 166,
           "total_days_used": 17,
           "recent_actions": [
-            {
-              "t": "2026-11-23 11:14:44",
-              "type": "search",
-              "detail": "Depo Sorgu: SANDOSTATIN LAR 30 MG 1 FLK."
-            },
-            {
-              "t": "2026-11-23 11:37:42",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-23 11:37:51",
               "type": "search",
@@ -1471,6 +1461,16 @@
               "t": "2026-11-23 14:14:16",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (30 Ürün)"
+            },
+            {
+              "t": "2026-11-23 14:14:17",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-23 14:14:28",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (20 Ürün)"
             }
           ]
         },
@@ -1480,7 +1480,7 @@
           "desk_name": "DESKTOP-1N3LQF0",
           "local_ip": "192.168.1.123",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-23 14:14:00",
+          "last_seen_at": "2026-11-23 14:14:59",
           "last_action": "Canlı MF Sorgulama (26 Ürün)",
           "today_date": "2026-11-23",
           "today_searches": 2,
