@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 14:13:28",
+  "updated_at": "2026-11-23 14:13:49",
   "count": 7,
   "items": [
     {
@@ -804,15 +804,15 @@
       "hwid": "D719-CEB2-1542",
       "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-23 14:13:28",
-      "last_action": "[DESKTOP-M530BBB] Depo Sorgu: ISOLYTE 500ML SOLUSYON SETLI MEDIFLEKS",
+      "last_seen_at": "2026-11-23 14:13:49",
+      "last_action": "[DESKTOP-M530BBB] Depo Sorgu: TRIO 1000/500/30 MG 14 BLISTER",
       "today_date": "2026-11-23",
-      "today_searches": 38,
+      "today_searches": 40,
       "today_cart_adds": 18,
-      "today_smart_orders": 42,
-      "total_searches": 740,
+      "today_smart_orders": 44,
+      "total_searches": 742,
       "total_cart_adds": 1179,
-      "total_smart_orders": 1575,
+      "total_smart_orders": 1577,
       "total_days_used": 17,
       "pc_count": 9,
       "devices": {
@@ -1010,7 +1010,7 @@
           "desk_name": "Eda-Bilgin",
           "local_ip": "192.168.1.120",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-23 14:12:30",
+          "last_seen_at": "2026-11-23 14:13:30",
           "last_action": "Eczatrend Katılım: ZEDPREX KAPSÜL 20 mg 24 kapsül x20",
           "today_date": "2026-11-23",
           "today_searches": 20,
@@ -1386,37 +1386,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.100",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-23 14:13:28",
-          "last_action": "Depo Sorgu: ISOLYTE 500ML SOLUSYON SETLI MEDIFLEKS",
+          "last_seen_at": "2026-11-23 14:13:49",
+          "last_action": "Depo Sorgu: TRIO 1000/500/30 MG 14 BLISTER",
           "today_date": "2026-11-23",
-          "today_searches": 10,
+          "today_searches": 12,
           "today_cart_adds": 2,
-          "today_smart_orders": 3,
-          "total_searches": 131,
+          "today_smart_orders": 5,
+          "total_searches": 133,
           "total_cart_adds": 119,
-          "total_smart_orders": 161,
+          "total_smart_orders": 163,
           "total_days_used": 17,
           "recent_actions": [
-            {
-              "t": "2026-11-21 16:32:56",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-23 10:38:11",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-23 10:38:11",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-23 10:38:36",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (15 Ürün)"
-            },
             {
               "t": "2026-11-23 11:14:36",
               "type": "search",
@@ -1471,6 +1451,26 @@
               "t": "2026-11-23 11:42:40",
               "type": "search",
               "detail": "Depo Sorgu: ISOLYTE 500ML SOLUSYON SETLI MEDIFLEKS"
+            },
+            {
+              "t": "2026-11-23 14:13:34",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-23 14:13:34",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-23 14:13:41",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-23 14:13:49",
+              "type": "search",
+              "detail": "Depo Sorgu: TRIO 1000/500/30 MG 14 BLISTER"
             }
           ]
         },
