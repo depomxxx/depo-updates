@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 14:21:01",
+  "updated_at": "2026-11-23 14:21:14",
   "count": 7,
   "items": [
     {
@@ -801,11 +801,11 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D719-CEB2-1542",
-      "last_pc_name": "DESKTOP-M530BBB",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-23 14:20:04",
-      "last_action": "[DESKTOP-M530BBB] Canlı MF Sorgulama (20 Ürün)",
+      "last_seen_at": "2026-11-23 14:21:14",
+      "last_action": "[DESKTOP-OTHNDUE] Depo Sorgu: BENEXOL B12 250/250/1 MG 30 FT",
       "today_date": "2026-11-23",
       "today_searches": 46,
       "today_cart_adds": 18,
@@ -916,7 +916,7 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-23 14:19:30",
+          "last_seen_at": "2026-11-23 14:21:14",
           "last_action": "Depo Sorgu: BENEXOL B12 250/250/1 MG 30 FT",
           "today_date": "2026-11-23",
           "today_searches": 12,
