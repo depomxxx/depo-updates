@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 11:30:03",
+  "updated_at": "2026-11-23 11:30:19",
   "count": 7,
   "items": [
     {
@@ -801,17 +801,17 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D719-CEB2-1542",
-      "last_pc_name": "DESKTOP-M530BBB",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-23 11:30:03",
-      "last_action": "[DESKTOP-M530BBB] Depo Sorgu: SANDOSTATIN LAR 30 MG 1 FLK.",
+      "last_seen_at": "2026-11-23 11:30:19",
+      "last_action": "[DESKTOP-OTHNDUE] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-23",
-      "today_searches": 5,
-      "today_cart_adds": 0,
+      "today_searches": 6,
+      "today_cart_adds": 1,
       "today_smart_orders": 8,
-      "total_searches": 707,
-      "total_cart_adds": 1161,
+      "total_searches": 708,
+      "total_cart_adds": 1162,
       "total_smart_orders": 1541,
       "total_days_used": 17,
       "pc_count": 9,
@@ -916,27 +916,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-23 11:30:00",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-23 11:30:19",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-23",
-          "today_searches": 3,
-          "today_cart_adds": 0,
+          "today_searches": 4,
+          "today_cart_adds": 1,
           "today_smart_orders": 5,
-          "total_searches": 198,
-          "total_cart_adds": 545,
+          "total_searches": 199,
+          "total_cart_adds": 546,
           "total_smart_orders": 790,
           "total_days_used": 16,
           "recent_actions": [
-            {
-              "t": "2026-11-20 15:21:21",
-              "type": "search",
-              "detail": "Depo Sorgu: AYRA 8 MG 28 TB."
-            },
-            {
-              "t": "2026-11-20 15:21:28",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-20 15:21:31",
               "type": "cart",
@@ -1001,6 +991,16 @@
               "t": "2026-11-23 11:30:00",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-23 11:30:04",
+              "type": "search",
+              "detail": "Depo Sorgu: NEXSTEP 40 MG 28 TB."
+            },
+            {
+              "t": "2026-11-23 11:30:19",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
