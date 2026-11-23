@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 14:25:18",
+  "updated_at": "2026-11-23 14:25:22",
   "count": 7,
   "items": [
     {
@@ -804,15 +804,15 @@
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-23 14:25:02",
-      "last_action": "[DESKTOP-OTHNDUE] Depo Sorgu: BENEXOL B12 250/250/1 MG 30 FT",
+      "last_seen_at": "2026-11-23 14:25:22",
+      "last_action": "[DESKTOP-OTHNDUE] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-23",
       "today_searches": 48,
-      "today_cart_adds": 18,
-      "today_smart_orders": 55,
+      "today_cart_adds": 19,
+      "today_smart_orders": 57,
       "total_searches": 750,
-      "total_cart_adds": 1179,
-      "total_smart_orders": 1588,
+      "total_cart_adds": 1180,
+      "total_smart_orders": 1590,
       "total_days_used": 17,
       "pc_count": 9,
       "devices": {
@@ -916,32 +916,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-23 14:25:02",
-          "last_action": "Depo Sorgu: BENEXOL B12 250/250/1 MG 30 FT",
+          "last_seen_at": "2026-11-23 14:25:22",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-23",
           "today_searches": 14,
-          "today_cart_adds": 12,
-          "today_smart_orders": 35,
+          "today_cart_adds": 13,
+          "today_smart_orders": 37,
           "total_searches": 209,
-          "total_cart_adds": 557,
-          "total_smart_orders": 820,
+          "total_cart_adds": 558,
+          "total_smart_orders": 822,
           "total_days_used": 16,
           "recent_actions": [
-            {
-              "t": "2026-11-23 14:18:49",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 36 Kalem)"
-            },
-            {
-              "t": "2026-11-23 14:18:49",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-23 14:18:57",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-23 14:19:00",
               "type": "search",
@@ -1001,6 +986,21 @@
               "t": "2026-11-23 14:23:20",
               "type": "search",
               "detail": "Depo Sorgu: BENEXOL B12 250/250/1 MG 30 FT"
+            },
+            {
+              "t": "2026-11-23 14:25:16",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-23 14:25:16",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 37 Kalem)"
+            },
+            {
+              "t": "2026-11-23 14:25:22",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
