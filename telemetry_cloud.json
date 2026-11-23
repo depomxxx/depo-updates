@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 09:16:16",
+  "updated_at": "2026-11-23 09:17:49",
   "count": 7,
   "items": [
     {
@@ -570,13 +570,13 @@
       "hwid": "2DED-CFF9-D593",
       "last_pc_name": "DESKTOP-8JN0NE5",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-23 09:16:16",
-      "last_action": "[DESKTOP-8JN0NE5] Canlı MF Sorgulama (9 Ürün)",
+      "last_seen_at": "2026-11-23 09:17:47",
+      "last_action": "[DESKTOP-8JN0NE5] Depo Sorgu: THIOCILLINE 5 GR OFT. POM.",
       "today_date": "2026-11-23",
-      "today_searches": 1,
+      "today_searches": 2,
       "today_cart_adds": 0,
       "today_smart_orders": 3,
-      "total_searches": 158,
+      "total_searches": 159,
       "total_cart_adds": 360,
       "total_days_used": 14,
       "total_smart_orders": 769,
@@ -588,22 +588,17 @@
           "desk_name": "DESKTOP-8JN0NE5",
           "local_ip": "192.168.1.37",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-23 09:16:16",
-          "last_action": "Canlı MF Sorgulama (9 Ürün)",
+          "last_seen_at": "2026-11-23 09:17:47",
+          "last_action": "Depo Sorgu: THIOCILLINE 5 GR OFT. POM.",
           "today_date": "2026-11-23",
-          "today_searches": 1,
+          "today_searches": 2,
           "today_cart_adds": 0,
           "today_smart_orders": 3,
-          "total_searches": 83,
+          "total_searches": 84,
           "total_cart_adds": 194,
           "total_smart_orders": 403,
           "total_days_used": 14,
           "recent_actions": [
-            {
-              "t": "2026-11-21 13:24:14",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-21 13:24:15",
               "type": "mf_resolve",
@@ -673,6 +668,11 @@
               "t": "2026-11-23 09:16:16",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (9 Ürün)"
+            },
+            {
+              "t": "2026-11-23 09:16:21",
+              "type": "search",
+              "detail": "Depo Sorgu: THIOCILLINE 5 GR OFT. POM."
             }
           ]
         },
