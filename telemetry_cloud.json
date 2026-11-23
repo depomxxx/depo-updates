@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 11:29:04",
+  "updated_at": "2026-11-23 11:29:17",
   "count": 7,
   "items": [
     {
@@ -801,16 +801,16 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D719-CEB2-1542",
-      "last_pc_name": "DESKTOP-M530BBB",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-23 11:28:37",
-      "last_action": "[DESKTOP-M530BBB] Depo Sorgu: SANDOSTATIN LAR 30 MG 1 FLK.",
+      "last_seen_at": "2026-11-23 11:29:17",
+      "last_action": "[DESKTOP-OTHNDUE] Depo Sorgu: PLAVIX 75 MG 28 FTB.",
       "today_date": "2026-11-23",
-      "today_searches": 2,
+      "today_searches": 4,
       "today_cart_adds": 0,
       "today_smart_orders": 8,
-      "total_searches": 704,
+      "total_searches": 706,
       "total_cart_adds": 1161,
       "total_smart_orders": 1541,
       "total_days_used": 17,
@@ -916,27 +916,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-23 11:27:53",
-          "last_action": "Canlı MF Sorgulama (23 Ürün)",
+          "last_seen_at": "2026-11-23 11:29:17",
+          "last_action": "Depo Sorgu: PLAVIX 75 MG 28 FTB.",
           "today_date": "2026-11-23",
-          "today_searches": 0,
+          "today_searches": 2,
           "today_cart_adds": 0,
           "today_smart_orders": 5,
-          "total_searches": 195,
+          "total_searches": 197,
           "total_cart_adds": 545,
           "total_smart_orders": 790,
           "total_days_used": 16,
           "recent_actions": [
-            {
-              "t": "2026-11-20 15:21:11",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-20 15:21:14",
-              "type": "search",
-              "detail": "Depo Sorgu: NEXIUM 20 MG 28 TB."
-            },
             {
               "t": "2026-11-20 15:21:18",
               "type": "search",
@@ -1001,6 +991,16 @@
               "t": "2026-11-23 11:27:53",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (23 Ürün)"
+            },
+            {
+              "t": "2026-11-23 11:28:03",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-23 11:28:06",
+              "type": "search",
+              "detail": "Depo Sorgu: PLAVIX 75 MG 28 FTB."
             }
           ]
         },
