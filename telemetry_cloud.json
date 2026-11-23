@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 11:38:14",
+  "updated_at": "2026-11-23 11:38:12",
   "count": 7,
   "items": [
     {
@@ -807,10 +807,10 @@
       "last_seen_at": "2026-11-23 11:38:14",
       "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları Yenileme (TRIA • 23 Kalem)",
       "today_date": "2026-11-23",
-      "today_searches": 6,
+      "today_searches": 9,
       "today_cart_adds": 8,
       "today_smart_orders": 12,
-      "total_searches": 708,
+      "total_searches": 711,
       "total_cart_adds": 1169,
       "total_smart_orders": 1545,
       "total_days_used": 17,
@@ -1386,32 +1386,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.100",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-23 11:37:42",
-          "last_action": "Depo Sorgu: SANDOSTATIN LAR 30 MG 1 FLK.",
+          "last_seen_at": "2026-11-23 11:38:12",
+          "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-23",
-          "today_searches": 2,
+          "today_searches": 5,
           "today_cart_adds": 0,
           "today_smart_orders": 3,
-          "total_searches": 123,
+          "total_searches": 126,
           "total_cart_adds": 117,
           "total_smart_orders": 161,
           "total_days_used": 17,
           "recent_actions": [
-            {
-              "t": "2026-11-21 12:32:25",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-21 12:32:59",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (28 Ürün)"
-            },
-            {
-              "t": "2026-11-21 14:36:45",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-21 14:36:45",
               "type": "mf_resolve",
@@ -1471,6 +1456,21 @@
               "t": "2026-11-23 11:14:44",
               "type": "search",
               "detail": "Depo Sorgu: SANDOSTATIN LAR 30 MG 1 FLK."
+            },
+            {
+              "t": "2026-11-23 11:37:42",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-23 11:37:51",
+              "type": "search",
+              "detail": "Depo Sorgu: ISOLYTE 500ML SOLUSYON SETLI MEDIFLEKS"
+            },
+            {
+              "t": "2026-11-23 11:38:12",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ]
         },
