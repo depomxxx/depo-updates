@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 17:48:33",
+  "updated_at": "2026-11-23 17:49:00",
   "count": 7,
   "items": [
     {
@@ -804,13 +804,13 @@
       "hwid": "D719-CEB2-1542",
       "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-23 17:48:33",
+      "last_seen_at": "2026-11-23 17:49:00",
       "last_action": "[DESKTOP-M530BBB] Depo Fiyat Sorgulama",
       "today_date": "2026-11-23",
-      "today_searches": 61,
+      "today_searches": 63,
       "today_cart_adds": 30,
       "today_smart_orders": 85,
-      "total_searches": 763,
+      "total_searches": 765,
       "total_cart_adds": 1191,
       "total_smart_orders": 1618,
       "total_days_used": 17,
@@ -1386,27 +1386,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.100",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-23 17:48:33",
+          "last_seen_at": "2026-11-23 17:49:00",
           "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-23",
-          "today_searches": 23,
+          "today_searches": 25,
           "today_cart_adds": 8,
           "today_smart_orders": 8,
-          "total_searches": 144,
+          "total_searches": 146,
           "total_cart_adds": 125,
           "total_smart_orders": 166,
           "total_days_used": 17,
           "recent_actions": [
-            {
-              "t": "2026-11-23 14:14:28",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (20 Ürün)"
-            },
-            {
-              "t": "2026-11-23 14:31:22",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-23 14:31:29",
               "type": "search",
@@ -1469,6 +1459,16 @@
             },
             {
               "t": "2026-11-23 17:48:33",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-23 17:48:40",
+              "type": "search",
+              "detail": "Depo Sorgu: BUSPON 5 MG 50 CAP. *"
+            },
+            {
+              "t": "2026-11-23 17:49:00",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
             }
