@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 16:16:59",
+  "updated_at": "2026-11-23 16:17:08",
   "count": 7,
   "items": [
     {
@@ -801,16 +801,16 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D2E4-AA57-C021",
-      "last_pc_name": "DESKTOP-1N3LQF0",
+      "hwid": "D719-CEB2-1542",
+      "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-23 16:16:59",
-      "last_action": "[DESKTOP-1N3LQF0] Canlı MF Sorgulama (26 Ürün)",
+      "last_seen_at": "2026-11-23 16:17:08",
+      "last_action": "[DESKTOP-M530BBB] Depo Sorgu: AZEKAZ 137+50 MCG 23 GR NAS SP",
       "today_date": "2026-11-23",
-      "today_searches": 56,
+      "today_searches": 60,
       "today_cart_adds": 28,
       "today_smart_orders": 77,
-      "total_searches": 758,
+      "total_searches": 762,
       "total_cart_adds": 1189,
       "total_smart_orders": 1610,
       "total_days_used": 17,
@@ -1386,37 +1386,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.100",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-23 16:16:57",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-23 16:17:08",
+          "last_action": "Depo Sorgu: AZEKAZ 137+50 MCG 23 GR NAS SP",
           "today_date": "2026-11-23",
-          "today_searches": 18,
+          "today_searches": 22,
           "today_cart_adds": 6,
           "today_smart_orders": 8,
-          "total_searches": 139,
+          "total_searches": 143,
           "total_cart_adds": 123,
           "total_smart_orders": 166,
           "total_days_used": 17,
           "recent_actions": [
-            {
-              "t": "2026-11-23 14:13:34",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-23 14:13:34",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-23 14:13:41",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-23 14:13:49",
-              "type": "search",
-              "detail": "Depo Sorgu: TRIO 1000/500/30 MG 14 BLISTER"
-            },
             {
               "t": "2026-11-23 14:14:16",
               "type": "mf_resolve",
@@ -1471,6 +1451,26 @@
               "t": "2026-11-23 15:05:22",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-23 16:16:59",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-23 16:17:07",
+              "type": "search",
+              "detail": "Depo Sorgu: AZEKAZ 137+50 MCG 23 GR NAS SP"
+            },
+            {
+              "t": "2026-11-23 16:17:07",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-23 16:17:08",
+              "type": "search",
+              "detail": "Depo Sorgu: AZEKAZ 137+50 MCG 23 GR NAS SP"
             }
           ]
         },
@@ -1480,7 +1480,7 @@
           "desk_name": "DESKTOP-1N3LQF0",
           "local_ip": "192.168.1.123",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-23 16:16:59",
+          "last_seen_at": "2026-11-23 16:17:00",
           "last_action": "Canlı MF Sorgulama (26 Ürün)",
           "today_date": "2026-11-23",
           "today_searches": 2,
