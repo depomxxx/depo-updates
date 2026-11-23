@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 11:29:45",
+  "updated_at": "2026-11-23 11:30:00",
   "count": 7,
   "items": [
     {
@@ -804,13 +804,13 @@
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-23 11:29:17",
-      "last_action": "[DESKTOP-OTHNDUE] Depo Sorgu: PLAVIX 75 MG 28 FTB.",
+      "last_seen_at": "2026-11-23 11:30:00",
+      "last_action": "[DESKTOP-OTHNDUE] Depo Fiyat Sorgulama",
       "today_date": "2026-11-23",
-      "today_searches": 4,
+      "today_searches": 5,
       "today_cart_adds": 0,
       "today_smart_orders": 8,
-      "total_searches": 706,
+      "total_searches": 707,
       "total_cart_adds": 1161,
       "total_smart_orders": 1541,
       "total_days_used": 17,
@@ -916,22 +916,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-23 11:29:17",
-          "last_action": "Depo Sorgu: PLAVIX 75 MG 28 FTB.",
+          "last_seen_at": "2026-11-23 11:30:00",
+          "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-23",
-          "today_searches": 2,
+          "today_searches": 3,
           "today_cart_adds": 0,
           "today_smart_orders": 5,
-          "total_searches": 197,
+          "total_searches": 198,
           "total_cart_adds": 545,
           "total_smart_orders": 790,
           "total_days_used": 16,
           "recent_actions": [
-            {
-              "t": "2026-11-20 15:21:18",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-20 15:21:21",
               "type": "search",
@@ -1001,6 +996,11 @@
               "t": "2026-11-23 11:28:06",
               "type": "search",
               "detail": "Depo Sorgu: PLAVIX 75 MG 28 FTB."
+            },
+            {
+              "t": "2026-11-23 11:30:00",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ]
         },
