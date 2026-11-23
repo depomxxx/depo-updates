@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 11:40:19",
+  "updated_at": "2026-11-23 11:40:28",
   "count": 7,
   "items": [
     {
@@ -804,13 +804,13 @@
       "hwid": "D719-CEB2-1542",
       "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-23 11:40:03",
-      "last_action": "[DESKTOP-M530BBB] Depo Sorgu: NOOTROPIL 1 GR 5 ML 12 AMP.",
+      "last_seen_at": "2026-11-23 11:40:28",
+      "last_action": "[DESKTOP-M530BBB] Depo Sorgu: PX.IZOLEN 500 ML",
       "today_date": "2026-11-23",
-      "today_searches": 10,
+      "today_searches": 12,
       "today_cart_adds": 8,
       "today_smart_orders": 13,
-      "total_searches": 712,
+      "total_searches": 714,
       "total_cart_adds": 1169,
       "total_smart_orders": 1546,
       "total_days_used": 17,
@@ -1386,27 +1386,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.100",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-23 11:40:03",
-          "last_action": "Depo Sorgu: NOOTROPIL 1 GR 5 ML 12 AMP.",
+          "last_seen_at": "2026-11-23 11:40:28",
+          "last_action": "Depo Sorgu: PX.IZOLEN 500 ML",
           "today_date": "2026-11-23",
-          "today_searches": 6,
+          "today_searches": 8,
           "today_cart_adds": 0,
           "today_smart_orders": 3,
-          "total_searches": 127,
+          "total_searches": 129,
           "total_cart_adds": 117,
           "total_smart_orders": 161,
           "total_days_used": 17,
           "recent_actions": [
-            {
-              "t": "2026-11-21 14:37:03",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (30 Ürün)"
-            },
-            {
-              "t": "2026-11-21 14:37:05",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-21 14:37:11",
               "type": "mf_resolve",
@@ -1471,6 +1461,16 @@
               "t": "2026-11-23 11:38:13",
               "type": "search",
               "detail": "Depo Sorgu: NOOTROPIL 1 GR 5 ML 12 AMP."
+            },
+            {
+              "t": "2026-11-23 11:40:20",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-23 11:40:28",
+              "type": "search",
+              "detail": "Depo Sorgu: PX.IZOLEN 500 ML"
             }
           ]
         },
