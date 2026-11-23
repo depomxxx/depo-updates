@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 18:00:35",
+  "updated_at": "2026-11-23 18:00:57",
   "count": 7,
   "items": [
     {
@@ -804,14 +804,14 @@
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-23 18:00:35",
-      "last_action": "[DESKTOP-OTHNDUE] Depo Fiyat Sorgulama",
+      "last_seen_at": "2026-11-23 18:00:57",
+      "last_action": "[DESKTOP-OTHNDUE] Toplu Sepet (ALLIANCE): 6 Kalem",
       "today_date": "2026-11-23",
-      "today_searches": 69,
-      "today_cart_adds": 34,
+      "today_searches": 70,
+      "today_cart_adds": 36,
       "today_smart_orders": 87,
-      "total_searches": 771,
-      "total_cart_adds": 1195,
+      "total_searches": 772,
+      "total_cart_adds": 1197,
       "total_smart_orders": 1620,
       "total_days_used": 17,
       "pc_count": 9,
@@ -916,32 +916,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-23 18:00:35",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-23 18:00:57",
+          "last_action": "Toplu Sepet (ALLIANCE): 6 Kalem",
           "today_date": "2026-11-23",
-          "today_searches": 17,
-          "today_cart_adds": 18,
+          "today_searches": 18,
+          "today_cart_adds": 20,
           "today_smart_orders": 67,
-          "total_searches": 212,
-          "total_cart_adds": 563,
+          "total_searches": 213,
+          "total_cart_adds": 565,
           "total_smart_orders": 852,
           "total_days_used": 16,
           "recent_actions": [
-            {
-              "t": "2026-11-23 15:48:58",
-              "type": "cart",
-              "detail": "Toplu Sepet (ALLIANCE): 6 Kalem"
-            },
-            {
-              "t": "2026-11-23 15:49:06",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-23 16:19:08",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-23 16:19:08",
               "type": "critical_stock",
@@ -1001,6 +986,21 @@
               "t": "2026-11-23 18:00:35",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-23 18:00:38",
+              "type": "search",
+              "detail": "Depo Sorgu: ROSALIN 10/40 MG 28 FTB"
+            },
+            {
+              "t": "2026-11-23 18:00:44",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-23 18:00:57",
+              "type": "cart",
+              "detail": "Toplu Sepet (ALLIANCE): 6 Kalem"
             }
           ]
         },
