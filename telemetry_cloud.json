@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 17:07:32",
+  "updated_at": "2026-11-23 17:09:52",
   "count": 7,
   "items": [
     {
@@ -1908,13 +1908,13 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-23 17:08:40",
-      "last_action": "[DESKTOP-T4EAUS3] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-23 17:09:52",
+      "last_action": "[DESKTOP-T4EAUS3] Depo Fiyat Sorgulama",
       "today_date": "2026-11-23",
-      "today_searches": 6,
+      "today_searches": 9,
       "today_cart_adds": 19,
       "today_smart_orders": 16,
-      "total_searches": 243,
+      "total_searches": 246,
       "total_cart_adds": 746,
       "total_days_used": 15,
       "total_smart_orders": 629,
@@ -2000,32 +2000,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-23 17:08:40",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-23 17:09:52",
+          "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-23",
-          "today_searches": 6,
+          "today_searches": 9,
           "today_cart_adds": 19,
           "today_smart_orders": 16,
-          "total_searches": 145,
+          "total_searches": 148,
           "total_cart_adds": 432,
           "total_smart_orders": 440,
           "total_days_used": 15,
           "recent_actions": [
-            {
-              "t": "2026-11-23 16:00:02",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-23 16:00:34",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (30 Ürün)"
-            },
-            {
-              "t": "2026-11-23 16:00:34",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-23 16:01:07",
               "type": "mf_resolve",
@@ -2085,6 +2070,21 @@
               "t": "2026-11-23 17:07:09",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-23 17:08:49",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-23 17:08:51",
+              "type": "search",
+              "detail": "Depo Sorgu: MOLLERS OMEGA 150 ML ELMA AROM"
+            },
+            {
+              "t": "2026-11-23 17:09:52",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ]
         },
