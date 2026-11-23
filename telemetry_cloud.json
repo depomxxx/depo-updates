@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 11:30:00",
+  "updated_at": "2026-11-23 11:30:03",
   "count": 7,
   "items": [
     {
@@ -801,11 +801,11 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "5834-FAC9-B71F",
-      "last_pc_name": "DESKTOP-OTHNDUE",
+      "hwid": "D719-CEB2-1542",
+      "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-23 11:30:00",
-      "last_action": "[DESKTOP-OTHNDUE] Depo Fiyat Sorgulama",
+      "last_seen_at": "2026-11-23 11:30:03",
+      "last_action": "[DESKTOP-M530BBB] Depo Sorgu: SANDOSTATIN LAR 30 MG 1 FLK.",
       "today_date": "2026-11-23",
       "today_searches": 5,
       "today_cart_adds": 0,
@@ -1386,7 +1386,7 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.100",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-23 11:28:37",
+          "last_seen_at": "2026-11-23 11:30:03",
           "last_action": "Depo Sorgu: SANDOSTATIN LAR 30 MG 1 FLK.",
           "today_date": "2026-11-23",
           "today_searches": 2,
