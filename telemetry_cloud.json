@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 13:54:26",
+  "updated_at": "2026-11-23 13:54:31",
   "count": 7,
   "items": [
     {
@@ -796,21 +796,21 @@
       "pharmacist_name": "EDA BİLGİN",
       "phone": "05077034200",
       "city": "SAMSUN/İLKADIM",
-      "gln_no": "8680001000000",
+      "gln_no": "8680001112258",
       "otomasyon": "TRIA",
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "5834-FAC9-B71F",
-      "last_pc_name": "DESKTOP-OTHNDUE",
+      "hwid": "8FD3-5823-91F4",
+      "last_pc_name": "Eda-Bilgin",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-23 13:54:26",
-      "last_action": "[DESKTOP-OTHNDUE] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-23 13:54:31",
+      "last_action": "[Eda-Bilgin] Depo Fiyat Sorgulama",
       "today_date": "2026-11-23",
-      "today_searches": 31,
+      "today_searches": 33,
       "today_cart_adds": 17,
       "today_smart_orders": 37,
-      "total_searches": 733,
+      "total_searches": 735,
       "total_cart_adds": 1178,
       "total_smart_orders": 1570,
       "total_days_used": 17,
@@ -1010,27 +1010,17 @@
           "desk_name": "Eda-Bilgin",
           "local_ip": "192.168.1.120",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-23 13:53:33",
+          "last_seen_at": "2026-11-23 13:54:31",
           "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-23",
-          "today_searches": 15,
+          "today_searches": 17,
           "today_cart_adds": 3,
           "today_smart_orders": 7,
-          "total_searches": 72,
+          "total_searches": 74,
           "total_cart_adds": 17,
           "total_smart_orders": 75,
           "total_days_used": 12,
           "recent_actions": [
-            {
-              "t": "2026-11-23 13:45:40",
-              "type": "search",
-              "detail": "Depo Sorgu: ASIST 1200 MG 20 SASE"
-            },
-            {
-              "t": "2026-11-23 13:45:55",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-23 13:46:01",
               "type": "search",
@@ -1093,6 +1083,16 @@
             },
             {
               "t": "2026-11-23 13:53:33",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-23 13:53:35",
+              "type": "search",
+              "detail": "Depo Sorgu: BELOC ZOK 100 MG 20 FTB."
+            },
+            {
+              "t": "2026-11-23 13:54:31",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
             }
