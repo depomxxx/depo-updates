@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 17:15:56",
+  "updated_at": "2026-11-23 17:18:24",
   "count": 7,
   "items": [
     {
@@ -1908,14 +1908,14 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-23 17:17:50",
-      "last_action": "[DESKTOP-T4EAUS3] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-23 17:18:24",
+      "last_action": "[DESKTOP-T4EAUS3] Toplu Sepet (ISKOOP): 4 Kalem",
       "today_date": "2026-11-23",
       "today_searches": 10,
-      "today_cart_adds": 30,
+      "today_cart_adds": 33,
       "today_smart_orders": 23,
       "total_searches": 247,
-      "total_cart_adds": 757,
+      "total_cart_adds": 760,
       "total_days_used": 15,
       "total_smart_orders": 636,
       "pc_count": 3,
@@ -2000,32 +2000,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-23 17:17:50",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-23 17:18:24",
+          "last_action": "Toplu Sepet (ISKOOP): 4 Kalem",
           "today_date": "2026-11-23",
           "today_searches": 10,
-          "today_cart_adds": 30,
+          "today_cart_adds": 33,
           "today_smart_orders": 23,
           "total_searches": 149,
-          "total_cart_adds": 443,
+          "total_cart_adds": 446,
           "total_smart_orders": 447,
           "total_days_used": 15,
           "recent_actions": [
-            {
-              "t": "2026-11-23 17:09:55",
-              "type": "search",
-              "detail": "Depo Sorgu: MÖLLER'S OMEGA 3 250ML ŞIŞE/KUTU"
-            },
-            {
-              "t": "2026-11-23 17:10:00",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-23 17:15:09",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-23 17:15:09",
               "type": "mf_resolve",
@@ -2085,6 +2070,21 @@
               "t": "2026-11-23 17:17:50",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-23 17:18:04",
+              "type": "cart",
+              "detail": "Toplu Sepet (ALLIANCE): 6 Kalem"
+            },
+            {
+              "t": "2026-11-23 17:18:04",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-23 17:18:24",
+              "type": "cart",
+              "detail": "Toplu Sepet (ISKOOP): 4 Kalem"
             }
           ]
         },
