@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 11:34:15",
+  "updated_at": "2026-11-23 11:34:26",
   "count": 7,
   "items": [
     {
@@ -801,18 +801,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D719-CEB2-1542",
-      "last_pc_name": "DESKTOP-M530BBB",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-23 11:33:03",
-      "last_action": "[DESKTOP-M530BBB] Depo Sorgu: SANDOSTATIN LAR 30 MG 1 FLK.",
+      "last_seen_at": "2026-11-23 11:34:26",
+      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları Yenileme (TRIA • 23 Kalem)",
       "today_date": "2026-11-23",
       "today_searches": 6,
       "today_cart_adds": 8,
-      "today_smart_orders": 10,
+      "today_smart_orders": 12,
       "total_searches": 708,
       "total_cart_adds": 1169,
-      "total_smart_orders": 1543,
+      "total_smart_orders": 1545,
       "total_days_used": 17,
       "pc_count": 9,
       "devices": {
@@ -916,27 +916,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-23 11:32:46",
+          "last_seen_at": "2026-11-23 11:34:26",
           "last_action": "Günün Çıkışları Yenileme (TRIA • 23 Kalem)",
           "today_date": "2026-11-23",
           "today_searches": 4,
           "today_cart_adds": 8,
-          "today_smart_orders": 7,
+          "today_smart_orders": 9,
           "total_searches": 199,
           "total_cart_adds": 553,
-          "total_smart_orders": 792,
+          "total_smart_orders": 794,
           "total_days_used": 16,
           "recent_actions": [
-            {
-              "t": "2026-11-23 11:27:23",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 23 Kalem)"
-            },
-            {
-              "t": "2026-11-23 11:27:23",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-23 11:27:53",
               "type": "mf_resolve",
@@ -999,6 +989,16 @@
             },
             {
               "t": "2026-11-23 11:31:20",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 23 Kalem)"
+            },
+            {
+              "t": "2026-11-23 11:32:57",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-23 11:32:57",
               "type": "critical_stock",
               "detail": "Günün Çıkışları Yenileme (TRIA • 23 Kalem)"
             }
