@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 11:40:39",
+  "updated_at": "2026-11-23 11:38:57",
   "count": 7,
   "items": [
     {
@@ -804,15 +804,15 @@
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-23 11:38:14",
-      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları Yenileme (TRIA • 23 Kalem)",
+      "last_seen_at": "2026-11-23 11:38:57",
+      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-23",
       "today_searches": 9,
       "today_cart_adds": 8,
-      "today_smart_orders": 12,
+      "today_smart_orders": 13,
       "total_searches": 711,
       "total_cart_adds": 1169,
-      "total_smart_orders": 1545,
+      "total_smart_orders": 1546,
       "total_days_used": 17,
       "pc_count": 9,
       "devices": {
@@ -916,22 +916,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-23 11:38:14",
-          "last_action": "Günün Çıkışları Yenileme (TRIA • 23 Kalem)",
+          "last_seen_at": "2026-11-23 11:38:57",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-23",
           "today_searches": 4,
           "today_cart_adds": 8,
-          "today_smart_orders": 9,
+          "today_smart_orders": 10,
           "total_searches": 199,
           "total_cart_adds": 553,
-          "total_smart_orders": 794,
+          "total_smart_orders": 795,
           "total_days_used": 16,
           "recent_actions": [
-            {
-              "t": "2026-11-23 11:27:53",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (23 Ürün)"
-            },
             {
               "t": "2026-11-23 11:28:03",
               "type": "search",
@@ -1001,6 +996,11 @@
               "t": "2026-11-23 11:32:57",
               "type": "critical_stock",
               "detail": "Günün Çıkışları Yenileme (TRIA • 23 Kalem)"
+            },
+            {
+              "t": "2026-11-23 11:38:57",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         },
