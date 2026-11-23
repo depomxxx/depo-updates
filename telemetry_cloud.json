@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 18:00:17",
+  "updated_at": "2026-11-23 18:00:35",
   "count": 7,
   "items": [
     {
@@ -801,16 +801,16 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D2E4-AA57-C021",
-      "last_pc_name": "DESKTOP-1N3LQF0",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-23 18:00:17",
-      "last_action": "[DESKTOP-1N3LQF0] Canlı MF Sorgulama (26 Ürün)",
+      "last_seen_at": "2026-11-23 18:00:35",
+      "last_action": "[DESKTOP-OTHNDUE] Depo Fiyat Sorgulama",
       "today_date": "2026-11-23",
-      "today_searches": 67,
+      "today_searches": 69,
       "today_cart_adds": 34,
       "today_smart_orders": 87,
-      "total_searches": 769,
+      "total_searches": 771,
       "total_cart_adds": 1195,
       "total_smart_orders": 1620,
       "total_days_used": 17,
@@ -916,27 +916,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-23 17:59:56",
+          "last_seen_at": "2026-11-23 18:00:35",
           "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-23",
-          "today_searches": 15,
+          "today_searches": 17,
           "today_cart_adds": 18,
           "today_smart_orders": 67,
-          "total_searches": 210,
+          "total_searches": 212,
           "total_cart_adds": 563,
           "total_smart_orders": 852,
           "total_days_used": 16,
           "recent_actions": [
-            {
-              "t": "2026-11-23 15:48:13",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (11 Ürün)"
-            },
-            {
-              "t": "2026-11-23 15:48:33",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-23 15:48:58",
               "type": "cart",
@@ -999,6 +989,16 @@
             },
             {
               "t": "2026-11-23 17:59:56",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-23 18:00:01",
+              "type": "search",
+              "detail": "Depo Sorgu: BEKLOMIL 100 MCG 120 DOZ NAS S"
+            },
+            {
+              "t": "2026-11-23 18:00:35",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
             }
