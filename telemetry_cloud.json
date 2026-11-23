@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 17:50:15",
+  "updated_at": "2026-11-23 17:50:41",
   "count": 7,
   "items": [
     {
@@ -796,21 +796,21 @@
       "pharmacist_name": "EDA BİLGİN",
       "phone": "05077034200",
       "city": "SAMSUN/İLKADIM",
-      "gln_no": "8680001000000",
+      "gln_no": "8680001112258",
       "otomasyon": "TRIA",
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D719-CEB2-1542",
-      "last_pc_name": "DESKTOP-M530BBB",
+      "hwid": "8FD3-5823-91F4",
+      "last_pc_name": "Eda-Bilgin",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-23 17:50:15",
-      "last_action": "[DESKTOP-M530BBB] Depo Fiyat Sorgulama",
+      "last_seen_at": "2026-11-23 17:50:41",
+      "last_action": "[Eda-Bilgin] Depo Sorgu: ZEDPREX 20 MG 24 CAP.",
       "today_date": "2026-11-23",
-      "today_searches": 65,
+      "today_searches": 66,
       "today_cart_adds": 32,
       "today_smart_orders": 85,
-      "total_searches": 767,
+      "total_searches": 768,
       "total_cart_adds": 1193,
       "total_smart_orders": 1618,
       "total_days_used": 17,
@@ -1010,7 +1010,7 @@
           "desk_name": "Eda-Bilgin",
           "local_ip": "192.168.1.120",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-23 17:49:10",
+          "last_seen_at": "2026-11-23 17:50:41",
           "last_action": "Depo Sorgu: ZEDPREX 20 MG 24 CAP.",
           "today_date": "2026-11-23",
           "today_searches": 22,
@@ -1386,22 +1386,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.100",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-23 17:50:15",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-23 17:50:39",
+          "last_action": "Depo Sorgu: GYREX 200 MG 30 FTB.",
           "today_date": "2026-11-23",
-          "today_searches": 27,
+          "today_searches": 28,
           "today_cart_adds": 10,
           "today_smart_orders": 8,
-          "total_searches": 148,
+          "total_searches": 149,
           "total_cart_adds": 127,
           "total_smart_orders": 166,
           "total_days_used": 17,
           "recent_actions": [
-            {
-              "t": "2026-11-23 15:05:07",
-              "type": "search",
-              "detail": "Depo Sorgu: TARDEN 40 MG 30 FTB."
-            },
             {
               "t": "2026-11-23 15:05:08",
               "type": "search",
@@ -1471,6 +1466,11 @@
               "t": "2026-11-23 17:50:15",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-23 17:50:22",
+              "type": "search",
+              "detail": "Depo Sorgu: GYREX 200 MG 30 FTB."
             }
           ]
         },
