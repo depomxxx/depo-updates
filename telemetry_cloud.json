@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 11:37:18",
+  "updated_at": "2026-11-23 11:37:41",
   "count": 7,
   "items": [
     {
@@ -570,16 +570,16 @@
       "hwid": "2DED-CFF9-D593",
       "last_pc_name": "DESKTOP-8JN0NE5",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-23 11:37:18",
-      "last_action": "[DESKTOP-8JN0NE5] Depo Sorgu: THIOCILLINE 5 GR OFT. POM.",
+      "last_seen_at": "2026-11-23 11:37:41",
+      "last_action": "[DESKTOP-8JN0NE5] Günün Çıkışları Yenileme (BOTANIK • 48 Kalem)",
       "today_date": "2026-11-23",
       "today_searches": 2,
       "today_cart_adds": 0,
-      "today_smart_orders": 3,
+      "today_smart_orders": 5,
       "total_searches": 159,
       "total_cart_adds": 360,
       "total_days_used": 14,
-      "total_smart_orders": 769,
+      "total_smart_orders": 771,
       "pc_count": 3,
       "devices": {
         "2DED-CFF9-D593": {
@@ -588,27 +588,17 @@
           "desk_name": "DESKTOP-8JN0NE5",
           "local_ip": "192.168.1.37",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-23 11:37:18",
-          "last_action": "Depo Sorgu: THIOCILLINE 5 GR OFT. POM.",
+          "last_seen_at": "2026-11-23 11:37:41",
+          "last_action": "Günün Çıkışları Yenileme (BOTANIK • 48 Kalem)",
           "today_date": "2026-11-23",
           "today_searches": 2,
           "today_cart_adds": 0,
-          "today_smart_orders": 3,
+          "today_smart_orders": 5,
           "total_searches": 84,
           "total_cart_adds": 194,
-          "total_smart_orders": 403,
+          "total_smart_orders": 405,
           "total_days_used": 14,
           "recent_actions": [
-            {
-              "t": "2026-11-21 13:24:15",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-21 13:24:45",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (3 Ürün)"
-            },
             {
               "t": "2026-11-21 15:04:04",
               "type": "critical_stock",
@@ -673,6 +663,16 @@
               "t": "2026-11-23 09:16:21",
               "type": "search",
               "detail": "Depo Sorgu: THIOCILLINE 5 GR OFT. POM."
+            },
+            {
+              "t": "2026-11-23 11:37:35",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-23 11:37:41",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (BOTANIK • 48 Kalem)"
             }
           ]
         },
