@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 13:58:38",
+  "updated_at": "2026-11-23 13:56:25",
   "count": 7,
   "items": [
     {
@@ -796,22 +796,22 @@
       "pharmacist_name": "EDA BİLGİN",
       "phone": "05077034200",
       "city": "SAMSUN/İLKADIM",
-      "gln_no": "8680001000000",
+      "gln_no": "8680001112258",
       "otomasyon": "TRIA",
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "5834-FAC9-B71F",
-      "last_pc_name": "DESKTOP-OTHNDUE",
+      "hwid": "8FD3-5823-91F4",
+      "last_pc_name": "Eda-Bilgin",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-23 13:56:06",
-      "last_action": "[DESKTOP-OTHNDUE] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-23 13:56:25",
+      "last_action": "[Eda-Bilgin] Eczatrend Katılım: ZEDPREX KAPSÜL 20 mg 24 kapsül x20",
       "today_date": "2026-11-23",
-      "today_searches": 35,
-      "today_cart_adds": 17,
+      "today_searches": 36,
+      "today_cart_adds": 18,
       "today_smart_orders": 37,
-      "total_searches": 737,
-      "total_cart_adds": 1178,
+      "total_searches": 738,
+      "total_cart_adds": 1179,
       "total_smart_orders": 1570,
       "total_days_used": 17,
       "pc_count": 9,
@@ -1010,27 +1010,17 @@
           "desk_name": "Eda-Bilgin",
           "local_ip": "192.168.1.120",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-23 13:55:53",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-23 13:56:25",
+          "last_action": "Eczatrend Katılım: ZEDPREX KAPSÜL 20 mg 24 kapsül x20",
           "today_date": "2026-11-23",
-          "today_searches": 19,
-          "today_cart_adds": 3,
+          "today_searches": 20,
+          "today_cart_adds": 4,
           "today_smart_orders": 7,
-          "total_searches": 76,
-          "total_cart_adds": 17,
+          "total_searches": 77,
+          "total_cart_adds": 18,
           "total_smart_orders": 75,
           "total_days_used": 12,
           "recent_actions": [
-            {
-              "t": "2026-11-23 13:48:33",
-              "type": "search",
-              "detail": "Depo Sorgu: BETASERC 24 MG 60 TB."
-            },
-            {
-              "t": "2026-11-23 13:49:09",
-              "type": "cart",
-              "detail": "Eczatrend Katılım: BETASERC 24 MG 60 TB. x30"
-            },
             {
               "t": "2026-11-23 13:49:21",
               "type": "cart",
@@ -1095,6 +1085,16 @@
               "t": "2026-11-23 13:55:53",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-23 13:55:55",
+              "type": "search",
+              "detail": "Depo Sorgu: ZEDPREX 20 MG 24 CAP."
+            },
+            {
+              "t": "2026-11-23 13:56:25",
+              "type": "cart",
+              "detail": "Eczatrend Katılım: ZEDPREX KAPSÜL 20 mg 24 kapsül x20"
             }
           ]
         },
