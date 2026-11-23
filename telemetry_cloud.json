@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 17:13:53",
+  "updated_at": "2026-11-23 17:16:26",
   "count": 7,
   "items": [
     {
@@ -1908,16 +1908,16 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-23 17:16:04",
-      "last_action": "[DESKTOP-T4EAUS3] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-23 17:16:26",
+      "last_action": "[DESKTOP-T4EAUS3] Toplu Sepet (ISKOOP): 2 Kalem",
       "today_date": "2026-11-23",
       "today_searches": 10,
-      "today_cart_adds": 22,
-      "today_smart_orders": 20,
+      "today_cart_adds": 25,
+      "today_smart_orders": 23,
       "total_searches": 247,
-      "total_cart_adds": 749,
+      "total_cart_adds": 752,
       "total_days_used": 15,
-      "total_smart_orders": 633,
+      "total_smart_orders": 636,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -2000,47 +2000,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-23 17:16:04",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-23 17:16:26",
+          "last_action": "Toplu Sepet (ISKOOP): 2 Kalem",
           "today_date": "2026-11-23",
           "today_searches": 10,
-          "today_cart_adds": 22,
-          "today_smart_orders": 20,
+          "today_cart_adds": 25,
+          "today_smart_orders": 23,
           "total_searches": 149,
-          "total_cart_adds": 435,
-          "total_smart_orders": 444,
+          "total_cart_adds": 438,
+          "total_smart_orders": 447,
           "total_days_used": 15,
           "recent_actions": [
-            {
-              "t": "2026-11-23 16:13:37",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-23 16:13:42",
-              "type": "search",
-              "detail": "Depo Sorgu: ON CALL PLUS STRIP 50 LI"
-            },
-            {
-              "t": "2026-11-23 17:06:49",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-23 17:06:51",
-              "type": "search",
-              "detail": "Depo Sorgu: VİTEİN PLUS LUTEİN, ZEAKSANTİN, VİTAMİ"
-            },
-            {
-              "t": "2026-11-23 17:07:09",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-23 17:08:49",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-23 17:08:51",
               "type": "search",
@@ -2085,6 +2055,36 @@
               "t": "2026-11-23 17:16:04",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-23 17:16:09",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (30 Ürün)"
+            },
+            {
+              "t": "2026-11-23 17:16:09",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-23 17:16:13",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (7 Ürün)"
+            },
+            {
+              "t": "2026-11-23 17:16:18",
+              "type": "cart",
+              "detail": "Toplu Sepet (ALLIANCE): 8 Kalem"
+            },
+            {
+              "t": "2026-11-23 17:16:18",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-23 17:16:26",
+              "type": "cart",
+              "detail": "Toplu Sepet (ISKOOP): 2 Kalem"
             }
           ]
         },
