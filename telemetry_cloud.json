@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 11:13:48",
+  "updated_at": "2026-11-24 11:14:29",
   "count": 7,
   "items": [
     {
@@ -16,15 +16,15 @@
       "hwid": "E6B1-5698-273E",
       "last_pc_name": "DESKTOP-6KFO8IF",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-24 11:12:54",
+      "last_seen_at": "2026-11-24 11:14:29",
       "last_action": "[DESKTOP-6KFO8IF] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-24",
       "today_searches": 4,
       "today_cart_adds": 10,
-      "today_smart_orders": 10,
+      "today_smart_orders": 12,
       "total_searches": 363,
       "total_cart_adds": 778,
-      "total_smart_orders": 1375,
+      "total_smart_orders": 1377,
       "total_days_used": 17,
       "pc_count": 3,
       "devices": {
@@ -34,7 +34,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-24 11:12:54",
+          "last_seen_at": "2026-11-24 11:14:29",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-24",
           "today_searches": 0,
@@ -128,27 +128,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-24 11:12:32",
-          "last_action": "Günün Çıkışları Yenileme (TRIA • 14 Kalem)",
+          "last_seen_at": "2026-11-24 11:14:23",
+          "last_action": "Günün Çıkışları Yenileme (TRIA • 15 Kalem)",
           "today_date": "2026-11-24",
           "today_searches": 4,
           "today_cart_adds": 6,
-          "today_smart_orders": 7,
+          "today_smart_orders": 9,
           "total_searches": 217,
           "total_cart_adds": 573,
-          "total_smart_orders": 859,
+          "total_smart_orders": 861,
           "total_days_used": 17,
           "recent_actions": [
-            {
-              "t": "2026-11-24 10:49:23",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-24 10:49:37",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 14 Kalem)"
-            },
             {
               "t": "2026-11-24 10:49:58",
               "type": "search",
@@ -213,6 +203,16 @@
               "t": "2026-11-24 10:53:25",
               "type": "critical_stock",
               "detail": "Günün Çıkışları Yenileme (TRIA • 14 Kalem)"
+            },
+            {
+              "t": "2026-11-24 11:13:40",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-24 11:13:40",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 15 Kalem)"
             }
           ]
         },
