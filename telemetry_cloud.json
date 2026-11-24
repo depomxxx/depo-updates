@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 10:49:37",
+  "updated_at": "2026-11-24 10:49:58",
   "count": 7,
   "items": [
     {
@@ -804,15 +804,15 @@
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-24 10:49:36",
-      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-24 10:49:58",
+      "last_action": "[DESKTOP-OTHNDUE] Depo Fiyat Sorgulama",
       "today_date": "2026-11-24",
-      "today_searches": 2,
+      "today_searches": 3,
       "today_cart_adds": 4,
-      "today_smart_orders": 12,
-      "total_searches": 774,
+      "today_smart_orders": 13,
+      "total_searches": 775,
       "total_cart_adds": 1207,
-      "total_smart_orders": 1635,
+      "total_smart_orders": 1636,
       "total_days_used": 18,
       "pc_count": 9,
       "devices": {
@@ -916,27 +916,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-24 10:49:36",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-24 10:49:58",
+          "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-24",
-          "today_searches": 0,
+          "today_searches": 1,
           "today_cart_adds": 0,
-          "today_smart_orders": 2,
-          "total_searches": 213,
+          "today_smart_orders": 3,
+          "total_searches": 214,
           "total_cart_adds": 567,
-          "total_smart_orders": 854,
+          "total_smart_orders": 855,
           "total_days_used": 17,
           "recent_actions": [
-            {
-              "t": "2026-11-23 16:26:22",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 56 Kalem)"
-            },
-            {
-              "t": "2026-11-23 16:27:20",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-23 16:27:20",
               "type": "critical_stock",
@@ -1001,6 +991,16 @@
               "t": "2026-11-24 10:49:23",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-24 10:49:37",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 14 Kalem)"
+            },
+            {
+              "t": "2026-11-24 10:49:58",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ]
         },
@@ -1198,7 +1198,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-24 10:48:54",
+          "last_seen_at": "2026-11-24 10:49:54",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-24",
           "today_searches": 0,
