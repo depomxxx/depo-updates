@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 12:25:19",
+  "updated_at": "2026-11-24 12:25:29",
   "count": 7,
   "items": [
     {
@@ -804,15 +804,15 @@
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-24 12:25:10",
-      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-24 12:25:29",
+      "last_action": "[DESKTOP-OTHNDUE] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-24",
       "today_searches": 9,
-      "today_cart_adds": 21,
-      "today_smart_orders": 37,
+      "today_cart_adds": 22,
+      "today_smart_orders": 38,
       "total_searches": 781,
-      "total_cart_adds": 1224,
-      "total_smart_orders": 1660,
+      "total_cart_adds": 1225,
+      "total_smart_orders": 1661,
       "total_days_used": 18,
       "pc_count": 9,
       "devices": {
@@ -916,27 +916,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-24 12:25:10",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-24 12:25:29",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-24",
           "today_searches": 4,
-          "today_cart_adds": 6,
-          "today_smart_orders": 10,
+          "today_cart_adds": 7,
+          "today_smart_orders": 11,
           "total_searches": 217,
-          "total_cart_adds": 573,
-          "total_smart_orders": 862,
+          "total_cart_adds": 574,
+          "total_smart_orders": 863,
           "total_days_used": 17,
           "recent_actions": [
-            {
-              "t": "2026-11-24 10:50:02",
-              "type": "search",
-              "detail": "Depo Sorgu: ABILIFY 15 MG 28 TB."
-            },
-            {
-              "t": "2026-11-24 10:50:08",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-24 10:50:11",
               "type": "search",
@@ -1001,6 +991,16 @@
               "t": "2026-11-24 12:25:10",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-24 12:25:10",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 24 Kalem)"
+            },
+            {
+              "t": "2026-11-24 12:25:29",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
