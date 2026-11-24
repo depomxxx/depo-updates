@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 12:03:07",
+  "updated_at": "2026-11-24 12:03:26",
   "count": 7,
   "items": [
     {
@@ -804,15 +804,15 @@
       "hwid": "8FD3-5823-91F4",
       "last_pc_name": "Eda-Bilgin",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-24 12:03:07",
-      "last_action": "[Eda-Bilgin] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-24 12:03:26",
+      "last_action": "[Eda-Bilgin] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-24",
       "today_searches": 6,
-      "today_cart_adds": 10,
-      "today_smart_orders": 20,
+      "today_cart_adds": 12,
+      "today_smart_orders": 22,
       "total_searches": 778,
-      "total_cart_adds": 1213,
-      "total_smart_orders": 1643,
+      "total_cart_adds": 1215,
+      "total_smart_orders": 1645,
       "total_days_used": 18,
       "pc_count": 9,
       "devices": {
@@ -1010,37 +1010,17 @@
           "desk_name": "Eda-Bilgin",
           "local_ip": "192.168.1.120",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-24 12:03:07",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-24 12:03:26",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-24",
           "today_searches": 0,
-          "today_cart_adds": 0,
-          "today_smart_orders": 4,
+          "today_cart_adds": 2,
+          "today_smart_orders": 6,
           "total_searches": 79,
-          "total_cart_adds": 18,
-          "total_smart_orders": 79,
+          "total_cart_adds": 20,
+          "total_smart_orders": 81,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-23 13:52:25",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-23 13:52:27",
-              "type": "search",
-              "detail": "Depo Sorgu: BELOC ZOK 25 MG 20 FTB."
-            },
-            {
-              "t": "2026-11-23 13:53:33",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-23 13:53:35",
-              "type": "search",
-              "detail": "Depo Sorgu: BELOC ZOK 100 MG 20 FTB."
-            },
             {
               "t": "2026-11-23 13:54:31",
               "type": "search",
@@ -1095,6 +1075,26 @@
               "t": "2026-11-24 12:03:07",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-24 12:03:07",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-24 12:03:22",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-24 12:03:22",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (26 Ürün)"
+            },
+            {
+              "t": "2026-11-24 12:03:26",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
