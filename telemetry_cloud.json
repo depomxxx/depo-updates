@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 12:31:18",
+  "updated_at": "2026-11-24 12:31:25",
   "count": 7,
   "items": [
     {
@@ -796,23 +796,23 @@
       "pharmacist_name": "EDA BİLGİN",
       "phone": "05077034200",
       "city": "SAMSUN/İLKADIM",
-      "gln_no": "8680001112258",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "8FD3-5823-91F4",
-      "last_pc_name": "Eda-Bilgin",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.20",
-      "last_seen_at": "2026-11-24 12:30:48",
-      "last_action": "[Eda-Bilgin] Canlı MF Sorgulama (4 Ürün)",
+      "last_seen_at": "2026-11-24 12:31:25",
+      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-24",
       "today_searches": 9,
       "today_cart_adds": 23,
-      "today_smart_orders": 48,
+      "today_smart_orders": 49,
       "total_searches": 781,
       "total_cart_adds": 1226,
-      "total_smart_orders": 1671,
+      "total_smart_orders": 1672,
       "total_days_used": 18,
       "pc_count": 9,
       "devices": {
@@ -916,22 +916,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.20",
-          "last_seen_at": "2026-11-24 12:30:13",
+          "last_seen_at": "2026-11-24 12:31:25",
           "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-24",
           "today_searches": 4,
           "today_cart_adds": 8,
-          "today_smart_orders": 12,
+          "today_smart_orders": 13,
           "total_searches": 217,
           "total_cart_adds": 575,
-          "total_smart_orders": 864,
+          "total_smart_orders": 865,
           "total_days_used": 17,
           "recent_actions": [
-            {
-              "t": "2026-11-24 10:51:49",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): MUSKAZON TABLET x24"
-            },
             {
               "t": "2026-11-24 10:51:56",
               "type": "critical_stock",
@@ -999,6 +994,11 @@
             },
             {
               "t": "2026-11-24 12:30:10",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-24 12:31:25",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
             }
@@ -1198,7 +1198,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.20",
-          "last_seen_at": "2026-11-24 12:30:05",
+          "last_seen_at": "2026-11-24 12:31:18",
           "last_action": "Canlı MF Sorgulama (1 Ürün)",
           "today_date": "2026-11-24",
           "today_searches": 0,
