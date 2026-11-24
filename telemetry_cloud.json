@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 17:54:46",
+  "updated_at": "2026-11-24 17:54:51",
   "count": 7,
   "items": [
     {
@@ -801,18 +801,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "5834-FAC9-B71F",
-      "last_pc_name": "DESKTOP-OTHNDUE",
+      "hwid": "B446-9737-94C4",
+      "last_pc_name": "DESKTOP-5PFFU5S",
       "app_version": "1.9.20",
-      "last_seen_at": "2026-11-24 17:54:47",
-      "last_action": "[DESKTOP-OTHNDUE] Toplu Sepet (ALLIANCE): 1 Kalem",
+      "last_seen_at": "2026-11-24 17:54:51",
+      "last_action": "[DESKTOP-5PFFU5S] Canlı MF Sorgulama (2 Ürün)",
       "today_date": "2026-11-24",
-      "today_searches": 32,
+      "today_searches": 33,
       "today_cart_adds": 54,
-      "today_smart_orders": 101,
-      "total_searches": 804,
+      "today_smart_orders": 102,
+      "total_searches": 805,
       "total_cart_adds": 1257,
-      "total_smart_orders": 1724,
+      "total_smart_orders": 1725,
       "total_days_used": 18,
       "pc_count": 9,
       "devices": {
@@ -1104,7 +1104,7 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.9.20",
-          "last_seen_at": "2026-11-24 17:54:02",
+          "last_seen_at": "2026-11-24 17:54:51",
           "last_action": "Canlı MF Sorgulama (2 Ürün)",
           "today_date": "2026-11-24",
           "today_searches": 0,
@@ -1386,7 +1386,7 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.100",
           "app_version": "1.9.20",
-          "last_seen_at": "2026-11-24 17:53:47",
+          "last_seen_at": "2026-11-24 17:54:47",
           "last_action": "Depo Sorgu: HIPP 2 ORGANIK COMBIOTIC 800GR DEVAM S",
           "today_date": "2026-11-24",
           "today_searches": 14,
@@ -1480,27 +1480,17 @@
           "desk_name": "DESKTOP-1N3LQF0",
           "local_ip": "192.168.1.123",
           "app_version": "1.9.20",
-          "last_seen_at": "2026-11-24 17:54:46",
-          "last_action": "Canlı MF Sorgulama (30 Ürün)",
+          "last_seen_at": "2026-11-24 17:54:49",
+          "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-24",
-          "today_searches": 1,
+          "today_searches": 2,
           "today_cart_adds": 0,
-          "today_smart_orders": 9,
-          "total_searches": 84,
+          "today_smart_orders": 10,
+          "total_searches": 85,
           "total_cart_adds": 36,
-          "total_smart_orders": 112,
+          "total_smart_orders": 113,
           "total_days_used": 12,
           "recent_actions": [
-            {
-              "t": "2026-11-23 14:03:01",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-23 14:03:15",
-              "type": "search",
-              "detail": "Depo Sorgu: NOOTROPIL 800 MG 30 FTB."
-            },
             {
               "t": "2026-11-23 14:03:41",
               "type": "mf_resolve",
@@ -1565,6 +1555,16 @@
               "t": "2026-11-24 17:54:46",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (30 Ürün)"
+            },
+            {
+              "t": "2026-11-24 17:54:47",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-24 17:54:48",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ]
         },
