@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 10:51:45",
+  "updated_at": "2026-11-24 10:51:47",
   "count": 7,
   "items": [
     {
@@ -804,14 +804,14 @@
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-24 10:51:19",
-      "last_action": "[DESKTOP-OTHNDUE] Depo Sorgu: MUSKAZON 300/250 MG 20 TB.",
+      "last_seen_at": "2026-11-24 10:51:47",
+      "last_action": "[DESKTOP-OTHNDUE] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-24",
       "today_searches": 6,
-      "today_cart_adds": 4,
+      "today_cart_adds": 5,
       "today_smart_orders": 13,
       "total_searches": 778,
-      "total_cart_adds": 1207,
+      "total_cart_adds": 1208,
       "total_smart_orders": 1636,
       "total_days_used": 18,
       "pc_count": 9,
@@ -916,22 +916,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-24 10:51:19",
-          "last_action": "Depo Sorgu: MUSKAZON 300/250 MG 20 TB.",
+          "last_seen_at": "2026-11-24 10:51:47",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-24",
           "today_searches": 4,
-          "today_cart_adds": 0,
+          "today_cart_adds": 1,
           "today_smart_orders": 3,
           "total_searches": 217,
-          "total_cart_adds": 567,
+          "total_cart_adds": 568,
           "total_smart_orders": 855,
           "total_days_used": 17,
           "recent_actions": [
-            {
-              "t": "2026-11-23 17:59:14",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-23 17:59:14",
               "type": "critical_stock",
@@ -1001,6 +996,11 @@
               "t": "2026-11-24 10:50:11",
               "type": "search",
               "detail": "Depo Sorgu: MUSKAZON 300/250 MG 20 TB."
+            },
+            {
+              "t": "2026-11-24 10:51:47",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
@@ -1198,7 +1198,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-24 10:50:54",
+          "last_seen_at": "2026-11-24 10:51:45",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-24",
           "today_searches": 0,
