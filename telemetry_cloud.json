@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 10:36:38",
+  "updated_at": "2026-11-24 10:37:01",
   "count": 7,
   "items": [
     {
@@ -804,15 +804,15 @@
       "hwid": "D719-CEB2-1542",
       "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-24 10:36:38",
-      "last_action": "[DESKTOP-M530BBB] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-24 10:37:01",
+      "last_action": "[DESKTOP-M530BBB] Depo Sorgu: FOREVER GARCINIA PLUS",
       "today_date": "2026-11-24",
-      "today_searches": 0,
+      "today_searches": 2,
       "today_cart_adds": 0,
-      "today_smart_orders": 4,
-      "total_searches": 772,
+      "today_smart_orders": 6,
+      "total_searches": 774,
       "total_cart_adds": 1199,
-      "total_smart_orders": 1624,
+      "total_smart_orders": 1626,
       "total_days_used": 18,
       "pc_count": 9,
       "devices": {
@@ -1386,37 +1386,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.100",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-24 10:36:38",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-24 10:37:01",
+          "last_action": "Depo Sorgu: FOREVER GARCINIA PLUS",
           "today_date": "2026-11-24",
-          "today_searches": 0,
+          "today_searches": 2,
           "today_cart_adds": 0,
-          "today_smart_orders": 1,
-          "total_searches": 149,
+          "today_smart_orders": 3,
+          "total_searches": 151,
           "total_cart_adds": 129,
-          "total_smart_orders": 167,
+          "total_smart_orders": 169,
           "total_days_used": 18,
           "recent_actions": [
-            {
-              "t": "2026-11-23 15:05:22",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-23 16:16:59",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-23 16:17:07",
-              "type": "search",
-              "detail": "Depo Sorgu: AZEKAZ 137+50 MCG 23 GR NAS SP"
-            },
-            {
-              "t": "2026-11-23 16:17:07",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-23 16:17:08",
               "type": "search",
@@ -1471,6 +1451,26 @@
               "t": "2026-11-24 09:06:33",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-24 10:36:42",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-24 10:36:42",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-24 10:36:49",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-24 10:37:01",
+              "type": "search",
+              "detail": "Depo Sorgu: FOREVER GARCINIA PLUS"
             }
           ]
         },
