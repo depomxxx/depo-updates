@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 09:06:29",
+  "updated_at": "2026-11-24 09:07:50",
   "count": 7,
   "items": [
     {
@@ -804,15 +804,15 @@
       "hwid": "D719-CEB2-1542",
       "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-24 09:06:29",
-      "last_action": "Program Açık (Canlı)",
+      "last_seen_at": "2026-11-24 09:07:50",
+      "last_action": "[DESKTOP-M530BBB] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-24",
       "today_searches": 0,
       "today_cart_adds": 0,
-      "today_smart_orders": 0,
+      "today_smart_orders": 1,
       "total_searches": 772,
       "total_cart_adds": 1199,
-      "total_smart_orders": 1620,
+      "total_smart_orders": 1621,
       "total_days_used": 18,
       "pc_count": 9,
       "devices": {
@@ -1386,22 +1386,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.100",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-24 09:06:29",
-          "last_action": "Program Açık (Canlı)",
+          "last_seen_at": "2026-11-24 09:07:50",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-24",
           "today_searches": 0,
           "today_cart_adds": 0,
-          "today_smart_orders": 0,
+          "today_smart_orders": 1,
           "total_searches": 149,
           "total_cart_adds": 129,
-          "total_smart_orders": 166,
+          "total_smart_orders": 167,
           "total_days_used": 18,
           "recent_actions": [
-            {
-              "t": "2026-11-23 15:05:09",
-              "type": "search",
-              "detail": "Depo Sorgu: TARDEN 40 MG 30 FTB."
-            },
             {
               "t": "2026-11-23 15:05:22",
               "type": "cart",
@@ -1471,6 +1466,11 @@
               "t": "2026-11-23 17:50:50",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-24 09:06:33",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         },
