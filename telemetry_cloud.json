@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 12:25:29",
+  "updated_at": "2026-11-24 12:25:42",
   "count": 7,
   "items": [
     {
@@ -16,15 +16,15 @@
       "hwid": "E6B1-5698-273E",
       "last_pc_name": "DESKTOP-6KFO8IF",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-24 12:24:11",
+      "last_seen_at": "2026-11-24 12:25:42",
       "last_action": "[DESKTOP-6KFO8IF] Toplu Sepet (ALLIANCE): 5 Kalem",
       "today_date": "2026-11-24",
       "today_searches": 4,
-      "today_cart_adds": 12,
-      "today_smart_orders": 16,
+      "today_cart_adds": 14,
+      "today_smart_orders": 18,
       "total_searches": 363,
-      "total_cart_adds": 780,
-      "total_smart_orders": 1381,
+      "total_cart_adds": 782,
+      "total_smart_orders": 1383,
       "total_days_used": 17,
       "pc_count": 3,
       "devices": {
@@ -34,7 +34,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-24 12:24:11",
+          "last_seen_at": "2026-11-24 12:25:42",
           "last_action": "Toplu Sepet (ALLIANCE): 5 Kalem",
           "today_date": "2026-11-24",
           "today_searches": 0,
@@ -128,37 +128,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-24 12:23:48",
-          "last_action": "Günün Çıkışları Yenileme (TRIA • 15 Kalem)",
+          "last_seen_at": "2026-11-24 12:25:38",
+          "last_action": "Sepete Ekle (ALLIANCE): CİTOLES FILM KAPLI TABLET 15 x2",
           "today_date": "2026-11-24",
           "today_searches": 4,
-          "today_cart_adds": 6,
-          "today_smart_orders": 9,
+          "today_cart_adds": 8,
+          "today_smart_orders": 11,
           "total_searches": 217,
-          "total_cart_adds": 573,
-          "total_smart_orders": 861,
+          "total_cart_adds": 575,
+          "total_smart_orders": 863,
           "total_days_used": 17,
           "recent_actions": [
-            {
-              "t": "2026-11-24 10:49:58",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-24 10:50:02",
-              "type": "search",
-              "detail": "Depo Sorgu: ABILIFY 15 MG 28 TB."
-            },
-            {
-              "t": "2026-11-24 10:50:08",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-24 10:50:11",
-              "type": "search",
-              "detail": "Depo Sorgu: MUSKAZON 300/250 MG 20 TB."
-            },
             {
               "t": "2026-11-24 10:51:47",
               "type": "cart",
@@ -213,6 +193,26 @@
               "t": "2026-11-24 11:13:40",
               "type": "critical_stock",
               "detail": "Günün Çıkışları Yenileme (TRIA • 15 Kalem)"
+            },
+            {
+              "t": "2026-11-24 12:25:10",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-24 12:25:10",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 24 Kalem)"
+            },
+            {
+              "t": "2026-11-24 12:25:29",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-24 12:25:32",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): CİTOLES FILM KAPLI TABLET 15 x2"
             }
           ]
         },
