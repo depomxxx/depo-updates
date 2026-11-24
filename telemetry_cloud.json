@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 14:10:47",
+  "updated_at": "2026-11-24 14:10:54",
   "count": 7,
   "items": [
     {
@@ -801,18 +801,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "5834-FAC9-B71F",
-      "last_pc_name": "DESKTOP-OTHNDUE",
+      "hwid": "D719-CEB2-1542",
+      "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.9.20",
-      "last_seen_at": "2026-11-24 14:10:47",
-      "last_action": "[DESKTOP-OTHNDUE] Depo Sorgu: ATTEX 4 MG 100 ML COZ.",
+      "last_seen_at": "2026-11-24 14:10:54",
+      "last_action": "[DESKTOP-M530BBB] Canlı MF Sorgulama (30 Ürün)",
       "today_date": "2026-11-24",
       "today_searches": 11,
       "today_cart_adds": 35,
-      "today_smart_orders": 60,
+      "today_smart_orders": 65,
       "total_searches": 783,
       "total_cart_adds": 1238,
-      "total_smart_orders": 1683,
+      "total_smart_orders": 1688,
       "total_days_used": 18,
       "pc_count": 9,
       "devices": {
@@ -1104,7 +1104,7 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.9.20",
-          "last_seen_at": "2026-11-24 14:10:07",
+          "last_seen_at": "2026-11-24 14:10:53",
           "last_action": "Canlı MF Sorgulama (2 Ürün)",
           "today_date": "2026-11-24",
           "today_searches": 0,
@@ -1386,32 +1386,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.100",
           "app_version": "1.9.20",
-          "last_seen_at": "2026-11-24 14:10:10",
-          "last_action": "Canlı MF Sorgulama (25 Ürün)",
+          "last_seen_at": "2026-11-24 14:10:54",
+          "last_action": "Canlı MF Sorgulama (30 Ürün)",
           "today_date": "2026-11-24",
           "today_searches": 2,
           "today_cart_adds": 0,
-          "today_smart_orders": 7,
+          "today_smart_orders": 12,
           "total_searches": 151,
           "total_cart_adds": 129,
-          "total_smart_orders": 173,
+          "total_smart_orders": 178,
           "total_days_used": 18,
           "recent_actions": [
-            {
-              "t": "2026-11-23 17:49:00",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-23 17:49:01",
-              "type": "search",
-              "detail": "Depo Sorgu: NORODOL 2 MG 20 ML ORAL GTT."
-            },
-            {
-              "t": "2026-11-23 17:49:45",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-23 17:50:15",
               "type": "search",
@@ -1471,6 +1456,21 @@
               "t": "2026-11-24 12:08:05",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (25 Ürün)"
+            },
+            {
+              "t": "2026-11-24 14:10:14",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-24 14:10:14",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-24 14:10:54",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (30 Ürün)"
             }
           ]
         },
