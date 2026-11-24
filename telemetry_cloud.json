@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 10:51:01",
+  "updated_at": "2026-11-24 10:51:19",
   "count": 7,
   "items": [
     {
@@ -796,21 +796,21 @@
       "pharmacist_name": "EDA BİLGİN",
       "phone": "05077034200",
       "city": "SAMSUN/İLKADIM",
-      "gln_no": "8680001112258",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "8FD3-5823-91F4",
-      "last_pc_name": "Eda-Bilgin",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-24 10:51:01",
-      "last_action": "[Eda-Bilgin] Canlı MF Sorgulama (17 Ürün)",
+      "last_seen_at": "2026-11-24 10:51:19",
+      "last_action": "[DESKTOP-OTHNDUE] Depo Sorgu: MUSKAZON 300/250 MG 20 TB.",
       "today_date": "2026-11-24",
-      "today_searches": 3,
+      "today_searches": 6,
       "today_cart_adds": 4,
       "today_smart_orders": 13,
-      "total_searches": 775,
+      "total_searches": 778,
       "total_cart_adds": 1207,
       "total_smart_orders": 1636,
       "total_days_used": 18,
@@ -916,32 +916,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-24 10:49:58",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-24 10:51:19",
+          "last_action": "Depo Sorgu: MUSKAZON 300/250 MG 20 TB.",
           "today_date": "2026-11-24",
-          "today_searches": 1,
+          "today_searches": 4,
           "today_cart_adds": 0,
           "today_smart_orders": 3,
-          "total_searches": 214,
+          "total_searches": 217,
           "total_cart_adds": 567,
           "total_smart_orders": 855,
           "total_days_used": 17,
           "recent_actions": [
-            {
-              "t": "2026-11-23 16:27:20",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 56 Kalem)"
-            },
-            {
-              "t": "2026-11-23 16:28:29",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-23 16:28:29",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 56 Kalem)"
-            },
             {
               "t": "2026-11-23 17:59:14",
               "type": "critical_stock",
@@ -1001,6 +986,21 @@
               "t": "2026-11-24 10:49:58",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-24 10:50:02",
+              "type": "search",
+              "detail": "Depo Sorgu: ABILIFY 15 MG 28 TB."
+            },
+            {
+              "t": "2026-11-24 10:50:08",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-24 10:50:11",
+              "type": "search",
+              "detail": "Depo Sorgu: MUSKAZON 300/250 MG 20 TB."
             }
           ]
         },
@@ -1198,7 +1198,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-24 10:49:54",
+          "last_seen_at": "2026-11-24 10:50:54",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-24",
           "today_searches": 0,
