@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 10:49:30",
+  "updated_at": "2026-11-24 10:49:37",
   "count": 7,
   "items": [
     {
@@ -796,23 +796,23 @@
       "pharmacist_name": "EDA BİLGİN",
       "phone": "05077034200",
       "city": "SAMSUN/İLKADIM",
-      "gln_no": "8680001112258",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "8FD3-5823-91F4",
-      "last_pc_name": "Eda-Bilgin",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-24 10:49:30",
-      "last_action": "[Eda-Bilgin] Canlı MF Sorgulama (17 Ürün)",
+      "last_seen_at": "2026-11-24 10:49:36",
+      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-24",
       "today_searches": 2,
       "today_cart_adds": 4,
-      "today_smart_orders": 10,
+      "today_smart_orders": 12,
       "total_searches": 774,
       "total_cart_adds": 1207,
-      "total_smart_orders": 1633,
+      "total_smart_orders": 1635,
       "total_days_used": 18,
       "pc_count": 9,
       "devices": {
@@ -916,22 +916,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-24 10:49:16",
-          "last_action": "Program Açık (Canlı)",
+          "last_seen_at": "2026-11-24 10:49:36",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-24",
           "today_searches": 0,
           "today_cart_adds": 0,
-          "today_smart_orders": 0,
+          "today_smart_orders": 2,
           "total_searches": 213,
           "total_cart_adds": 567,
-          "total_smart_orders": 852,
+          "total_smart_orders": 854,
           "total_days_used": 17,
           "recent_actions": [
-            {
-              "t": "2026-11-23 16:26:21",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-23 16:26:22",
               "type": "critical_stock",
@@ -1001,6 +996,11 @@
               "t": "2026-11-23 18:01:30",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-24 10:49:23",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         },
