@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 13:18:34",
+  "updated_at": "2026-11-24 13:18:54",
   "count": 7,
   "items": [
     {
@@ -16,7 +16,7 @@
       "hwid": "E6B1-5698-273E",
       "last_pc_name": "DESKTOP-6KFO8IF",
       "app_version": "1.9.20",
-      "last_seen_at": "2026-11-24 13:17:26",
+      "last_seen_at": "2026-11-24 13:18:54",
       "last_action": "[DESKTOP-6KFO8IF] Canlı MF Sorgulama (1 Ürün)",
       "today_date": "2026-11-24",
       "today_searches": 6,
@@ -34,7 +34,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.20",
-          "last_seen_at": "2026-11-24 13:17:26",
+          "last_seen_at": "2026-11-24 13:18:54",
           "last_action": "Canlı MF Sorgulama (1 Ürün)",
           "today_date": "2026-11-24",
           "today_searches": 0,
@@ -128,7 +128,7 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.20",
-          "last_seen_at": "2026-11-24 13:17:12",
+          "last_seen_at": "2026-11-24 13:18:12",
           "last_action": "Depo Sorgu: ATTEX 4 MG 100 ML COZ.",
           "today_date": "2026-11-24",
           "today_searches": 6,
