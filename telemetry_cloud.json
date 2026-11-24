@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 18:16:47",
+  "updated_at": "2026-11-24 18:17:14",
   "count": 7,
   "items": [
     {
@@ -801,18 +801,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D2E4-AA57-C021",
-      "last_pc_name": "DESKTOP-1N3LQF0",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.20",
-      "last_seen_at": "2026-11-24 18:16:47",
-      "last_action": "[DESKTOP-1N3LQF0] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-24 18:17:14",
+      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-24",
       "today_searches": 36,
       "today_cart_adds": 66,
-      "today_smart_orders": 107,
+      "today_smart_orders": 108,
       "total_searches": 808,
       "total_cart_adds": 1269,
-      "total_smart_orders": 1730,
+      "total_smart_orders": 1731,
       "total_days_used": 18,
       "pc_count": 9,
       "devices": {
@@ -916,22 +916,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.20",
-          "last_seen_at": "2026-11-24 18:16:12",
-          "last_action": "Toplu Sepet (ALLIANCE): 1 Kalem",
+          "last_seen_at": "2026-11-24 18:17:14",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-24",
           "today_searches": 14,
           "today_cart_adds": 27,
-          "today_smart_orders": 40,
+          "today_smart_orders": 41,
           "total_searches": 227,
           "total_cart_adds": 594,
-          "total_smart_orders": 892,
+          "total_smart_orders": 893,
           "total_days_used": 17,
           "recent_actions": [
-            {
-              "t": "2026-11-24 16:38:01",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 61 Kalem)"
-            },
             {
               "t": "2026-11-24 16:38:17",
               "type": "critical_stock",
@@ -1001,6 +996,11 @@
               "t": "2026-11-24 17:53:37",
               "type": "cart",
               "detail": "Toplu Sepet (ALLIANCE): 1 Kalem"
+            },
+            {
+              "t": "2026-11-24 18:17:14",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         },
@@ -1198,7 +1198,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.20",
-          "last_seen_at": "2026-11-24 18:15:58",
+          "last_seen_at": "2026-11-24 18:16:53",
           "last_action": "Canlı MF Sorgulama (1 Ürün)",
           "today_date": "2026-11-24",
           "today_searches": 0,
