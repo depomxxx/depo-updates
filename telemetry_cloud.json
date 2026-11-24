@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 12:09:32",
+  "updated_at": "2026-11-24 12:09:36",
   "count": 7,
   "items": [
     {
@@ -16,15 +16,15 @@
       "hwid": "E6B1-5698-273E",
       "last_pc_name": "DESKTOP-6KFO8IF",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-24 12:08:54",
-      "last_action": "[DESKTOP-6KFO8IF] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-24 12:09:36",
+      "last_action": "[DESKTOP-6KFO8IF] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-24",
       "today_searches": 4,
       "today_cart_adds": 10,
-      "today_smart_orders": 12,
+      "today_smart_orders": 13,
       "total_searches": 363,
       "total_cart_adds": 778,
-      "total_smart_orders": 1377,
+      "total_smart_orders": 1378,
       "total_days_used": 17,
       "pc_count": 3,
       "devices": {
@@ -34,22 +34,17 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-24 12:08:54",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-24 12:09:36",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-24",
           "today_searches": 0,
           "today_cart_adds": 4,
-          "today_smart_orders": 3,
+          "today_smart_orders": 4,
           "total_searches": 38,
           "total_cart_adds": 95,
-          "total_smart_orders": 179,
+          "total_smart_orders": 180,
           "total_days_used": 15,
           "recent_actions": [
-            {
-              "t": "2026-11-19 16:40:43",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (30 Ürün)"
-            },
             {
               "t": "2026-11-19 16:40:44",
               "type": "mf_resolve",
@@ -119,6 +114,11 @@
               "t": "2026-11-24 09:35:06",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-24 12:09:36",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         },
@@ -128,7 +128,7 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-24 12:08:38",
+          "last_seen_at": "2026-11-24 12:09:12",
           "last_action": "Günün Çıkışları Yenileme (TRIA • 15 Kalem)",
           "today_date": "2026-11-24",
           "today_searches": 4,
