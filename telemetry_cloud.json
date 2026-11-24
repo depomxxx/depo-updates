@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 16:41:42",
+  "updated_at": "2026-11-24 16:41:54",
   "count": 7,
   "items": [
     {
@@ -8,23 +8,23 @@
       "pharmacist_name": "GAMZE ASLAN",
       "phone": "05344064108",
       "city": "SAMSUN/ATAKUM",
-      "gln_no": "8680001134861",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "PRO_YILLIK",
       "expires_at": "2027-10-24",
       "status": "AKTIF",
-      "hwid": "E4F7-229A-BABD",
-      "last_pc_name": "ChagriBeg",
+      "hwid": "E6B1-5698-273E",
+      "last_pc_name": "DESKTOP-6KFO8IF",
       "app_version": "1.9.20",
-      "last_seen_at": "2026-11-24 16:41:00",
-      "last_action": "[ChagriBeg] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-24 16:41:54",
+      "last_action": "[DESKTOP-6KFO8IF] Canlı MF Sorgulama (1 Ürün)",
       "today_date": "2026-11-24",
       "today_searches": 14,
       "today_cart_adds": 35,
-      "today_smart_orders": 47,
+      "today_smart_orders": 49,
       "total_searches": 373,
       "total_cart_adds": 803,
-      "total_smart_orders": 1412,
+      "total_smart_orders": 1414,
       "total_days_used": 17,
       "pc_count": 3,
       "devices": {
@@ -34,7 +34,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.20",
-          "last_seen_at": "2026-11-24 16:40:54",
+          "last_seen_at": "2026-11-24 16:41:54",
           "last_action": "Canlı MF Sorgulama (1 Ürün)",
           "today_date": "2026-11-24",
           "today_searches": 0,
@@ -128,27 +128,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.20",
-          "last_seen_at": "2026-11-24 16:40:12",
+          "last_seen_at": "2026-11-24 16:41:52",
           "last_action": "Günün Çıkışları Yenileme (TRIA • 61 Kalem)",
           "today_date": "2026-11-24",
           "today_searches": 14,
           "today_cart_adds": 25,
-          "today_smart_orders": 30,
+          "today_smart_orders": 32,
           "total_searches": 227,
           "total_cart_adds": 592,
-          "total_smart_orders": 882,
+          "total_smart_orders": 884,
           "total_days_used": 17,
           "recent_actions": [
-            {
-              "t": "2026-11-24 15:38:32",
-              "type": "search",
-              "detail": "Depo Sorgu: COLEDAN D3 2.000 IU 60 FTB."
-            },
-            {
-              "t": "2026-11-24 15:38:50",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-24 15:38:53",
               "type": "search",
@@ -213,6 +203,16 @@
               "t": "2026-11-24 16:38:17",
               "type": "critical_stock",
               "detail": "Günün Çıkışları Yenileme (TRIA • 61 Kalem)"
+            },
+            {
+              "t": "2026-11-24 16:41:41",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-24 16:41:42",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 61 Kalem)"
             }
           ]
         },
@@ -222,7 +222,7 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.9.20",
-          "last_seen_at": "2026-11-24 16:41:00",
+          "last_seen_at": "2026-11-24 16:41:44",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-24",
           "today_searches": 0,
