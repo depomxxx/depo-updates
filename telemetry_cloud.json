@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 12:25:00",
+  "updated_at": "2026-11-24 12:25:10",
   "count": 7,
   "items": [
     {
@@ -796,23 +796,23 @@
       "pharmacist_name": "EDA BİLGİN",
       "phone": "05077034200",
       "city": "SAMSUN/İLKADIM",
-      "gln_no": "8680001112258",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "8FD3-5823-91F4",
-      "last_pc_name": "Eda-Bilgin",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-24 12:25:00",
-      "last_action": "[Eda-Bilgin] Piyasa Fiyat Kıyaslama: 8697595873755",
+      "last_seen_at": "2026-11-24 12:25:10",
+      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-24",
       "today_searches": 9,
       "today_cart_adds": 21,
-      "today_smart_orders": 36,
+      "today_smart_orders": 37,
       "total_searches": 781,
       "total_cart_adds": 1224,
-      "total_smart_orders": 1659,
+      "total_smart_orders": 1660,
       "total_days_used": 18,
       "pc_count": 9,
       "devices": {
@@ -916,22 +916,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-24 12:23:48",
-          "last_action": "Günün Çıkışları Yenileme (TRIA • 15 Kalem)",
+          "last_seen_at": "2026-11-24 12:25:10",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-24",
           "today_searches": 4,
           "today_cart_adds": 6,
-          "today_smart_orders": 9,
+          "today_smart_orders": 10,
           "total_searches": 217,
           "total_cart_adds": 573,
-          "total_smart_orders": 861,
+          "total_smart_orders": 862,
           "total_days_used": 17,
           "recent_actions": [
-            {
-              "t": "2026-11-24 10:49:58",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-24 10:50:02",
               "type": "search",
@@ -1001,6 +996,11 @@
               "t": "2026-11-24 11:13:40",
               "type": "critical_stock",
               "detail": "Günün Çıkışları Yenileme (TRIA • 15 Kalem)"
+            },
+            {
+              "t": "2026-11-24 12:25:10",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         },
@@ -1198,7 +1198,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-24 12:22:54",
+          "last_seen_at": "2026-11-24 12:24:54",
           "last_action": "Toplu Sepet (ALLIANCE): 5 Kalem",
           "today_date": "2026-11-24",
           "today_searches": 0,
