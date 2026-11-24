@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 12:09:13",
+  "updated_at": "2026-11-24 12:09:32",
   "count": 7,
   "items": [
     {
@@ -801,18 +801,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "B446-9737-94C4",
-      "last_pc_name": "DESKTOP-5PFFU5S",
+      "hwid": "D719-CEB2-1542",
+      "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-24 12:09:12",
-      "last_action": "[DESKTOP-5PFFU5S] Canlı MF Taraması",
+      "last_seen_at": "2026-11-24 12:09:32",
+      "last_action": "[DESKTOP-M530BBB] Canlı MF Sorgulama (25 Ürün)",
       "today_date": "2026-11-24",
       "today_searches": 9,
       "today_cart_adds": 19,
-      "today_smart_orders": 27,
+      "today_smart_orders": 29,
       "total_searches": 781,
       "total_cart_adds": 1222,
-      "total_smart_orders": 1650,
+      "total_smart_orders": 1652,
       "total_days_used": 18,
       "pc_count": 9,
       "devices": {
@@ -1010,7 +1010,7 @@
           "desk_name": "Eda-Bilgin",
           "local_ip": "192.168.1.120",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-24 12:08:57",
+          "last_seen_at": "2026-11-24 12:09:22",
           "last_action": "Piyasa Fiyat Kıyaslama: 8697595873755",
           "today_date": "2026-11-24",
           "today_searches": 3,
@@ -1104,27 +1104,17 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-24 12:09:12",
+          "last_seen_at": "2026-11-24 12:09:19",
           "last_action": "Canlı MF Taraması",
           "today_date": "2026-11-24",
           "today_searches": 0,
           "today_cart_adds": 0,
-          "today_smart_orders": 2,
+          "today_smart_orders": 4,
           "total_searches": 101,
           "total_cart_adds": 268,
-          "total_smart_orders": 116,
+          "total_smart_orders": 118,
           "total_days_used": 9,
           "recent_actions": [
-            {
-              "t": "2026-11-18 14:06:09",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): DRAMAMINE 50 MG 12 TABLET x3"
-            },
-            {
-              "t": "2026-11-18 14:29:45",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-18 14:29:45",
               "type": "mf_resolve",
@@ -1187,6 +1177,16 @@
             },
             {
               "t": "2026-11-24 12:08:56",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-24 12:09:18",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-24 12:09:18",
               "type": "mf_resolve",
               "detail": "Canlı MF Taraması"
             }
@@ -1386,7 +1386,7 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.100",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-24 12:09:07",
+          "last_seen_at": "2026-11-24 12:09:32",
           "last_action": "Canlı MF Sorgulama (25 Ürün)",
           "today_date": "2026-11-24",
           "today_searches": 2,
