@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 17:19:36",
+  "updated_at": "2026-11-24 17:21:56",
   "count": 7,
   "items": [
     {
@@ -1908,14 +1908,14 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.9.20",
-      "last_seen_at": "2026-11-24 17:21:08",
+      "last_seen_at": "2026-11-24 17:21:56",
       "last_action": "[DESKTOP-T4EAUS3] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-24",
       "today_searches": 0,
-      "today_cart_adds": 24,
+      "today_cart_adds": 25,
       "today_smart_orders": 11,
       "total_searches": 247,
-      "total_cart_adds": 804,
+      "total_cart_adds": 805,
       "total_days_used": 16,
       "total_smart_orders": 647,
       "pc_count": 3,
@@ -2000,22 +2000,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.9.20",
-          "last_seen_at": "2026-11-24 17:21:08",
+          "last_seen_at": "2026-11-24 17:21:56",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-24",
           "today_searches": 0,
-          "today_cart_adds": 24,
+          "today_cart_adds": 25,
           "today_smart_orders": 9,
           "total_searches": 149,
-          "total_cart_adds": 490,
+          "total_cart_adds": 491,
           "total_smart_orders": 456,
           "total_days_used": 16,
           "recent_actions": [
-            {
-              "t": "2026-11-24 17:03:15",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-24 17:03:23",
               "type": "cart",
@@ -2083,6 +2078,11 @@
             },
             {
               "t": "2026-11-24 17:19:18",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-24 17:21:56",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
