@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 18:26:53",
+  "updated_at": "2026-11-24 18:27:24",
   "count": 7,
   "items": [
     {
@@ -801,11 +801,11 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D719-CEB2-1542",
-      "last_pc_name": "DESKTOP-M530BBB",
+      "hwid": "D2E4-AA57-C021",
+      "last_pc_name": "DESKTOP-1N3LQF0",
       "app_version": "1.9.20",
-      "last_seen_at": "2026-11-24 18:26:53",
-      "last_action": "[DESKTOP-M530BBB] Depo Sorgu: HIPP 2 ORGANIK COMBIOTIC 800GR DEVAM S",
+      "last_seen_at": "2026-11-24 18:27:24",
+      "last_action": "[DESKTOP-1N3LQF0] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-24",
       "today_searches": 36,
       "today_cart_adds": 66,
@@ -1480,7 +1480,7 @@
           "desk_name": "DESKTOP-1N3LQF0",
           "local_ip": "192.168.1.123",
           "app_version": "1.9.20",
-          "last_seen_at": "2026-11-24 18:25:55",
+          "last_seen_at": "2026-11-24 18:27:24",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-24",
           "today_searches": 5,
