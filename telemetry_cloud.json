@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 17:54:29",
+  "updated_at": "2026-11-24 17:54:45",
   "count": 7,
   "items": [
     {
@@ -8,23 +8,23 @@
       "pharmacist_name": "GAMZE ASLAN",
       "phone": "05344064108",
       "city": "SAMSUN/ATAKUM",
-      "gln_no": "8680001134861",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "PRO_YILLIK",
       "expires_at": "2027-10-24",
       "status": "AKTIF",
-      "hwid": "E4F7-229A-BABD",
-      "last_pc_name": "ChagriBeg",
+      "hwid": "E6B1-5698-273E",
+      "last_pc_name": "DESKTOP-6KFO8IF",
       "app_version": "1.9.20",
-      "last_seen_at": "2026-11-24 17:53:44",
-      "last_action": "[ChagriBeg] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-24 17:54:45",
+      "last_action": "[DESKTOP-6KFO8IF] Canlı MF Sorgulama (1 Ürün)",
       "today_date": "2026-11-24",
       "today_searches": 14,
-      "today_cart_adds": 35,
-      "today_smart_orders": 55,
+      "today_cart_adds": 37,
+      "today_smart_orders": 57,
       "total_searches": 373,
-      "total_cart_adds": 803,
-      "total_smart_orders": 1420,
+      "total_cart_adds": 805,
+      "total_smart_orders": 1422,
       "total_days_used": 17,
       "pc_count": 3,
       "devices": {
@@ -34,7 +34,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.20",
-          "last_seen_at": "2026-11-24 17:53:14",
+          "last_seen_at": "2026-11-24 17:54:45",
           "last_action": "Canlı MF Sorgulama (1 Ürün)",
           "today_date": "2026-11-24",
           "today_searches": 0,
@@ -128,37 +128,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.20",
-          "last_seen_at": "2026-11-24 17:53:11",
-          "last_action": "Günün Çıkışları Yenileme (TRIA • 63 Kalem)",
+          "last_seen_at": "2026-11-24 17:54:22",
+          "last_action": "Toplu Sepet (ALLIANCE): 1 Kalem",
           "today_date": "2026-11-24",
           "today_searches": 14,
-          "today_cart_adds": 25,
-          "today_smart_orders": 38,
+          "today_cart_adds": 27,
+          "today_smart_orders": 40,
           "total_searches": 227,
-          "total_cart_adds": 592,
-          "total_smart_orders": 890,
+          "total_cart_adds": 594,
+          "total_smart_orders": 892,
           "total_days_used": 17,
           "recent_actions": [
-            {
-              "t": "2026-11-24 16:37:05",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-24 16:37:17",
-              "type": "cart",
-              "detail": "Toplu Sepet (ALLIANCE): 4 Kalem"
-            },
-            {
-              "t": "2026-11-24 16:37:40",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-24 16:38:01",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-24 16:38:01",
               "type": "critical_stock",
@@ -213,6 +193,26 @@
               "t": "2026-11-24 17:19:27",
               "type": "critical_stock",
               "detail": "Günün Çıkışları Yenileme (TRIA • 63 Kalem)"
+            },
+            {
+              "t": "2026-11-24 17:53:25",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-24 17:53:25",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 66 Kalem)"
+            },
+            {
+              "t": "2026-11-24 17:53:34",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-24 17:53:37",
+              "type": "cart",
+              "detail": "Toplu Sepet (ALLIANCE): 1 Kalem"
             }
           ]
         },
@@ -222,7 +222,7 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.9.20",
-          "last_seen_at": "2026-11-24 17:53:44",
+          "last_seen_at": "2026-11-24 17:54:44",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-24",
           "today_searches": 0,
