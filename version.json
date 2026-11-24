@@ -1,11 +1,11 @@
 {
-  "version": "1.9.19",
+  "version": "1.9.20",
   "app_name": "Farma Radar",
-  "release_date": "2026-11-19 16:39:53",
+  "release_date": "2026-11-24 12:29:01",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.9.19.zip?t=1795095595",
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.9.20.zip?t=1795512543",
   "sha256": "",
-  "package_sha256": "f70e9ed02c5e48aa08cc9e588eb3dbdef8844f3afb92d0cf5f2aa4a07a166c3a",
-  "size_kb": 948.8,
-  "changelog": "v1.9.19 — Üst Navigasyon Barı Çakışma Düzeltmesi & Geniş Hizalama:\n• Yok Listesi ile Otomasyon (Botanik) butonlarının üst üste binmesine yol açan min-w-0 / 1280px sıkışması giderildi.\n• Üst bar ve sayfa kapsayıcısı 1440px genişliğe hizalandı; dar pencerelerde yatay kaydırma veya çakışma olmadan esnek sarma eklendi."
+  "package_sha256": "a7709853be2736ee6acd9cdcbf888512b77bff49150364637bd60ae05e78cc47",
+  "size_kb": 948.9,
+  "changelog": "v1.9.20 — Masaüstü Kısayolu (OneDrive / Antivirüs) Otomatik Onarım Koruması:\n• OneDrive Masaüstü senkronizasyonu veya antivirüs kaynaklı boş TargetPath oluştuğunda masaüstü kısayolunun 'Bu Bilgisayar' açmasına yol açan durum giderildi.\n• Bozuk masaüstü kısayolları açılışta otomatik olarak runtime/pythonw.exe + launcher.py hedefine onarılır."
 }
