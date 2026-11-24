@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 15:38:55",
+  "updated_at": "2026-11-24 15:39:09",
   "count": 7,
   "items": [
     {
@@ -804,14 +804,14 @@
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.20",
-      "last_seen_at": "2026-11-24 15:38:50",
-      "last_action": "[DESKTOP-OTHNDUE] Depo Fiyat Sorgulama",
+      "last_seen_at": "2026-11-24 15:39:09",
+      "last_action": "[DESKTOP-OTHNDUE] Toplu Sepet (ALLIANCE): 3 Kalem",
       "today_date": "2026-11-24",
-      "today_searches": 30,
-      "today_cart_adds": 39,
+      "today_searches": 31,
+      "today_cart_adds": 41,
       "today_smart_orders": 76,
-      "total_searches": 802,
-      "total_cart_adds": 1242,
+      "total_searches": 803,
+      "total_cart_adds": 1244,
       "total_smart_orders": 1699,
       "total_days_used": 18,
       "pc_count": 9,
@@ -916,32 +916,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.20",
-          "last_seen_at": "2026-11-24 15:38:50",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-24 15:39:09",
+          "last_action": "Toplu Sepet (ALLIANCE): 3 Kalem",
           "today_date": "2026-11-24",
-          "today_searches": 13,
-          "today_cart_adds": 12,
+          "today_searches": 14,
+          "today_cart_adds": 14,
           "today_smart_orders": 24,
-          "total_searches": 226,
-          "total_cart_adds": 579,
+          "total_searches": 227,
+          "total_cart_adds": 581,
           "total_smart_orders": 876,
           "total_days_used": 17,
           "recent_actions": [
-            {
-              "t": "2026-11-24 14:15:27",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-24 14:15:28",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 37 Kalem)"
-            },
-            {
-              "t": "2026-11-24 14:15:29",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-24 14:15:37",
               "type": "search",
@@ -1001,6 +986,21 @@
               "t": "2026-11-24 15:38:50",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-24 15:38:53",
+              "type": "search",
+              "detail": "Depo Sorgu: BRIMOGUT %0.15 5 ML GOZ GTT."
+            },
+            {
+              "t": "2026-11-24 15:39:01",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-24 15:39:09",
+              "type": "cart",
+              "detail": "Toplu Sepet (ALLIANCE): 3 Kalem"
             }
           ]
         },
@@ -1198,7 +1198,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.20",
-          "last_seen_at": "2026-11-24 15:38:22",
+          "last_seen_at": "2026-11-24 15:38:54",
           "last_action": "Canlı MF Sorgulama (1 Ürün)",
           "today_date": "2026-11-24",
           "today_searches": 0,
