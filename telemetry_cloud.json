@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 15:02:32",
+  "updated_at": "2026-11-24 15:02:36",
   "count": 7,
   "items": [
     {
@@ -801,16 +801,16 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "5834-FAC9-B71F",
-      "last_pc_name": "DESKTOP-OTHNDUE",
+      "hwid": "D719-CEB2-1542",
+      "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.9.20",
-      "last_seen_at": "2026-11-24 15:02:12",
-      "last_action": "[DESKTOP-OTHNDUE] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-24 15:02:36",
+      "last_action": "[DESKTOP-M530BBB] Depo Fiyat Sorgulama",
       "today_date": "2026-11-24",
-      "today_searches": 18,
+      "today_searches": 20,
       "today_cart_adds": 39,
       "today_smart_orders": 74,
-      "total_searches": 790,
+      "total_searches": 792,
       "total_cart_adds": 1242,
       "total_smart_orders": 1697,
       "total_days_used": 18,
@@ -1104,7 +1104,7 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.9.20",
-          "last_seen_at": "2026-11-24 15:01:44",
+          "last_seen_at": "2026-11-24 15:02:33",
           "last_action": "Canlı MF Sorgulama (2 Ürün)",
           "today_date": "2026-11-24",
           "today_searches": 0,
@@ -1386,27 +1386,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.100",
           "app_version": "1.9.20",
-          "last_seen_at": "2026-11-24 15:02:03",
+          "last_seen_at": "2026-11-24 15:02:36",
           "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-24",
-          "today_searches": 5,
+          "today_searches": 7,
           "today_cart_adds": 0,
           "today_smart_orders": 17,
-          "total_searches": 154,
+          "total_searches": 156,
           "total_cart_adds": 129,
           "total_smart_orders": 183,
           "total_days_used": 18,
           "recent_actions": [
-            {
-              "t": "2026-11-24 10:36:42",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-24 10:36:49",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-24 10:37:01",
               "type": "search",
@@ -1469,6 +1459,16 @@
             },
             {
               "t": "2026-11-24 15:02:03",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-24 15:02:10",
+              "type": "search",
+              "detail": "Depo Sorgu: IBUCOLD 200 MG/30 MG FILM KAPL"
+            },
+            {
+              "t": "2026-11-24 15:02:36",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
             }
