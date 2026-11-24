@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 12:07:31",
+  "updated_at": "2026-11-24 12:07:49",
   "count": 7,
   "items": [
     {
@@ -801,18 +801,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "5834-FAC9-B71F",
-      "last_pc_name": "DESKTOP-OTHNDUE",
+      "hwid": "D719-CEB2-1542",
+      "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-24 12:07:07",
-      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları Yenileme (TRIA • 15 Kalem)",
+      "last_seen_at": "2026-11-24 12:07:49",
+      "last_action": "[DESKTOP-M530BBB] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-24",
       "today_searches": 8,
       "today_cart_adds": 19,
-      "today_smart_orders": 22,
+      "today_smart_orders": 23,
       "total_searches": 780,
       "total_cart_adds": 1222,
-      "total_smart_orders": 1645,
+      "total_smart_orders": 1646,
       "total_days_used": 18,
       "pc_count": 9,
       "devices": {
@@ -1010,7 +1010,7 @@
           "desk_name": "Eda-Bilgin",
           "local_ip": "192.168.1.120",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-24 12:06:51",
+          "last_seen_at": "2026-11-24 12:07:42",
           "last_action": "Eczatrend Takas Açıldı: AZITRO 500 MG 3 FTB (20+6)",
           "today_date": "2026-11-24",
           "today_searches": 2,
@@ -1386,22 +1386,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.100",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-24 12:06:47",
-          "last_action": "Canlı MF Sorgulama (18 Ürün)",
+          "last_seen_at": "2026-11-24 12:07:49",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-24",
           "today_searches": 2,
           "today_cart_adds": 0,
-          "today_smart_orders": 4,
+          "today_smart_orders": 5,
           "total_searches": 151,
           "total_cart_adds": 129,
-          "total_smart_orders": 170,
+          "total_smart_orders": 171,
           "total_days_used": 18,
           "recent_actions": [
-            {
-              "t": "2026-11-23 16:17:35",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-23 17:48:33",
               "type": "search",
@@ -1471,6 +1466,11 @@
               "t": "2026-11-24 10:37:12",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (18 Ürün)"
+            },
+            {
+              "t": "2026-11-24 12:07:49",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         },
