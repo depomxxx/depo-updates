@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 17:54:51",
+  "updated_at": "2026-11-24 17:55:02",
   "count": 7,
   "items": [
     {
@@ -801,16 +801,16 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "B446-9737-94C4",
-      "last_pc_name": "DESKTOP-5PFFU5S",
+      "hwid": "D719-CEB2-1542",
+      "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.9.20",
-      "last_seen_at": "2026-11-24 17:54:51",
-      "last_action": "[DESKTOP-5PFFU5S] Canlı MF Sorgulama (2 Ürün)",
+      "last_seen_at": "2026-11-24 17:55:02",
+      "last_action": "[DESKTOP-M530BBB] Depo Sorgu: HIPP 2 ORGANIK COMBIOTIC 800GR DEVAM S",
       "today_date": "2026-11-24",
-      "today_searches": 33,
+      "today_searches": 34,
       "today_cart_adds": 54,
       "today_smart_orders": 102,
-      "total_searches": 805,
+      "total_searches": 806,
       "total_cart_adds": 1257,
       "total_smart_orders": 1725,
       "total_days_used": 18,
@@ -1386,7 +1386,7 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.100",
           "app_version": "1.9.20",
-          "last_seen_at": "2026-11-24 17:54:47",
+          "last_seen_at": "2026-11-24 17:55:02",
           "last_action": "Depo Sorgu: HIPP 2 ORGANIK COMBIOTIC 800GR DEVAM S",
           "today_date": "2026-11-24",
           "today_searches": 14,
@@ -1480,22 +1480,17 @@
           "desk_name": "DESKTOP-1N3LQF0",
           "local_ip": "192.168.1.123",
           "app_version": "1.9.20",
-          "last_seen_at": "2026-11-24 17:54:49",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-24 17:54:56",
+          "last_action": "Depo Sorgu: GLARIN 100 IU 3 ML 5 PEN",
           "today_date": "2026-11-24",
-          "today_searches": 2,
+          "today_searches": 3,
           "today_cart_adds": 0,
           "today_smart_orders": 10,
-          "total_searches": 85,
+          "total_searches": 86,
           "total_cart_adds": 36,
           "total_smart_orders": 113,
           "total_days_used": 12,
           "recent_actions": [
-            {
-              "t": "2026-11-23 14:03:41",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (30 Ürün)"
-            },
             {
               "t": "2026-11-23 14:03:41",
               "type": "mf_resolve",
@@ -1565,6 +1560,11 @@
               "t": "2026-11-24 17:54:48",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-24 17:54:56",
+              "type": "search",
+              "detail": "Depo Sorgu: GLARIN 100 IU 3 ML 5 PEN"
             }
           ]
         },
