@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 15:39:09",
+  "updated_at": "2026-11-24 15:39:28",
   "count": 7,
   "items": [
     {
@@ -804,14 +804,14 @@
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.20",
-      "last_seen_at": "2026-11-24 15:39:09",
-      "last_action": "[DESKTOP-OTHNDUE] Toplu Sepet (ALLIANCE): 3 Kalem",
+      "last_seen_at": "2026-11-24 15:39:28",
+      "last_action": "[DESKTOP-OTHNDUE] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-24",
       "today_searches": 31,
-      "today_cart_adds": 41,
+      "today_cart_adds": 45,
       "today_smart_orders": 76,
       "total_searches": 803,
-      "total_cart_adds": 1244,
+      "total_cart_adds": 1248,
       "total_smart_orders": 1699,
       "total_days_used": 18,
       "pc_count": 9,
@@ -916,22 +916,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.20",
-          "last_seen_at": "2026-11-24 15:39:09",
-          "last_action": "Toplu Sepet (ALLIANCE): 3 Kalem",
+          "last_seen_at": "2026-11-24 15:39:28",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-24",
           "today_searches": 14,
-          "today_cart_adds": 14,
+          "today_cart_adds": 18,
           "today_smart_orders": 24,
           "total_searches": 227,
-          "total_cart_adds": 581,
+          "total_cart_adds": 585,
           "total_smart_orders": 876,
           "total_days_used": 17,
           "recent_actions": [
-            {
-              "t": "2026-11-24 14:15:37",
-              "type": "search",
-              "detail": "Depo Sorgu: TARDEN 40 MG 30 FTB."
-            },
             {
               "t": "2026-11-24 14:18:12",
               "type": "search",
@@ -1001,6 +996,11 @@
               "t": "2026-11-24 15:39:09",
               "type": "cart",
               "detail": "Toplu Sepet (ALLIANCE): 3 Kalem"
+            },
+            {
+              "t": "2026-11-24 15:39:20",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
