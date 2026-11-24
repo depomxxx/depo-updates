@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 14:19:24",
+  "updated_at": "2026-11-24 14:19:34",
   "count": 7,
   "items": [
     {
@@ -16,14 +16,14 @@
       "hwid": "E6B1-5698-273E",
       "last_pc_name": "DESKTOP-6KFO8IF",
       "app_version": "1.9.20",
-      "last_seen_at": "2026-11-24 14:17:54",
+      "last_seen_at": "2026-11-24 14:19:34",
       "last_action": "[DESKTOP-6KFO8IF] Canlı MF Sorgulama (1 Ürün)",
       "today_date": "2026-11-24",
-      "today_searches": 8,
-      "today_cart_adds": 14,
+      "today_searches": 10,
+      "today_cart_adds": 18,
       "today_smart_orders": 32,
-      "total_searches": 367,
-      "total_cart_adds": 782,
+      "total_searches": 369,
+      "total_cart_adds": 786,
       "total_smart_orders": 1397,
       "total_days_used": 17,
       "pc_count": 3,
@@ -34,7 +34,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.20",
-          "last_seen_at": "2026-11-24 14:17:54",
+          "last_seen_at": "2026-11-24 14:19:34",
           "last_action": "Canlı MF Sorgulama (1 Ürün)",
           "today_date": "2026-11-24",
           "today_searches": 0,
@@ -128,47 +128,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.20",
-          "last_seen_at": "2026-11-24 14:17:47",
-          "last_action": "Depo Sorgu: TARDEN 40 MG 30 FTB.",
+          "last_seen_at": "2026-11-24 14:19:32",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-24",
-          "today_searches": 8,
-          "today_cart_adds": 8,
+          "today_searches": 10,
+          "today_cart_adds": 12,
           "today_smart_orders": 22,
-          "total_searches": 221,
-          "total_cart_adds": 575,
+          "total_searches": 223,
+          "total_cart_adds": 579,
           "total_smart_orders": 874,
           "total_days_used": 17,
           "recent_actions": [
-            {
-              "t": "2026-11-24 12:30:10",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-24 12:31:25",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-24 12:31:25",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 25 Kalem)"
-            },
-            {
-              "t": "2026-11-24 12:32:49",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-24 12:32:49",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 25 Kalem)"
-            },
-            {
-              "t": "2026-11-24 13:07:00",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-24 13:07:00",
               "type": "critical_stock",
@@ -213,6 +183,36 @@
               "t": "2026-11-24 14:15:37",
               "type": "search",
               "detail": "Depo Sorgu: TARDEN 40 MG 30 FTB."
+            },
+            {
+              "t": "2026-11-24 14:18:12",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-24 14:18:26",
+              "type": "search",
+              "detail": "Depo Sorgu: FLUREND %0.25 200 ML GARG."
+            },
+            {
+              "t": "2026-11-24 14:18:40",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-24 14:18:50",
+              "type": "cart",
+              "detail": "Toplu Sepet (ALLIANCE): 4 Kalem"
+            },
+            {
+              "t": "2026-11-24 14:18:52",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-24 14:19:11",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
