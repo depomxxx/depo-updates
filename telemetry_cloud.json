@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 13:08:50",
+  "updated_at": "2026-11-24 13:08:57",
   "count": 7,
   "items": [
     {
@@ -796,21 +796,21 @@
       "pharmacist_name": "EDA BİLGİN",
       "phone": "05077034200",
       "city": "SAMSUN/İLKADIM",
-      "gln_no": "8680001112258",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "8FD3-5823-91F4",
-      "last_pc_name": "Eda-Bilgin",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.20",
-      "last_seen_at": "2026-11-24 13:07:53",
-      "last_action": "[Eda-Bilgin] Canlı MF Sorgulama (4 Ürün)",
+      "last_seen_at": "2026-11-24 13:08:57",
+      "last_action": "[DESKTOP-OTHNDUE] Depo Sorgu: ATTEX 4 MG 100 ML COZ.",
       "today_date": "2026-11-24",
-      "today_searches": 10,
+      "today_searches": 11,
       "today_cart_adds": 23,
       "today_smart_orders": 54,
-      "total_searches": 782,
+      "total_searches": 783,
       "total_cart_adds": 1226,
       "total_smart_orders": 1677,
       "total_days_used": 18,
@@ -916,22 +916,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.20",
-          "last_seen_at": "2026-11-24 13:07:23",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-24 13:08:57",
+          "last_action": "Depo Sorgu: ATTEX 4 MG 100 ML COZ.",
           "today_date": "2026-11-24",
-          "today_searches": 5,
+          "today_searches": 6,
           "today_cart_adds": 8,
           "today_smart_orders": 18,
-          "total_searches": 218,
+          "total_searches": 219,
           "total_cart_adds": 575,
           "total_smart_orders": 870,
           "total_days_used": 17,
           "recent_actions": [
-            {
-              "t": "2026-11-24 10:53:25",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 14 Kalem)"
-            },
             {
               "t": "2026-11-24 11:13:40",
               "type": "critical_stock",
@@ -1001,6 +996,11 @@
               "t": "2026-11-24 13:07:23",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-24 13:07:27",
+              "type": "search",
+              "detail": "Depo Sorgu: ATTEX 4 MG 100 ML COZ."
             }
           ]
         },
@@ -1198,7 +1198,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.20",
-          "last_seen_at": "2026-11-24 13:06:54",
+          "last_seen_at": "2026-11-24 13:08:54",
           "last_action": "Canlı MF Sorgulama (1 Ürün)",
           "today_date": "2026-11-24",
           "today_searches": 0,
