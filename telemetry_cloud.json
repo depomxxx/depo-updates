@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 17:44:13",
+  "updated_at": "2026-11-24 17:44:25",
   "count": 7,
   "items": [
     {
@@ -801,11 +801,11 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "B446-9737-94C4",
-      "last_pc_name": "DESKTOP-5PFFU5S",
+      "hwid": "D719-CEB2-1542",
+      "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.9.20",
-      "last_seen_at": "2026-11-24 17:44:13",
-      "last_action": "[DESKTOP-5PFFU5S] Canlı MF Sorgulama (2 Ürün)",
+      "last_seen_at": "2026-11-24 17:44:25",
+      "last_action": "[DESKTOP-M530BBB] Depo Sorgu: HIPP 2 ORGANIK COMBIOTIC 800GR DEVAM S",
       "today_date": "2026-11-24",
       "today_searches": 31,
       "today_cart_adds": 52,
@@ -1386,7 +1386,7 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.100",
           "app_version": "1.9.20",
-          "last_seen_at": "2026-11-24 17:43:47",
+          "last_seen_at": "2026-11-24 17:44:25",
           "last_action": "Depo Sorgu: HIPP 2 ORGANIK COMBIOTIC 800GR DEVAM S",
           "today_date": "2026-11-24",
           "today_searches": 14,
