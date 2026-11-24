@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 17:53:44",
+  "updated_at": "2026-11-24 17:54:04",
   "count": 7,
   "items": [
     {
@@ -804,15 +804,15 @@
       "hwid": "D2E4-AA57-C021",
       "last_pc_name": "DESKTOP-1N3LQF0",
       "app_version": "1.9.20",
-      "last_seen_at": "2026-11-24 17:53:31",
-      "last_action": "[DESKTOP-1N3LQF0] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-24 17:54:04",
+      "last_action": "[DESKTOP-1N3LQF0] Canlı MF Sorgulama (30 Ürün)",
       "today_date": "2026-11-24",
       "today_searches": 32,
       "today_cart_adds": 52,
-      "today_smart_orders": 94,
+      "today_smart_orders": 96,
       "total_searches": 804,
       "total_cart_adds": 1255,
-      "total_smart_orders": 1717,
+      "total_smart_orders": 1719,
       "total_days_used": 18,
       "pc_count": 9,
       "devices": {
@@ -1104,7 +1104,7 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.9.20",
-          "last_seen_at": "2026-11-24 17:53:20",
+          "last_seen_at": "2026-11-24 17:54:02",
           "last_action": "Canlı MF Sorgulama (2 Ürün)",
           "today_date": "2026-11-24",
           "today_searches": 0,
@@ -1386,7 +1386,7 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.100",
           "app_version": "1.9.20",
-          "last_seen_at": "2026-11-24 17:53:31",
+          "last_seen_at": "2026-11-24 17:53:47",
           "last_action": "Depo Sorgu: HIPP 2 ORGANIK COMBIOTIC 800GR DEVAM S",
           "today_date": "2026-11-24",
           "today_searches": 14,
@@ -1480,27 +1480,17 @@
           "desk_name": "DESKTOP-1N3LQF0",
           "local_ip": "192.168.1.123",
           "app_version": "1.9.20",
-          "last_seen_at": "2026-11-24 17:53:31",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-24 17:54:04",
+          "last_action": "Canlı MF Sorgulama (30 Ürün)",
           "today_date": "2026-11-24",
           "today_searches": 1,
           "today_cart_adds": 0,
-          "today_smart_orders": 3,
+          "today_smart_orders": 5,
           "total_searches": 84,
           "total_cart_adds": 36,
-          "total_smart_orders": 106,
+          "total_smart_orders": 108,
           "total_days_used": 12,
           "recent_actions": [
-            {
-              "t": "2026-11-20 09:40:16",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-20 09:40:17",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-20 09:40:19",
               "type": "mf_resolve",
@@ -1565,6 +1555,16 @@
               "t": "2026-11-24 17:53:31",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-24 17:53:32",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-24 17:54:04",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (30 Ürün)"
             }
           ]
         },
