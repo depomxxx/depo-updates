@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 11:59:54",
+  "updated_at": "2026-11-24 12:00:25",
   "count": 7,
   "items": [
     {
@@ -1908,16 +1908,16 @@
       "hwid": "1A4A-8625-6A54",
       "last_pc_name": "Cicobey",
       "app_version": "1.5.9",
-      "last_seen_at": "2026-11-24 11:59:22",
+      "last_seen_at": "2026-11-24 12:00:25",
       "last_action": "[Cicobey] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-24",
       "today_searches": 0,
       "today_cart_adds": 0,
-      "today_smart_orders": 1,
+      "today_smart_orders": 2,
       "total_searches": 247,
       "total_cart_adds": 780,
       "total_days_used": 15,
-      "total_smart_orders": 637,
+      "total_smart_orders": 638,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -2094,22 +2094,17 @@
           "desk_name": "Cicobey",
           "local_ip": "192.168.1.128",
           "app_version": "1.5.9",
-          "last_seen_at": "2026-11-24 11:59:22",
+          "last_seen_at": "2026-11-24 12:00:25",
           "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-24",
           "today_searches": 0,
           "today_cart_adds": 0,
-          "today_smart_orders": 1,
+          "today_smart_orders": 2,
           "total_searches": 64,
           "total_cart_adds": 118,
-          "total_smart_orders": 178,
+          "total_smart_orders": 179,
           "total_days_used": 15,
           "recent_actions": [
-            {
-              "t": "2026-11-19 17:14:34",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): CORASPIN 100 MG 30 TB x1"
-            },
             {
               "t": "2026-11-19 17:14:38",
               "type": "cart",
@@ -2177,6 +2172,11 @@
             },
             {
               "t": "2026-11-24 10:14:04",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-24 12:00:25",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
             }
