@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 15:39:43",
+  "updated_at": "2026-11-24 15:39:53",
   "count": 7,
   "items": [
     {
@@ -8,22 +8,22 @@
       "pharmacist_name": "GAMZE ASLAN",
       "phone": "05344064108",
       "city": "SAMSUN/ATAKUM",
-      "gln_no": "8680001134861",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "PRO_YILLIK",
       "expires_at": "2027-10-24",
       "status": "AKTIF",
-      "hwid": "E4F7-229A-BABD",
-      "last_pc_name": "ChagriBeg",
+      "hwid": "E6B1-5698-273E",
+      "last_pc_name": "DESKTOP-6KFO8IF",
       "app_version": "1.9.20",
-      "last_seen_at": "2026-11-24 15:38:52",
-      "last_action": "[ChagriBeg] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-24 15:39:53",
+      "last_action": "[DESKTOP-6KFO8IF] Canlı MF Sorgulama (1 Ürün)",
       "today_date": "2026-11-24",
-      "today_searches": 10,
-      "today_cart_adds": 22,
+      "today_searches": 14,
+      "today_cart_adds": 30,
       "today_smart_orders": 41,
-      "total_searches": 369,
-      "total_cart_adds": 790,
+      "total_searches": 373,
+      "total_cart_adds": 798,
       "total_smart_orders": 1406,
       "total_days_used": 17,
       "pc_count": 3,
@@ -34,7 +34,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.20",
-          "last_seen_at": "2026-11-24 15:38:22",
+          "last_seen_at": "2026-11-24 15:39:53",
           "last_action": "Canlı MF Sorgulama (1 Ürün)",
           "today_date": "2026-11-24",
           "today_searches": 0,
@@ -128,52 +128,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.20",
-          "last_seen_at": "2026-11-24 15:38:20",
-          "last_action": "Günün Çıkışları Yenileme (TRIA • 48 Kalem)",
+          "last_seen_at": "2026-11-24 15:39:48",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-24",
-          "today_searches": 10,
-          "today_cart_adds": 12,
+          "today_searches": 14,
+          "today_cart_adds": 20,
           "today_smart_orders": 24,
-          "total_searches": 223,
-          "total_cart_adds": 579,
+          "total_searches": 227,
+          "total_cart_adds": 587,
           "total_smart_orders": 876,
           "total_days_used": 17,
           "recent_actions": [
-            {
-              "t": "2026-11-24 13:07:27",
-              "type": "search",
-              "detail": "Depo Sorgu: ATTEX 4 MG 100 ML COZ."
-            },
-            {
-              "t": "2026-11-24 14:13:51",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-24 14:13:51",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 36 Kalem)"
-            },
-            {
-              "t": "2026-11-24 14:15:27",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-24 14:15:28",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 37 Kalem)"
-            },
-            {
-              "t": "2026-11-24 14:15:29",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-24 14:15:37",
-              "type": "search",
-              "detail": "Depo Sorgu: TARDEN 40 MG 30 FTB."
-            },
             {
               "t": "2026-11-24 14:18:12",
               "type": "search",
@@ -213,6 +178,41 @@
               "t": "2026-11-24 15:38:15",
               "type": "critical_stock",
               "detail": "Günün Çıkışları Yenileme (TRIA • 48 Kalem)"
+            },
+            {
+              "t": "2026-11-24 15:38:29",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-24 15:38:32",
+              "type": "search",
+              "detail": "Depo Sorgu: COLEDAN D3 2.000 IU 60 FTB."
+            },
+            {
+              "t": "2026-11-24 15:38:50",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-24 15:38:53",
+              "type": "search",
+              "detail": "Depo Sorgu: BRIMOGUT %0.15 5 ML GOZ GTT."
+            },
+            {
+              "t": "2026-11-24 15:39:01",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-24 15:39:09",
+              "type": "cart",
+              "detail": "Toplu Sepet (ALLIANCE): 3 Kalem"
+            },
+            {
+              "t": "2026-11-24 15:39:20",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
@@ -222,7 +222,7 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.9.20",
-          "last_seen_at": "2026-11-24 15:38:52",
+          "last_seen_at": "2026-11-24 15:39:44",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-24",
           "today_searches": 0,
