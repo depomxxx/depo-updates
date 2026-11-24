@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 10:49:58",
+  "updated_at": "2026-11-24 10:50:14",
   "count": 7,
   "items": [
     {
@@ -16,16 +16,16 @@
       "hwid": "E6B1-5698-273E",
       "last_pc_name": "DESKTOP-6KFO8IF",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-24 10:48:43",
+      "last_seen_at": "2026-11-24 10:50:14",
       "last_action": "[DESKTOP-6KFO8IF] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-24",
-      "today_searches": 0,
+      "today_searches": 4,
       "today_cart_adds": 4,
-      "today_smart_orders": 3,
-      "total_searches": 331,
-      "total_cart_adds": 723,
-      "total_smart_orders": 1258,
-      "total_days_used": 15,
+      "today_smart_orders": 6,
+      "total_searches": 363,
+      "total_cart_adds": 772,
+      "total_smart_orders": 1371,
+      "total_days_used": 17,
       "pc_count": 3,
       "devices": {
         "E6B1-5698-273E": {
@@ -34,7 +34,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-24 10:48:43",
+          "last_seen_at": "2026-11-24 10:50:14",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-24",
           "today_searches": 0,
@@ -128,91 +128,91 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-19 18:23:22",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
-          "today_date": "2026-11-19",
-          "today_searches": 12,
-          "today_cart_adds": 49,
-          "today_smart_orders": 144,
-          "total_searches": 185,
-          "total_cart_adds": 518,
-          "total_smart_orders": 742,
-          "total_days_used": 14,
+          "last_seen_at": "2026-11-24 10:50:13",
+          "last_action": "Depo Sorgu: MUSKAZON 300/250 MG 20 TB.",
+          "today_date": "2026-11-24",
+          "today_searches": 4,
+          "today_cart_adds": 0,
+          "today_smart_orders": 3,
+          "total_searches": 217,
+          "total_cart_adds": 567,
+          "total_smart_orders": 855,
+          "total_days_used": 17,
           "recent_actions": [
             {
-              "t": "2026-11-19 17:05:16",
-              "type": "cart",
-              "detail": "Toplu Sepet (ALLIANCE): 2 Kalem"
-            },
-            {
-              "t": "2026-11-19 17:05:18",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-19 18:20:03",
+              "t": "2026-11-23 17:59:14",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
             },
             {
-              "t": "2026-11-19 18:20:03",
+              "t": "2026-11-23 17:59:14",
               "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 66 Kalem)"
+              "detail": "Günün Çıkışları Yenileme (TRIA • 61 Kalem)"
             },
             {
-              "t": "2026-11-19 18:20:03",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-19 18:20:21",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (30 Ürün)"
-            },
-            {
-              "t": "2026-11-19 18:20:21",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-19 18:20:29",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (15 Ürün)"
-            },
-            {
-              "t": "2026-11-19 18:20:31",
+              "t": "2026-11-23 17:59:56",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
             },
             {
-              "t": "2026-11-19 18:20:36",
+              "t": "2026-11-23 18:00:01",
               "type": "search",
-              "detail": "Depo Sorgu: IMOMOMEGA OMEGA3,VİTAMİN VE MİNERAL İÇ"
+              "detail": "Depo Sorgu: BEKLOMIL 100 MCG 120 DOZ NAS S"
             },
             {
-              "t": "2026-11-19 18:20:45",
+              "t": "2026-11-23 18:00:35",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-23 18:00:38",
+              "type": "search",
+              "detail": "Depo Sorgu: ROSALIN 10/40 MG 28 FTB"
+            },
+            {
+              "t": "2026-11-23 18:00:44",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
             },
             {
-              "t": "2026-11-19 18:20:56",
+              "t": "2026-11-23 18:00:57",
               "type": "cart",
               "detail": "Toplu Sepet (ALLIANCE): 6 Kalem"
             },
             {
-              "t": "2026-11-19 18:21:07",
+              "t": "2026-11-23 18:01:30",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
             },
             {
-              "t": "2026-11-19 18:21:29",
-              "type": "cart",
-              "detail": "Toplu Sepet (ISKOOP): 1 Kalem"
+              "t": "2026-11-24 10:49:23",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             },
             {
-              "t": "2026-11-19 18:21:42",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
+              "t": "2026-11-24 10:49:37",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 14 Kalem)"
+            },
+            {
+              "t": "2026-11-24 10:49:58",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-24 10:50:02",
+              "type": "search",
+              "detail": "Depo Sorgu: ABILIFY 15 MG 28 TB."
+            },
+            {
+              "t": "2026-11-24 10:50:08",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-24 10:50:11",
+              "type": "search",
+              "detail": "Depo Sorgu: MUSKAZON 300/250 MG 20 TB."
             }
           ]
         },
