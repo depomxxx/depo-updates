@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 10:53:06",
+  "updated_at": "2026-11-24 10:53:16",
   "count": 7,
   "items": [
     {
@@ -13,18 +13,18 @@
       "plan": "PRO_YILLIK",
       "expires_at": "2027-10-24",
       "status": "AKTIF",
-      "hwid": "5834-FAC9-B71F",
-      "last_pc_name": "DESKTOP-OTHNDUE",
+      "hwid": "E6B1-5698-273E",
+      "last_pc_name": "DESKTOP-6KFO8IF",
       "app_version": "1.9.19",
-      "last_seen_at": "2026-11-24 10:51:45",
-      "last_action": "[DESKTOP-OTHNDUE] Depo Sorgu: MUSKAZON 300/250 MG 20 TB.",
+      "last_seen_at": "2026-11-24 10:53:16",
+      "last_action": "[DESKTOP-6KFO8IF] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-24",
       "today_searches": 4,
-      "today_cart_adds": 4,
-      "today_smart_orders": 6,
+      "today_cart_adds": 10,
+      "today_smart_orders": 8,
       "total_searches": 363,
-      "total_cart_adds": 772,
-      "total_smart_orders": 1371,
+      "total_cart_adds": 778,
+      "total_smart_orders": 1373,
       "total_days_used": 17,
       "pc_count": 3,
       "devices": {
@@ -34,7 +34,7 @@
           "desk_name": "DESKTOP-6KFO8IF",
           "local_ip": "192.168.1.104",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-24 10:51:45",
+          "last_seen_at": "2026-11-24 10:53:16",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-24",
           "today_searches": 0,
@@ -128,52 +128,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.19",
-          "last_seen_at": "2026-11-24 10:51:45",
-          "last_action": "Depo Sorgu: MUSKAZON 300/250 MG 20 TB.",
+          "last_seen_at": "2026-11-24 10:53:08",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-24",
           "today_searches": 4,
-          "today_cart_adds": 0,
-          "today_smart_orders": 3,
+          "today_cart_adds": 6,
+          "today_smart_orders": 5,
           "total_searches": 217,
-          "total_cart_adds": 567,
-          "total_smart_orders": 855,
+          "total_cart_adds": 573,
+          "total_smart_orders": 857,
           "total_days_used": 17,
           "recent_actions": [
-            {
-              "t": "2026-11-23 17:59:14",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-23 17:59:14",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 61 Kalem)"
-            },
-            {
-              "t": "2026-11-23 17:59:56",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-23 18:00:01",
-              "type": "search",
-              "detail": "Depo Sorgu: BEKLOMIL 100 MCG 120 DOZ NAS S"
-            },
-            {
-              "t": "2026-11-23 18:00:35",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-23 18:00:38",
-              "type": "search",
-              "detail": "Depo Sorgu: ROSALIN 10/40 MG 28 FTB"
-            },
-            {
-              "t": "2026-11-23 18:00:44",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-23 18:00:57",
               "type": "cart",
@@ -213,6 +178,41 @@
               "t": "2026-11-24 10:50:11",
               "type": "search",
               "detail": "Depo Sorgu: MUSKAZON 300/250 MG 20 TB."
+            },
+            {
+              "t": "2026-11-24 10:51:47",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-24 10:51:49",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): MUSKAZON TABLET x24"
+            },
+            {
+              "t": "2026-11-24 10:51:56",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-24 10:51:56",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 14 Kalem)"
+            },
+            {
+              "t": "2026-11-24 10:51:58",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-24 10:52:07",
+              "type": "cart",
+              "detail": "Toplu Sepet (ALLIANCE): 4 Kalem"
+            },
+            {
+              "t": "2026-11-24 10:53:06",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
