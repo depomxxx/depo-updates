@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 12:30:13",
+  "updated_at": "2026-11-24 12:30:23",
   "count": 7,
   "items": [
     {
@@ -569,8 +569,8 @@
       "status": "AKTIF",
       "hwid": "2DED-CFF9-D593",
       "last_pc_name": "DESKTOP-8JN0NE5",
-      "app_version": "1.9.19",
-      "last_seen_at": "2026-11-24 12:29:52",
+      "app_version": "1.9.20",
+      "last_seen_at": "2026-11-24 12:30:23",
       "last_action": "Program Açık (Canlı)",
       "today_date": "2026-11-24",
       "today_searches": 0,
@@ -587,8 +587,8 @@
           "pc_name": "DESKTOP-8JN0NE5",
           "desk_name": "DESKTOP-8JN0NE5",
           "local_ip": "192.168.1.37",
-          "app_version": "1.9.19",
-          "last_seen_at": "2026-11-24 12:29:52",
+          "app_version": "1.9.20",
+          "last_seen_at": "2026-11-24 12:30:23",
           "last_action": "Program Açık (Canlı)",
           "today_date": "2026-11-24",
           "today_searches": 0,
