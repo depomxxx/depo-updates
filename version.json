@@ -1,11 +1,11 @@
 {
-  "version": "1.9.20",
+  "version": "1.9.21",
   "app_name": "Farma Radar",
-  "release_date": "2026-11-24 12:29:01",
+  "release_date": "2026-11-25 15:56:30",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.9.20.zip?t=1795512543",
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.9.21.zip?t=1795611391",
   "sha256": "",
-  "package_sha256": "a7709853be2736ee6acd9cdcbf888512b77bff49150364637bd60ae05e78cc47",
-  "size_kb": 948.9,
-  "changelog": "v1.9.20 — Masaüstü Kısayolu (OneDrive / Antivirüs) Otomatik Onarım Koruması:\n• OneDrive Masaüstü senkronizasyonu veya antivirüs kaynaklı boş TargetPath oluştuğunda masaüstü kısayolunun 'Bu Bilgisayar' açmasına yol açan durum giderildi.\n• Bozuk masaüstü kısayolları açılışta otomatik olarak runtime/pythonw.exe + launcher.py hedefine onarılır."
+  "package_sha256": "29c477d8d3a59dfd42307a0d484e6696698664376454a429b3ce7816a8a5f6fd",
+  "size_kb": 953.5,
+  "changelog": "v1.9.21 — TRIA Atıl Stok Gerçek Son Alış Fatura Maliyeti & Kesin Kategori Ayrımı:\n• TRIA Oracle için gerçek kategori ayrımı eklendi (TBL_MAL_GRUP + ATC/DSF/Kamu/Eşdeğer/TİTCK/KDV/ÜTS): 8699... barkodlu Bioderma, Roll Medikal, B-Good, Canped vb. ürünlerin İlaç sekmesine karışması tamamen giderildi.\n• TRIA son alış faturalarından (AAF/KAF/TGF) KDV dahil, tüm iskontolar ve MF düşülmüş gerçek birim alış maliyeti, son depo adı, son MF (örn. 5+1 MF) ve tarih bilgisi bağlandı.\n• Atıl Stok ekranındaki gerçek bağlı maliyet KPI'ları, son alışa göre kâr/zarar rozetleri ve 5'li kategori filtresi artık TRIA'da da Botanik ile birebir aynı hassasiyette çalışır."
 }
