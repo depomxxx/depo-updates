@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 16:22:22",
+  "updated_at": "2026-11-25 16:22:24",
   "count": 7,
   "items": [
     {
@@ -801,18 +801,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D719-CEB2-1542",
-      "last_pc_name": "DESKTOP-M530BBB",
+      "hwid": "B446-9737-94C4",
+      "last_pc_name": "DESKTOP-5PFFU5S",
       "app_version": "1.9.21",
-      "last_seen_at": "2026-11-25 16:22:00",
-      "last_action": "[DESKTOP-M530BBB] Canlı MF Sorgulama (30 Ürün)",
+      "last_seen_at": "2026-11-25 16:22:24",
+      "last_action": "[DESKTOP-5PFFU5S] Depo Sorgu: GANFORT %0.03+0.5 3 ML GOZ GTT",
       "today_date": "2026-11-25",
       "today_searches": 29,
       "today_cart_adds": 157,
-      "today_smart_orders": 113,
+      "today_smart_orders": 115,
       "total_searches": 837,
       "total_cart_adds": 1426,
-      "total_smart_orders": 1845,
+      "total_smart_orders": 1847,
       "total_days_used": 19,
       "pc_count": 9,
       "devices": {
@@ -1104,7 +1104,7 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.9.21",
-          "last_seen_at": "2026-11-25 16:20:53",
+          "last_seen_at": "2026-11-25 16:22:24",
           "last_action": "Depo Sorgu: GANFORT %0.03+0.5 3 ML GOZ GTT",
           "today_date": "2026-11-25",
           "today_searches": 6,
@@ -1386,27 +1386,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.100",
           "app_version": "1.9.21",
-          "last_seen_at": "2026-11-25 16:22:00",
-          "last_action": "Canlı MF Sorgulama (30 Ürün)",
+          "last_seen_at": "2026-11-25 16:22:15",
+          "last_action": "Canlı MF Sorgulama (23 Ürün)",
           "today_date": "2026-11-25",
           "today_searches": 5,
           "today_cart_adds": 7,
-          "today_smart_orders": 8,
+          "today_smart_orders": 10,
           "total_searches": 168,
           "total_cart_adds": 136,
-          "total_smart_orders": 191,
+          "total_smart_orders": 193,
           "total_days_used": 19,
           "recent_actions": [
-            {
-              "t": "2026-11-25 08:35:43",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-25 10:41:59",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-25 10:42:10",
               "type": "search",
@@ -1471,6 +1461,16 @@
               "t": "2026-11-25 16:22:00",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (30 Ürün)"
+            },
+            {
+              "t": "2026-11-25 16:22:01",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-25 16:22:15",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (23 Ürün)"
             }
           ]
         },
