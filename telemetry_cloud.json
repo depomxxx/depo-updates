@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 12:49:41",
+  "updated_at": "2026-11-25 12:47:38",
   "count": 7,
   "items": [
     {
@@ -801,11 +801,11 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "B446-9737-94C4",
-      "last_pc_name": "DESKTOP-5PFFU5S",
+      "hwid": "D719-CEB2-1542",
+      "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.9.20",
-      "last_seen_at": "2026-11-25 12:47:13",
-      "last_action": "[DESKTOP-5PFFU5S] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-25 12:47:38",
+      "last_action": "[DESKTOP-M530BBB] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-25",
       "today_searches": 20,
       "today_cart_adds": 133,
@@ -1386,7 +1386,7 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.100",
           "app_version": "1.9.20",
-          "last_seen_at": "2026-11-25 12:46:38",
+          "last_seen_at": "2026-11-25 12:47:38",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-25",
           "today_searches": 2,
