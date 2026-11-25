@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 16:35:08",
+  "updated_at": "2026-11-25 16:35:18",
   "count": 7,
   "items": [
     {
@@ -16,15 +16,15 @@
       "hwid": "E4F7-229A-BABD",
       "last_pc_name": "ChagriBeg",
       "app_version": "1.9.23",
-      "last_seen_at": "2026-11-25 16:33:34",
-      "last_action": "[ChagriBeg] Canlı MF Sorgulama (11 Ürün)",
+      "last_seen_at": "2026-11-25 16:35:18",
+      "last_action": "[ChagriBeg] Canlı MF Sorgulama (2 Ürün)",
       "today_date": "2026-11-25",
       "today_searches": 7,
       "today_cart_adds": 12,
-      "today_smart_orders": 43,
+      "today_smart_orders": 46,
       "total_searches": 380,
       "total_cart_adds": 817,
-      "total_smart_orders": 1467,
+      "total_smart_orders": 1470,
       "total_days_used": 17,
       "pc_count": 3,
       "devices": {
@@ -222,32 +222,17 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.9.23",
-          "last_seen_at": "2026-11-25 16:33:34",
-          "last_action": "Canlı MF Sorgulama (11 Ürün)",
+          "last_seen_at": "2026-11-25 16:35:18",
+          "last_action": "Canlı MF Sorgulama (2 Ürün)",
           "today_date": "2026-11-25",
           "today_searches": 7,
           "today_cart_adds": 12,
-          "today_smart_orders": 43,
+          "today_smart_orders": 46,
           "total_searches": 115,
           "total_cart_adds": 126,
-          "total_smart_orders": 387,
+          "total_smart_orders": 390,
           "total_days_used": 16,
           "recent_actions": [
-            {
-              "t": "2026-11-25 16:28:12",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (35 Ürün)"
-            },
-            {
-              "t": "2026-11-25 16:28:12",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-25 16:28:19",
-              "type": "search",
-              "detail": "Piyasa Fiyat Kıyaslama: 3337875722827"
-            },
             {
               "t": "2026-11-25 16:28:30",
               "type": "search",
@@ -307,6 +292,21 @@
               "t": "2026-11-25 16:31:10",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (11 Ürün)"
+            },
+            {
+              "t": "2026-11-25 16:33:39",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-25 16:33:39",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-25 16:33:43",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (2 Ürün)"
             }
           ]
         }
