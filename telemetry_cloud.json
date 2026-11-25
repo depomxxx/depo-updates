@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 16:39:30",
+  "updated_at": "2026-11-25 16:39:55",
   "count": 7,
   "items": [
     {
@@ -570,13 +570,13 @@
       "hwid": "2DED-CFF9-D593",
       "last_pc_name": "DESKTOP-8JN0NE5",
       "app_version": "1.9.23",
-      "last_seen_at": "2026-11-25 16:38:29",
+      "last_seen_at": "2026-11-25 16:39:55",
       "last_action": "[DESKTOP-8JN0NE5] Depo Sorgu: SEF 500 MG 16 TB.",
       "today_date": "2026-11-25",
-      "today_searches": 4,
+      "today_searches": 6,
       "today_cart_adds": 5,
       "today_smart_orders": 28,
-      "total_searches": 163,
+      "total_searches": 165,
       "total_cart_adds": 365,
       "total_days_used": 16,
       "total_smart_orders": 802,
@@ -588,27 +588,17 @@
           "desk_name": "DESKTOP-8JN0NE5",
           "local_ip": "192.168.1.37",
           "app_version": "1.9.23",
-          "last_seen_at": "2026-11-25 16:38:29",
+          "last_seen_at": "2026-11-25 16:39:55",
           "last_action": "Depo Sorgu: SEF 500 MG 16 TB.",
           "today_date": "2026-11-25",
-          "today_searches": 4,
+          "today_searches": 6,
           "today_cart_adds": 5,
           "today_smart_orders": 28,
-          "total_searches": 88,
+          "total_searches": 90,
           "total_cart_adds": 199,
           "total_smart_orders": 436,
           "total_days_used": 16,
           "recent_actions": [
-            {
-              "t": "2026-11-25 15:57:38",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-25 15:57:39",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-25 15:58:31",
               "type": "mf_resolve",
@@ -671,6 +661,16 @@
             },
             {
               "t": "2026-11-25 16:38:29",
+              "type": "search",
+              "detail": "Depo Sorgu: SEF 500 MG 16 TB."
+            },
+            {
+              "t": "2026-11-25 16:38:29",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-25 16:38:39",
               "type": "search",
               "detail": "Depo Sorgu: SEF 500 MG 16 TB."
             }
