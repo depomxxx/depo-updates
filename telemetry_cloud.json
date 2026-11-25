@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 13:06:22",
+  "updated_at": "2026-11-25 13:04:09",
   "count": 7,
   "items": [
     {
@@ -801,11 +801,11 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "B446-9737-94C4",
-      "last_pc_name": "DESKTOP-5PFFU5S",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.20",
-      "last_seen_at": "2026-11-25 13:03:56",
-      "last_action": "[DESKTOP-5PFFU5S] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-25 13:04:09",
+      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları Yenileme (TRIA • 27 Kalem)",
       "today_date": "2026-11-25",
       "today_searches": 20,
       "today_cart_adds": 133,
@@ -916,7 +916,7 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.20",
-          "last_seen_at": "2026-11-25 13:02:48",
+          "last_seen_at": "2026-11-25 13:04:09",
           "last_action": "Günün Çıkışları Yenileme (TRIA • 27 Kalem)",
           "today_date": "2026-11-25",
           "today_searches": 14,
