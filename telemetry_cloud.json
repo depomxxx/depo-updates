@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 16:32:50",
+  "updated_at": "2026-11-25 16:32:54",
   "count": 7,
   "items": [
     {
@@ -801,18 +801,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "5834-FAC9-B71F",
-      "last_pc_name": "DESKTOP-OTHNDUE",
+      "hwid": "D2E4-AA57-C021",
+      "last_pc_name": "DESKTOP-1N3LQF0",
       "app_version": "1.9.22",
-      "last_seen_at": "2026-11-25 16:32:23",
-      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-25 16:32:54",
+      "last_action": "[DESKTOP-1N3LQF0] Canlı MF Taraması",
       "today_date": "2026-11-25",
       "today_searches": 29,
       "today_cart_adds": 157,
-      "today_smart_orders": 119,
+      "today_smart_orders": 121,
       "total_searches": 837,
       "total_cart_adds": 1426,
-      "total_smart_orders": 1851,
+      "total_smart_orders": 1853,
       "total_days_used": 19,
       "pc_count": 9,
       "devices": {
@@ -1010,7 +1010,7 @@
           "desk_name": "Eda-Bilgin",
           "local_ip": "192.168.1.120",
           "app_version": "1.9.22",
-          "last_seen_at": "2026-11-25 16:31:58",
+          "last_seen_at": "2026-11-25 16:32:28",
           "last_action": "Program Açık (Canlı)",
           "today_date": "2026-11-25",
           "today_searches": 0,
@@ -1104,7 +1104,7 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.9.22",
-          "last_seen_at": "2026-11-25 16:31:57",
+          "last_seen_at": "2026-11-25 16:32:28",
           "last_action": "Depo Sorgu: GANFORT %0.03+0.5 3 ML GOZ GTT",
           "today_date": "2026-11-25",
           "today_searches": 6,
@@ -1386,7 +1386,7 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.100",
           "app_version": "1.9.22",
-          "last_seen_at": "2026-11-25 16:31:51",
+          "last_seen_at": "2026-11-25 16:32:38",
           "last_action": "Canlı MF Sorgulama (4 Ürün)",
           "today_date": "2026-11-25",
           "today_searches": 5,
@@ -1479,28 +1479,18 @@
           "pc_name": "DESKTOP-1N3LQF0",
           "desk_name": "DESKTOP-1N3LQF0",
           "local_ip": "192.168.1.123",
-          "app_version": "1.9.21",
-          "last_seen_at": "2026-11-25 16:31:54",
-          "last_action": "Canlı MF Sorgulama (21 Ürün)",
+          "app_version": "1.9.22",
+          "last_seen_at": "2026-11-25 16:32:54",
+          "last_action": "Canlı MF Taraması",
           "today_date": "2026-11-25",
           "today_searches": 4,
           "today_cart_adds": 0,
-          "today_smart_orders": 9,
+          "today_smart_orders": 11,
           "total_searches": 92,
           "total_cart_adds": 48,
-          "total_smart_orders": 127,
+          "total_smart_orders": 129,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-24 17:59:59",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): TOUJEO 300 IU/ML SOLOSTAR SC x10"
-            },
-            {
-              "t": "2026-11-24 18:00:25",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-25 16:09:44",
               "type": "critical_stock",
@@ -1565,6 +1555,16 @@
               "t": "2026-11-25 16:11:27",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (21 Ürün)"
+            },
+            {
+              "t": "2026-11-25 16:32:52",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-25 16:32:52",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
             }
           ]
         },
