@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 16:32:18",
+  "updated_at": "2026-11-25 16:32:23",
   "count": 7,
   "items": [
     {
@@ -801,18 +801,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "8FD3-5823-91F4",
-      "last_pc_name": "Eda-Bilgin",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.22",
-      "last_seen_at": "2026-11-25 16:31:58",
-      "last_action": "[DESKTOP-5PFFU5S] Depo Sorgu: GANFORT %0.03+0.5 3 ML GOZ GTT",
+      "last_seen_at": "2026-11-25 16:32:23",
+      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-25",
       "today_searches": 29,
       "today_cart_adds": 157,
-      "today_smart_orders": 118,
+      "today_smart_orders": 119,
       "total_searches": 837,
       "total_cart_adds": 1426,
-      "total_smart_orders": 1850,
+      "total_smart_orders": 1851,
       "total_days_used": 19,
       "pc_count": 9,
       "devices": {
@@ -916,22 +916,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.22",
-          "last_seen_at": "2026-11-25 16:30:51",
+          "last_seen_at": "2026-11-25 16:32:23",
           "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-25",
           "today_searches": 14,
           "today_cart_adds": 32,
-          "today_smart_orders": 36,
+          "today_smart_orders": 37,
           "total_searches": 241,
           "total_cart_adds": 626,
-          "total_smart_orders": 930,
+          "total_smart_orders": 931,
           "total_days_used": 18,
           "recent_actions": [
-            {
-              "t": "2026-11-25 14:40:51",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-25 14:41:01",
               "type": "cart",
@@ -999,6 +994,11 @@
             },
             {
               "t": "2026-11-25 15:56:58",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-25 16:31:06",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
             }
