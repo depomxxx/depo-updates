@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 16:30:38",
+  "updated_at": "2026-11-25 16:30:49",
   "count": 7,
   "items": [
     {
@@ -15,14 +15,14 @@
       "status": "AKTIF",
       "hwid": "E4F7-229A-BABD",
       "last_pc_name": "ChagriBeg",
-      "app_version": "1.9.21",
-      "last_seen_at": "2026-11-25 16:29:40",
-      "last_action": "[ChagriBeg] Depo Fiyat Sorgulama",
+      "app_version": "1.9.22",
+      "last_seen_at": "2026-11-25 16:30:49",
+      "last_action": "[ChagriBeg] Depo Sorgu: PAROL 500 MG 30 TB.",
       "today_date": "2026-11-25",
-      "today_searches": 4,
+      "today_searches": 7,
       "today_cart_adds": 12,
       "today_smart_orders": 40,
-      "total_searches": 377,
+      "total_searches": 380,
       "total_cart_adds": 817,
       "total_smart_orders": 1464,
       "total_days_used": 17,
@@ -221,33 +221,18 @@
           "pc_name": "ChagriBeg",
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
-          "app_version": "1.9.21",
-          "last_seen_at": "2026-11-25 16:29:40",
-          "last_action": "Depo Fiyat Sorgulama",
+          "app_version": "1.9.22",
+          "last_seen_at": "2026-11-25 16:30:49",
+          "last_action": "Depo Sorgu: PAROL 500 MG 30 TB.",
           "today_date": "2026-11-25",
-          "today_searches": 4,
+          "today_searches": 7,
           "today_cart_adds": 12,
           "today_smart_orders": 40,
-          "total_searches": 112,
+          "total_searches": 115,
           "total_cart_adds": 126,
           "total_smart_orders": 384,
           "total_days_used": 16,
           "recent_actions": [
-            {
-              "t": "2026-11-25 16:07:43",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (3 Ürün)"
-            },
-            {
-              "t": "2026-11-25 16:27:31",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş Planlama"
-            },
-            {
-              "t": "2026-11-25 16:27:32",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş (TRIA • 246 Kalem)"
-            },
             {
               "t": "2026-11-25 16:27:32",
               "type": "mf_resolve",
@@ -307,6 +292,21 @@
               "t": "2026-11-25 16:29:40",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-25 16:29:42",
+              "type": "search",
+              "detail": "Depo Sorgu: AUGMENTIN BID 1 GR 14 FTB."
+            },
+            {
+              "t": "2026-11-25 16:29:53",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-25 16:29:55",
+              "type": "search",
+              "detail": "Depo Sorgu: PAROL 500 MG 30 TB."
             }
           ]
         }
