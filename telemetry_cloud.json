@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 10:59:32",
+  "updated_at": "2026-11-25 10:59:52",
   "count": 7,
   "items": [
     {
@@ -804,15 +804,15 @@
       "hwid": "B446-9737-94C4",
       "last_pc_name": "DESKTOP-5PFFU5S",
       "app_version": "1.9.20",
-      "last_seen_at": "2026-11-25 10:59:32",
-      "last_action": "[DESKTOP-5PFFU5S] Canlı MF Sorgulama (35 Ürün)",
+      "last_seen_at": "2026-11-25 10:59:52",
+      "last_action": "[DESKTOP-5PFFU5S] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-25",
       "today_searches": 12,
-      "today_cart_adds": 49,
-      "today_smart_orders": 32,
+      "today_cart_adds": 52,
+      "today_smart_orders": 34,
       "total_searches": 820,
-      "total_cart_adds": 1318,
-      "total_smart_orders": 1764,
+      "total_cart_adds": 1321,
+      "total_smart_orders": 1766,
       "total_days_used": 19,
       "pc_count": 9,
       "devices": {
@@ -1104,42 +1104,17 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.9.20",
-          "last_seen_at": "2026-11-25 10:59:32",
-          "last_action": "Canlı MF Sorgulama (35 Ürün)",
+          "last_seen_at": "2026-11-25 10:59:52",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-25",
           "today_searches": 2,
-          "today_cart_adds": 32,
-          "today_smart_orders": 26,
+          "today_cart_adds": 35,
+          "today_smart_orders": 28,
           "total_searches": 103,
-          "total_cart_adds": 300,
-          "total_smart_orders": 150,
+          "total_cart_adds": 303,
+          "total_smart_orders": 152,
           "total_days_used": 10,
           "recent_actions": [
-            {
-              "t": "2026-11-25 10:56:31",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): ANORO ELLIPTA 62,5/25 MCG KU x3"
-            },
-            {
-              "t": "2026-11-25 10:57:35",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-25 10:57:36",
-              "type": "cart",
-              "detail": "Sepete Ekle (SELCUK): CURAPROX 5460 ULTRA SOFT DIS x11"
-            },
-            {
-              "t": "2026-11-25 10:57:56",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-25 10:58:11",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-25 10:58:46",
               "type": "smart_order",
@@ -1189,6 +1164,31 @@
               "t": "2026-11-25 10:59:32",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (35 Ürün)"
+            },
+            {
+              "t": "2026-11-25 10:59:32",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-25 10:59:37",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-25 10:59:40",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): SIMFLAT FILM TABLET 30 TABLE x5"
+            },
+            {
+              "t": "2026-11-25 10:59:49",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (31 Ürün)"
+            },
+            {
+              "t": "2026-11-25 10:59:52",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
@@ -1386,7 +1386,7 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.100",
           "app_version": "1.9.20",
-          "last_seen_at": "2026-11-25 10:58:38",
+          "last_seen_at": "2026-11-25 10:59:38",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-25",
           "today_searches": 2,
