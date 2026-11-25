@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 15:08:41",
+  "updated_at": "2026-11-25 15:09:00",
   "count": 7,
   "items": [
     {
@@ -804,15 +804,15 @@
       "hwid": "B446-9737-94C4",
       "last_pc_name": "DESKTOP-5PFFU5S",
       "app_version": "1.9.20",
-      "last_seen_at": "2026-11-25 15:08:41",
+      "last_seen_at": "2026-11-25 15:09:00",
       "last_action": "[DESKTOP-5PFFU5S] Canlı MF Sorgulama (35 Ürün)",
       "today_date": "2026-11-25",
       "today_searches": 20,
       "today_cart_adds": 145,
-      "today_smart_orders": 84,
+      "today_smart_orders": 86,
       "total_searches": 828,
       "total_cart_adds": 1414,
-      "total_smart_orders": 1816,
+      "total_smart_orders": 1818,
       "total_days_used": 19,
       "pc_count": 9,
       "devices": {
@@ -1104,27 +1104,17 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.9.20",
-          "last_seen_at": "2026-11-25 15:08:41",
+          "last_seen_at": "2026-11-25 15:09:00",
           "last_action": "Canlı MF Sorgulama (35 Ürün)",
           "today_date": "2026-11-25",
           "today_searches": 4,
           "today_cart_adds": 108,
-          "today_smart_orders": 50,
+          "today_smart_orders": 52,
           "total_searches": 105,
           "total_cart_adds": 376,
-          "total_smart_orders": 174,
+          "total_smart_orders": 176,
           "total_days_used": 10,
           "recent_actions": [
-            {
-              "t": "2026-11-25 11:18:14",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-25 14:25:25",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-25 14:25:25",
               "type": "critical_stock",
@@ -1187,6 +1177,16 @@
             },
             {
               "t": "2026-11-25 15:08:41",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (35 Ürün)"
+            },
+            {
+              "t": "2026-11-25 15:08:41",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-25 15:09:00",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (35 Ürün)"
             }
