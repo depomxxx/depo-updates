@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 11:03:04",
+  "updated_at": "2026-11-25 11:03:02",
   "count": 7,
   "items": [
     {
@@ -808,10 +808,10 @@
       "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları Yenileme (TRIA • 11 Kalem)",
       "today_date": "2026-11-25",
       "today_searches": 12,
-      "today_cart_adds": 65,
+      "today_cart_adds": 66,
       "today_smart_orders": 34,
       "total_searches": 820,
-      "total_cart_adds": 1334,
+      "total_cart_adds": 1335,
       "total_smart_orders": 1766,
       "total_days_used": 19,
       "pc_count": 9,
@@ -1104,22 +1104,17 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.9.20",
-          "last_seen_at": "2026-11-25 11:02:43",
-          "last_action": "Sepete Ekle (SELCUK): DEXFULL SR 75 MG 20 FILM TAB x4",
+          "last_seen_at": "2026-11-25 11:03:02",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-25",
           "today_searches": 2,
-          "today_cart_adds": 48,
+          "today_cart_adds": 49,
           "today_smart_orders": 28,
           "total_searches": 103,
-          "total_cart_adds": 316,
+          "total_cart_adds": 317,
           "total_smart_orders": 152,
           "total_days_used": 10,
           "recent_actions": [
-            {
-              "t": "2026-11-25 10:59:13",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (35 Ürün)"
-            },
             {
               "t": "2026-11-25 10:59:13",
               "type": "mf_resolve",
@@ -1189,6 +1184,11 @@
               "t": "2026-11-25 11:02:43",
               "type": "cart",
               "detail": "Sepete Ekle (SELCUK): DEXFULL SR 75 MG 20 FILM TAB x4"
+            },
+            {
+              "t": "2026-11-25 11:03:02",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
