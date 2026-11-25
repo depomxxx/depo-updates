@@ -1,11 +1,11 @@
 {
-  "version": "1.9.22",
+  "version": "1.9.23",
   "app_name": "Farma Radar",
-  "release_date": "2026-11-25 16:30:33",
+  "release_date": "2026-11-25 16:33:12",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.9.22.zip?t=1795613435",
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.9.23.zip?t=1795613593",
   "sha256": "",
-  "package_sha256": "47575c094a4b7720adb95ab79d03d88dab905404c35382216ccd7280977ccdb5",
-  "size_kb": 973.2,
-  "changelog": "v1.9.22: Eczatrend sipariş/katılım adet sıfırlanma (1'e düşme), mükerrer alan kimliği, min/maks/alım katı/hedef aşımı ve mevcut alım güncelleme hataları tamamen giderildi; Eczatrend Teklif Açma ekranı (Atıl Stok aktarımı, grup değişimi, depo kampanya alanları, Tekliflerim aktif durum & düzenleme) yenilendi; EczaneTakas için uygulama içi Yeni Teklif Açma ekranı eklendi (Atıl Stoktan arka planda tarayıcı açmadan doğrudan teklif yayını)."
+  "package_sha256": "5614005c89ec01bb6fbae3f832a88dbf368e5cc80b5bf5c01b89d5c2f1e199ee",
+  "size_kb": 973.3,
+  "changelog": "v1.9.23: Eczatrend sipariş/katılım adet sıfırlanma (1'e düşme), mükerrer alan kimliği, min/maks/alım katı/hedef aşımı (Geçilebilir/Geçilemez), mevcut alım güncelleme ve iptal hataları tamamen giderildi; Eczatrend Teklif Açma ekranı (Atıl Stok aktarımı, grup değişimi, depo kampanya alanları, Tekliflerim aktif durum & düzenleme) yenilendi; EczaneTakas için uygulama içi Yeni Teklif Açma ekranı eklendi (Atıl Stoktan arka planda tarayıcı açmadan doğrudan teklif yayını)."
 }
