@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 17:03:53",
+  "updated_at": "2026-11-25 17:06:25",
   "count": 7,
   "items": [
     {
@@ -1908,16 +1908,16 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.9.23",
-      "last_seen_at": "2026-11-25 17:04:56",
-      "last_action": "[DESKTOP-T4EAUS3] Canlı MF Sorgulama (30 Ürün)",
+      "last_seen_at": "2026-11-25 17:06:25",
+      "last_action": "[DESKTOP-T4EAUS3] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-25",
       "today_searches": 0,
-      "today_cart_adds": 12,
-      "today_smart_orders": 8,
+      "today_cart_adds": 16,
+      "today_smart_orders": 10,
       "total_searches": 247,
-      "total_cart_adds": 831,
+      "total_cart_adds": 835,
       "total_days_used": 17,
-      "total_smart_orders": 655,
+      "total_smart_orders": 657,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -2000,42 +2000,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.9.23",
-          "last_seen_at": "2026-11-25 17:04:56",
-          "last_action": "Canlı MF Sorgulama (30 Ürün)",
+          "last_seen_at": "2026-11-25 17:06:25",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-25",
           "today_searches": 0,
-          "today_cart_adds": 12,
-          "today_smart_orders": 8,
+          "today_cart_adds": 16,
+          "today_smart_orders": 10,
           "total_searches": 149,
-          "total_cart_adds": 517,
-          "total_smart_orders": 464,
+          "total_cart_adds": 521,
+          "total_smart_orders": 466,
           "total_days_used": 17,
           "recent_actions": [
-            {
-              "t": "2026-11-25 11:55:01",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-25 11:55:12",
-              "type": "cart",
-              "detail": "Toplu Sepet (ALLIANCE): 4 Kalem"
-            },
-            {
-              "t": "2026-11-25 11:55:13",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-25 11:55:16",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (30 Ürün)"
-            },
-            {
-              "t": "2026-11-25 11:55:17",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-25 11:55:26",
               "type": "cart",
@@ -2085,6 +2060,31 @@
               "t": "2026-11-25 17:04:56",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (30 Ürün)"
+            },
+            {
+              "t": "2026-11-25 17:04:56",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-25 17:04:57",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-25 17:05:05",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (12 Ürün)"
+            },
+            {
+              "t": "2026-11-25 17:05:09",
+              "type": "cart",
+              "detail": "Toplu Sepet (ALLIANCE): 6 Kalem"
+            },
+            {
+              "t": "2026-11-25 17:05:11",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
