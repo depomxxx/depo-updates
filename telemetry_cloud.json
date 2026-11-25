@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 16:34:07",
+  "updated_at": "2026-11-25 16:36:33",
   "count": 7,
   "items": [
     {
@@ -1907,8 +1907,8 @@
       "status": "AKTIF",
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
-      "app_version": "1.9.22",
-      "last_seen_at": "2026-11-25 16:36:07",
+      "app_version": "1.9.23",
+      "last_seen_at": "2026-11-25 16:36:33",
       "last_action": "[DESKTOP-T4EAUS3] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-25",
       "today_searches": 0,
@@ -1999,8 +1999,8 @@
           "pc_name": "DESKTOP-T4EAUS3",
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
-          "app_version": "1.9.22",
-          "last_seen_at": "2026-11-25 16:36:07",
+          "app_version": "1.9.23",
+          "last_seen_at": "2026-11-25 16:36:33",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-25",
           "today_searches": 0,
