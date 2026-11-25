@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 16:33:37",
+  "updated_at": "2026-11-25 16:33:38",
   "count": 7,
   "items": [
     {
@@ -801,18 +801,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "5834-FAC9-B71F",
-      "last_pc_name": "DESKTOP-OTHNDUE",
+      "hwid": "D2E4-AA57-C021",
+      "last_pc_name": "DESKTOP-1N3LQF0",
       "app_version": "1.9.23",
-      "last_seen_at": "2026-11-25 16:33:36",
-      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-25 16:33:38",
+      "last_action": "[DESKTOP-1N3LQF0] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-25",
       "today_searches": 29,
       "today_cart_adds": 157,
-      "today_smart_orders": 122,
+      "today_smart_orders": 124,
       "total_searches": 837,
       "total_cart_adds": 1426,
-      "total_smart_orders": 1854,
+      "total_smart_orders": 1856,
       "total_days_used": 19,
       "pc_count": 9,
       "devices": {
@@ -1386,7 +1386,7 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.100",
           "app_version": "1.9.22",
-          "last_seen_at": "2026-11-25 16:33:03",
+          "last_seen_at": "2026-11-25 16:33:28",
           "last_action": "Canlı MF Sorgulama (4 Ürün)",
           "today_date": "2026-11-25",
           "today_searches": 5,
@@ -1479,28 +1479,18 @@
           "pc_name": "DESKTOP-1N3LQF0",
           "desk_name": "DESKTOP-1N3LQF0",
           "local_ip": "192.168.1.123",
-          "app_version": "1.9.22",
-          "last_seen_at": "2026-11-25 16:33:20",
-          "last_action": "Canlı MF Taraması",
+          "app_version": "1.9.23",
+          "last_seen_at": "2026-11-25 16:33:38",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-25",
           "today_searches": 4,
           "today_cart_adds": 0,
-          "today_smart_orders": 12,
+          "today_smart_orders": 14,
           "total_searches": 92,
           "total_cart_adds": 48,
-          "total_smart_orders": 130,
+          "total_smart_orders": 132,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-25 16:09:44",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-25 16:09:46",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-25 16:10:04",
               "type": "search",
@@ -1565,6 +1555,16 @@
               "t": "2026-11-25 16:33:20",
               "type": "mf_resolve",
               "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-25 16:33:23",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (8 Ürün)"
+            },
+            {
+              "t": "2026-11-25 16:33:38",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         },
