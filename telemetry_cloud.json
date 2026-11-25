@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 11:52:56",
+  "updated_at": "2026-11-25 11:55:26",
   "count": 7,
   "items": [
     {
@@ -1908,16 +1908,16 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.9.20",
-      "last_seen_at": "2026-11-25 11:55:01",
-      "last_action": "[DESKTOP-T4EAUS3] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-25 11:55:26",
+      "last_action": "[DESKTOP-T4EAUS3] Toplu Sepet (ISKOOP): 2 Kalem",
       "today_date": "2026-11-25",
       "today_searches": 0,
-      "today_cart_adds": 1,
-      "today_smart_orders": 2,
+      "today_cart_adds": 4,
+      "today_smart_orders": 4,
       "total_searches": 247,
-      "total_cart_adds": 820,
+      "total_cart_adds": 823,
       "total_days_used": 17,
-      "total_smart_orders": 649,
+      "total_smart_orders": 651,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -2000,42 +2000,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.9.20",
-          "last_seen_at": "2026-11-25 11:55:01",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-25 11:55:26",
+          "last_action": "Toplu Sepet (ISKOOP): 2 Kalem",
           "today_date": "2026-11-25",
           "today_searches": 0,
-          "today_cart_adds": 1,
-          "today_smart_orders": 2,
+          "today_cart_adds": 4,
+          "today_smart_orders": 4,
           "total_searches": 149,
-          "total_cart_adds": 506,
-          "total_smart_orders": 458,
+          "total_cart_adds": 509,
+          "total_smart_orders": 460,
           "total_days_used": 17,
           "recent_actions": [
-            {
-              "t": "2026-11-24 17:19:15",
-              "type": "cart",
-              "detail": "Toplu Sepet (ALLIANCE): 6 Kalem"
-            },
-            {
-              "t": "2026-11-24 17:19:18",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-24 17:21:56",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-24 17:22:06",
-              "type": "cart",
-              "detail": "Toplu Sepet (ISKOOP): 3 Kalem"
-            },
-            {
-              "t": "2026-11-24 17:22:06",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-24 17:22:16",
               "type": "cart",
@@ -2085,6 +2060,31 @@
               "t": "2026-11-25 11:55:01",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-25 11:55:12",
+              "type": "cart",
+              "detail": "Toplu Sepet (ALLIANCE): 4 Kalem"
+            },
+            {
+              "t": "2026-11-25 11:55:13",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-25 11:55:16",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (30 Ürün)"
+            },
+            {
+              "t": "2026-11-25 11:55:17",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-25 11:55:26",
+              "type": "cart",
+              "detail": "Toplu Sepet (ISKOOP): 2 Kalem"
             }
           ]
         },
