@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 17:09:54",
+  "updated_at": "2026-11-25 17:10:23",
   "count": 7,
   "items": [
     {
@@ -801,11 +801,11 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "B446-9737-94C4",
-      "last_pc_name": "DESKTOP-5PFFU5S",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.23",
-      "last_seen_at": "2026-11-25 17:09:53",
-      "last_action": "[DESKTOP-5PFFU5S] Depo Sorgu: GANFORT %0.03+0.5 3 ML GOZ GTT",
+      "last_seen_at": "2026-11-25 17:10:23",
+      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-25",
       "today_searches": 31,
       "today_cart_adds": 159,
@@ -916,7 +916,7 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.23",
-          "last_seen_at": "2026-11-25 17:08:59",
+          "last_seen_at": "2026-11-25 17:10:23",
           "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-25",
           "today_searches": 14,
