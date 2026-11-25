@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 15:10:53",
+  "updated_at": "2026-11-25 15:10:54",
   "count": 7,
   "items": [
     {
@@ -796,22 +796,22 @@
       "pharmacist_name": "EDA BİLGİN",
       "phone": "05077034200",
       "city": "SAMSUN/İLKADIM",
-      "gln_no": "8680001112258",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "8FD3-5823-91F4",
-      "last_pc_name": "Eda-Bilgin",
+      "hwid": "B446-9737-94C4",
+      "last_pc_name": "DESKTOP-5PFFU5S",
       "app_version": "1.9.20",
-      "last_seen_at": "2026-11-25 15:10:07",
-      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları Yenileme (TRIA • 40 Kalem)",
+      "last_seen_at": "2026-11-25 15:10:54",
+      "last_action": "[DESKTOP-5PFFU5S] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-25",
       "today_searches": 20,
-      "today_cart_adds": 151,
+      "today_cart_adds": 152,
       "today_smart_orders": 90,
       "total_searches": 828,
-      "total_cart_adds": 1420,
+      "total_cart_adds": 1421,
       "total_smart_orders": 1822,
       "total_days_used": 19,
       "pc_count": 9,
@@ -1104,22 +1104,17 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.9.20",
-          "last_seen_at": "2026-11-25 15:10:05",
-          "last_action": "Canlı MF Sorgulama (1 Ürün)",
+          "last_seen_at": "2026-11-25 15:10:54",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-25",
           "today_searches": 4,
-          "today_cart_adds": 114,
+          "today_cart_adds": 115,
           "today_smart_orders": 56,
           "total_searches": 105,
-          "total_cart_adds": 382,
+          "total_cart_adds": 383,
           "total_smart_orders": 180,
           "total_days_used": 10,
           "recent_actions": [
-            {
-              "t": "2026-11-25 15:08:23",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş (TRIA • 246 Kalem)"
-            },
             {
               "t": "2026-11-25 15:08:24",
               "type": "mf_resolve",
@@ -1189,6 +1184,11 @@
               "t": "2026-11-25 15:10:02",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (1 Ürün)"
+            },
+            {
+              "t": "2026-11-25 15:10:54",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
