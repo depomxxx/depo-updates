@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 17:02:22",
+  "updated_at": "2026-11-25 17:02:36",
   "count": 7,
   "items": [
     {
@@ -804,14 +804,14 @@
       "hwid": "D719-CEB2-1542",
       "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.9.23",
-      "last_seen_at": "2026-11-25 17:02:17",
-      "last_action": "[DESKTOP-M530BBB] Depo Fiyat Sorgulama",
+      "last_seen_at": "2026-11-25 17:02:36",
+      "last_action": "[DESKTOP-M530BBB] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-25",
-      "today_searches": 30,
-      "today_cart_adds": 157,
+      "today_searches": 31,
+      "today_cart_adds": 159,
       "today_smart_orders": 133,
-      "total_searches": 838,
-      "total_cart_adds": 1426,
+      "total_searches": 839,
+      "total_cart_adds": 1428,
       "total_smart_orders": 1865,
       "total_days_used": 19,
       "pc_count": 9,
@@ -1386,27 +1386,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.100",
           "app_version": "1.9.23",
-          "last_seen_at": "2026-11-25 17:02:17",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-25 17:02:36",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-25",
-          "today_searches": 6,
-          "today_cart_adds": 7,
+          "today_searches": 7,
+          "today_cart_adds": 9,
           "today_smart_orders": 16,
-          "total_searches": 169,
-          "total_cart_adds": 136,
+          "total_searches": 170,
+          "total_cart_adds": 138,
           "total_smart_orders": 199,
           "total_days_used": 19,
           "recent_actions": [
-            {
-              "t": "2026-11-25 16:21:04",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-25 16:21:12",
-              "type": "search",
-              "detail": "Depo Sorgu: WINCEF 400 MG 10 FTB."
-            },
             {
               "t": "2026-11-25 16:21:21",
               "type": "cart",
@@ -1471,6 +1461,16 @@
               "t": "2026-11-25 17:02:17",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-25 17:02:25",
+              "type": "search",
+              "detail": "Depo Sorgu: VASOSERC 16 MG 30 TB."
+            },
+            {
+              "t": "2026-11-25 17:02:35",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
