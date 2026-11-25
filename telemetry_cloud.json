@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 16:20:51",
+  "updated_at": "2026-11-25 16:20:52",
   "count": 7,
   "items": [
     {
@@ -803,16 +803,16 @@
       "status": "AKTIF",
       "hwid": "D719-CEB2-1542",
       "last_pc_name": "DESKTOP-M530BBB",
-      "app_version": "1.9.20",
-      "last_seen_at": "2026-11-25 16:20:35",
-      "last_action": "[DESKTOP-M530BBB] Sepete Ürün / Sipariş Aktarımı",
+      "app_version": "1.9.21",
+      "last_seen_at": "2026-11-25 16:20:52",
+      "last_action": "[DESKTOP-M530BBB] Depo Fiyat Sorgulama",
       "today_date": "2026-11-25",
-      "today_searches": 26,
+      "today_searches": 27,
       "today_cart_adds": 155,
-      "today_smart_orders": 106,
-      "total_searches": 834,
+      "today_smart_orders": 108,
+      "total_searches": 835,
       "total_cart_adds": 1424,
-      "total_smart_orders": 1838,
+      "total_smart_orders": 1840,
       "total_days_used": 19,
       "pc_count": 9,
       "devices": {
@@ -1385,33 +1385,18 @@
           "pc_name": "DESKTOP-M530BBB",
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.100",
-          "app_version": "1.9.20",
-          "last_seen_at": "2026-11-25 16:20:35",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "app_version": "1.9.21",
+          "last_seen_at": "2026-11-25 16:20:52",
+          "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-25",
-          "today_searches": 2,
+          "today_searches": 3,
           "today_cart_adds": 5,
-          "today_smart_orders": 1,
-          "total_searches": 165,
+          "today_smart_orders": 3,
+          "total_searches": 166,
           "total_cart_adds": 134,
-          "total_smart_orders": 184,
+          "total_smart_orders": 186,
           "total_days_used": 19,
           "recent_actions": [
-            {
-              "t": "2026-11-24 14:36:27",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-24 14:36:35",
-              "type": "search",
-              "detail": "Depo Sorgu: ALPHAGAN P %0.15 5 ML GOZ GTT."
-            },
-            {
-              "t": "2026-11-24 15:02:03",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-24 15:02:10",
               "type": "search",
@@ -1471,6 +1456,21 @@
               "t": "2026-11-25 10:42:26",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-25 16:20:40",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-25 16:20:40",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-25 16:20:42",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ]
         },
