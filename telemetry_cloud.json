@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 15:09:10",
+  "updated_at": "2026-11-25 15:09:18",
   "count": 7,
   "items": [
     {
@@ -1653,16 +1653,16 @@
       "hwid": "47CB-2231-637D",
       "last_pc_name": "DESKTOP-F1KQPJ2",
       "app_version": "1.9.20",
-      "last_seen_at": "2026-11-25 15:08:11",
-      "last_action": "[DESKTOP-F1KQPJ2] Canlı MF Sorgulama (30 Ürün)",
+      "last_seen_at": "2026-11-25 15:09:18",
+      "last_action": "[DESKTOP-F1KQPJ2] Depo Fiyat Sorgulama",
       "today_date": "2026-11-25",
-      "today_searches": 0,
+      "today_searches": 1,
       "today_cart_adds": 0,
-      "today_smart_orders": 5,
-      "total_searches": 79,
+      "today_smart_orders": 7,
+      "total_searches": 80,
       "total_cart_adds": 36,
       "total_days_used": 5,
-      "total_smart_orders": 78,
+      "total_smart_orders": 80,
       "pc_count": 3,
       "devices": {
         "2F66-9873-3F47": {
@@ -1804,32 +1804,17 @@
           "desk_name": "DESKTOP-F1KQPJ2",
           "local_ip": "192.168.1.28",
           "app_version": "1.9.20",
-          "last_seen_at": "2026-11-25 15:08:11",
-          "last_action": "Canlı MF Sorgulama (30 Ürün)",
+          "last_seen_at": "2026-11-25 15:09:18",
+          "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-25",
-          "today_searches": 0,
+          "today_searches": 1,
           "today_cart_adds": 0,
-          "today_smart_orders": 5,
-          "total_searches": 62,
+          "today_smart_orders": 7,
+          "total_searches": 63,
           "total_cart_adds": 29,
-          "total_smart_orders": 63,
+          "total_smart_orders": 65,
           "total_days_used": 5,
           "recent_actions": [
-            {
-              "t": "2026-11-18 12:40:48",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (14 Ürün)"
-            },
-            {
-              "t": "2026-11-18 12:41:46",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-18 12:41:46",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TEBEOS • 20 Kalem)"
-            },
             {
               "t": "2026-11-18 13:24:54",
               "type": "critical_stock",
@@ -1889,6 +1874,21 @@
               "t": "2026-11-25 15:08:11",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (30 Ürün)"
+            },
+            {
+              "t": "2026-11-25 15:08:11",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-25 15:08:12",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (8 Ürün)"
+            },
+            {
+              "t": "2026-11-25 15:09:18",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ]
         }
