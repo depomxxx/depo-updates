@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 13:16:58",
+  "updated_at": "2026-11-25 13:14:54",
   "count": 7,
   "items": [
     {
@@ -570,16 +570,16 @@
       "hwid": "2DED-CFF9-D593",
       "last_pc_name": "DESKTOP-8JN0NE5",
       "app_version": "1.9.20",
-      "last_seen_at": "2026-11-25 13:13:29",
-      "last_action": "[DESKTOP-8JN0NE5] Depo Sorgu: NETIRA TEK DOZ GOZ GTT.",
+      "last_seen_at": "2026-11-25 13:14:54",
+      "last_action": "[DESKTOP-8JN0NE5] Canlı MF Sorgulama (5 Ürün)",
       "today_date": "2026-11-25",
       "today_searches": 2,
       "today_cart_adds": 0,
-      "today_smart_orders": 12,
+      "today_smart_orders": 13,
       "total_searches": 161,
       "total_cart_adds": 360,
       "total_days_used": 16,
-      "total_smart_orders": 786,
+      "total_smart_orders": 787,
       "pc_count": 3,
       "devices": {
         "2DED-CFF9-D593": {
@@ -588,22 +588,17 @@
           "desk_name": "DESKTOP-8JN0NE5",
           "local_ip": "192.168.1.37",
           "app_version": "1.9.20",
-          "last_seen_at": "2026-11-25 13:13:29",
-          "last_action": "Depo Sorgu: NETIRA TEK DOZ GOZ GTT.",
+          "last_seen_at": "2026-11-25 13:14:54",
+          "last_action": "Canlı MF Sorgulama (5 Ürün)",
           "today_date": "2026-11-25",
           "today_searches": 2,
           "today_cart_adds": 0,
-          "today_smart_orders": 12,
+          "today_smart_orders": 13,
           "total_searches": 86,
           "total_cart_adds": 194,
-          "total_smart_orders": 420,
+          "total_smart_orders": 421,
           "total_days_used": 16,
           "recent_actions": [
-            {
-              "t": "2026-11-23 17:31:17",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-25 13:08:23",
               "type": "critical_stock",
@@ -673,6 +668,11 @@
               "t": "2026-11-25 13:13:29",
               "type": "search",
               "detail": "Depo Sorgu: NETIRA TEK DOZ GOZ GTT."
+            },
+            {
+              "t": "2026-11-25 13:13:34",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (5 Ürün)"
             }
           ]
         },
