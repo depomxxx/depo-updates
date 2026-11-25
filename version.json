@@ -1,11 +1,11 @@
 {
-  "version": "1.9.21",
+  "version": "1.9.22",
   "app_name": "Farma Radar",
-  "release_date": "2026-11-25 15:56:30",
+  "release_date": "2026-11-25 16:30:33",
   "mandatory": true,
-  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.9.21.zip?t=1795611391",
+  "download_url": "https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.9.22.zip?t=1795613435",
   "sha256": "",
-  "package_sha256": "29c477d8d3a59dfd42307a0d484e6696698664376454a429b3ce7816a8a5f6fd",
-  "size_kb": 953.5,
-  "changelog": "v1.9.21 — TRIA Atıl Stok Gerçek Son Alış Fatura Maliyeti & Kesin Kategori Ayrımı:\n• TRIA Oracle için gerçek kategori ayrımı eklendi (TBL_MAL_GRUP + ATC/DSF/Kamu/Eşdeğer/TİTCK/KDV/ÜTS): 8699... barkodlu Bioderma, Roll Medikal, B-Good, Canped vb. ürünlerin İlaç sekmesine karışması tamamen giderildi.\n• TRIA son alış faturalarından (AAF/KAF/TGF) KDV dahil, tüm iskontolar ve MF düşülmüş gerçek birim alış maliyeti, son depo adı, son MF (örn. 5+1 MF) ve tarih bilgisi bağlandı.\n• Atıl Stok ekranındaki gerçek bağlı maliyet KPI'ları, son alışa göre kâr/zarar rozetleri ve 5'li kategori filtresi artık TRIA'da da Botanik ile birebir aynı hassasiyette çalışır."
+  "package_sha256": "47575c094a4b7720adb95ab79d03d88dab905404c35382216ccd7280977ccdb5",
+  "size_kb": 973.2,
+  "changelog": "v1.9.22: Eczatrend sipariş/katılım adet sıfırlanma (1'e düşme), mükerrer alan kimliği, min/maks/alım katı/hedef aşımı ve mevcut alım güncelleme hataları tamamen giderildi; Eczatrend Teklif Açma ekranı (Atıl Stok aktarımı, grup değişimi, depo kampanya alanları, Tekliflerim aktif durum & düzenleme) yenilendi; EczaneTakas için uygulama içi Yeni Teklif Açma ekranı eklendi (Atıl Stoktan arka planda tarayıcı açmadan doğrudan teklif yayını)."
 }
