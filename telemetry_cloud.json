@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 16:27:38",
+  "updated_at": "2026-11-25 16:27:52",
   "count": 7,
   "items": [
     {
@@ -16,15 +16,15 @@
       "hwid": "E4F7-229A-BABD",
       "last_pc_name": "ChagriBeg",
       "app_version": "1.9.21",
-      "last_seen_at": "2026-11-25 16:27:31",
-      "last_action": "[ChagriBeg] Toplu Sipariş Planlama",
+      "last_seen_at": "2026-11-25 16:27:52",
+      "last_action": "[ChagriBeg] Canlı MF Sorgulama (35 Ürün)",
       "today_date": "2026-11-25",
       "today_searches": 0,
       "today_cart_adds": 12,
-      "today_smart_orders": 31,
+      "today_smart_orders": 34,
       "total_searches": 373,
       "total_cart_adds": 817,
-      "total_smart_orders": 1455,
+      "total_smart_orders": 1458,
       "total_days_used": 17,
       "pc_count": 3,
       "devices": {
@@ -222,32 +222,17 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.9.21",
-          "last_seen_at": "2026-11-25 16:27:31",
-          "last_action": "Toplu Sipariş Planlama",
+          "last_seen_at": "2026-11-25 16:27:52",
+          "last_action": "Canlı MF Sorgulama (35 Ürün)",
           "today_date": "2026-11-25",
           "today_searches": 0,
           "today_cart_adds": 12,
-          "today_smart_orders": 31,
+          "today_smart_orders": 34,
           "total_searches": 108,
           "total_cart_adds": 126,
-          "total_smart_orders": 375,
+          "total_smart_orders": 378,
           "total_days_used": 16,
           "recent_actions": [
-            {
-              "t": "2026-11-25 15:55:24",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-25 15:55:59",
-              "type": "cart",
-              "detail": "Toplu Sepet (NEVZAT): 1 Kalem"
-            },
-            {
-              "t": "2026-11-25 15:55:59",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş Planlama"
-            },
             {
               "t": "2026-11-25 15:55:59",
               "type": "smart_order",
@@ -307,6 +292,21 @@
               "t": "2026-11-25 16:27:31",
               "type": "smart_order",
               "detail": "Toplu Sipariş Planlama"
+            },
+            {
+              "t": "2026-11-25 16:27:32",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş (TRIA • 246 Kalem)"
+            },
+            {
+              "t": "2026-11-25 16:27:32",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-25 16:27:52",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (35 Ürün)"
             }
           ]
         }
