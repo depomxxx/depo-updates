@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 16:10:27",
+  "updated_at": "2026-11-25 16:10:54",
   "count": 7,
   "items": [
     {
@@ -796,23 +796,23 @@
       "pharmacist_name": "EDA BİLGİN",
       "phone": "05077034200",
       "city": "SAMSUN/İLKADIM",
-      "gln_no": "8680001112258",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "8FD3-5823-91F4",
-      "last_pc_name": "Eda-Bilgin",
+      "hwid": "D2E4-AA57-C021",
+      "last_pc_name": "DESKTOP-1N3LQF0",
       "app_version": "1.9.21",
-      "last_seen_at": "2026-11-25 16:10:19",
-      "last_action": "[DESKTOP-5PFFU5S] Depo Sorgu: GANFORT %0.03+0.5 3 ML GOZ GTT",
+      "last_seen_at": "2026-11-25 16:10:54",
+      "last_action": "[DESKTOP-1N3LQF0] Canlı MF Sorgulama (30 Ürün)",
       "today_date": "2026-11-25",
-      "today_searches": 25,
+      "today_searches": 26,
       "today_cart_adds": 155,
-      "today_smart_orders": 101,
-      "total_searches": 833,
+      "today_smart_orders": 102,
+      "total_searches": 834,
       "total_cart_adds": 1424,
-      "total_smart_orders": 1833,
+      "total_smart_orders": 1834,
       "total_days_used": 19,
       "pc_count": 9,
       "devices": {
@@ -1480,27 +1480,17 @@
           "desk_name": "DESKTOP-1N3LQF0",
           "local_ip": "192.168.1.123",
           "app_version": "1.9.21",
-          "last_seen_at": "2026-11-25 16:10:13",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-25 16:10:54",
+          "last_action": "Canlı MF Sorgulama (30 Ürün)",
           "today_date": "2026-11-25",
-          "today_searches": 3,
+          "today_searches": 4,
           "today_cart_adds": 0,
-          "today_smart_orders": 4,
-          "total_searches": 91,
+          "today_smart_orders": 5,
+          "total_searches": 92,
           "total_cart_adds": 48,
-          "total_smart_orders": 122,
+          "total_smart_orders": 123,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-24 17:58:07",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş (TRIA • 250 Kalem)"
-            },
-            {
-              "t": "2026-11-24 17:58:08",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-24 17:58:20",
               "type": "mf_resolve",
@@ -1565,6 +1555,16 @@
               "t": "2026-11-25 16:10:13",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-25 16:10:22",
+              "type": "search",
+              "detail": "Depo Sorgu: GLARIN 100 IU 3 ML 5 PEN"
+            },
+            {
+              "t": "2026-11-25 16:10:54",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (30 Ürün)"
             }
           ]
         },
