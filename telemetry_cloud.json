@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 16:33:03",
+  "updated_at": "2026-11-25 16:33:20",
   "count": 7,
   "items": [
     {
@@ -801,18 +801,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D719-CEB2-1542",
-      "last_pc_name": "DESKTOP-M530BBB",
+      "hwid": "D2E4-AA57-C021",
+      "last_pc_name": "DESKTOP-1N3LQF0",
       "app_version": "1.9.22",
-      "last_seen_at": "2026-11-25 16:33:03",
-      "last_action": "[DESKTOP-M530BBB] Canlı MF Sorgulama (4 Ürün)",
+      "last_seen_at": "2026-11-25 16:33:20",
+      "last_action": "[DESKTOP-1N3LQF0] Canlı MF Taraması",
       "today_date": "2026-11-25",
       "today_searches": 29,
       "today_cart_adds": 157,
-      "today_smart_orders": 121,
+      "today_smart_orders": 122,
       "total_searches": 837,
       "total_cart_adds": 1426,
-      "total_smart_orders": 1853,
+      "total_smart_orders": 1854,
       "total_days_used": 19,
       "pc_count": 9,
       "devices": {
@@ -1480,22 +1480,17 @@
           "desk_name": "DESKTOP-1N3LQF0",
           "local_ip": "192.168.1.123",
           "app_version": "1.9.22",
-          "last_seen_at": "2026-11-25 16:32:54",
+          "last_seen_at": "2026-11-25 16:33:20",
           "last_action": "Canlı MF Taraması",
           "today_date": "2026-11-25",
           "today_searches": 4,
           "today_cart_adds": 0,
-          "today_smart_orders": 11,
+          "today_smart_orders": 12,
           "total_searches": 92,
           "total_cart_adds": 48,
-          "total_smart_orders": 129,
+          "total_smart_orders": 130,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-25 16:09:44",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-25 16:09:44",
               "type": "mf_resolve",
@@ -1563,6 +1558,11 @@
             },
             {
               "t": "2026-11-25 16:32:52",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-25 16:33:20",
               "type": "mf_resolve",
               "detail": "Canlı MF Taraması"
             }
