@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 10:55:29",
+  "updated_at": "2026-11-25 10:55:34",
   "count": 7,
   "items": [
     {
@@ -801,17 +801,17 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "5834-FAC9-B71F",
-      "last_pc_name": "DESKTOP-OTHNDUE",
+      "hwid": "D719-CEB2-1542",
+      "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.9.20",
-      "last_seen_at": "2026-11-25 10:55:29",
-      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları Yenileme (TRIA • 11 Kalem)",
+      "last_seen_at": "2026-11-25 10:55:34",
+      "last_action": "[DESKTOP-M530BBB] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-25",
       "today_searches": 12,
-      "today_cart_adds": 27,
+      "today_cart_adds": 31,
       "today_smart_orders": 20,
       "total_searches": 820,
-      "total_cart_adds": 1296,
+      "total_cart_adds": 1300,
       "total_smart_orders": 1752,
       "total_days_used": 19,
       "pc_count": 9,
@@ -1104,32 +1104,17 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.9.20",
-          "last_seen_at": "2026-11-25 10:55:07",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-25 10:55:24",
+          "last_action": "Sepete Ekle (SELCUK): CONCERTA 18 MG 30 KONTROLLU  x1",
           "today_date": "2026-11-25",
           "today_searches": 2,
-          "today_cart_adds": 10,
+          "today_cart_adds": 14,
           "today_smart_orders": 14,
           "total_searches": 103,
-          "total_cart_adds": 278,
+          "total_cart_adds": 282,
           "total_smart_orders": 138,
           "total_days_used": 10,
           "recent_actions": [
-            {
-              "t": "2026-11-25 10:49:22",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş Planlama"
-            },
-            {
-              "t": "2026-11-25 10:49:22",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş (TRIA • 41 Kalem)"
-            },
-            {
-              "t": "2026-11-25 10:49:23",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-25 10:49:24",
               "type": "mf_resolve",
@@ -1189,6 +1174,21 @@
               "t": "2026-11-25 10:55:07",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-25 10:55:16",
+              "type": "cart",
+              "detail": "Sepete Ekle (SELCUK): MAJEZIK DUO 100/8 MG 14 FTB x2"
+            },
+            {
+              "t": "2026-11-25 10:55:23",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-25 10:55:24",
+              "type": "cart",
+              "detail": "Sepete Ekle (SELCUK): CONCERTA 18 MG 30 KONTROLLU  x1"
             }
           ]
         },
@@ -1386,7 +1386,7 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.100",
           "app_version": "1.9.20",
-          "last_seen_at": "2026-11-25 10:54:38",
+          "last_seen_at": "2026-11-25 10:55:34",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-25",
           "today_searches": 2,
