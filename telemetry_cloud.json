@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 11:35:20",
+  "updated_at": "2026-11-25 11:35:47",
   "count": 7,
   "items": [
     {
@@ -804,14 +804,14 @@
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.20",
-      "last_seen_at": "2026-11-25 11:35:20",
+      "last_seen_at": "2026-11-25 11:35:47",
       "last_action": "[DESKTOP-OTHNDUE] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-25",
       "today_searches": 18,
-      "today_cart_adds": 126,
+      "today_cart_adds": 132,
       "today_smart_orders": 44,
       "total_searches": 826,
-      "total_cart_adds": 1395,
+      "total_cart_adds": 1401,
       "total_smart_orders": 1776,
       "total_days_used": 19,
       "pc_count": 9,
@@ -916,37 +916,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.20",
-          "last_seen_at": "2026-11-25 11:35:20",
+          "last_seen_at": "2026-11-25 11:35:47",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-25",
           "today_searches": 12,
-          "today_cart_adds": 13,
+          "today_cart_adds": 19,
           "today_smart_orders": 7,
           "total_searches": 239,
-          "total_cart_adds": 607,
+          "total_cart_adds": 613,
           "total_smart_orders": 901,
           "total_days_used": 18,
           "recent_actions": [
-            {
-              "t": "2026-11-25 09:55:08",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-25 09:55:18",
-              "type": "cart",
-              "detail": "Toplu Sepet (ALLIANCE): 6 Kalem"
-            },
-            {
-              "t": "2026-11-25 09:56:33",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-25 09:56:50",
-              "type": "cart",
-              "detail": "Toplu Sepet (NEVZAT): 1 Kalem"
-            },
             {
               "t": "2026-11-25 09:56:57",
               "type": "cart",
@@ -999,6 +979,26 @@
             },
             {
               "t": "2026-11-25 11:35:20",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-25 11:35:22",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): RILEPTID 1 MG 30 TB x5"
+            },
+            {
+              "t": "2026-11-25 11:35:27",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-25 11:35:31",
+              "type": "cart",
+              "detail": "Toplu Sepet (ALLIANCE): 2 Kalem"
+            },
+            {
+              "t": "2026-11-25 11:35:33",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
