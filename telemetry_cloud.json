@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 16:37:19",
+  "updated_at": "2026-11-25 16:37:28",
   "count": 7,
   "items": [
     {
@@ -448,14 +448,14 @@
       "hwid": "3C0F-6FF9-862F",
       "last_pc_name": "Berkay",
       "app_version": "1.9.23",
-      "last_seen_at": "2026-11-25 16:34:56",
-      "last_action": "Depo Fiyat Sorgulama",
+      "last_seen_at": "2026-11-25 16:37:28",
+      "last_action": "Sepete Ekle (SELCUK): ATOR 80 MG 30 FTB. x1",
       "today_date": "2026-11-25",
-      "today_searches": 1,
-      "today_cart_adds": 0,
+      "today_searches": 2,
+      "today_cart_adds": 2,
       "today_smart_orders": 25,
-      "total_searches": 57,
-      "total_cart_adds": 124,
+      "total_searches": 58,
+      "total_cart_adds": 126,
       "total_smart_orders": 410,
       "total_days_used": 7,
       "pc_count": 1,
@@ -466,32 +466,17 @@
           "desk_name": "Berkay",
           "local_ip": "192.168.1.103",
           "app_version": "1.9.23",
-          "last_seen_at": "2026-11-25 16:34:56",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-25 16:37:28",
+          "last_action": "Sepete Ekle (SELCUK): ATOR 80 MG 30 FTB. x1",
           "today_date": "2026-11-25",
-          "today_searches": 1,
-          "today_cart_adds": 0,
+          "today_searches": 2,
+          "today_cart_adds": 2,
           "today_smart_orders": 25,
-          "total_searches": 57,
-          "total_cart_adds": 124,
+          "total_searches": 58,
+          "total_cart_adds": 126,
           "total_smart_orders": 410,
           "total_days_used": 7,
           "recent_actions": [
-            {
-              "t": "2026-11-25 16:05:45",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-25 16:06:04",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (30 Ürün)"
-            },
-            {
-              "t": "2026-11-25 16:06:04",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-25 16:06:09",
               "type": "mf_resolve",
@@ -551,6 +536,21 @@
               "t": "2026-11-25 16:34:56",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-25 16:34:57",
+              "type": "search",
+              "detail": "Depo Sorgu: ATOR 80 MG 30 FTB."
+            },
+            {
+              "t": "2026-11-25 16:35:03",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-25 16:35:03",
+              "type": "cart",
+              "detail": "Sepete Ekle (SELCUK): ATOR 80 MG 30 FTB. x1"
             }
           ]
         }
