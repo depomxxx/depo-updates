@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 16:33:46",
+  "updated_at": "2026-11-25 16:33:47",
   "count": 7,
   "items": [
     {
@@ -1652,8 +1652,8 @@
       "status": "AKTIF",
       "hwid": "47CB-2231-637D",
       "last_pc_name": "DESKTOP-F1KQPJ2",
-      "app_version": "1.9.22",
-      "last_seen_at": "2026-11-25 16:33:25",
+      "app_version": "1.9.23",
+      "last_seen_at": "2026-11-25 16:33:47",
       "last_action": "[DESKTOP-F1KQPJ2] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-25",
       "today_searches": 4,
@@ -1803,8 +1803,8 @@
           "pc_name": "DESKTOP-F1KQPJ2",
           "desk_name": "DESKTOP-F1KQPJ2",
           "local_ip": "192.168.1.28",
-          "app_version": "1.9.22",
-          "last_seen_at": "2026-11-25 16:33:25",
+          "app_version": "1.9.23",
+          "last_seen_at": "2026-11-25 16:33:47",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-25",
           "today_searches": 4,
