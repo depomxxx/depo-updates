@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 11:16:33",
+  "updated_at": "2026-11-25 11:16:38",
   "count": 7,
   "items": [
     {
@@ -801,17 +801,17 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "B446-9737-94C4",
-      "last_pc_name": "DESKTOP-5PFFU5S",
+      "hwid": "D719-CEB2-1542",
+      "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.9.20",
-      "last_seen_at": "2026-11-25 11:16:33",
-      "last_action": "[DESKTOP-5PFFU5S] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-25 11:16:38",
+      "last_action": "[DESKTOP-M530BBB] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-25",
       "today_searches": 16,
-      "today_cart_adds": 120,
+      "today_cart_adds": 121,
       "today_smart_orders": 40,
       "total_searches": 824,
-      "total_cart_adds": 1389,
+      "total_cart_adds": 1390,
       "total_smart_orders": 1772,
       "total_days_used": 19,
       "pc_count": 9,
@@ -1105,21 +1105,16 @@
           "local_ip": "192.168.1.124",
           "app_version": "1.9.20",
           "last_seen_at": "2026-11-25 11:16:33",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_action": "Sepete Ekle (SELCUK): DUXET 30 MG 28 KAPSUL x5",
           "today_date": "2026-11-25",
           "today_searches": 4,
-          "today_cart_adds": 103,
+          "today_cart_adds": 104,
           "today_smart_orders": 32,
           "total_searches": 105,
-          "total_cart_adds": 371,
+          "total_cart_adds": 372,
           "total_smart_orders": 156,
           "total_days_used": 10,
           "recent_actions": [
-            {
-              "t": "2026-11-25 11:12:46",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-25 11:12:49",
               "type": "cart",
@@ -1189,6 +1184,11 @@
               "t": "2026-11-25 11:16:33",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-25 11:16:33",
+              "type": "cart",
+              "detail": "Sepete Ekle (SELCUK): DUXET 30 MG 28 KAPSUL x5"
             }
           ]
         },
@@ -1386,7 +1386,7 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.100",
           "app_version": "1.9.20",
-          "last_seen_at": "2026-11-25 11:15:38",
+          "last_seen_at": "2026-11-25 11:16:38",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-25",
           "today_searches": 2,
