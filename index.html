@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Farma Radar — Eczane Akıllı Depo, MF & Otomasyon Sistemi (v1.9.20)</title>
+    <title>Farma Radar — Eczane Akıllı Depo, MF & Otomasyon Sistemi (v1.9.21)</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <style>
@@ -22,7 +22,7 @@
                 <div>
                     <div class="flex items-center gap-2">
                         <span class="text-lg font-black tracking-tight text-white">FARMA RADAR</span>
-                        <span id="liveVerBadge" class="text-[11px] font-extrabold px-2.5 py-0.5 rounded-full bg-emerald-500/20 text-emerald-300 border border-emerald-400/30">v1.9.20 CANLI</span>
+                        <span id="liveVerBadge" class="text-[11px] font-extrabold px-2.5 py-0.5 rounded-full bg-emerald-500/20 text-emerald-300 border border-emerald-400/30">v1.9.21 CANLI</span>
                     </div>
                     <p class="text-[11px] text-slate-400">Eczane Akıllı Depo, Canlı MF & Otomasyon Entegrasyon Sistemi</p>
                 </div>
@@ -104,8 +104,8 @@
                             <h3 class="text-lg font-black text-white mt-0.5">Farma Radar Kurumsal Paket</h3>
                         </div>
                         <div class="text-right text-xs font-mono text-slate-400">
-                            <div id="liveDate">2026-11-24 12:29:01</div>
-                            <div id="liveSize" class="text-emerald-400 font-bold">Güncelleme: 948.9 KB</div>
+                            <div id="liveDate">2026-11-25 15:56:30</div>
+                            <div id="liveSize" class="text-emerald-400 font-bold">Güncelleme: 953.5 KB</div>
                         </div>
                     </div>
 
@@ -130,15 +130,16 @@
 
                     <div id="guncelleme" class="bg-slate-950/90 border border-slate-800 rounded-2xl p-3.5 space-y-1.5">
                         <div class="text-[11px] font-extrabold text-cyan-300 uppercase tracking-wider flex items-center gap-1.5">
-                            <i class="fa-solid fa-sparkles"></i> Son Güncelleme Notları (v1.9.20)
+                            <i class="fa-solid fa-sparkles"></i> Son Güncelleme Notları (v1.9.21)
                         </div>
-                        <p id="liveChangelog" class="text-xs text-slate-300 whitespace-pre-line leading-relaxed">v1.9.20 — Masaüstü Kısayolu (OneDrive / Antivirüs) Otomatik Onarım Koruması:
-• OneDrive Masaüstü senkronizasyonu veya antivirüs kaynaklı boş TargetPath oluştuğunda masaüstü kısayolunun 'Bu Bilgisayar' açmasına yol açan durum giderildi.
-• Bozuk masaüstü kısayolları açılışta otomatik olarak runtime/pythonw.exe + launcher.py hedefine onarılır.</p>
+                        <p id="liveChangelog" class="text-xs text-slate-300 whitespace-pre-line leading-relaxed">v1.9.21 — TRIA Atıl Stok Gerçek Son Alış Fatura Maliyeti & Kesin Kategori Ayrımı:
+• TRIA Oracle için gerçek kategori ayrımı eklendi (TBL_MAL_GRUP + ATC/DSF/Kamu/Eşdeğer/TİTCK/KDV/ÜTS): 8699... barkodlu Bioderma, Roll Medikal, B-Good, Canped vb. ürünlerin İlaç sekmesine karışması tamamen giderildi.
+• TRIA son alış faturalarından (AAF/KAF/TGF) KDV dahil, tüm iskontolar ve MF düşülmüş gerçek birim alış maliyeti, son depo adı, son MF (örn. 5+1 MF) ve tarih bilgisi bağlandı.
+• Atıl Stok ekranındaki gerçek bağlı maliyet KPI'ları, son alışa göre kâr/zarar rozetleri ve 5'li kategori filtresi artık TRIA'da da Botanik ile birebir aynı hassasiyette çalışır.</p>
                     </div>
 
                     <div class="flex items-center justify-between gap-2 pt-1">
-                        <a id="liveDlBtn" href="https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.9.20.zip?t=1795512543" class="flex-1 text-center py-2.5 px-4 rounded-xl bg-slate-800 hover:bg-slate-700 text-cyan-300 font-bold text-xs border border-cyan-500/30 transition">
+                        <a id="liveDlBtn" href="https://raw.githubusercontent.com/depomxxx/depo-updates/main/update_v1.9.21.zip?t=1795611391" class="flex-1 text-center py-2.5 px-4 rounded-xl bg-slate-800 hover:bg-slate-700 text-cyan-300 font-bold text-xs border border-cyan-500/30 transition">
                             <i class="fa-solid fa-arrows-rotate mr-1"></i>Sadece Güncelleme Paketi (.zip)
                         </a>
                         <a href="version.json" target="_blank" class="py-2.5 px-3.5 rounded-xl bg-slate-900 hover:bg-slate-800 text-slate-400 font-mono text-xs border border-slate-800">
@@ -259,7 +260,7 @@
     </section>
 
     <footer class="border-t border-slate-900 py-6 px-4 text-center text-xs text-slate-500">
-        Farma Radar Kurumsal Eczane Depo & Otomasyon Sistemi • Canlı Güncelleme & Kurulum Portalı (v1.9.20)
+        Farma Radar Kurumsal Eczane Depo & Otomasyon Sistemi • Canlı Güncelleme & Kurulum Portalı (v1.9.21)
     </footer>
 
     <script>
