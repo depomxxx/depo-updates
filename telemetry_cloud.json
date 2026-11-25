@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 16:11:44",
+  "updated_at": "2026-11-25 16:11:46",
   "count": 7,
   "items": [
     {
@@ -801,18 +801,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D2E4-AA57-C021",
-      "last_pc_name": "DESKTOP-1N3LQF0",
+      "hwid": "B446-9737-94C4",
+      "last_pc_name": "DESKTOP-5PFFU5S",
       "app_version": "1.9.21",
-      "last_seen_at": "2026-11-25 16:11:15",
-      "last_action": "[DESKTOP-1N3LQF0] Canlı MF Sorgulama (30 Ürün)",
+      "last_seen_at": "2026-11-25 16:11:46",
+      "last_action": "[DESKTOP-5PFFU5S] Depo Sorgu: GANFORT %0.03+0.5 3 ML GOZ GTT",
       "today_date": "2026-11-25",
       "today_searches": 26,
       "today_cart_adds": 155,
-      "today_smart_orders": 104,
+      "today_smart_orders": 106,
       "total_searches": 834,
       "total_cart_adds": 1424,
-      "total_smart_orders": 1836,
+      "total_smart_orders": 1838,
       "total_days_used": 19,
       "pc_count": 9,
       "devices": {
@@ -1104,7 +1104,7 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.9.21",
-          "last_seen_at": "2026-11-25 16:10:15",
+          "last_seen_at": "2026-11-25 16:11:46",
           "last_action": "Depo Sorgu: GANFORT %0.03+0.5 3 ML GOZ GTT",
           "today_date": "2026-11-25",
           "today_searches": 6,
@@ -1480,27 +1480,17 @@
           "desk_name": "DESKTOP-1N3LQF0",
           "local_ip": "192.168.1.123",
           "app_version": "1.9.21",
-          "last_seen_at": "2026-11-25 16:11:15",
-          "last_action": "Canlı MF Sorgulama (30 Ürün)",
+          "last_seen_at": "2026-11-25 16:11:27",
+          "last_action": "Canlı MF Sorgulama (21 Ürün)",
           "today_date": "2026-11-25",
           "today_searches": 4,
           "today_cart_adds": 0,
-          "today_smart_orders": 7,
+          "today_smart_orders": 9,
           "total_searches": 92,
           "total_cart_adds": 48,
-          "total_smart_orders": 125,
+          "total_smart_orders": 127,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-24 17:58:58",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): DELTACORTRIL 5 MG 20 TB x25"
-            },
-            {
-              "t": "2026-11-24 17:59:56",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-24 17:59:59",
               "type": "cart",
@@ -1565,6 +1555,16 @@
               "t": "2026-11-25 16:11:15",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (30 Ürün)"
+            },
+            {
+              "t": "2026-11-25 16:11:15",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-25 16:11:27",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (21 Ürün)"
             }
           ]
         },
