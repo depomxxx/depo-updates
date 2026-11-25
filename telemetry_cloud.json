@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 16:34:06",
+  "updated_at": "2026-11-25 16:34:07",
   "count": 7,
   "items": [
     {
@@ -801,18 +801,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "5834-FAC9-B71F",
-      "last_pc_name": "DESKTOP-OTHNDUE",
+      "hwid": "D719-CEB2-1542",
+      "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.9.23",
-      "last_seen_at": "2026-11-25 16:34:06",
-      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-25 16:34:07",
+      "last_action": "[DESKTOP-M530BBB] Canlı MF Sorgulama (4 Ürün)",
       "today_date": "2026-11-25",
       "today_searches": 29,
       "today_cart_adds": 157,
-      "today_smart_orders": 129,
+      "today_smart_orders": 130,
       "total_searches": 837,
       "total_cart_adds": 1426,
-      "total_smart_orders": 1861,
+      "total_smart_orders": 1862,
       "total_days_used": 19,
       "pc_count": 9,
       "devices": {
@@ -1386,7 +1386,7 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.100",
           "app_version": "1.9.23",
-          "last_seen_at": "2026-11-25 16:33:53",
+          "last_seen_at": "2026-11-25 16:34:07",
           "last_action": "Canlı MF Sorgulama (4 Ürün)",
           "today_date": "2026-11-25",
           "today_searches": 5,
@@ -1480,22 +1480,17 @@
           "desk_name": "DESKTOP-1N3LQF0",
           "local_ip": "192.168.1.123",
           "app_version": "1.9.23",
-          "last_seen_at": "2026-11-25 16:33:53",
-          "last_action": "Canlı MF Taraması",
+          "last_seen_at": "2026-11-25 16:34:01",
+          "last_action": "Canlı MF Sorgulama (6 Ürün)",
           "today_date": "2026-11-25",
           "today_searches": 4,
           "today_cart_adds": 0,
-          "today_smart_orders": 18,
+          "today_smart_orders": 19,
           "total_searches": 92,
           "total_cart_adds": 48,
-          "total_smart_orders": 136,
+          "total_smart_orders": 137,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-25 16:10:22",
-              "type": "search",
-              "detail": "Depo Sorgu: GLARIN 100 IU 3 ML 5 PEN"
-            },
             {
               "t": "2026-11-25 16:10:54",
               "type": "mf_resolve",
@@ -1565,6 +1560,11 @@
               "t": "2026-11-25 16:33:53",
               "type": "mf_resolve",
               "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-25 16:34:01",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (6 Ürün)"
             }
           ]
         },
