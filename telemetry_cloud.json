@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 15:10:54",
+  "updated_at": "2026-11-25 15:11:02",
   "count": 7,
   "items": [
     {
@@ -1653,13 +1653,13 @@
       "hwid": "47CB-2231-637D",
       "last_pc_name": "DESKTOP-F1KQPJ2",
       "app_version": "1.9.20",
-      "last_seen_at": "2026-11-25 15:09:18",
-      "last_action": "[DESKTOP-F1KQPJ2] Depo Fiyat Sorgulama",
+      "last_seen_at": "2026-11-25 15:11:02",
+      "last_action": "[DESKTOP-F1KQPJ2] Depo Sorgu: B.T ENEMA 210 ML",
       "today_date": "2026-11-25",
-      "today_searches": 1,
+      "today_searches": 4,
       "today_cart_adds": 0,
       "today_smart_orders": 7,
-      "total_searches": 80,
+      "total_searches": 83,
       "total_cart_adds": 36,
       "total_days_used": 5,
       "total_smart_orders": 80,
@@ -1804,32 +1804,17 @@
           "desk_name": "DESKTOP-F1KQPJ2",
           "local_ip": "192.168.1.28",
           "app_version": "1.9.20",
-          "last_seen_at": "2026-11-25 15:09:18",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-25 15:11:02",
+          "last_action": "Depo Sorgu: B.T ENEMA 210 ML",
           "today_date": "2026-11-25",
-          "today_searches": 1,
+          "today_searches": 4,
           "today_cart_adds": 0,
           "today_smart_orders": 7,
-          "total_searches": 63,
+          "total_searches": 66,
           "total_cart_adds": 29,
           "total_smart_orders": 65,
           "total_days_used": 5,
           "recent_actions": [
-            {
-              "t": "2026-11-18 13:24:54",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-18 13:24:54",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-18 13:25:29",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (19 Ürün)"
-            },
             {
               "t": "2026-11-18 14:29:43",
               "type": "critical_stock",
@@ -1889,6 +1874,21 @@
               "t": "2026-11-25 15:09:18",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-25 15:09:20",
+              "type": "search",
+              "detail": "Depo Sorgu: B.T ENEMA 210 ML"
+            },
+            {
+              "t": "2026-11-25 15:09:20",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-25 15:09:21",
+              "type": "search",
+              "detail": "Depo Sorgu: B.T ENEMA 210 ML"
             }
           ]
         }
