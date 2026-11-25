@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 11:15:41",
+  "updated_at": "2026-11-25 11:16:10",
   "count": 7,
   "items": [
     {
@@ -796,22 +796,22 @@
       "pharmacist_name": "EDA BİLGİN",
       "phone": "05077034200",
       "city": "SAMSUN/İLKADIM",
-      "gln_no": "8680001112258",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "8FD3-5823-91F4",
-      "last_pc_name": "Eda-Bilgin",
+      "hwid": "B446-9737-94C4",
+      "last_pc_name": "DESKTOP-5PFFU5S",
       "app_version": "1.9.20",
-      "last_seen_at": "2026-11-25 11:15:41",
-      "last_action": "[DESKTOP-5PFFU5S] Sepete Ekle (SELCUK): HIPERSAR PLUS 40 MG/12.5 MG  x5",
+      "last_seen_at": "2026-11-25 11:16:10",
+      "last_action": "[DESKTOP-5PFFU5S] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-25",
       "today_searches": 14,
-      "today_cart_adds": 117,
+      "today_cart_adds": 118,
       "today_smart_orders": 39,
       "total_searches": 822,
-      "total_cart_adds": 1386,
+      "total_cart_adds": 1387,
       "total_smart_orders": 1771,
       "total_days_used": 19,
       "pc_count": 9,
@@ -1104,22 +1104,17 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.9.20",
-          "last_seen_at": "2026-11-25 11:15:39",
-          "last_action": "Sepete Ekle (SELCUK): HIPERSAR PLUS 40 MG/12.5 MG  x5",
+          "last_seen_at": "2026-11-25 11:16:10",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-25",
           "today_searches": 4,
-          "today_cart_adds": 100,
+          "today_cart_adds": 101,
           "today_smart_orders": 32,
           "total_searches": 105,
-          "total_cart_adds": 368,
+          "total_cart_adds": 369,
           "total_smart_orders": 156,
           "total_days_used": 10,
           "recent_actions": [
-            {
-              "t": "2026-11-25 11:12:23",
-              "type": "cart",
-              "detail": "Sepete Ekle (SELCUK): OTRIVINE 10 ML PED. DOZ AYAR x6"
-            },
             {
               "t": "2026-11-25 11:12:32",
               "type": "cart",
@@ -1189,6 +1184,11 @@
               "t": "2026-11-25 11:15:04",
               "type": "cart",
               "detail": "Sepete Ekle (SELCUK): HIPERSAR PLUS 40 MG/12.5 MG  x5"
+            },
+            {
+              "t": "2026-11-25 11:16:10",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
