@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 11:48:01",
+  "updated_at": "2026-11-25 11:48:32",
   "count": 7,
   "items": [
     {
@@ -801,18 +801,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "B446-9737-94C4",
-      "last_pc_name": "DESKTOP-5PFFU5S",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.20",
-      "last_seen_at": "2026-11-25 11:48:01",
-      "last_action": "[DESKTOP-5PFFU5S] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-25 11:48:32",
+      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları Yenileme (TRIA • 27 Kalem)",
       "today_date": "2026-11-25",
       "today_searches": 20,
       "today_cart_adds": 133,
-      "today_smart_orders": 50,
+      "today_smart_orders": 52,
       "total_searches": 828,
       "total_cart_adds": 1402,
-      "total_smart_orders": 1782,
+      "total_smart_orders": 1784,
       "total_days_used": 19,
       "pc_count": 9,
       "devices": {
@@ -916,27 +916,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.20",
-          "last_seen_at": "2026-11-25 11:47:01",
+          "last_seen_at": "2026-11-25 11:48:32",
           "last_action": "Günün Çıkışları Yenileme (TRIA • 27 Kalem)",
           "today_date": "2026-11-25",
           "today_searches": 14,
           "today_cart_adds": 20,
-          "today_smart_orders": 13,
+          "today_smart_orders": 15,
           "total_searches": 241,
           "total_cart_adds": 614,
-          "total_smart_orders": 907,
+          "total_smart_orders": 909,
           "total_days_used": 18,
           "recent_actions": [
-            {
-              "t": "2026-11-25 11:34:56",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-25 11:35:00",
-              "type": "search",
-              "detail": "Depo Sorgu: RILEPTID 1 MG 30 FTB."
-            },
             {
               "t": "2026-11-25 11:35:20",
               "type": "cart",
@@ -999,6 +989,16 @@
             },
             {
               "t": "2026-11-25 11:37:20",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 27 Kalem)"
+            },
+            {
+              "t": "2026-11-25 11:47:02",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-25 11:47:02",
               "type": "critical_stock",
               "detail": "Günün Çıkışları Yenileme (TRIA • 27 Kalem)"
             }
