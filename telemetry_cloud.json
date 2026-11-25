@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 17:43:41",
+  "updated_at": "2026-11-25 17:43:51",
   "count": 7,
   "items": [
     {
@@ -801,18 +801,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "B446-9737-94C4",
-      "last_pc_name": "DESKTOP-5PFFU5S",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.23",
-      "last_seen_at": "2026-11-25 17:43:19",
-      "last_action": "[DESKTOP-5PFFU5S] Depo Sorgu: GANFORT %0.03+0.5 3 ML GOZ GTT",
+      "last_seen_at": "2026-11-25 17:43:51",
+      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları Yenileme (TRIA • 72 Kalem)",
       "today_date": "2026-11-25",
       "today_searches": 31,
       "today_cart_adds": 159,
-      "today_smart_orders": 136,
+      "today_smart_orders": 137,
       "total_searches": 839,
       "total_cart_adds": 1428,
-      "total_smart_orders": 1868,
+      "total_smart_orders": 1869,
       "total_days_used": 19,
       "pc_count": 9,
       "devices": {
@@ -916,22 +916,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.23",
-          "last_seen_at": "2026-11-25 17:41:34",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-25 17:43:51",
+          "last_action": "Günün Çıkışları Yenileme (TRIA • 72 Kalem)",
           "today_date": "2026-11-25",
           "today_searches": 14,
           "today_cart_adds": 32,
-          "today_smart_orders": 41,
+          "today_smart_orders": 42,
           "total_searches": 241,
           "total_cart_adds": 626,
-          "total_smart_orders": 935,
+          "total_smart_orders": 936,
           "total_days_used": 18,
           "recent_actions": [
-            {
-              "t": "2026-11-25 14:41:51",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-25 14:41:51",
               "type": "critical_stock",
@@ -1001,6 +996,11 @@
               "t": "2026-11-25 17:41:34",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-25 17:41:34",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 72 Kalem)"
             }
           ]
         },
