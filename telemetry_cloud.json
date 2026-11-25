@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 10:41:52",
+  "updated_at": "2026-11-25 10:42:26",
   "count": 7,
   "items": [
     {
@@ -804,14 +804,14 @@
       "hwid": "D719-CEB2-1542",
       "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.9.20",
-      "last_seen_at": "2026-11-25 10:41:52",
-      "last_action": "[DESKTOP-M530BBB] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-25 10:42:26",
+      "last_action": "[DESKTOP-M530BBB] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-25",
-      "today_searches": 8,
-      "today_cart_adds": 12,
+      "today_searches": 10,
+      "today_cart_adds": 13,
       "today_smart_orders": 6,
-      "total_searches": 816,
-      "total_cart_adds": 1281,
+      "total_searches": 818,
+      "total_cart_adds": 1282,
       "total_smart_orders": 1738,
       "total_days_used": 19,
       "pc_count": 9,
@@ -1386,32 +1386,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.100",
           "app_version": "1.9.20",
-          "last_seen_at": "2026-11-25 10:41:52",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-25 10:42:26",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-25",
-          "today_searches": 0,
-          "today_cart_adds": 0,
+          "today_searches": 2,
+          "today_cart_adds": 1,
           "today_smart_orders": 1,
-          "total_searches": 163,
-          "total_cart_adds": 129,
+          "total_searches": 165,
+          "total_cart_adds": 130,
           "total_smart_orders": 184,
           "total_days_used": 19,
           "recent_actions": [
-            {
-              "t": "2026-11-24 14:10:54",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (30 Ürün)"
-            },
-            {
-              "t": "2026-11-24 14:10:55",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-24 14:11:11",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (25 Ürün)"
-            },
             {
               "t": "2026-11-24 14:36:27",
               "type": "search",
@@ -1471,6 +1456,21 @@
               "t": "2026-11-25 08:35:43",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-25 10:41:59",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-25 10:42:10",
+              "type": "search",
+              "detail": "Depo Sorgu: SANDOSTATIN LAR 30 MG 1 FLK."
+            },
+            {
+              "t": "2026-11-25 10:42:26",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
