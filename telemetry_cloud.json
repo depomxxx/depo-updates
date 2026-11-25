@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 14:42:57",
+  "updated_at": "2026-11-25 14:43:36",
   "count": 7,
   "items": [
     {
@@ -16,15 +16,15 @@
       "hwid": "E4F7-229A-BABD",
       "last_pc_name": "ChagriBeg",
       "app_version": "1.9.20",
-      "last_seen_at": "2026-11-25 14:42:08",
-      "last_action": "[ChagriBeg] Canlı MF Sorgulama (30 Ürün)",
+      "last_seen_at": "2026-11-25 14:43:36",
+      "last_action": "[ChagriBeg] Canlı MF Sorgulama (8 Ürün)",
       "today_date": "2026-11-25",
       "today_searches": 0,
       "today_cart_adds": 0,
-      "today_smart_orders": 3,
+      "today_smart_orders": 5,
       "total_searches": 373,
       "total_cart_adds": 805,
-      "total_smart_orders": 1427,
+      "total_smart_orders": 1429,
       "total_days_used": 17,
       "pc_count": 3,
       "devices": {
@@ -222,27 +222,17 @@
           "desk_name": "ChagriBeg",
           "local_ip": "192.168.1.11",
           "app_version": "1.9.20",
-          "last_seen_at": "2026-11-25 14:42:08",
-          "last_action": "Canlı MF Sorgulama (30 Ürün)",
+          "last_seen_at": "2026-11-25 14:43:36",
+          "last_action": "Canlı MF Sorgulama (8 Ürün)",
           "today_date": "2026-11-25",
           "today_searches": 0,
           "today_cart_adds": 0,
-          "today_smart_orders": 3,
+          "today_smart_orders": 5,
           "total_searches": 108,
           "total_cart_adds": 114,
-          "total_smart_orders": 347,
+          "total_smart_orders": 349,
           "total_days_used": 16,
           "recent_actions": [
-            {
-              "t": "2026-11-20 13:59:07",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-20 13:59:29",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (27 Ürün)"
-            },
             {
               "t": "2026-11-24 15:24:33",
               "type": "critical_stock",
@@ -307,6 +297,16 @@
               "t": "2026-11-25 14:42:08",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (30 Ürün)"
+            },
+            {
+              "t": "2026-11-25 14:42:08",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-25 14:42:13",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (8 Ürün)"
             }
           ]
         }
