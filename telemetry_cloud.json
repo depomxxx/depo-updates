@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 11:03:02",
+  "updated_at": "2026-11-25 11:03:09",
   "count": 7,
   "items": [
     {
@@ -801,17 +801,17 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "5834-FAC9-B71F",
-      "last_pc_name": "DESKTOP-OTHNDUE",
+      "hwid": "D719-CEB2-1542",
+      "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.9.20",
-      "last_seen_at": "2026-11-25 11:03:04",
-      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları Yenileme (TRIA • 11 Kalem)",
+      "last_seen_at": "2026-11-25 11:03:09",
+      "last_action": "[DESKTOP-M530BBB] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-25",
       "today_searches": 12,
-      "today_cart_adds": 66,
+      "today_cart_adds": 68,
       "today_smart_orders": 34,
       "total_searches": 820,
-      "total_cart_adds": 1335,
+      "total_cart_adds": 1337,
       "total_smart_orders": 1766,
       "total_days_used": 19,
       "pc_count": 9,
@@ -1104,22 +1104,17 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.9.20",
-          "last_seen_at": "2026-11-25 11:03:02",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-25 11:03:05",
+          "last_action": "Sepete Ekle (SELCUK): HYONAT %0.15 TEK DOZLUK GOZ  x5",
           "today_date": "2026-11-25",
           "today_searches": 2,
-          "today_cart_adds": 49,
+          "today_cart_adds": 51,
           "today_smart_orders": 28,
           "total_searches": 103,
-          "total_cart_adds": 317,
+          "total_cart_adds": 319,
           "total_smart_orders": 152,
           "total_days_used": 10,
           "recent_actions": [
-            {
-              "t": "2026-11-25 10:59:13",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-25 10:59:32",
               "type": "mf_resolve",
@@ -1189,6 +1184,11 @@
               "t": "2026-11-25 11:03:02",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-25 11:03:05",
+              "type": "cart",
+              "detail": "Sepete Ekle (SELCUK): HYONAT %0.15 TEK DOZLUK GOZ  x5"
             }
           ]
         },
@@ -1386,7 +1386,7 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.100",
           "app_version": "1.9.20",
-          "last_seen_at": "2026-11-25 11:02:38",
+          "last_seen_at": "2026-11-25 11:03:09",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-25",
           "today_searches": 2,
