@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 16:33:43",
+  "updated_at": "2026-11-25 16:33:46",
   "count": 7,
   "items": [
     {
@@ -804,15 +804,15 @@
       "hwid": "D2E4-AA57-C021",
       "last_pc_name": "DESKTOP-1N3LQF0",
       "app_version": "1.9.23",
-      "last_seen_at": "2026-11-25 16:33:38",
-      "last_action": "[DESKTOP-1N3LQF0] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-25 16:33:46",
+      "last_action": "[DESKTOP-1N3LQF0] Canlı MF Sorgulama (6 Ürün)",
       "today_date": "2026-11-25",
       "today_searches": 29,
       "today_cart_adds": 157,
-      "today_smart_orders": 124,
+      "today_smart_orders": 126,
       "total_searches": 837,
       "total_cart_adds": 1426,
-      "total_smart_orders": 1856,
+      "total_smart_orders": 1858,
       "total_days_used": 19,
       "pc_count": 9,
       "devices": {
@@ -1386,7 +1386,7 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.100",
           "app_version": "1.9.22",
-          "last_seen_at": "2026-11-25 16:33:28",
+          "last_seen_at": "2026-11-25 16:33:44",
           "last_action": "Canlı MF Sorgulama (4 Ürün)",
           "today_date": "2026-11-25",
           "today_searches": 5,
@@ -1480,27 +1480,17 @@
           "desk_name": "DESKTOP-1N3LQF0",
           "local_ip": "192.168.1.123",
           "app_version": "1.9.23",
-          "last_seen_at": "2026-11-25 16:33:38",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-25 16:33:46",
+          "last_action": "Canlı MF Sorgulama (6 Ürün)",
           "today_date": "2026-11-25",
           "today_searches": 4,
           "today_cart_adds": 0,
-          "today_smart_orders": 14,
+          "today_smart_orders": 16,
           "total_searches": 92,
           "total_cart_adds": 48,
-          "total_smart_orders": 132,
+          "total_smart_orders": 134,
           "total_days_used": 13,
           "recent_actions": [
-            {
-              "t": "2026-11-25 16:10:04",
-              "type": "search",
-              "detail": "Depo Sorgu: GLARIN 100 IU 3 ML 5 PEN"
-            },
-            {
-              "t": "2026-11-25 16:10:12",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-25 16:10:13",
               "type": "mf_resolve",
@@ -1565,6 +1555,16 @@
               "t": "2026-11-25 16:33:38",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-25 16:33:38",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-25 16:33:42",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (6 Ürün)"
             }
           ]
         },
