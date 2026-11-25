@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 16:33:40",
+  "updated_at": "2026-11-25 16:31:25",
   "count": 7,
   "items": [
     {
@@ -326,15 +326,15 @@
       "hwid": "3FB2-2E58-20EC",
       "last_pc_name": "LAPTOP-NTJEFOD2",
       "app_version": "1.9.22",
-      "last_seen_at": "2026-11-25 16:31:05",
-      "last_action": "Günün Çıkışları Yenileme (TEBEOS • 36 Kalem)",
+      "last_seen_at": "2026-11-25 16:31:25",
+      "last_action": "Canlı MF Taraması",
       "today_date": "2026-11-25",
       "today_searches": 0,
       "today_cart_adds": 4,
-      "today_smart_orders": 12,
+      "today_smart_orders": 14,
       "total_searches": 48,
       "total_cart_adds": 39,
-      "total_smart_orders": 164,
+      "total_smart_orders": 166,
       "total_days_used": 4,
       "pc_count": 1,
       "devices": {
@@ -344,27 +344,17 @@
           "desk_name": "LAPTOP-NTJEFOD2",
           "local_ip": "192.168.1.53",
           "app_version": "1.9.22",
-          "last_seen_at": "2026-11-25 16:31:05",
-          "last_action": "Günün Çıkışları Yenileme (TEBEOS • 36 Kalem)",
+          "last_seen_at": "2026-11-25 16:31:25",
+          "last_action": "Canlı MF Taraması",
           "today_date": "2026-11-25",
           "today_searches": 0,
           "today_cart_adds": 4,
-          "today_smart_orders": 12,
+          "today_smart_orders": 14,
           "total_searches": 48,
           "total_cart_adds": 39,
-          "total_smart_orders": 164,
+          "total_smart_orders": 166,
           "total_days_used": 4,
           "recent_actions": [
-            {
-              "t": "2026-11-25 14:36:02",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-25 14:36:03",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-25 14:36:21",
               "type": "mf_resolve",
@@ -429,6 +419,16 @@
               "t": "2026-11-25 14:56:02",
               "type": "critical_stock",
               "detail": "Günün Çıkışları Yenileme (TEBEOS • 36 Kalem)"
+            },
+            {
+              "t": "2026-11-25 16:31:14",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-25 16:31:25",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
             }
           ]
         }
