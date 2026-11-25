@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 11:13:05",
+  "updated_at": "2026-11-25 11:13:35",
   "count": 7,
   "items": [
     {
@@ -804,14 +804,14 @@
       "hwid": "B446-9737-94C4",
       "last_pc_name": "DESKTOP-5PFFU5S",
       "app_version": "1.9.20",
-      "last_seen_at": "2026-11-25 11:13:05",
+      "last_seen_at": "2026-11-25 11:13:35",
       "last_action": "[DESKTOP-5PFFU5S] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-25",
-      "today_searches": 13,
-      "today_cart_adds": 108,
+      "today_searches": 14,
+      "today_cart_adds": 110,
       "today_smart_orders": 38,
-      "total_searches": 821,
-      "total_cart_adds": 1377,
+      "total_searches": 822,
+      "total_cart_adds": 1379,
       "total_smart_orders": 1770,
       "total_days_used": 19,
       "pc_count": 9,
@@ -1104,27 +1104,17 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.9.20",
-          "last_seen_at": "2026-11-25 11:13:05",
+          "last_seen_at": "2026-11-25 11:13:35",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-25",
-          "today_searches": 3,
-          "today_cart_adds": 91,
+          "today_searches": 4,
+          "today_cart_adds": 93,
           "today_smart_orders": 32,
-          "total_searches": 104,
-          "total_cart_adds": 359,
+          "total_searches": 105,
+          "total_cart_adds": 361,
           "total_smart_orders": 156,
           "total_days_used": 10,
           "recent_actions": [
-            {
-              "t": "2026-11-25 11:11:28",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): CARDURA 4 MG 20 TABLET x2"
-            },
-            {
-              "t": "2026-11-25 11:11:44",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-25 11:11:47",
               "type": "cart",
@@ -1187,6 +1177,16 @@
             },
             {
               "t": "2026-11-25 11:13:05",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-25 11:13:05",
+              "type": "search",
+              "detail": "Depo Sorgu: MICTONORM SR 30 MG 30 CAP."
+            },
+            {
+              "t": "2026-11-25 11:13:08",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
