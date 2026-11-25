@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 09:56:57",
+  "updated_at": "2026-11-25 09:57:23",
   "count": 7,
   "items": [
     {
@@ -804,14 +804,14 @@
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.20",
-      "last_seen_at": "2026-11-25 09:56:57",
+      "last_seen_at": "2026-11-25 09:57:23",
       "last_action": "[DESKTOP-OTHNDUE] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-25",
       "today_searches": 8,
-      "today_cart_adds": 7,
+      "today_cart_adds": 9,
       "today_smart_orders": 4,
       "total_searches": 816,
-      "total_cart_adds": 1276,
+      "total_cart_adds": 1278,
       "total_smart_orders": 1736,
       "total_days_used": 19,
       "pc_count": 9,
@@ -916,22 +916,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.20",
-          "last_seen_at": "2026-11-25 09:56:57",
+          "last_seen_at": "2026-11-25 09:57:23",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-25",
           "today_searches": 8,
-          "today_cart_adds": 7,
+          "today_cart_adds": 9,
           "today_smart_orders": 3,
           "total_searches": 235,
-          "total_cart_adds": 601,
+          "total_cart_adds": 603,
           "total_smart_orders": 897,
           "total_days_used": 18,
           "recent_actions": [
-            {
-              "t": "2026-11-25 09:53:06",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-25 09:53:06",
               "type": "critical_stock",
@@ -999,6 +994,11 @@
             },
             {
               "t": "2026-11-25 09:56:57",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-25 09:57:23",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
