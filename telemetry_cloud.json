@@ -796,23 +796,23 @@
       "pharmacist_name": "EDA BİLGİN",
       "phone": "05077034200",
       "city": "SAMSUN/İLKADIM",
-      "gln_no": "8680001000000",
+      "gln_no": "8680001112258",
       "otomasyon": "TRIA",
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "5834-FAC9-B71F",
-      "last_pc_name": "DESKTOP-OTHNDUE",
+      "hwid": "8FD3-5823-91F4",
+      "last_pc_name": "Eda-Bilgin",
       "app_version": "1.9.20",
       "last_seen_at": "2026-11-25 15:10:07",
       "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları Yenileme (TRIA • 40 Kalem)",
       "today_date": "2026-11-25",
       "today_searches": 20,
-      "today_cart_adds": 150,
-      "today_smart_orders": 88,
+      "today_cart_adds": 151,
+      "today_smart_orders": 90,
       "total_searches": 828,
-      "total_cart_adds": 1419,
-      "total_smart_orders": 1820,
+      "total_cart_adds": 1420,
+      "total_smart_orders": 1822,
       "total_days_used": 19,
       "pc_count": 9,
       "devices": {
@@ -1010,7 +1010,7 @@
           "desk_name": "Eda-Bilgin",
           "local_ip": "192.168.1.120",
           "app_version": "1.9.20",
-          "last_seen_at": "2026-11-25 15:08:36",
+          "last_seen_at": "2026-11-25 15:10:07",
           "last_action": "Program Açık (Canlı)",
           "today_date": "2026-11-25",
           "today_searches": 0,
@@ -1104,32 +1104,17 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.9.20",
-          "last_seen_at": "2026-11-25 15:09:53",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-25 15:10:05",
+          "last_action": "Canlı MF Sorgulama (1 Ürün)",
           "today_date": "2026-11-25",
           "today_searches": 4,
-          "today_cart_adds": 113,
-          "today_smart_orders": 54,
+          "today_cart_adds": 114,
+          "today_smart_orders": 56,
           "total_searches": 105,
-          "total_cart_adds": 381,
-          "total_smart_orders": 178,
+          "total_cart_adds": 382,
+          "total_smart_orders": 180,
           "total_days_used": 10,
           "recent_actions": [
-            {
-              "t": "2026-11-25 14:25:54",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-25 14:25:55",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (2 Ürün)"
-            },
-            {
-              "t": "2026-11-25 15:08:22",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş Planlama"
-            },
             {
               "t": "2026-11-25 15:08:23",
               "type": "smart_order",
@@ -1189,6 +1174,21 @@
               "t": "2026-11-25 15:09:53",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-25 15:09:54",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): TOREDA SR 4 MG 28 KAPSUL x3"
+            },
+            {
+              "t": "2026-11-25 15:10:02",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-25 15:10:02",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (1 Ürün)"
             }
           ]
         },
