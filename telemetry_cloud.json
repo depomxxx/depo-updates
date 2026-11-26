@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 15:16:04",
+  "updated_at": "2026-11-26 15:16:22",
   "count": 7,
   "items": [
     {
@@ -801,18 +801,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D719-CEB2-1542",
-      "last_pc_name": "DESKTOP-M530BBB",
+      "hwid": "B446-9737-94C4",
+      "last_pc_name": "DESKTOP-5PFFU5S",
       "app_version": "1.9.23",
-      "last_seen_at": "2026-11-26 15:16:04",
-      "last_action": "[DESKTOP-M530BBB] Depo Sorgu: FOREVER GARCINIA PLUS",
+      "last_seen_at": "2026-11-26 15:16:24",
+      "last_action": "[DESKTOP-5PFFU5S] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-26",
-      "today_searches": 16,
+      "today_searches": 18,
       "today_cart_adds": 52,
-      "today_smart_orders": 69,
-      "total_searches": 855,
+      "today_smart_orders": 71,
+      "total_searches": 857,
       "total_cart_adds": 1480,
-      "total_smart_orders": 1938,
+      "total_smart_orders": 1940,
       "total_days_used": 20,
       "pc_count": 9,
       "devices": {
@@ -1104,7 +1104,7 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.9.23",
-          "last_seen_at": "2026-11-26 15:16:00",
+          "last_seen_at": "2026-11-26 15:16:24",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-26",
           "today_searches": 2,
@@ -1386,37 +1386,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.106",
           "app_version": "1.9.23",
-          "last_seen_at": "2026-11-26 15:16:04",
-          "last_action": "Depo Sorgu: FOREVER GARCINIA PLUS",
+          "last_seen_at": "2026-11-26 15:16:22",
+          "last_action": "Depo Sorgu: RUDISTA 85/500 MG 6 TB.",
           "today_date": "2026-11-26",
-          "today_searches": 6,
+          "today_searches": 8,
           "today_cart_adds": 0,
-          "today_smart_orders": 7,
-          "total_searches": 176,
+          "today_smart_orders": 9,
+          "total_searches": 178,
           "total_cart_adds": 138,
-          "total_smart_orders": 206,
+          "total_smart_orders": 208,
           "total_days_used": 20,
           "recent_actions": [
-            {
-              "t": "2026-11-25 17:02:25",
-              "type": "search",
-              "detail": "Depo Sorgu: VASOSERC 16 MG 30 TB."
-            },
-            {
-              "t": "2026-11-25 17:02:35",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-26 08:52:17",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-26 09:30:42",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-26 09:30:53",
               "type": "search",
@@ -1471,6 +1451,26 @@
               "t": "2026-11-26 11:21:05",
               "type": "search",
               "detail": "Depo Sorgu: FOREVER GARCINIA PLUS"
+            },
+            {
+              "t": "2026-11-26 15:16:09",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-26 15:16:09",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-26 15:16:10",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-26 15:16:22",
+              "type": "search",
+              "detail": "Depo Sorgu: RUDISTA 85/500 MG 6 TB."
             }
           ]
         },
