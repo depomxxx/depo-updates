@@ -813,10 +813,10 @@
       "today_date": "2026-11-26",
       "today_searches": 26,
       "today_cart_adds": 101,
-      "today_smart_orders": 118,
+      "today_smart_orders": 119,
       "total_searches": 865,
       "total_cart_adds": 1529,
-      "total_smart_orders": 1987,
+      "total_smart_orders": 1988,
       "total_days_used": 20,
       "pc_count": 9,
       "devices": {
@@ -920,22 +920,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.24",
-          "last_seen_at": "2026-11-26 18:23:04",
-          "last_action": "Günün Çıkışları Yenileme (TRIA • 62 Kalem)",
+          "last_seen_at": "2026-11-26 18:24:16",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-26",
           "today_searches": 12,
           "today_cart_adds": 35,
-          "today_smart_orders": 64,
+          "today_smart_orders": 65,
           "total_searches": 253,
           "total_cart_adds": 661,
-          "total_smart_orders": 1000,
+          "total_smart_orders": 1001,
           "total_days_used": 19,
           "recent_actions": [
-            {
-              "t": "2026-11-26 16:26:18",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 54 Kalem)"
-            },
             {
               "t": "2026-11-26 16:26:35",
               "type": "cart",
@@ -1005,6 +1000,11 @@
               "t": "2026-11-26 17:53:24",
               "type": "critical_stock",
               "detail": "Günün Çıkışları Yenileme (TRIA • 62 Kalem)"
+            },
+            {
+              "t": "2026-11-26 18:24:16",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ],
           "health": {}
