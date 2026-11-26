@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 18:08:00",
+  "updated_at": "2026-11-26 18:08:24",
   "count": 7,
   "items": [
     {
@@ -805,11 +805,11 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "5834-FAC9-B71F",
-      "last_pc_name": "DESKTOP-OTHNDUE",
+      "hwid": "B446-9737-94C4",
+      "last_pc_name": "DESKTOP-5PFFU5S",
       "app_version": "1.9.24",
-      "last_seen_at": "2026-11-26 18:08:00",
-      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları Yenileme (TRIA • 62 Kalem)",
+      "last_seen_at": "2026-11-26 18:08:24",
+      "last_action": "[DESKTOP-5PFFU5S] Sepete Ekle (ALLIANCE): OTRIVINE MENTOL %O.1 10 ML D x30",
       "today_date": "2026-11-26",
       "today_searches": 26,
       "today_cart_adds": 101,
@@ -1109,7 +1109,7 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.9.24",
-          "last_seen_at": "2026-11-26 18:07:24",
+          "last_seen_at": "2026-11-26 18:08:24",
           "last_action": "Sepete Ekle (ALLIANCE): OTRIVINE MENTOL %O.1 10 ML D x30",
           "today_date": "2026-11-26",
           "today_searches": 2,
