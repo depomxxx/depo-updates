@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 16:17:40",
+  "updated_at": "2026-11-26 16:17:54",
   "count": 7,
   "items": [
     {
@@ -1914,16 +1914,16 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.9.24",
-      "last_seen_at": "2026-11-26 16:19:19",
+      "last_seen_at": "2026-11-26 16:20:04",
       "last_action": "[DESKTOP-T4EAUS3] Canlı MF Sorgulama (30 Ürün)",
       "today_date": "2026-11-26",
       "today_searches": 10,
       "today_cart_adds": 30,
-      "today_smart_orders": 36,
+      "today_smart_orders": 38,
       "total_searches": 257,
       "total_cart_adds": 873,
       "total_days_used": 18,
-      "total_smart_orders": 693,
+      "total_smart_orders": 695,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -2006,7 +2006,7 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.9.24",
-          "last_seen_at": "2026-11-26 16:19:19",
+          "last_seen_at": "2026-11-26 16:20:04",
           "last_action": "Canlı MF Sorgulama (30 Ürün)",
           "today_date": "2026-11-26",
           "today_searches": 8,
@@ -2101,27 +2101,17 @@
           "desk_name": "Cicobey",
           "local_ip": "192.168.1.42",
           "app_version": "1.5.9",
-          "last_seen_at": "2026-11-26 16:17:24",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-26 16:17:54",
+          "last_action": "Canlı MF Sorgulama (29 Ürün)",
           "today_date": "2026-11-26",
           "today_searches": 2,
           "today_cart_adds": 0,
-          "today_smart_orders": 8,
+          "today_smart_orders": 10,
           "total_searches": 66,
           "total_cart_adds": 118,
-          "total_smart_orders": 187,
+          "total_smart_orders": 189,
           "total_days_used": 16,
           "recent_actions": [
-            {
-              "t": "2026-11-19 17:23:26",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-19 17:24:19",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-19 17:24:24",
               "type": "search",
@@ -2186,6 +2176,16 @@
               "t": "2026-11-26 16:17:24",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-26 16:17:24",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-26 16:17:54",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (29 Ürün)"
             }
           ],
           "health": {
