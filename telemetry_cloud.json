@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 13:14:39",
+  "updated_at": "2026-11-26 13:12:26",
   "count": 7,
   "items": [
     {
@@ -801,18 +801,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D719-CEB2-1542",
-      "last_pc_name": "DESKTOP-M530BBB",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.23",
-      "last_seen_at": "2026-11-26 13:11:55",
-      "last_action": "[DESKTOP-M530BBB] Depo Sorgu: FOREVER GARCINIA PLUS",
+      "last_seen_at": "2026-11-26 13:12:26",
+      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-26",
       "today_searches": 12,
       "today_cart_adds": 10,
-      "today_smart_orders": 36,
+      "today_smart_orders": 37,
       "total_searches": 851,
       "total_cart_adds": 1438,
-      "total_smart_orders": 1905,
+      "total_smart_orders": 1906,
       "total_days_used": 20,
       "pc_count": 9,
       "devices": {
@@ -916,22 +916,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.23",
-          "last_seen_at": "2026-11-26 13:11:05",
-          "last_action": "Günün Çıkışları Yenileme (TRIA • 27 Kalem)",
+          "last_seen_at": "2026-11-26 13:12:26",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-26",
           "today_searches": 6,
           "today_cart_adds": 10,
-          "today_smart_orders": 29,
+          "today_smart_orders": 30,
           "total_searches": 247,
           "total_cart_adds": 636,
-          "total_smart_orders": 965,
+          "total_smart_orders": 966,
           "total_days_used": 19,
           "recent_actions": [
-            {
-              "t": "2026-11-26 10:16:04",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-26 10:16:24",
               "type": "cart",
@@ -1001,6 +996,11 @@
               "t": "2026-11-26 12:39:50",
               "type": "critical_stock",
               "detail": "Günün Çıkışları Yenileme (TRIA • 27 Kalem)"
+            },
+            {
+              "t": "2026-11-26 13:12:26",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ]
         },
