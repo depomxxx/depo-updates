@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 10:09:18",
+  "updated_at": "2026-11-26 10:09:38",
   "count": 7,
   "items": [
     {
@@ -804,14 +804,14 @@
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.23",
-      "last_seen_at": "2026-11-26 10:09:18",
-      "last_action": "[DESKTOP-OTHNDUE] Depo Fiyat Sorgulama",
+      "last_seen_at": "2026-11-26 10:09:38",
+      "last_action": "[DESKTOP-OTHNDUE] Depo Sorgu: SELECTRA 50 MG 28 FTB",
       "today_date": "2026-11-26",
-      "today_searches": 5,
-      "today_cart_adds": 0,
+      "today_searches": 8,
+      "today_cart_adds": 2,
       "today_smart_orders": 10,
-      "total_searches": 844,
-      "total_cart_adds": 1428,
+      "total_searches": 847,
+      "total_cart_adds": 1430,
       "total_smart_orders": 1879,
       "total_days_used": 20,
       "pc_count": 9,
@@ -916,42 +916,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.23",
-          "last_seen_at": "2026-11-26 10:09:18",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-26 10:09:38",
+          "last_action": "Depo Sorgu: SELECTRA 50 MG 28 FTB",
           "today_date": "2026-11-26",
-          "today_searches": 1,
-          "today_cart_adds": 0,
+          "today_searches": 4,
+          "today_cart_adds": 2,
           "today_smart_orders": 3,
-          "total_searches": 242,
-          "total_cart_adds": 626,
+          "total_searches": 245,
+          "total_cart_adds": 628,
           "total_smart_orders": 939,
           "total_days_used": 19,
           "recent_actions": [
-            {
-              "t": "2026-11-25 14:49:42",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 38 Kalem)"
-            },
-            {
-              "t": "2026-11-25 14:52:41",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-25 14:52:41",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 40 Kalem)"
-            },
-            {
-              "t": "2026-11-25 15:46:52",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-25 15:46:52",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 51 Kalem)"
-            },
             {
               "t": "2026-11-25 15:56:58",
               "type": "critical_stock",
@@ -1001,6 +976,31 @@
               "t": "2026-11-26 10:09:18",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-26 10:09:21",
+              "type": "search",
+              "detail": "Depo Sorgu: COLEDAN D3 150.000 IU 10 ML GT"
+            },
+            {
+              "t": "2026-11-26 10:09:28",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-26 10:09:31",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): COLEDAN-D3 10ML ORAL DAMLA x10"
+            },
+            {
+              "t": "2026-11-26 10:09:36",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-26 10:09:38",
+              "type": "search",
+              "detail": "Depo Sorgu: SELECTRA 50 MG 28 FTB"
             }
           ]
         },
