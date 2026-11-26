@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 16:01:17",
+  "updated_at": "2026-11-26 16:03:01",
   "count": 7,
   "items": [
     {
@@ -1913,16 +1913,16 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.9.24",
-      "last_seen_at": "2026-11-26 16:02:39",
-      "last_action": "[DESKTOP-T4EAUS3] Canlı MF Taraması",
+      "last_seen_at": "2026-11-26 16:03:01",
+      "last_action": "[DESKTOP-T4EAUS3] Canlı MF Sorgulama (30 Ürün)",
       "today_date": "2026-11-26",
       "today_searches": 10,
       "today_cart_adds": 30,
-      "today_smart_orders": 32,
+      "today_smart_orders": 33,
       "total_searches": 257,
       "total_cart_adds": 873,
       "total_days_used": 18,
-      "total_smart_orders": 689,
+      "total_smart_orders": 690,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -2005,22 +2005,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.9.24",
-          "last_seen_at": "2026-11-26 16:02:39",
-          "last_action": "Canlı MF Taraması",
+          "last_seen_at": "2026-11-26 16:03:01",
+          "last_action": "Canlı MF Sorgulama (30 Ürün)",
           "today_date": "2026-11-26",
           "today_searches": 8,
           "today_cart_adds": 30,
-          "today_smart_orders": 25,
+          "today_smart_orders": 26,
           "total_searches": 157,
           "total_cart_adds": 559,
-          "total_smart_orders": 491,
+          "total_smart_orders": 492,
           "total_days_used": 18,
           "recent_actions": [
-            {
-              "t": "2026-11-26 14:07:15",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-26 14:15:59",
               "type": "search",
@@ -2090,6 +2085,11 @@
               "t": "2026-11-26 16:02:12",
               "type": "mf_resolve",
               "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-26 16:03:01",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (30 Ürün)"
             }
           ],
           "health": {}
