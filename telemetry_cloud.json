@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 16:00:32",
+  "updated_at": "2026-11-26 16:01:17",
   "count": 7,
   "items": [
     {
@@ -570,16 +570,16 @@
       "hwid": "F602-A07E-E462",
       "last_pc_name": "elçin",
       "app_version": "1.9.24",
-      "last_seen_at": "2026-11-26 16:00:47",
-      "last_action": "[elçin] Depo Sorgu: NOVAQUA TEK DOZ 30 FLK.",
+      "last_seen_at": "2026-11-26 16:01:17",
+      "last_action": "[elçin] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-26",
       "today_searches": 15,
       "today_cart_adds": 20,
-      "today_smart_orders": 1934,
+      "today_smart_orders": 1935,
       "total_searches": 364,
       "total_cart_adds": 803,
       "total_days_used": 17,
-      "total_smart_orders": 2335,
+      "total_smart_orders": 2336,
       "pc_count": 3,
       "devices": {
         "2781-74E7-11C9": {
@@ -606,22 +606,17 @@
           "desk_name": "elçin",
           "local_ip": "192.168.1.51",
           "app_version": "1.9.24",
-          "last_seen_at": "2026-11-26 16:00:47",
-          "last_action": "Depo Sorgu: NOVAQUA TEK DOZ 30 FLK.",
+          "last_seen_at": "2026-11-26 16:01:17",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-26",
           "today_searches": 13,
           "today_cart_adds": 16,
-          "today_smart_orders": 1925,
+          "today_smart_orders": 1926,
           "total_searches": 13,
           "total_cart_adds": 16,
-          "total_smart_orders": 1884,
+          "total_smart_orders": 1885,
           "total_days_used": 1,
           "recent_actions": [
-            {
-              "t": "2026-11-26 14:32:49",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-26 14:32:50",
               "type": "critical_stock",
@@ -691,6 +686,11 @@
               "t": "2026-11-26 15:07:05",
               "type": "search",
               "detail": "Depo Sorgu: NOVAQUA TEK DOZ 30 FLK."
+            },
+            {
+              "t": "2026-11-26 16:01:17",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ],
           "health": {}
