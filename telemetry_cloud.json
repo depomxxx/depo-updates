@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 16:02:03",
+  "updated_at": "2026-11-26 16:02:07",
   "count": 7,
   "items": [
     {
@@ -1908,16 +1908,16 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.9.24",
-      "last_seen_at": "2026-11-26 16:02:03",
-      "last_action": "[DESKTOP-T4EAUS3] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-26 16:02:07",
+      "last_action": "[DESKTOP-T4EAUS3] Canlı MF Taraması",
       "today_date": "2026-11-26",
       "today_searches": 10,
       "today_cart_adds": 30,
-      "today_smart_orders": 29,
+      "today_smart_orders": 30,
       "total_searches": 257,
       "total_cart_adds": 873,
       "total_days_used": 18,
-      "total_smart_orders": 686,
+      "total_smart_orders": 687,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -2000,22 +2000,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.9.24",
-          "last_seen_at": "2026-11-26 16:02:03",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-26 16:02:07",
+          "last_action": "Canlı MF Taraması",
           "today_date": "2026-11-26",
           "today_searches": 8,
           "today_cart_adds": 30,
-          "today_smart_orders": 22,
+          "today_smart_orders": 23,
           "total_searches": 157,
           "total_cart_adds": 559,
-          "total_smart_orders": 488,
+          "total_smart_orders": 489,
           "total_days_used": 18,
           "recent_actions": [
-            {
-              "t": "2026-11-26 14:06:57",
-              "type": "search",
-              "detail": "Depo Sorgu: PROGESTAN DEX 25 MG 7 AMP."
-            },
             {
               "t": "2026-11-26 14:07:06",
               "type": "cart",
@@ -2085,8 +2080,14 @@
               "t": "2026-11-26 16:02:03",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-26 16:02:06",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
             }
-          ]
+          ],
+          "health": {}
         },
         "1A4A-8625-6A54": {
           "hwid": "1A4A-8625-6A54",
