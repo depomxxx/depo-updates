@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 12:37:54",
+  "updated_at": "2026-11-26 12:38:42",
   "count": 7,
   "items": [
     {
@@ -570,16 +570,16 @@
       "hwid": "F602-A07E-E462",
       "last_pc_name": "elçin",
       "app_version": "1.9.23",
-      "last_seen_at": "2026-11-26 12:38:24",
+      "last_seen_at": "2026-11-26 12:38:42",
       "last_action": "[elçin] Canlı MF Taraması",
       "today_date": "2026-11-26",
       "today_searches": 2,
       "today_cart_adds": 4,
-      "today_smart_orders": 484,
+      "today_smart_orders": 680,
       "total_searches": 351,
       "total_cart_adds": 787,
       "total_days_used": 17,
-      "total_smart_orders": 885,
+      "total_smart_orders": 1081,
       "pc_count": 3,
       "devices": {
         "2781-74E7-11C9": {
@@ -606,38 +606,18 @@
           "desk_name": "elçin",
           "local_ip": "192.168.1.50",
           "app_version": "1.9.23",
-          "last_seen_at": "2026-11-26 12:38:24",
+          "last_seen_at": "2026-11-26 12:38:42",
           "last_action": "Canlı MF Taraması",
           "today_date": "2026-11-26",
           "today_searches": 0,
           "today_cart_adds": 0,
-          "today_smart_orders": 475,
+          "today_smart_orders": 671,
           "total_searches": 0,
           "total_cart_adds": 0,
-          "total_smart_orders": 434,
+          "total_smart_orders": 630,
           "total_days_used": 1,
           "recent_actions": [
             {
-              "t": "2026-11-26 12:37:47",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-26 12:37:47",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (30 Ürün)"
-            },
-            {
-              "t": "2026-11-26 12:37:48",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-26 12:38:03",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
               "t": "2026-11-26 12:38:03",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (30 Ürün)"
@@ -689,6 +669,26 @@
             },
             {
               "t": "2026-11-26 12:38:24",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (30 Ürün)"
+            },
+            {
+              "t": "2026-11-26 12:38:41",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-26 12:38:41",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (30 Ürün)"
+            },
+            {
+              "t": "2026-11-26 12:38:42",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-26 12:38:42",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (30 Ürün)"
             }
