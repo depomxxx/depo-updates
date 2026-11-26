@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 13:14:24",
+  "updated_at": "2026-11-26 13:14:43",
   "count": 7,
   "items": [
     {
@@ -804,14 +804,14 @@
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.23",
-      "last_seen_at": "2026-11-26 13:14:24",
-      "last_action": "[DESKTOP-OTHNDUE] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-26 13:14:43",
+      "last_action": "[DESKTOP-OTHNDUE] Toplu Sepet (ISKOOP): 1 Kalem",
       "today_date": "2026-11-26",
       "today_searches": 14,
-      "today_cart_adds": 11,
+      "today_cart_adds": 15,
       "today_smart_orders": 40,
       "total_searches": 853,
-      "total_cart_adds": 1439,
+      "total_cart_adds": 1443,
       "total_smart_orders": 1909,
       "total_days_used": 20,
       "pc_count": 9,
@@ -916,32 +916,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.23",
-          "last_seen_at": "2026-11-26 13:14:24",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-26 13:14:43",
+          "last_action": "Toplu Sepet (ISKOOP): 1 Kalem",
           "today_date": "2026-11-26",
           "today_searches": 8,
-          "today_cart_adds": 11,
+          "today_cart_adds": 15,
           "today_smart_orders": 33,
           "total_searches": 249,
-          "total_cart_adds": 637,
+          "total_cart_adds": 641,
           "total_smart_orders": 969,
           "total_days_used": 19,
           "recent_actions": [
-            {
-              "t": "2026-11-26 10:25:51",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-26 10:25:51",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 15 Kalem)"
-            },
-            {
-              "t": "2026-11-26 10:26:09",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-26 10:26:12",
               "type": "search",
@@ -1001,6 +986,21 @@
               "t": "2026-11-26 13:14:24",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-26 13:14:34",
+              "type": "cart",
+              "detail": "Toplu Sepet (ALLIANCE): 4 Kalem"
+            },
+            {
+              "t": "2026-11-26 13:14:37",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-26 13:14:43",
+              "type": "cart",
+              "detail": "Toplu Sepet (ISKOOP): 1 Kalem"
             }
           ]
         },
