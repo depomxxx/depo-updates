@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 16:18:24",
+  "updated_at": "2026-11-26 16:20:42",
   "count": 7,
   "items": [
     {
@@ -1914,13 +1914,13 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.9.24",
-      "last_seen_at": "2026-11-26 16:20:14",
-      "last_action": "[DESKTOP-T4EAUS3] Depo Fiyat Sorgulama",
+      "last_seen_at": "2026-11-26 16:20:42",
+      "last_action": "[DESKTOP-T4EAUS3] Depo Sorgu: GALVUS MET 50/1000 MG 60 FTB.",
       "today_date": "2026-11-26",
-      "today_searches": 11,
+      "today_searches": 14,
       "today_cart_adds": 30,
       "today_smart_orders": 38,
-      "total_searches": 258,
+      "total_searches": 261,
       "total_cart_adds": 873,
       "total_days_used": 18,
       "total_smart_orders": 695,
@@ -2006,22 +2006,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.9.24",
-          "last_seen_at": "2026-11-26 16:20:14",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-26 16:20:42",
+          "last_action": "Depo Sorgu: GALVUS MET 50/1000 MG 60 FTB.",
           "today_date": "2026-11-26",
-          "today_searches": 9,
+          "today_searches": 10,
           "today_cart_adds": 30,
           "today_smart_orders": 28,
-          "total_searches": 158,
+          "total_searches": 159,
           "total_cart_adds": 559,
           "total_smart_orders": 494,
           "total_days_used": 18,
           "recent_actions": [
-            {
-              "t": "2026-11-26 14:16:21",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-26 14:16:27",
               "type": "search",
@@ -2091,6 +2086,11 @@
               "t": "2026-11-26 16:20:14",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-26 16:20:42",
+              "type": "search",
+              "detail": "Depo Sorgu: GALVUS MET 50/1000 MG 60 FTB."
             }
           ],
           "health": {}
@@ -2101,27 +2101,17 @@
           "desk_name": "Cicobey",
           "local_ip": "192.168.1.42",
           "app_version": "1.5.9",
-          "last_seen_at": "2026-11-26 16:17:54",
-          "last_action": "Canlı MF Sorgulama (29 Ürün)",
+          "last_seen_at": "2026-11-26 16:18:14",
+          "last_action": "Depo Sorgu: GALVUS MET 50/1000 MG 60 FTB.",
           "today_date": "2026-11-26",
-          "today_searches": 2,
+          "today_searches": 4,
           "today_cart_adds": 0,
           "today_smart_orders": 10,
-          "total_searches": 66,
+          "total_searches": 68,
           "total_cart_adds": 118,
           "total_smart_orders": 189,
           "total_days_used": 16,
           "recent_actions": [
-            {
-              "t": "2026-11-19 17:24:24",
-              "type": "search",
-              "detail": "Depo Sorgu: AUGMENTIN BID 1 GR 14 FTB."
-            },
-            {
-              "t": "2026-11-24 10:14:04",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-24 12:00:25",
               "type": "critical_stock",
@@ -2186,6 +2176,16 @@
               "t": "2026-11-26 16:17:54",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (29 Ürün)"
+            },
+            {
+              "t": "2026-11-26 16:18:03",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-26 16:18:08",
+              "type": "search",
+              "detail": "Depo Sorgu: GALVUS MET 50/1000 MG 60 FTB."
             }
           ],
           "health": {
