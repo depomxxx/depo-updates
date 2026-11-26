@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 16:00:27",
+  "updated_at": "2026-11-26 16:00:31",
   "count": 7,
   "items": [
     {
@@ -1913,16 +1913,16 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.9.24",
-      "last_seen_at": "2026-11-26 16:02:07",
+      "last_seen_at": "2026-11-26 16:02:39",
       "last_action": "[DESKTOP-T4EAUS3] Canlı MF Taraması",
       "today_date": "2026-11-26",
       "today_searches": 10,
       "today_cart_adds": 30,
-      "today_smart_orders": 30,
+      "today_smart_orders": 32,
       "total_searches": 257,
       "total_cart_adds": 873,
       "total_days_used": 18,
-      "total_smart_orders": 687,
+      "total_smart_orders": 689,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -2005,27 +2005,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.9.24",
-          "last_seen_at": "2026-11-26 16:02:07",
+          "last_seen_at": "2026-11-26 16:02:39",
           "last_action": "Canlı MF Taraması",
           "today_date": "2026-11-26",
           "today_searches": 8,
           "today_cart_adds": 30,
-          "today_smart_orders": 23,
+          "today_smart_orders": 25,
           "total_searches": 157,
           "total_cart_adds": 559,
-          "total_smart_orders": 489,
+          "total_smart_orders": 491,
           "total_days_used": 18,
           "recent_actions": [
-            {
-              "t": "2026-11-26 14:07:06",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-26 14:07:08",
-              "type": "cart",
-              "detail": "Sepete Ekle (ISKOOP): PROGESTAN DEX 25 MG/1 ML SC  x4"
-            },
             {
               "t": "2026-11-26 14:07:15",
               "type": "cart",
@@ -2090,6 +2080,16 @@
               "t": "2026-11-26 16:02:06",
               "type": "mf_resolve",
               "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-26 16:02:12",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-26 16:02:12",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
             }
           ],
           "health": {}
@@ -2100,7 +2100,7 @@
           "desk_name": "Cicobey",
           "local_ip": "192.168.1.42",
           "app_version": "1.5.9",
-          "last_seen_at": "2026-11-26 15:58:33",
+          "last_seen_at": "2026-11-26 16:00:31",
           "last_action": "Depo Sorgu: ARVELES 25 MG 20 FTB.",
           "today_date": "2026-11-26",
           "today_searches": 2,
