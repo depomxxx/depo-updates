@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 16:02:33",
+  "updated_at": "2026-11-26 16:03:09",
   "count": 7,
   "items": [
     {
@@ -806,14 +806,14 @@
       "hwid": "B446-9737-94C4",
       "last_pc_name": "DESKTOP-5PFFU5S",
       "app_version": "1.9.24",
-      "last_seen_at": "2026-11-26 16:02:08",
+      "last_seen_at": "2026-11-26 16:03:09",
       "last_action": "[DESKTOP-5PFFU5S] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-26",
       "today_searches": 18,
-      "today_cart_adds": 53,
+      "today_cart_adds": 58,
       "today_smart_orders": 95,
       "total_searches": 857,
-      "total_cart_adds": 1481,
+      "total_cart_adds": 1486,
       "total_smart_orders": 1964,
       "total_days_used": 20,
       "pc_count": 9,
@@ -1107,37 +1107,17 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.9.24",
-          "last_seen_at": "2026-11-26 16:02:08",
+          "last_seen_at": "2026-11-26 16:03:09",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-26",
           "today_searches": 2,
-          "today_cart_adds": 26,
+          "today_cart_adds": 31,
           "today_smart_orders": 33,
           "total_searches": 109,
-          "total_cart_adds": 412,
+          "total_cart_adds": 417,
           "total_smart_orders": 217,
           "total_days_used": 11,
           "recent_actions": [
-            {
-              "t": "2026-11-26 14:37:41",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-26 15:43:21",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş Planlama"
-            },
-            {
-              "t": "2026-11-26 15:43:21",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş (TRIA • 128 Kalem)"
-            },
-            {
-              "t": "2026-11-26 15:43:21",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-26 15:44:45",
               "type": "mf_resolve",
@@ -1190,6 +1170,26 @@
             },
             {
               "t": "2026-11-26 16:02:08",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-26 16:02:12",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): UNISOM  25 MG 20 TB. x10"
+            },
+            {
+              "t": "2026-11-26 16:02:23",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-26 16:02:26",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): DOXIUM 1000 MG 60 KAPSUL x2"
+            },
+            {
+              "t": "2026-11-26 16:03:09",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
