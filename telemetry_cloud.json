@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 16:04:04",
+  "updated_at": "2026-11-26 16:04:06",
   "count": 7,
   "items": [
     {
@@ -806,15 +806,15 @@
       "hwid": "B446-9737-94C4",
       "last_pc_name": "DESKTOP-5PFFU5S",
       "app_version": "1.9.24",
-      "last_seen_at": "2026-11-26 16:03:46",
-      "last_action": "[DESKTOP-5PFFU5S] Canlı MF Taraması",
+      "last_seen_at": "2026-11-26 16:04:06",
+      "last_action": "[DESKTOP-5PFFU5S] Sepete Ekle (ALLIANCE): ALDACTONE -A 25 MG 20 TABLET x20",
       "today_date": "2026-11-26",
       "today_searches": 18,
-      "today_cart_adds": 61,
-      "today_smart_orders": 96,
+      "today_cart_adds": 65,
+      "today_smart_orders": 97,
       "total_searches": 857,
-      "total_cart_adds": 1489,
-      "total_smart_orders": 1965,
+      "total_cart_adds": 1493,
+      "total_smart_orders": 1966,
       "total_days_used": 20,
       "pc_count": 9,
       "devices": {
@@ -1107,42 +1107,17 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.9.24",
-          "last_seen_at": "2026-11-26 16:03:46",
-          "last_action": "Canlı MF Taraması",
+          "last_seen_at": "2026-11-26 16:04:06",
+          "last_action": "Sepete Ekle (ALLIANCE): ALDACTONE -A 25 MG 20 TABLET x20",
           "today_date": "2026-11-26",
           "today_searches": 2,
-          "today_cart_adds": 34,
-          "today_smart_orders": 34,
+          "today_cart_adds": 38,
+          "today_smart_orders": 35,
           "total_searches": 109,
-          "total_cart_adds": 420,
-          "total_smart_orders": 218,
+          "total_cart_adds": 424,
+          "total_smart_orders": 219,
           "total_days_used": 11,
           "recent_actions": [
-            {
-              "t": "2026-11-26 16:00:23",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-26 16:01:39",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş Planlama"
-            },
-            {
-              "t": "2026-11-26 16:01:39",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş (TRIA • 146 Kalem)"
-            },
-            {
-              "t": "2026-11-26 16:01:39",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-26 16:01:45",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (9 Ürün)"
-            },
             {
               "t": "2026-11-26 16:01:48",
               "type": "mf_resolve",
@@ -1192,6 +1167,31 @@
               "t": "2026-11-26 16:03:46",
               "type": "mf_resolve",
               "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-26 16:03:46",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (1 Ürün)"
+            },
+            {
+              "t": "2026-11-26 16:04:00",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-26 16:04:01",
+              "type": "cart",
+              "detail": "Sepete Ekle (SELCUK): IBUCOLD C FILM TABLET\n\n 30 T x22"
+            },
+            {
+              "t": "2026-11-26 16:04:04",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-26 16:04:06",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): ALDACTONE -A 25 MG 20 TABLET x20"
             }
           ],
           "health": {}
