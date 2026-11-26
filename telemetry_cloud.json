@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 16:17:55",
+  "updated_at": "2026-11-26 16:17:24",
   "count": 7,
   "items": [
     {
@@ -1919,11 +1919,11 @@
       "today_date": "2026-11-26",
       "today_searches": 10,
       "today_cart_adds": 30,
-      "today_smart_orders": 35,
+      "today_smart_orders": 36,
       "total_searches": 257,
       "total_cart_adds": 873,
       "total_days_used": 18,
-      "total_smart_orders": 692,
+      "total_smart_orders": 693,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -2101,22 +2101,17 @@
           "desk_name": "Cicobey",
           "local_ip": "192.168.1.42",
           "app_version": "1.5.9",
-          "last_seen_at": "2026-11-26 16:16:12",
-          "last_action": "Depo Sorgu: ARVELES 25 MG 20 FTB.",
+          "last_seen_at": "2026-11-26 16:17:24",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-26",
           "today_searches": 2,
           "today_cart_adds": 0,
-          "today_smart_orders": 7,
+          "today_smart_orders": 8,
           "total_searches": 66,
           "total_cart_adds": 118,
-          "total_smart_orders": 186,
+          "total_smart_orders": 187,
           "total_days_used": 16,
           "recent_actions": [
-            {
-              "t": "2026-11-19 17:23:25",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (2 Ürün)"
-            },
             {
               "t": "2026-11-19 17:23:26",
               "type": "cart",
@@ -2186,6 +2181,11 @@
               "t": "2026-11-26 15:48:19",
               "type": "search",
               "detail": "Depo Sorgu: ARVELES 25 MG 20 FTB."
+            },
+            {
+              "t": "2026-11-26 16:17:24",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ],
           "health": {
