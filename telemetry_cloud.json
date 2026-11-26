@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 14:22:53",
+  "updated_at": "2026-11-26 14:20:44",
   "count": 7,
   "items": [
     {
@@ -804,14 +804,14 @@
       "hwid": "B446-9737-94C4",
       "last_pc_name": "DESKTOP-5PFFU5S",
       "app_version": "1.9.23",
-      "last_seen_at": "2026-11-26 14:20:24",
-      "last_action": "[DESKTOP-5PFFU5S] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-26 14:20:44",
+      "last_action": "[DESKTOP-5PFFU5S] Sepete Ekle (ALLIANCE): MILUPA BASIC-P 400 GR x15",
       "today_date": "2026-11-26",
       "today_searches": 14,
-      "today_cart_adds": 30,
+      "today_cart_adds": 33,
       "today_smart_orders": 57,
       "total_searches": 853,
-      "total_cart_adds": 1458,
+      "total_cart_adds": 1461,
       "total_smart_orders": 1926,
       "total_days_used": 20,
       "pc_count": 9,
@@ -1104,22 +1104,17 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.9.23",
-          "last_seen_at": "2026-11-26 14:20:24",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-26 14:20:44",
+          "last_action": "Sepete Ekle (ALLIANCE): MILUPA BASIC-P 400 GR x15",
           "today_date": "2026-11-26",
           "today_searches": 0,
-          "today_cart_adds": 7,
+          "today_cart_adds": 10,
           "today_smart_orders": 11,
           "total_searches": 107,
-          "total_cart_adds": 393,
+          "total_cart_adds": 396,
           "total_smart_orders": 195,
           "total_days_used": 11,
           "recent_actions": [
-            {
-              "t": "2026-11-26 14:19:28",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş (TRIA • 91 Kalem)"
-            },
             {
               "t": "2026-11-26 14:19:28",
               "type": "mf_resolve",
@@ -1189,6 +1184,11 @@
               "t": "2026-11-26 14:20:24",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-26 14:20:44",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): MILUPA BASIC-P 400 GR x15"
             }
           ]
         },
