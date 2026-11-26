@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 09:30:52",
+  "updated_at": "2026-11-26 09:30:53",
   "count": 7,
   "items": [
     {
@@ -804,13 +804,13 @@
       "hwid": "D719-CEB2-1542",
       "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.9.23",
-      "last_seen_at": "2026-11-26 09:30:35",
-      "last_action": "[DESKTOP-M530BBB] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-26 09:30:53",
+      "last_action": "[DESKTOP-M530BBB] Depo Sorgu: VASOSERC 16 MG 30 TB.",
       "today_date": "2026-11-26",
-      "today_searches": 0,
+      "today_searches": 2,
       "today_cart_adds": 0,
       "today_smart_orders": 1,
-      "total_searches": 839,
+      "total_searches": 841,
       "total_cart_adds": 1428,
       "total_smart_orders": 1870,
       "total_days_used": 20,
@@ -1386,27 +1386,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.106",
           "app_version": "1.9.23",
-          "last_seen_at": "2026-11-26 09:30:35",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-26 09:30:53",
+          "last_action": "Depo Sorgu: VASOSERC 16 MG 30 TB.",
           "today_date": "2026-11-26",
-          "today_searches": 0,
+          "today_searches": 2,
           "today_cart_adds": 0,
           "today_smart_orders": 1,
-          "total_searches": 170,
+          "total_searches": 172,
           "total_cart_adds": 138,
           "total_smart_orders": 200,
           "total_days_used": 20,
           "recent_actions": [
-            {
-              "t": "2026-11-25 16:21:39",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (30 Ürün)"
-            },
-            {
-              "t": "2026-11-25 16:21:39",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-25 16:22:00",
               "type": "mf_resolve",
@@ -1471,6 +1461,16 @@
               "t": "2026-11-26 08:52:17",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-26 09:30:42",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-26 09:30:53",
+              "type": "search",
+              "detail": "Depo Sorgu: VASOSERC 16 MG 30 TB."
             }
           ]
         },
