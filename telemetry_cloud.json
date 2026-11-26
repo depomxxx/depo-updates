@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 15:37:15",
+  "updated_at": "2026-11-26 15:37:19",
   "count": 7,
   "items": [
     {
@@ -1908,7 +1908,7 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.9.23",
-      "last_seen_at": "2026-11-26 15:38:42",
+      "last_seen_at": "2026-11-26 15:39:04",
       "last_action": "[DESKTOP-T4EAUS3] Canlı MF Sorgulama (23 Ürün)",
       "today_date": "2026-11-26",
       "today_searches": 8,
@@ -2000,7 +2000,7 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.9.23",
-          "last_seen_at": "2026-11-26 15:38:42",
+          "last_seen_at": "2026-11-26 15:39:04",
           "last_action": "Canlı MF Sorgulama (23 Ürün)",
           "today_date": "2026-11-26",
           "today_searches": 8,
@@ -2094,7 +2094,7 @@
           "desk_name": "Cicobey",
           "local_ip": "192.168.1.42",
           "app_version": "1.5.9",
-          "last_seen_at": "2026-11-26 15:35:48",
+          "last_seen_at": "2026-11-26 15:37:19",
           "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-26",
           "today_searches": 0,
@@ -2181,10 +2181,30 @@
               "detail": "Günün Çıkışları / Kritik Stok"
             }
           ],
-          "health": {}
+          "health": {
+            "overall": "OK",
+            "otomasyon": "BOTANIK",
+            "otomasyon_ok": true,
+            "otomasyon_ms": 0.2,
+            "depots_ok": 6,
+            "depots_total": 6,
+            "depots_failed": [],
+            "last_error": "",
+            "checked_at": "2026-11-26 15:35:59"
+          }
         }
       },
-      "health": {}
+      "health": {
+        "overall": "OK",
+        "otomasyon": "BOTANIK",
+        "otomasyon_ok": true,
+        "otomasyon_ms": 0.2,
+        "depots_ok": 6,
+        "depots_total": 6,
+        "depots_failed": [],
+        "last_error": "",
+        "checked_at": "2026-11-26 15:35:59"
+      }
     }
   ]
 }
