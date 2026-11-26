@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 12:58:15",
+  "updated_at": "2026-11-26 12:58:41",
   "count": 7,
   "items": [
     {
@@ -570,16 +570,16 @@
       "hwid": "F602-A07E-E462",
       "last_pc_name": "elçin",
       "app_version": "1.9.23",
-      "last_seen_at": "2026-11-26 12:57:53",
-      "last_action": "[elçin] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-26 12:59:08",
+      "last_action": "[elçin] Depo Sorgu: TOBRASED %0.3 5 ML GOZ GTT.",
       "today_date": "2026-11-26",
-      "today_searches": 7,
-      "today_cart_adds": 15,
-      "today_smart_orders": 1919,
-      "total_searches": 356,
-      "total_cart_adds": 798,
+      "today_searches": 9,
+      "today_cart_adds": 16,
+      "today_smart_orders": 1923,
+      "total_searches": 358,
+      "total_cart_adds": 799,
       "total_days_used": 17,
-      "total_smart_orders": 2320,
+      "total_smart_orders": 2324,
       "pc_count": 3,
       "devices": {
         "2781-74E7-11C9": {
@@ -606,52 +606,17 @@
           "desk_name": "elçin",
           "local_ip": "192.168.1.50",
           "app_version": "1.9.23",
-          "last_seen_at": "2026-11-26 12:57:53",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-26 12:59:08",
+          "last_action": "Depo Sorgu: TOBRASED %0.3 5 ML GOZ GTT.",
           "today_date": "2026-11-26",
-          "today_searches": 5,
-          "today_cart_adds": 11,
-          "today_smart_orders": 1910,
-          "total_searches": 5,
-          "total_cart_adds": 11,
-          "total_smart_orders": 1869,
+          "today_searches": 7,
+          "today_cart_adds": 12,
+          "today_smart_orders": 1914,
+          "total_searches": 7,
+          "total_cart_adds": 12,
+          "total_smart_orders": 1873,
           "total_days_used": 1,
           "recent_actions": [
-            {
-              "t": "2026-11-26 12:47:54",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-26 12:47:57",
-              "type": "cart",
-              "detail": "Toplu Sepet (ISKOOP): 1 Kalem"
-            },
-            {
-              "t": "2026-11-26 12:47:57",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş Planlama"
-            },
-            {
-              "t": "2026-11-26 12:47:58",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş (BOTANIK • 250 Kalem)"
-            },
-            {
-              "t": "2026-11-26 12:47:59",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-26 12:48:02",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (35 Ürün)"
-            },
-            {
-              "t": "2026-11-26 12:48:02",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-26 12:48:19",
               "type": "cart",
@@ -691,6 +656,41 @@
               "t": "2026-11-26 12:57:53",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-26 12:57:56",
+              "type": "cart",
+              "detail": "Toplu Sepet (ISKOOP): 1 Kalem"
+            },
+            {
+              "t": "2026-11-26 12:57:56",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş Planlama"
+            },
+            {
+              "t": "2026-11-26 12:57:57",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş (BOTANIK • 250 Kalem)"
+            },
+            {
+              "t": "2026-11-26 12:57:58",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-26 12:58:04",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (3 Ürün)"
+            },
+            {
+              "t": "2026-11-26 12:58:06",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-26 12:58:09",
+              "type": "search",
+              "detail": "Depo Sorgu: TOBRASED %0.3 5 ML GOZ GTT."
             }
           ]
         },
@@ -700,7 +700,7 @@
           "desk_name": "DESKTOP-8JN0NE5",
           "local_ip": "192.168.1.37",
           "app_version": "1.9.23",
-          "last_seen_at": "2026-11-26 12:57:10",
+          "last_seen_at": "2026-11-26 12:58:41",
           "last_action": "Depo Sorgu: TIOPATI 600 MG HR 30 FTB.",
           "today_date": "2026-11-26",
           "today_searches": 2,
