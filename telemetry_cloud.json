@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 10:10:19",
+  "updated_at": "2026-11-26 10:10:46",
   "count": 7,
   "items": [
     {
@@ -801,17 +801,17 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D719-CEB2-1542",
-      "last_pc_name": "DESKTOP-M530BBB",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.23",
-      "last_seen_at": "2026-11-26 10:10:00",
-      "last_action": "[DESKTOP-M530BBB] Canlı MF Sorgulama (8 Ürün)",
+      "last_seen_at": "2026-11-26 10:10:46",
+      "last_action": "[DESKTOP-OTHNDUE] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-26",
       "today_searches": 8,
-      "today_cart_adds": 2,
+      "today_cart_adds": 3,
       "today_smart_orders": 10,
       "total_searches": 847,
-      "total_cart_adds": 1430,
+      "total_cart_adds": 1431,
       "total_smart_orders": 1879,
       "total_days_used": 20,
       "pc_count": 9,
@@ -916,22 +916,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.23",
-          "last_seen_at": "2026-11-26 10:09:38",
-          "last_action": "Depo Sorgu: SELECTRA 50 MG 28 FTB",
+          "last_seen_at": "2026-11-26 10:10:46",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-26",
           "today_searches": 4,
-          "today_cart_adds": 2,
+          "today_cart_adds": 3,
           "today_smart_orders": 3,
           "total_searches": 245,
-          "total_cart_adds": 628,
+          "total_cart_adds": 629,
           "total_smart_orders": 939,
           "total_days_used": 19,
           "recent_actions": [
-            {
-              "t": "2026-11-25 15:56:58",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-25 16:31:06",
               "type": "critical_stock",
@@ -1001,6 +996,11 @@
               "t": "2026-11-26 10:09:38",
               "type": "search",
               "detail": "Depo Sorgu: SELECTRA 50 MG 28 FTB"
+            },
+            {
+              "t": "2026-11-26 10:10:46",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
