@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 12:55:13",
+  "updated_at": "2026-11-26 12:55:39",
   "count": 7,
   "items": [
     {
@@ -570,14 +570,14 @@
       "hwid": "F602-A07E-E462",
       "last_pc_name": "elçin",
       "app_version": "1.9.23",
-      "last_seen_at": "2026-11-26 12:55:23",
-      "last_action": "[elçin] Depo Sorgu: COMBIGAN %0.2+0.5 5 ML GOZ GTT",
+      "last_seen_at": "2026-11-26 12:56:13",
+      "last_action": "[elçin] Eczatrend Katılım: MODET 1000 MG 60 FTB. x10",
       "today_date": "2026-11-26",
       "today_searches": 7,
-      "today_cart_adds": 13,
+      "today_cart_adds": 14,
       "today_smart_orders": 1919,
       "total_searches": 356,
-      "total_cart_adds": 796,
+      "total_cart_adds": 797,
       "total_days_used": 17,
       "total_smart_orders": 2320,
       "pc_count": 3,
@@ -606,22 +606,17 @@
           "desk_name": "elçin",
           "local_ip": "192.168.1.50",
           "app_version": "1.9.23",
-          "last_seen_at": "2026-11-26 12:55:23",
-          "last_action": "Depo Sorgu: COMBIGAN %0.2+0.5 5 ML GOZ GTT",
+          "last_seen_at": "2026-11-26 12:56:13",
+          "last_action": "Eczatrend Katılım: MODET 1000 MG 60 FTB. x10",
           "today_date": "2026-11-26",
           "today_searches": 5,
-          "today_cart_adds": 9,
+          "today_cart_adds": 10,
           "today_smart_orders": 1910,
           "total_searches": 5,
-          "total_cart_adds": 9,
+          "total_cart_adds": 10,
           "total_smart_orders": 1869,
           "total_days_used": 1,
           "recent_actions": [
-            {
-              "t": "2026-11-26 12:47:22",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (6 Ürün)"
-            },
             {
               "t": "2026-11-26 12:47:22",
               "type": "mf_resolve",
@@ -691,6 +686,11 @@
               "t": "2026-11-26 12:53:49",
               "type": "search",
               "detail": "Depo Sorgu: COMBIGAN %0.2+0.5 5 ML GOZ GTT"
+            },
+            {
+              "t": "2026-11-26 12:55:37",
+              "type": "cart",
+              "detail": "Eczatrend Katılım: MODET 1000 MG 60 FTB. x10"
             }
           ]
         },
@@ -700,7 +700,7 @@
           "desk_name": "DESKTOP-8JN0NE5",
           "local_ip": "192.168.1.37",
           "app_version": "1.9.23",
-          "last_seen_at": "2026-11-26 12:54:08",
+          "last_seen_at": "2026-11-26 12:55:39",
           "last_action": "Depo Sorgu: TIOPATI 600 MG HR 30 FTB.",
           "today_date": "2026-11-26",
           "today_searches": 2,
