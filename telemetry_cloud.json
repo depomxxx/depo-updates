@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 10:25:47",
+  "updated_at": "2026-11-26 10:26:09",
   "count": 7,
   "items": [
     {
@@ -804,15 +804,15 @@
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.23",
-      "last_seen_at": "2026-11-26 10:25:47",
-      "last_action": "[DESKTOP-OTHNDUE] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-26 10:26:09",
+      "last_action": "[DESKTOP-OTHNDUE] Depo Fiyat Sorgulama",
       "today_date": "2026-11-26",
-      "today_searches": 8,
+      "today_searches": 9,
       "today_cart_adds": 10,
-      "today_smart_orders": 30,
-      "total_searches": 847,
+      "today_smart_orders": 32,
+      "total_searches": 848,
       "total_cart_adds": 1438,
-      "total_smart_orders": 1899,
+      "total_smart_orders": 1901,
       "total_days_used": 20,
       "pc_count": 9,
       "devices": {
@@ -916,32 +916,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.23",
-          "last_seen_at": "2026-11-26 10:25:47",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-26 10:26:09",
+          "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-26",
-          "today_searches": 4,
+          "today_searches": 5,
           "today_cart_adds": 10,
-          "today_smart_orders": 23,
-          "total_searches": 245,
+          "today_smart_orders": 25,
+          "total_searches": 246,
           "total_cart_adds": 636,
-          "total_smart_orders": 959,
+          "total_smart_orders": 961,
           "total_days_used": 19,
           "recent_actions": [
-            {
-              "t": "2026-11-26 10:12:05",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-26 10:12:27",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (35 Ürün)"
-            },
-            {
-              "t": "2026-11-26 10:12:28",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-26 10:12:51",
               "type": "mf_resolve",
@@ -1001,6 +986,21 @@
               "t": "2026-11-26 10:16:30",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-26 10:25:51",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-26 10:25:51",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 15 Kalem)"
+            },
+            {
+              "t": "2026-11-26 10:26:09",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ]
         },
