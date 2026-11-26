@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 15:35:40",
+  "updated_at": "2026-11-26 15:33:47",
   "count": 7,
   "items": [
     {
@@ -2094,7 +2094,7 @@
           "desk_name": "Cicobey",
           "local_ip": "192.168.1.42",
           "app_version": "1.5.9",
-          "last_seen_at": "2026-11-26 15:27:30",
+          "last_seen_at": "2026-11-26 15:33:47",
           "last_action": "Canlı MF Sorgulama (30 Ürün)",
           "today_date": "2026-11-26",
           "today_searches": 0,
@@ -2180,9 +2180,11 @@
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (30 Ürün)"
             }
-          ]
+          ],
+          "health": {}
         }
-      }
+      },
+      "health": {}
     }
   ]
 }
