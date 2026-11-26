@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 15:36:17",
+  "updated_at": "2026-11-26 15:38:42",
   "count": 7,
   "items": [
     {
@@ -1908,16 +1908,16 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.9.23",
-      "last_seen_at": "2026-11-26 15:37:11",
+      "last_seen_at": "2026-11-26 15:38:42",
       "last_action": "[DESKTOP-T4EAUS3] Canlı MF Sorgulama (23 Ürün)",
       "today_date": "2026-11-26",
       "today_searches": 8,
       "today_cart_adds": 30,
-      "today_smart_orders": 24,
+      "today_smart_orders": 25,
       "total_searches": 255,
       "total_cart_adds": 873,
       "total_days_used": 18,
-      "total_smart_orders": 681,
+      "total_smart_orders": 682,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -2000,7 +2000,7 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.9.23",
-          "last_seen_at": "2026-11-26 15:37:11",
+          "last_seen_at": "2026-11-26 15:38:42",
           "last_action": "Canlı MF Sorgulama (23 Ürün)",
           "today_date": "2026-11-26",
           "today_searches": 8,
@@ -2094,22 +2094,17 @@
           "desk_name": "Cicobey",
           "local_ip": "192.168.1.42",
           "app_version": "1.5.9",
-          "last_seen_at": "2026-11-26 15:35:11",
-          "last_action": "Canlı MF Sorgulama (30 Ürün)",
+          "last_seen_at": "2026-11-26 15:35:48",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-26",
           "today_searches": 0,
           "today_cart_adds": 0,
-          "today_smart_orders": 3,
+          "today_smart_orders": 4,
           "total_searches": 64,
           "total_cart_adds": 118,
-          "total_smart_orders": 182,
+          "total_smart_orders": 183,
           "total_days_used": 16,
           "recent_actions": [
-            {
-              "t": "2026-11-19 17:16:08",
-              "type": "search",
-              "detail": "Depo Sorgu: OCEAN VITAMIN D3 1000 IU DAMLA 50 ML"
-            },
             {
               "t": "2026-11-19 17:19:07",
               "type": "search",
@@ -2179,6 +2174,11 @@
               "t": "2026-11-26 14:54:47",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (30 Ürün)"
+            },
+            {
+              "t": "2026-11-26 15:35:11",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ],
           "health": {}
