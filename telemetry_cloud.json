@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 12:41:05",
+  "updated_at": "2026-11-26 12:40:30",
   "count": 7,
   "items": [
     {
@@ -571,15 +571,15 @@
       "last_pc_name": "elçin",
       "app_version": "1.9.23",
       "last_seen_at": "2026-11-26 12:41:05",
-      "last_action": "[elçin] Canlı MF Sorgulama (30 Ürün)",
+      "last_action": "[elçin] Canlı MF Taraması",
       "today_date": "2026-11-26",
       "today_searches": 2,
       "today_cart_adds": 6,
-      "today_smart_orders": 1899,
+      "today_smart_orders": 1900,
       "total_searches": 351,
       "total_cart_adds": 789,
       "total_days_used": 17,
-      "total_smart_orders": 2300,
+      "total_smart_orders": 2301,
       "pc_count": 3,
       "devices": {
         "2781-74E7-11C9": {
@@ -607,21 +607,16 @@
           "local_ip": "192.168.1.50",
           "app_version": "1.9.23",
           "last_seen_at": "2026-11-26 12:41:05",
-          "last_action": "Canlı MF Sorgulama (30 Ürün)",
+          "last_action": "Canlı MF Taraması",
           "today_date": "2026-11-26",
           "today_searches": 0,
           "today_cart_adds": 2,
-          "today_smart_orders": 1890,
+          "today_smart_orders": 1891,
           "total_searches": 0,
           "total_cart_adds": 2,
-          "total_smart_orders": 1849,
+          "total_smart_orders": 1850,
           "total_days_used": 1,
           "recent_actions": [
-            {
-              "t": "2026-11-26 12:40:11",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (30 Ürün)"
-            },
             {
               "t": "2026-11-26 12:40:12",
               "type": "mf_resolve",
@@ -691,6 +686,11 @@
               "t": "2026-11-26 12:41:05",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (30 Ürün)"
+            },
+            {
+              "t": "2026-11-26 12:41:05",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
             }
           ]
         },
@@ -700,7 +700,7 @@
           "desk_name": "DESKTOP-8JN0NE5",
           "local_ip": "192.168.1.37",
           "app_version": "1.9.23",
-          "last_seen_at": "2026-11-26 12:38:51",
+          "last_seen_at": "2026-11-26 12:40:30",
           "last_action": "Depo Sorgu: TIOPATI 600 MG HR 30 FTB.",
           "today_date": "2026-11-26",
           "today_searches": 2,
