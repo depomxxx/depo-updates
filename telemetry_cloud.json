@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 15:47:24",
+  "updated_at": "2026-11-26 15:47:32",
   "count": 7,
   "items": [
     {
@@ -1913,11 +1913,11 @@
       "today_date": "2026-11-26",
       "today_searches": 8,
       "today_cart_adds": 30,
-      "today_smart_orders": 25,
+      "today_smart_orders": 26,
       "total_searches": 255,
       "total_cart_adds": 873,
       "total_days_used": 18,
-      "total_smart_orders": 682,
+      "total_smart_orders": 683,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -2094,22 +2094,17 @@
           "desk_name": "Cicobey",
           "local_ip": "192.168.1.42",
           "app_version": "1.5.9",
-          "last_seen_at": "2026-11-26 15:46:25",
+          "last_seen_at": "2026-11-26 15:47:32",
           "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-26",
           "today_searches": 0,
           "today_cart_adds": 0,
-          "today_smart_orders": 4,
+          "today_smart_orders": 5,
           "total_searches": 64,
           "total_cart_adds": 118,
-          "total_smart_orders": 183,
+          "total_smart_orders": 184,
           "total_days_used": 16,
           "recent_actions": [
-            {
-              "t": "2026-11-19 17:19:07",
-              "type": "search",
-              "detail": "Piyasa Fiyat Kıyaslama: OCEAN VITAMIN D3 1000 IU DAMLA 5"
-            },
             {
               "t": "2026-11-19 17:23:20",
               "type": "cart",
@@ -2177,6 +2172,11 @@
             },
             {
               "t": "2026-11-26 15:35:11",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-26 15:47:32",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
             }
