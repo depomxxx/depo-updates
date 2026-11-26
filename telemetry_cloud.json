@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 16:06:44",
+  "updated_at": "2026-11-26 16:07:03",
   "count": 7,
   "items": [
     {
@@ -803,17 +803,17 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "5834-FAC9-B71F",
-      "last_pc_name": "DESKTOP-OTHNDUE",
+      "hwid": "B446-9737-94C4",
+      "last_pc_name": "DESKTOP-5PFFU5S",
       "app_version": "1.9.24",
-      "last_seen_at": "2026-11-26 16:06:44",
-      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-26 16:07:03",
+      "last_action": "[DESKTOP-5PFFU5S] Sepete Ekle (ALLIANCE): OTRIVINE MENTOL %O.1 10 ML D x30",
       "today_date": "2026-11-26",
       "today_searches": 18,
-      "today_cart_adds": 84,
+      "today_cart_adds": 85,
       "today_smart_orders": 99,
       "total_searches": 857,
-      "total_cart_adds": 1512,
+      "total_cart_adds": 1513,
       "total_smart_orders": 1968,
       "total_days_used": 20,
       "pc_count": 9,
@@ -1107,22 +1107,17 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.9.24",
-          "last_seen_at": "2026-11-26 16:05:34",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-26 16:07:03",
+          "last_action": "Sepete Ekle (ALLIANCE): OTRIVINE MENTOL %O.1 10 ML D x30",
           "today_date": "2026-11-26",
           "today_searches": 2,
-          "today_cart_adds": 57,
+          "today_cart_adds": 58,
           "today_smart_orders": 37,
           "total_searches": 109,
-          "total_cart_adds": 443,
+          "total_cart_adds": 444,
           "total_smart_orders": 221,
           "total_days_used": 11,
           "recent_actions": [
-            {
-              "t": "2026-11-26 16:04:30",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-26 16:04:33",
               "type": "cart",
@@ -1192,6 +1187,11 @@
               "t": "2026-11-26 16:05:34",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-26 16:05:36",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): OTRIVINE MENTOL %O.1 10 ML D x30"
             }
           ],
           "health": {}
