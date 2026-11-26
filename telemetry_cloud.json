@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 14:22:19",
+  "updated_at": "2026-11-26 14:21:57",
   "count": 7,
   "items": [
     {
@@ -804,14 +804,14 @@
       "hwid": "B446-9737-94C4",
       "last_pc_name": "DESKTOP-5PFFU5S",
       "app_version": "1.9.23",
-      "last_seen_at": "2026-11-26 14:21:03",
-      "last_action": "[DESKTOP-5PFFU5S] Sepete Ekle (ALLIANCE): MILUPA - PKU 2  PRIMA 500 G  x15",
+      "last_seen_at": "2026-11-26 14:21:57",
+      "last_action": "[DESKTOP-5PFFU5S] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-26",
       "today_searches": 14,
-      "today_cart_adds": 35,
+      "today_cart_adds": 38,
       "today_smart_orders": 57,
       "total_searches": 853,
-      "total_cart_adds": 1463,
+      "total_cart_adds": 1466,
       "total_smart_orders": 1926,
       "total_days_used": 20,
       "pc_count": 9,
@@ -1104,32 +1104,17 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.9.23",
-          "last_seen_at": "2026-11-26 14:21:03",
-          "last_action": "Sepete Ekle (ALLIANCE): MILUPA - PKU 2  PRIMA 500 G  x15",
+          "last_seen_at": "2026-11-26 14:21:57",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-26",
           "today_searches": 0,
-          "today_cart_adds": 12,
+          "today_cart_adds": 15,
           "today_smart_orders": 11,
           "total_searches": 107,
-          "total_cart_adds": 398,
+          "total_cart_adds": 401,
           "total_smart_orders": 195,
           "total_days_used": 11,
           "recent_actions": [
-            {
-              "t": "2026-11-26 14:19:45",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): LODUX 30 MG 28 KAPSUL x10"
-            },
-            {
-              "t": "2026-11-26 14:19:52",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-26 14:19:56",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (30 Ürün)"
-            },
             {
               "t": "2026-11-26 14:19:56",
               "type": "mf_resolve",
@@ -1189,6 +1174,21 @@
               "t": "2026-11-26 14:21:03",
               "type": "cart",
               "detail": "Sepete Ekle (ALLIANCE): MILUPA - PKU 2  PRIMA 500 G  x15"
+            },
+            {
+              "t": "2026-11-26 14:21:09",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-26 14:21:12",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): KUVAN 100 MG COZUNEBILIR 30  x3"
+            },
+            {
+              "t": "2026-11-26 14:21:57",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
