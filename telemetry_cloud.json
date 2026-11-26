@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 09:32:32",
+  "updated_at": "2026-11-26 09:33:25",
   "count": 7,
   "items": [
     {
@@ -570,13 +570,13 @@
       "hwid": "2DED-CFF9-D593",
       "last_pc_name": "DESKTOP-8JN0NE5",
       "app_version": "1.9.23",
-      "last_seen_at": "2026-11-26 09:32:01",
-      "last_action": "[DESKTOP-8JN0NE5] Depo Fiyat Sorgulama",
+      "last_seen_at": "2026-11-26 09:33:25",
+      "last_action": "[DESKTOP-8JN0NE5] Depo Sorgu: TIOPATI 600 MG HR 30 FTB.",
       "today_date": "2026-11-26",
-      "today_searches": 1,
+      "today_searches": 2,
       "today_cart_adds": 4,
       "today_smart_orders": 9,
-      "total_searches": 166,
+      "total_searches": 167,
       "total_cart_adds": 373,
       "total_days_used": 17,
       "total_smart_orders": 817,
@@ -588,22 +588,17 @@
           "desk_name": "DESKTOP-8JN0NE5",
           "local_ip": "192.168.1.37",
           "app_version": "1.9.23",
-          "last_seen_at": "2026-11-26 09:32:01",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-26 09:33:25",
+          "last_action": "Depo Sorgu: TIOPATI 600 MG HR 30 FTB.",
           "today_date": "2026-11-26",
-          "today_searches": 1,
+          "today_searches": 2,
           "today_cart_adds": 4,
           "today_smart_orders": 9,
-          "total_searches": 91,
+          "total_searches": 92,
           "total_cart_adds": 207,
           "total_smart_orders": 451,
           "total_days_used": 17,
           "recent_actions": [
-            {
-              "t": "2026-11-25 17:48:20",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-25 17:48:46",
               "type": "mf_resolve",
@@ -673,6 +668,11 @@
               "t": "2026-11-26 09:32:01",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-26 09:32:07",
+              "type": "search",
+              "detail": "Depo Sorgu: TIOPATI 600 MG HR 30 FTB."
             }
           ]
         },
