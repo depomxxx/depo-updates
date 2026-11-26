@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 11:58:30",
+  "updated_at": "2026-11-26 11:59:08",
   "count": 7,
   "items": [
     {
@@ -801,11 +801,11 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "5834-FAC9-B71F",
-      "last_pc_name": "DESKTOP-OTHNDUE",
+      "hwid": "D719-CEB2-1542",
+      "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.9.23",
-      "last_seen_at": "2026-11-26 11:58:30",
-      "last_action": "[DESKTOP-OTHNDUE] Depo Sorgu: TOLVON 10 MG 30 TB.",
+      "last_seen_at": "2026-11-26 11:59:08",
+      "last_action": "[DESKTOP-M530BBB] Depo Sorgu: FOREVER GARCINIA PLUS",
       "today_date": "2026-11-26",
       "today_searches": 12,
       "today_cart_adds": 10,
@@ -1386,7 +1386,7 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.106",
           "app_version": "1.9.23",
-          "last_seen_at": "2026-11-26 11:57:32",
+          "last_seen_at": "2026-11-26 11:59:08",
           "last_action": "Depo Sorgu: FOREVER GARCINIA PLUS",
           "today_date": "2026-11-26",
           "today_searches": 6,
