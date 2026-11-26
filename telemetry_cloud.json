@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 12:47:32",
+  "updated_at": "2026-11-26 12:48:19",
   "count": 7,
   "items": [
     {
@@ -570,16 +570,16 @@
       "hwid": "F602-A07E-E462",
       "last_pc_name": "elçin",
       "app_version": "1.9.23",
-      "last_seen_at": "2026-11-26 12:47:54",
+      "last_seen_at": "2026-11-26 12:48:19",
       "last_action": "[elçin] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-26",
       "today_searches": 5,
-      "today_cart_adds": 10,
-      "today_smart_orders": 1912,
+      "today_cart_adds": 13,
+      "today_smart_orders": 1916,
       "total_searches": 354,
-      "total_cart_adds": 793,
+      "total_cart_adds": 796,
       "total_days_used": 17,
-      "total_smart_orders": 2313,
+      "total_smart_orders": 2317,
       "pc_count": 3,
       "devices": {
         "2781-74E7-11C9": {
@@ -606,52 +606,17 @@
           "desk_name": "elçin",
           "local_ip": "192.168.1.50",
           "app_version": "1.9.23",
-          "last_seen_at": "2026-11-26 12:47:54",
+          "last_seen_at": "2026-11-26 12:48:19",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-26",
           "today_searches": 3,
-          "today_cart_adds": 6,
-          "today_smart_orders": 1903,
+          "today_cart_adds": 9,
+          "today_smart_orders": 1907,
           "total_searches": 3,
-          "total_cart_adds": 6,
-          "total_smart_orders": 1862,
+          "total_cart_adds": 9,
+          "total_smart_orders": 1866,
           "total_days_used": 1,
           "recent_actions": [
-            {
-              "t": "2026-11-26 12:45:17",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-26 12:45:18",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (BOTANIK • 46 Kalem)"
-            },
-            {
-              "t": "2026-11-26 12:45:18",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-26 12:45:26",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (3 Ürün)"
-            },
-            {
-              "t": "2026-11-26 12:45:46",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-26 12:45:48",
-              "type": "search",
-              "detail": "Depo Sorgu: OCEAN PLUS BALIK YAGI 1200MG 100 KAPSÜ"
-            },
-            {
-              "t": "2026-11-26 12:46:47",
-              "type": "search",
-              "detail": "Piyasa Fiyat Kıyaslama: OCEAN PLUS BALIK YAGI 1200MG 100"
-            },
             {
               "t": "2026-11-26 12:47:13",
               "type": "smart_order",
@@ -689,6 +654,41 @@
             },
             {
               "t": "2026-11-26 12:47:54",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-26 12:47:57",
+              "type": "cart",
+              "detail": "Toplu Sepet (ISKOOP): 1 Kalem"
+            },
+            {
+              "t": "2026-11-26 12:47:57",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş Planlama"
+            },
+            {
+              "t": "2026-11-26 12:47:58",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş (BOTANIK • 250 Kalem)"
+            },
+            {
+              "t": "2026-11-26 12:47:59",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-26 12:48:02",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (35 Ürün)"
+            },
+            {
+              "t": "2026-11-26 12:48:02",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-26 12:48:19",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
