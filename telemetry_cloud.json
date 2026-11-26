@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 10:02:44",
+  "updated_at": "2026-11-26 10:03:08",
   "count": 7,
   "items": [
     {
@@ -804,15 +804,15 @@
       "hwid": "D719-CEB2-1542",
       "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.9.23",
-      "last_seen_at": "2026-11-26 10:02:17",
-      "last_action": "[DESKTOP-M530BBB] Depo Sorgu: VASOSERC 16 MG 30 TB.",
+      "last_seen_at": "2026-11-26 10:03:08",
+      "last_action": "[DESKTOP-M530BBB] Toplu Sipariş Planlama",
       "today_date": "2026-11-26",
       "today_searches": 2,
       "today_cart_adds": 0,
-      "today_smart_orders": 1,
+      "today_smart_orders": 2,
       "total_searches": 841,
       "total_cart_adds": 1428,
-      "total_smart_orders": 1870,
+      "total_smart_orders": 1871,
       "total_days_used": 20,
       "pc_count": 9,
       "devices": {
@@ -1386,22 +1386,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.106",
           "app_version": "1.9.23",
-          "last_seen_at": "2026-11-26 10:02:17",
-          "last_action": "Depo Sorgu: VASOSERC 16 MG 30 TB.",
+          "last_seen_at": "2026-11-26 10:03:08",
+          "last_action": "Toplu Sipariş Planlama",
           "today_date": "2026-11-26",
           "today_searches": 2,
           "today_cart_adds": 0,
-          "today_smart_orders": 1,
+          "today_smart_orders": 2,
           "total_searches": 172,
           "total_cart_adds": 138,
-          "total_smart_orders": 200,
+          "total_smart_orders": 201,
           "total_days_used": 20,
           "recent_actions": [
-            {
-              "t": "2026-11-25 16:22:00",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (30 Ürün)"
-            },
             {
               "t": "2026-11-25 16:22:01",
               "type": "mf_resolve",
@@ -1471,6 +1466,11 @@
               "t": "2026-11-26 09:30:53",
               "type": "search",
               "detail": "Depo Sorgu: VASOSERC 16 MG 30 TB."
+            },
+            {
+              "t": "2026-11-26 10:03:08",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş Planlama"
             }
           ]
         },
