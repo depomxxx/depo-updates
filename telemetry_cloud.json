@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 15:17:02",
+  "updated_at": "2026-11-26 15:17:24",
   "count": 7,
   "items": [
     {
@@ -801,18 +801,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "5834-FAC9-B71F",
-      "last_pc_name": "DESKTOP-OTHNDUE",
+      "hwid": "B446-9737-94C4",
+      "last_pc_name": "DESKTOP-5PFFU5S",
       "app_version": "1.9.23",
-      "last_seen_at": "2026-11-26 15:17:02",
-      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları Yenileme (TRIA • 40 Kalem)",
+      "last_seen_at": "2026-11-26 15:17:24",
+      "last_action": "[DESKTOP-5PFFU5S] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-26",
       "today_searches": 18,
       "today_cart_adds": 52,
-      "today_smart_orders": 72,
+      "today_smart_orders": 74,
       "total_searches": 857,
       "total_cart_adds": 1480,
-      "total_smart_orders": 1941,
+      "total_smart_orders": 1943,
       "total_days_used": 20,
       "pc_count": 9,
       "devices": {
@@ -1104,7 +1104,7 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.9.23",
-          "last_seen_at": "2026-11-26 15:16:24",
+          "last_seen_at": "2026-11-26 15:17:24",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-26",
           "today_searches": 2,
@@ -1386,27 +1386,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.106",
           "app_version": "1.9.23",
-          "last_seen_at": "2026-11-26 15:16:45",
-          "last_action": "Canlı MF Sorgulama (30 Ürün)",
+          "last_seen_at": "2026-11-26 15:17:00",
+          "last_action": "Canlı MF Sorgulama (23 Ürün)",
           "today_date": "2026-11-26",
           "today_searches": 8,
           "today_cart_adds": 0,
-          "today_smart_orders": 10,
+          "today_smart_orders": 12,
           "total_searches": 178,
           "total_cart_adds": 138,
-          "total_smart_orders": 209,
+          "total_smart_orders": 211,
           "total_days_used": 20,
           "recent_actions": [
-            {
-              "t": "2026-11-26 10:03:08",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş Planlama"
-            },
-            {
-              "t": "2026-11-26 10:03:08",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş (TRIA • 19 Kalem)"
-            },
             {
               "t": "2026-11-26 10:03:09",
               "type": "mf_resolve",
@@ -1471,6 +1461,16 @@
               "t": "2026-11-26 15:16:45",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (30 Ürün)"
+            },
+            {
+              "t": "2026-11-26 15:16:45",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-26 15:16:58",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (23 Ürün)"
             }
           ]
         },
