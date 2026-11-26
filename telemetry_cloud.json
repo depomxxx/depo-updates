@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 16:46:24",
+  "updated_at": "2026-11-26 16:46:37",
   "count": 7,
   "items": [
     {
@@ -803,16 +803,16 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "B446-9737-94C4",
-      "last_pc_name": "DESKTOP-5PFFU5S",
+      "hwid": "D719-CEB2-1542",
+      "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.9.24",
-      "last_seen_at": "2026-11-26 16:46:24",
-      "last_action": "[DESKTOP-5PFFU5S] Sepete Ekle (ALLIANCE): OTRIVINE MENTOL %O.1 10 ML D x30",
+      "last_seen_at": "2026-11-26 16:46:37",
+      "last_action": "[DESKTOP-M530BBB] Depo Fiyat Sorgulama",
       "today_date": "2026-11-26",
-      "today_searches": 22,
+      "today_searches": 23,
       "today_cart_adds": 97,
       "today_smart_orders": 112,
-      "total_searches": 861,
+      "total_searches": 862,
       "total_cart_adds": 1525,
       "total_smart_orders": 1981,
       "total_days_used": 20,
@@ -1107,7 +1107,7 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.9.24",
-          "last_seen_at": "2026-11-26 16:46:24",
+          "last_seen_at": "2026-11-26 16:46:31",
           "last_action": "Sepete Ekle (ALLIANCE): OTRIVINE MENTOL %O.1 10 ML D x30",
           "today_date": "2026-11-26",
           "today_searches": 2,
@@ -1390,22 +1390,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.106",
           "app_version": "1.9.24",
-          "last_seen_at": "2026-11-26 16:45:43",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-26 16:46:37",
+          "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-26",
-          "today_searches": 10,
+          "today_searches": 11,
           "today_cart_adds": 6,
           "today_smart_orders": 17,
-          "total_searches": 180,
+          "total_searches": 181,
           "total_cart_adds": 144,
           "total_smart_orders": 216,
           "total_days_used": 20,
           "recent_actions": [
-            {
-              "t": "2026-11-26 15:16:10",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-26 15:16:22",
               "type": "search",
@@ -1475,6 +1470,11 @@
               "t": "2026-11-26 16:36:42",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-26 16:46:37",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ],
           "health": {}
