@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 13:25:39",
+  "updated_at": "2026-11-26 13:25:59",
   "count": 7,
   "items": [
     {
@@ -804,15 +804,15 @@
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.23",
-      "last_seen_at": "2026-11-26 13:25:39",
-      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-26 13:25:59",
+      "last_action": "[DESKTOP-OTHNDUE] Toplu Sepet (ALLIANCE): 3 Kalem",
       "today_date": "2026-11-26",
       "today_searches": 14,
-      "today_cart_adds": 19,
-      "today_smart_orders": 43,
+      "today_cart_adds": 21,
+      "today_smart_orders": 44,
       "total_searches": 853,
-      "total_cart_adds": 1447,
-      "total_smart_orders": 1912,
+      "total_cart_adds": 1449,
+      "total_smart_orders": 1913,
       "total_days_used": 20,
       "pc_count": 9,
       "devices": {
@@ -916,32 +916,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.23",
-          "last_seen_at": "2026-11-26 13:25:39",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-26 13:25:59",
+          "last_action": "Toplu Sepet (ALLIANCE): 3 Kalem",
           "today_date": "2026-11-26",
           "today_searches": 8,
-          "today_cart_adds": 19,
-          "today_smart_orders": 36,
+          "today_cart_adds": 21,
+          "today_smart_orders": 37,
           "total_searches": 249,
-          "total_cart_adds": 645,
-          "total_smart_orders": 972,
+          "total_cart_adds": 647,
+          "total_smart_orders": 973,
           "total_days_used": 19,
           "recent_actions": [
-            {
-              "t": "2026-11-26 13:12:26",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-26 13:12:26",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 28 Kalem)"
-            },
-            {
-              "t": "2026-11-26 13:12:49",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-26 13:12:49",
               "type": "critical_stock",
@@ -1001,6 +986,21 @@
               "t": "2026-11-26 13:25:39",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-26 13:25:39",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 32 Kalem)"
+            },
+            {
+              "t": "2026-11-26 13:25:51",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-26 13:25:59",
+              "type": "cart",
+              "detail": "Toplu Sepet (ALLIANCE): 3 Kalem"
             }
           ]
         },
