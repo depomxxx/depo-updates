@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 17:59:24",
+  "updated_at": "2026-11-26 17:59:28",
   "count": 7,
   "items": [
     {
@@ -326,7 +326,7 @@
       "hwid": "3FB2-2E58-20EC",
       "last_pc_name": "LAPTOP-NTJEFOD2",
       "app_version": "1.9.24",
-      "last_seen_at": "2026-11-26 17:59:06",
+      "last_seen_at": "2026-11-26 17:59:28",
       "last_action": "Canlı MF Taraması",
       "today_date": "2026-11-26",
       "today_searches": 0,
@@ -344,7 +344,7 @@
           "desk_name": "LAPTOP-NTJEFOD2",
           "local_ip": "192.168.1.53",
           "app_version": "1.9.24",
-          "last_seen_at": "2026-11-26 17:59:06",
+          "last_seen_at": "2026-11-26 17:59:28",
           "last_action": "Canlı MF Taraması",
           "today_date": "2026-11-26",
           "today_searches": 0,
@@ -430,9 +430,11 @@
               "type": "mf_resolve",
               "detail": "Canlı MF Taraması"
             }
-          ]
+          ],
+          "health": {}
         }
-      }
+      },
+      "health": {}
     },
     {
       "id": "F4E0EFDE",
