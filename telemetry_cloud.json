@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 15:07:47",
+  "updated_at": "2026-11-26 15:07:56",
   "count": 7,
   "items": [
     {
@@ -801,17 +801,17 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "B446-9737-94C4",
-      "last_pc_name": "DESKTOP-5PFFU5S",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.23",
-      "last_seen_at": "2026-11-26 15:06:53",
-      "last_action": "[DESKTOP-5PFFU5S] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-26 15:07:56",
+      "last_action": "[DESKTOP-OTHNDUE] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-26",
       "today_searches": 16,
-      "today_cart_adds": 49,
+      "today_cart_adds": 52,
       "today_smart_orders": 67,
       "total_searches": 855,
-      "total_cart_adds": 1477,
+      "total_cart_adds": 1480,
       "total_smart_orders": 1936,
       "total_days_used": 20,
       "pc_count": 9,
@@ -916,27 +916,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.23",
-          "last_seen_at": "2026-11-26 15:06:36",
+          "last_seen_at": "2026-11-26 15:07:56",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-26",
           "today_searches": 8,
-          "today_cart_adds": 24,
+          "today_cart_adds": 27,
           "today_smart_orders": 41,
           "total_searches": 249,
-          "total_cart_adds": 650,
+          "total_cart_adds": 653,
           "total_smart_orders": 977,
           "total_days_used": 19,
           "recent_actions": [
-            {
-              "t": "2026-11-26 13:14:43",
-              "type": "cart",
-              "detail": "Toplu Sepet (ISKOOP): 1 Kalem"
-            },
-            {
-              "t": "2026-11-26 13:14:44",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-26 13:15:00",
               "type": "cart",
@@ -999,6 +989,16 @@
             },
             {
               "t": "2026-11-26 15:06:36",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-26 15:06:46",
+              "type": "cart",
+              "detail": "Toplu Sepet (ALLIANCE): 4 Kalem"
+            },
+            {
+              "t": "2026-11-26 15:06:50",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
