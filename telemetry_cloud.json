@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 12:50:23",
+  "updated_at": "2026-11-26 12:49:02",
   "count": 7,
   "items": [
     {
@@ -570,16 +570,16 @@
       "hwid": "F602-A07E-E462",
       "last_pc_name": "elçin",
       "app_version": "1.9.23",
-      "last_seen_at": "2026-11-26 12:48:39",
-      "last_action": "[elçin] Canlı MF Taraması",
+      "last_seen_at": "2026-11-26 12:49:02",
+      "last_action": "[elçin] Canlı MF Sorgulama (26 Ürün)",
       "today_date": "2026-11-26",
       "today_searches": 5,
       "today_cart_adds": 13,
-      "today_smart_orders": 1918,
+      "today_smart_orders": 1919,
       "total_searches": 354,
       "total_cart_adds": 796,
       "total_days_used": 17,
-      "total_smart_orders": 2319,
+      "total_smart_orders": 2320,
       "pc_count": 3,
       "devices": {
         "2781-74E7-11C9": {
@@ -606,22 +606,17 @@
           "desk_name": "elçin",
           "local_ip": "192.168.1.50",
           "app_version": "1.9.23",
-          "last_seen_at": "2026-11-26 12:48:39",
-          "last_action": "Canlı MF Taraması",
+          "last_seen_at": "2026-11-26 12:49:02",
+          "last_action": "Canlı MF Sorgulama (26 Ürün)",
           "today_date": "2026-11-26",
           "today_searches": 3,
           "today_cart_adds": 9,
-          "today_smart_orders": 1909,
+          "today_smart_orders": 1910,
           "total_searches": 3,
           "total_cart_adds": 9,
-          "total_smart_orders": 1868,
+          "total_smart_orders": 1869,
           "total_days_used": 1,
           "recent_actions": [
-            {
-              "t": "2026-11-26 12:47:14",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-26 12:47:17",
               "type": "smart_order",
@@ -691,6 +686,11 @@
               "t": "2026-11-26 12:48:39",
               "type": "mf_resolve",
               "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-26 12:49:02",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (26 Ürün)"
             }
           ]
         },
