@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 17:54:51",
+  "updated_at": "2026-11-26 17:55:04",
   "count": 7,
   "items": [
     {
@@ -803,18 +803,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "B446-9737-94C4",
-      "last_pc_name": "DESKTOP-5PFFU5S",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.24",
-      "last_seen_at": "2026-11-26 17:54:51",
-      "last_action": "[DESKTOP-5PFFU5S] Sepete Ekle (ALLIANCE): OTRIVINE MENTOL %O.1 10 ML D x30",
+      "last_seen_at": "2026-11-26 17:55:04",
+      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları Yenileme (TRIA • 62 Kalem)",
       "today_date": "2026-11-26",
       "today_searches": 26,
       "today_cart_adds": 101,
-      "today_smart_orders": 117,
+      "today_smart_orders": 118,
       "total_searches": 865,
       "total_cart_adds": 1529,
-      "total_smart_orders": 1986,
+      "total_smart_orders": 1987,
       "total_days_used": 20,
       "pc_count": 9,
       "devices": {
@@ -918,22 +918,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.24",
-          "last_seen_at": "2026-11-26 17:53:24",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-26 17:55:04",
+          "last_action": "Günün Çıkışları Yenileme (TRIA • 62 Kalem)",
           "today_date": "2026-11-26",
           "today_searches": 12,
           "today_cart_adds": 35,
-          "today_smart_orders": 63,
+          "today_smart_orders": 64,
           "total_searches": 253,
           "total_cart_adds": 661,
-          "total_smart_orders": 999,
+          "total_smart_orders": 1000,
           "total_days_used": 19,
           "recent_actions": [
-            {
-              "t": "2026-11-26 16:26:18",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-26 16:26:18",
               "type": "critical_stock",
@@ -1003,6 +998,11 @@
               "t": "2026-11-26 17:53:24",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-26 17:53:24",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 62 Kalem)"
             }
           ],
           "health": {}
