@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 16:34:22",
+  "updated_at": "2026-11-26 16:34:56",
   "count": 7,
   "items": [
     {
@@ -803,18 +803,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "B446-9737-94C4",
-      "last_pc_name": "DESKTOP-5PFFU5S",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.24",
-      "last_seen_at": "2026-11-26 16:34:22",
-      "last_action": "[DESKTOP-5PFFU5S] Sepete Ekle (ALLIANCE): OTRIVINE MENTOL %O.1 10 ML D x30",
+      "last_seen_at": "2026-11-26 16:34:56",
+      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları Yenileme (TRIA • 54 Kalem)",
       "today_date": "2026-11-26",
       "today_searches": 20,
       "today_cart_adds": 91,
-      "today_smart_orders": 110,
+      "today_smart_orders": 112,
       "total_searches": 859,
       "total_cart_adds": 1519,
-      "total_smart_orders": 1979,
+      "total_smart_orders": 1981,
       "total_days_used": 20,
       "pc_count": 9,
       "devices": {
@@ -918,27 +918,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.24",
-          "last_seen_at": "2026-11-26 16:33:11",
-          "last_action": "Toplu Sepet (ALLIANCE): 1 Kalem",
+          "last_seen_at": "2026-11-26 16:34:56",
+          "last_action": "Günün Çıkışları Yenileme (TRIA • 54 Kalem)",
           "today_date": "2026-11-26",
           "today_searches": 10,
           "today_cart_adds": 33,
-          "today_smart_orders": 56,
+          "today_smart_orders": 58,
           "total_searches": 251,
           "total_cart_adds": 659,
-          "total_smart_orders": 992,
+          "total_smart_orders": 994,
           "total_days_used": 19,
           "recent_actions": [
-            {
-              "t": "2026-11-26 15:32:53",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 40 Kalem)"
-            },
-            {
-              "t": "2026-11-26 16:00:21",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-26 16:14:27",
               "type": "critical_stock",
@@ -1003,6 +993,16 @@
               "t": "2026-11-26 16:26:39",
               "type": "cart",
               "detail": "Toplu Sepet (ALLIANCE): 1 Kalem"
+            },
+            {
+              "t": "2026-11-26 16:33:11",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-26 16:33:11",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 54 Kalem)"
             }
           ],
           "health": {}
