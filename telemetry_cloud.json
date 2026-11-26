@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 17:58:54",
+  "updated_at": "2026-11-26 17:59:06",
   "count": 7,
   "items": [
     {
@@ -325,16 +325,16 @@
       "status": "AKTIF",
       "hwid": "3FB2-2E58-20EC",
       "last_pc_name": "LAPTOP-NTJEFOD2",
-      "app_version": "1.9.23",
-      "last_seen_at": "2026-11-26 17:58:41",
-      "last_action": "Program Açık (Canlı)",
+      "app_version": "1.9.24",
+      "last_seen_at": "2026-11-26 17:59:06",
+      "last_action": "Canlı MF Taraması",
       "today_date": "2026-11-26",
       "today_searches": 0,
       "today_cart_adds": 0,
-      "today_smart_orders": 0,
+      "today_smart_orders": 2,
       "total_searches": 48,
       "total_cart_adds": 39,
-      "total_smart_orders": 170,
+      "total_smart_orders": 172,
       "total_days_used": 5,
       "pc_count": 1,
       "devices": {
@@ -343,28 +343,18 @@
           "pc_name": "LAPTOP-NTJEFOD2",
           "desk_name": "LAPTOP-NTJEFOD2",
           "local_ip": "192.168.1.53",
-          "app_version": "1.9.23",
-          "last_seen_at": "2026-11-26 17:58:41",
-          "last_action": "Program Açık (Canlı)",
+          "app_version": "1.9.24",
+          "last_seen_at": "2026-11-26 17:59:06",
+          "last_action": "Canlı MF Taraması",
           "today_date": "2026-11-26",
           "today_searches": 0,
           "today_cart_adds": 0,
-          "today_smart_orders": 0,
+          "today_smart_orders": 2,
           "total_searches": 48,
           "total_cart_adds": 39,
-          "total_smart_orders": 170,
+          "total_smart_orders": 172,
           "total_days_used": 5,
           "recent_actions": [
-            {
-              "t": "2026-11-25 14:50:59",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (30 Ürün)"
-            },
-            {
-              "t": "2026-11-25 14:50:59",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-25 14:51:00",
               "type": "critical_stock",
@@ -429,6 +419,16 @@
               "t": "2026-11-25 16:34:27",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-26 17:58:52",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-26 17:59:06",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
             }
           ]
         }
