@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 16:35:53",
+  "updated_at": "2026-11-26 16:36:09",
   "count": 7,
   "items": [
     {
@@ -803,17 +803,17 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "B446-9737-94C4",
-      "last_pc_name": "DESKTOP-5PFFU5S",
+      "hwid": "D719-CEB2-1542",
+      "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.9.24",
-      "last_seen_at": "2026-11-26 16:35:53",
-      "last_action": "[DESKTOP-5PFFU5S] Sepete Ekle (ALLIANCE): OTRIVINE MENTOL %O.1 10 ML D x30",
+      "last_seen_at": "2026-11-26 16:36:09",
+      "last_action": "[DESKTOP-M530BBB] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-26",
       "today_searches": 22,
-      "today_cart_adds": 91,
+      "today_cart_adds": 92,
       "today_smart_orders": 112,
       "total_searches": 861,
-      "total_cart_adds": 1519,
+      "total_cart_adds": 1520,
       "total_smart_orders": 1981,
       "total_days_used": 20,
       "pc_count": 9,
@@ -1390,22 +1390,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.106",
           "app_version": "1.9.24",
-          "last_seen_at": "2026-11-26 16:35:50",
-          "last_action": "Depo Sorgu: D-COLEFOR 5.000 I.U 50 CAP.",
+          "last_seen_at": "2026-11-26 16:36:09",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-26",
           "today_searches": 10,
-          "today_cart_adds": 0,
+          "today_cart_adds": 1,
           "today_smart_orders": 17,
           "total_searches": 180,
-          "total_cart_adds": 138,
+          "total_cart_adds": 139,
           "total_smart_orders": 216,
           "total_days_used": 20,
           "recent_actions": [
-            {
-              "t": "2026-11-26 11:21:05",
-              "type": "search",
-              "detail": "Depo Sorgu: FOREVER GARCINIA PLUS"
-            },
             {
               "t": "2026-11-26 15:16:09",
               "type": "critical_stock",
@@ -1475,6 +1470,11 @@
               "t": "2026-11-26 16:35:50",
               "type": "search",
               "detail": "Depo Sorgu: D-COLEFOR 5.000 I.U 50 CAP."
+            },
+            {
+              "t": "2026-11-26 16:36:09",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ],
           "health": {}
