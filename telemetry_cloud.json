@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 16:43:38",
+  "updated_at": "2026-11-26 16:43:04",
   "count": 7,
   "items": [
     {
@@ -803,11 +803,11 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D719-CEB2-1542",
-      "last_pc_name": "DESKTOP-M530BBB",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.24",
-      "last_seen_at": "2026-11-26 16:42:34",
-      "last_action": "[DESKTOP-M530BBB] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-26 16:43:04",
+      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları Yenileme (TRIA • 54 Kalem)",
       "today_date": "2026-11-26",
       "today_searches": 22,
       "today_cart_adds": 97,
@@ -918,7 +918,7 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.24",
-          "last_seen_at": "2026-11-26 16:41:36",
+          "last_seen_at": "2026-11-26 16:43:04",
           "last_action": "Günün Çıkışları Yenileme (TRIA • 54 Kalem)",
           "today_date": "2026-11-26",
           "today_searches": 10,
