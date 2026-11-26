@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 12:46:47",
+  "updated_at": "2026-11-26 12:46:34",
   "count": 7,
   "items": [
     {
@@ -570,7 +570,7 @@
       "hwid": "F602-A07E-E462",
       "last_pc_name": "elçin",
       "app_version": "1.9.23",
-      "last_seen_at": "2026-11-26 12:46:47",
+      "last_seen_at": "2026-11-26 12:47:03",
       "last_action": "[elçin] Piyasa Fiyat Kıyaslama: OCEAN PLUS BALIK YAGI 1200MG 100",
       "today_date": "2026-11-26",
       "today_searches": 5,
@@ -606,7 +606,7 @@
           "desk_name": "elçin",
           "local_ip": "192.168.1.50",
           "app_version": "1.9.23",
-          "last_seen_at": "2026-11-26 12:46:47",
+          "last_seen_at": "2026-11-26 12:47:03",
           "last_action": "Piyasa Fiyat Kıyaslama: OCEAN PLUS BALIK YAGI 1200MG 100",
           "today_date": "2026-11-26",
           "today_searches": 3,
@@ -700,7 +700,7 @@
           "desk_name": "DESKTOP-8JN0NE5",
           "local_ip": "192.168.1.37",
           "app_version": "1.9.23",
-          "last_seen_at": "2026-11-26 12:44:52",
+          "last_seen_at": "2026-11-26 12:46:34",
           "last_action": "Depo Sorgu: TIOPATI 600 MG HR 30 FTB.",
           "today_date": "2026-11-26",
           "today_searches": 2,
