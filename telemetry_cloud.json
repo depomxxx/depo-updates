@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 13:17:41",
+  "updated_at": "2026-11-26 13:16:05",
   "count": 7,
   "items": [
     {
@@ -801,17 +801,17 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D719-CEB2-1542",
-      "last_pc_name": "DESKTOP-M530BBB",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.23",
-      "last_seen_at": "2026-11-26 13:14:57",
-      "last_action": "[DESKTOP-M530BBB] Depo Sorgu: FOREVER GARCINIA PLUS",
+      "last_seen_at": "2026-11-26 13:16:05",
+      "last_action": "[DESKTOP-OTHNDUE] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-26",
       "today_searches": 14,
-      "today_cart_adds": 15,
+      "today_cart_adds": 19,
       "today_smart_orders": 40,
       "total_searches": 853,
-      "total_cart_adds": 1443,
+      "total_cart_adds": 1447,
       "total_smart_orders": 1909,
       "total_days_used": 20,
       "pc_count": 9,
@@ -916,27 +916,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.23",
-          "last_seen_at": "2026-11-26 13:14:43",
-          "last_action": "Toplu Sepet (ISKOOP): 1 Kalem",
+          "last_seen_at": "2026-11-26 13:16:05",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-26",
           "today_searches": 8,
-          "today_cart_adds": 15,
+          "today_cart_adds": 19,
           "today_smart_orders": 33,
           "total_searches": 249,
-          "total_cart_adds": 641,
+          "total_cart_adds": 645,
           "total_smart_orders": 969,
           "total_days_used": 19,
           "recent_actions": [
-            {
-              "t": "2026-11-26 10:26:12",
-              "type": "search",
-              "detail": "Depo Sorgu: TOLVON 10 MG 30 TB."
-            },
-            {
-              "t": "2026-11-26 12:32:44",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-26 12:32:44",
               "type": "critical_stock",
@@ -1001,6 +991,16 @@
               "t": "2026-11-26 13:14:43",
               "type": "cart",
               "detail": "Toplu Sepet (ISKOOP): 1 Kalem"
+            },
+            {
+              "t": "2026-11-26 13:14:44",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-26 13:15:00",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
