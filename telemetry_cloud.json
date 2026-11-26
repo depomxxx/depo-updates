@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 11:22:05",
+  "updated_at": "2026-11-26 11:22:45",
   "count": 7,
   "items": [
     {
@@ -801,16 +801,16 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "5834-FAC9-B71F",
-      "last_pc_name": "DESKTOP-OTHNDUE",
+      "hwid": "D719-CEB2-1542",
+      "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.9.23",
-      "last_seen_at": "2026-11-26 11:22:05",
-      "last_action": "[DESKTOP-OTHNDUE] Depo Sorgu: TOLVON 10 MG 30 TB.",
+      "last_seen_at": "2026-11-26 11:22:45",
+      "last_action": "[DESKTOP-M530BBB] Depo Sorgu: FOREVER GARCINIA PLUS",
       "today_date": "2026-11-26",
-      "today_searches": 11,
+      "today_searches": 12,
       "today_cart_adds": 10,
       "today_smart_orders": 32,
-      "total_searches": 850,
+      "total_searches": 851,
       "total_cart_adds": 1438,
       "total_smart_orders": 1901,
       "total_days_used": 20,
@@ -1386,22 +1386,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.106",
           "app_version": "1.9.23",
-          "last_seen_at": "2026-11-26 11:20:58",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-26 11:22:45",
+          "last_action": "Depo Sorgu: FOREVER GARCINIA PLUS",
           "today_date": "2026-11-26",
-          "today_searches": 5,
+          "today_searches": 6,
           "today_cart_adds": 0,
           "today_smart_orders": 7,
-          "total_searches": 175,
+          "total_searches": 176,
           "total_cart_adds": 138,
           "total_smart_orders": 206,
           "total_days_used": 20,
           "recent_actions": [
-            {
-              "t": "2026-11-25 17:02:17",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-25 17:02:25",
               "type": "search",
@@ -1471,6 +1466,11 @@
               "t": "2026-11-26 11:20:58",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-26 11:21:05",
+              "type": "search",
+              "detail": "Depo Sorgu: FOREVER GARCINIA PLUS"
             }
           ]
         },
