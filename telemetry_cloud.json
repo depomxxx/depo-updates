@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 13:12:49",
+  "updated_at": "2026-11-26 13:13:19",
   "count": 7,
   "items": [
     {
@@ -804,15 +804,15 @@
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.23",
-      "last_seen_at": "2026-11-26 13:12:49",
-      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları / Kritik Stok",
+      "last_seen_at": "2026-11-26 13:13:19",
+      "last_action": "[DESKTOP-OTHNDUE] Depo Fiyat Sorgulama",
       "today_date": "2026-11-26",
-      "today_searches": 12,
+      "today_searches": 13,
       "today_cart_adds": 10,
-      "today_smart_orders": 39,
-      "total_searches": 851,
+      "today_smart_orders": 40,
+      "total_searches": 852,
       "total_cart_adds": 1438,
-      "total_smart_orders": 1908,
+      "total_smart_orders": 1909,
       "total_days_used": 20,
       "pc_count": 9,
       "devices": {
@@ -916,27 +916,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.23",
-          "last_seen_at": "2026-11-26 13:12:49",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-26 13:13:19",
+          "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-26",
-          "today_searches": 6,
+          "today_searches": 7,
           "today_cart_adds": 10,
-          "today_smart_orders": 32,
-          "total_searches": 247,
+          "today_smart_orders": 33,
+          "total_searches": 248,
           "total_cart_adds": 636,
-          "total_smart_orders": 968,
+          "total_smart_orders": 969,
           "total_days_used": 19,
           "recent_actions": [
-            {
-              "t": "2026-11-26 10:16:24",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş (TRIA • 246 Kalem)"
-            },
-            {
-              "t": "2026-11-26 10:16:25",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-26 10:16:25",
               "type": "mf_resolve",
@@ -1001,6 +991,16 @@
               "t": "2026-11-26 13:12:49",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-26 13:12:49",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 28 Kalem)"
+            },
+            {
+              "t": "2026-11-26 13:13:19",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ]
         },
