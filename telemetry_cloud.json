@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 11:12:29",
+  "updated_at": "2026-11-26 11:14:51",
   "count": 7,
   "items": [
     {
@@ -1908,16 +1908,16 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.9.23",
-      "last_seen_at": "2026-11-26 11:14:19",
-      "last_action": "Program Açık (Canlı)",
+      "last_seen_at": "2026-11-26 11:14:51",
+      "last_action": "[DESKTOP-T4EAUS3] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-26",
       "today_searches": 0,
-      "today_cart_adds": 0,
-      "today_smart_orders": 0,
+      "today_cart_adds": 1,
+      "today_smart_orders": 2,
       "total_searches": 247,
-      "total_cart_adds": 843,
+      "total_cart_adds": 844,
       "total_days_used": 18,
-      "total_smart_orders": 657,
+      "total_smart_orders": 659,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -2000,32 +2000,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.9.23",
-          "last_seen_at": "2026-11-26 11:14:19",
-          "last_action": "Program Açık (Canlı)",
+          "last_seen_at": "2026-11-26 11:14:51",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-26",
           "today_searches": 0,
-          "today_cart_adds": 0,
-          "today_smart_orders": 0,
+          "today_cart_adds": 1,
+          "today_smart_orders": 2,
           "total_searches": 149,
-          "total_cart_adds": 529,
-          "total_smart_orders": 466,
+          "total_cart_adds": 530,
+          "total_smart_orders": 468,
           "total_days_used": 18,
           "recent_actions": [
-            {
-              "t": "2026-11-25 11:56:21",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-25 17:04:19",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-25 17:04:19",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-25 17:04:56",
               "type": "mf_resolve",
@@ -2083,6 +2068,21 @@
             },
             {
               "t": "2026-11-25 17:14:46",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-26 11:14:22",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-26 11:14:23",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-26 11:14:51",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
