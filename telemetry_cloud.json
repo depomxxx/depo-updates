@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 17:58:30",
+  "updated_at": "2026-11-26 17:58:41",
   "count": 7,
   "items": [
     {
@@ -326,16 +326,16 @@
       "hwid": "3FB2-2E58-20EC",
       "last_pc_name": "LAPTOP-NTJEFOD2",
       "app_version": "1.9.23",
-      "last_seen_at": "2026-11-25 18:03:04",
-      "last_action": "Günün Çıkışları / Kritik Stok",
-      "today_date": "2026-11-25",
+      "last_seen_at": "2026-11-26 17:58:41",
+      "last_action": "Program Açık (Canlı)",
+      "today_date": "2026-11-26",
       "today_searches": 0,
-      "today_cart_adds": 4,
-      "today_smart_orders": 18,
+      "today_cart_adds": 0,
+      "today_smart_orders": 0,
       "total_searches": 48,
       "total_cart_adds": 39,
       "total_smart_orders": 170,
-      "total_days_used": 4,
+      "total_days_used": 5,
       "pc_count": 1,
       "devices": {
         "3FB2-2E58-20EC": {
@@ -344,16 +344,16 @@
           "desk_name": "LAPTOP-NTJEFOD2",
           "local_ip": "192.168.1.53",
           "app_version": "1.9.23",
-          "last_seen_at": "2026-11-25 18:03:04",
-          "last_action": "Günün Çıkışları / Kritik Stok",
-          "today_date": "2026-11-25",
+          "last_seen_at": "2026-11-26 17:58:41",
+          "last_action": "Program Açık (Canlı)",
+          "today_date": "2026-11-26",
           "today_searches": 0,
-          "today_cart_adds": 4,
-          "today_smart_orders": 18,
+          "today_cart_adds": 0,
+          "today_smart_orders": 0,
           "total_searches": 48,
           "total_cart_adds": 39,
           "total_smart_orders": 170,
-          "total_days_used": 4,
+          "total_days_used": 5,
           "recent_actions": [
             {
               "t": "2026-11-25 14:50:59",
