@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 13:02:31",
+  "updated_at": "2026-11-26 13:01:13",
   "count": 7,
   "items": [
     {
@@ -567,11 +567,11 @@
       "plan": "PRO_YILLIK",
       "expires_at": "2027-11-11",
       "status": "AKTIF",
-      "hwid": "2DED-CFF9-D593",
-      "last_pc_name": "DESKTOP-8JN0NE5",
+      "hwid": "F602-A07E-E462",
+      "last_pc_name": "elçin",
       "app_version": "1.9.23",
-      "last_seen_at": "2026-11-26 13:00:12",
-      "last_action": "[DESKTOP-8JN0NE5] Depo Sorgu: TIOPATI 600 MG HR 30 FTB.",
+      "last_seen_at": "2026-11-26 13:01:13",
+      "last_action": "[elçin] Depo Sorgu: TOBRASED %0.3 5 ML GOZ GTT.",
       "today_date": "2026-11-26",
       "today_searches": 9,
       "today_cart_adds": 16,
@@ -606,7 +606,7 @@
           "desk_name": "elçin",
           "local_ip": "192.168.1.50",
           "app_version": "1.9.23",
-          "last_seen_at": "2026-11-26 12:59:33",
+          "last_seen_at": "2026-11-26 13:01:13",
           "last_action": "Depo Sorgu: TOBRASED %0.3 5 ML GOZ GTT.",
           "today_date": "2026-11-26",
           "today_searches": 7,
