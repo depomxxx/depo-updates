@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 10:17:32",
+  "updated_at": "2026-11-26 10:17:45",
   "count": 7,
   "items": [
     {
@@ -801,18 +801,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D719-CEB2-1542",
-      "last_pc_name": "DESKTOP-M530BBB",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.23",
-      "last_seen_at": "2026-11-26 10:17:32",
-      "last_action": "[DESKTOP-M530BBB] Canlı MF Sorgulama (8 Ürün)",
+      "last_seen_at": "2026-11-26 10:17:45",
+      "last_action": "[DESKTOP-OTHNDUE] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-26",
       "today_searches": 8,
-      "today_cart_adds": 8,
-      "today_smart_orders": 26,
+      "today_cart_adds": 10,
+      "today_smart_orders": 30,
       "total_searches": 847,
-      "total_cart_adds": 1436,
-      "total_smart_orders": 1895,
+      "total_cart_adds": 1438,
+      "total_smart_orders": 1899,
       "total_days_used": 20,
       "pc_count": 9,
       "devices": {
@@ -916,42 +916,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.23",
-          "last_seen_at": "2026-11-26 10:16:24",
-          "last_action": "Toplu Sepet (ALLIANCE): 10 Kalem",
+          "last_seen_at": "2026-11-26 10:17:45",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-26",
           "today_searches": 4,
-          "today_cart_adds": 8,
-          "today_smart_orders": 19,
+          "today_cart_adds": 10,
+          "today_smart_orders": 23,
           "total_searches": 245,
-          "total_cart_adds": 634,
-          "total_smart_orders": 955,
+          "total_cart_adds": 636,
+          "total_smart_orders": 959,
           "total_days_used": 19,
           "recent_actions": [
-            {
-              "t": "2026-11-26 10:12:01",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş (TRIA • 29 Kalem)"
-            },
-            {
-              "t": "2026-11-26 10:12:01",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-26 10:12:02",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş Planlama"
-            },
-            {
-              "t": "2026-11-26 10:12:03",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş (TRIA • 246 Kalem)"
-            },
-            {
-              "t": "2026-11-26 10:12:05",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (4 Ürün)"
-            },
             {
               "t": "2026-11-26 10:12:05",
               "type": "mf_resolve",
@@ -1001,6 +976,31 @@
               "t": "2026-11-26 10:16:24",
               "type": "cart",
               "detail": "Toplu Sepet (ALLIANCE): 10 Kalem"
+            },
+            {
+              "t": "2026-11-26 10:16:24",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş Planlama"
+            },
+            {
+              "t": "2026-11-26 10:16:24",
+              "type": "smart_order",
+              "detail": "Toplu Sipariş (TRIA • 246 Kalem)"
+            },
+            {
+              "t": "2026-11-26 10:16:25",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-26 10:16:25",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (2 Ürün)"
+            },
+            {
+              "t": "2026-11-26 10:16:30",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ]
         },
