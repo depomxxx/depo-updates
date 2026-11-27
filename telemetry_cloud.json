@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 13:34:45",
+  "updated_at": "2026-11-27 13:35:05",
   "count": 7,
   "items": [
     {
@@ -800,23 +800,23 @@
       "pharmacist_name": "EDA BİLGİN",
       "phone": "05077034200",
       "city": "SAMSUN/İLKADIM",
-      "gln_no": "8680001112258",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "8FD3-5823-91F4",
-      "last_pc_name": "Eda-Bilgin",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.24",
-      "last_seen_at": "2026-11-27 13:34:45",
-      "last_action": "[Eda-Bilgin] Canlı MF Sorgulama (5 Ürün)",
+      "last_seen_at": "2026-11-27 13:35:05",
+      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-27",
       "today_searches": 38,
-      "today_cart_adds": 21,
-      "today_smart_orders": 51,
+      "today_cart_adds": 25,
+      "today_smart_orders": 53,
       "total_searches": 903,
-      "total_cart_adds": 1550,
-      "total_smart_orders": 2040,
+      "total_cart_adds": 1554,
+      "total_smart_orders": 2042,
       "total_days_used": 21,
       "pc_count": 9,
       "devices": {
@@ -920,42 +920,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.24",
-          "last_seen_at": "2026-11-27 13:34:01",
+          "last_seen_at": "2026-11-27 13:35:05",
           "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-27",
           "today_searches": 30,
-          "today_cart_adds": 16,
-          "today_smart_orders": 36,
+          "today_cart_adds": 20,
+          "today_smart_orders": 38,
           "total_searches": 283,
-          "total_cart_adds": 677,
-          "total_smart_orders": 1038,
+          "total_cart_adds": 681,
+          "total_smart_orders": 1040,
           "total_days_used": 20,
           "recent_actions": [
-            {
-              "t": "2026-11-27 12:15:14",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-27 12:15:14",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 28 Kalem)"
-            },
-            {
-              "t": "2026-11-27 12:16:26",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-27 12:16:26",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 28 Kalem)"
-            },
-            {
-              "t": "2026-11-27 12:17:40",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-27 12:17:40",
               "type": "critical_stock",
@@ -1003,6 +978,31 @@
             },
             {
               "t": "2026-11-27 13:34:01",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-27 13:34:01",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 27 Kalem)"
+            },
+            {
+              "t": "2026-11-27 13:34:08",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-27 13:34:11",
+              "type": "cart",
+              "detail": "Toplu Sepet (ALLIANCE): 1 Kalem"
+            },
+            {
+              "t": "2026-11-27 13:34:13",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-27 13:35:05",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
             }
