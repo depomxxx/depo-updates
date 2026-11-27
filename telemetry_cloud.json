@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 11:50:30",
+  "updated_at": "2026-11-27 11:50:36",
   "count": 7,
   "items": [
     {
@@ -805,11 +805,11 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "5834-FAC9-B71F",
-      "last_pc_name": "DESKTOP-OTHNDUE",
+      "hwid": "D719-CEB2-1542",
+      "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.9.24",
-      "last_seen_at": "2026-11-27 11:50:30",
-      "last_action": "[DESKTOP-OTHNDUE] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-27 11:50:36",
+      "last_action": "[DESKTOP-M530BBB] Depo Sorgu: RUDISTA 85/500 MG 6 TB.",
       "today_date": "2026-11-27",
       "today_searches": 30,
       "today_cart_adds": 21,
@@ -1392,7 +1392,7 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.106",
           "app_version": "1.9.24",
-          "last_seen_at": "2026-11-27 11:49:05",
+          "last_seen_at": "2026-11-27 11:50:36",
           "last_action": "Depo Sorgu: RUDISTA 85/500 MG 6 TB.",
           "today_date": "2026-11-27",
           "today_searches": 4,
