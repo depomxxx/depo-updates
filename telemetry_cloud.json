@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 11:06:33",
+  "updated_at": "2026-11-27 11:07:53",
   "count": 7,
   "items": [
     {
@@ -805,16 +805,16 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "5834-FAC9-B71F",
-      "last_pc_name": "DESKTOP-OTHNDUE",
+      "hwid": "D719-CEB2-1542",
+      "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.9.24",
-      "last_seen_at": "2026-11-27 11:06:33",
-      "last_action": "[DESKTOP-OTHNDUE] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-27 11:07:53",
+      "last_action": "[DESKTOP-M530BBB] Depo Sorgu: RUDISTA 85/500 MG 6 TB.",
       "today_date": "2026-11-27",
-      "today_searches": 9,
+      "today_searches": 10,
       "today_cart_adds": 9,
       "today_smart_orders": 13,
-      "total_searches": 874,
+      "total_searches": 875,
       "total_cart_adds": 1538,
       "total_smart_orders": 2002,
       "total_days_used": 21,
@@ -1392,22 +1392,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.106",
           "app_version": "1.9.24",
-          "last_seen_at": "2026-11-27 11:05:58",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-27 11:07:53",
+          "last_action": "Depo Sorgu: RUDISTA 85/500 MG 6 TB.",
           "today_date": "2026-11-27",
-          "today_searches": 3,
+          "today_searches": 4,
           "today_cart_adds": 5,
           "today_smart_orders": 8,
-          "total_searches": 185,
+          "total_searches": 186,
           "total_cart_adds": 151,
           "total_smart_orders": 224,
           "total_days_used": 21,
           "recent_actions": [
-            {
-              "t": "2026-11-27 10:32:50",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-27 10:32:50",
               "type": "mf_resolve",
@@ -1477,6 +1472,11 @@
               "t": "2026-11-27 11:05:58",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-27 11:06:05",
+              "type": "search",
+              "detail": "Depo Sorgu: RUDISTA 85/500 MG 6 TB."
             }
           ],
           "health": {}
