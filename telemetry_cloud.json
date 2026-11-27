@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 11:36:53",
+  "updated_at": "2026-11-27 11:37:57",
   "count": 7,
   "items": [
     {
@@ -805,18 +805,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D719-CEB2-1542",
-      "last_pc_name": "DESKTOP-M530BBB",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.24",
-      "last_seen_at": "2026-11-27 11:36:53",
-      "last_action": "[DESKTOP-M530BBB] Depo Sorgu: RUDISTA 85/500 MG 6 TB.",
+      "last_seen_at": "2026-11-27 11:37:57",
+      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-27",
       "today_searches": 10,
       "today_cart_adds": 9,
-      "today_smart_orders": 13,
+      "today_smart_orders": 14,
       "total_searches": 875,
       "total_cart_adds": 1538,
-      "total_smart_orders": 2002,
+      "total_smart_orders": 2003,
       "total_days_used": 21,
       "pc_count": 9,
       "devices": {
@@ -920,22 +920,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.24",
-          "last_seen_at": "2026-11-27 11:36:51",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-27 11:37:57",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-27",
           "today_searches": 6,
           "today_cart_adds": 4,
-          "today_smart_orders": 5,
+          "today_smart_orders": 6,
           "total_searches": 259,
           "total_cart_adds": 665,
-          "total_smart_orders": 1007,
+          "total_smart_orders": 1008,
           "total_days_used": 20,
           "recent_actions": [
-            {
-              "t": "2026-11-26 18:24:16",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-26 18:24:16",
               "type": "critical_stock",
@@ -1005,6 +1000,11 @@
               "t": "2026-11-27 10:40:05",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-27 11:37:57",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ],
           "health": {}
