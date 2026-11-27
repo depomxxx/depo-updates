@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 15:42:03",
+  "updated_at": "2026-11-27 15:42:11",
   "count": 7,
   "items": [
     {
@@ -800,7 +800,7 @@
       "pharmacist_name": "EDA BİLGİN",
       "phone": "05077034200",
       "city": "SAMSUN/İLKADIM",
-      "gln_no": "8680001112258",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
@@ -808,13 +808,13 @@
       "hwid": "D719-CEB2-1542",
       "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.9.24",
-      "last_seen_at": "2026-11-27 15:42:03",
-      "last_action": "[DESKTOP-M530BBB] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-27 15:42:11",
+      "last_action": "[DESKTOP-M530BBB] Depo Fiyat Sorgulama",
       "today_date": "2026-11-27",
-      "today_searches": 62,
+      "today_searches": 63,
       "today_cart_adds": 49,
       "today_smart_orders": 74,
-      "total_searches": 927,
+      "total_searches": 928,
       "total_cart_adds": 1578,
       "total_smart_orders": 2063,
       "total_days_used": 21,
@@ -1393,22 +1393,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.106",
           "app_version": "1.9.24",
-          "last_seen_at": "2026-11-27 15:42:03",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-27 15:42:11",
+          "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-27",
-          "today_searches": 18,
+          "today_searches": 19,
           "today_cart_adds": 14,
           "today_smart_orders": 8,
-          "total_searches": 200,
+          "total_searches": 201,
           "total_cart_adds": 160,
           "total_smart_orders": 224,
           "total_days_used": 21,
           "recent_actions": [
-            {
-              "t": "2026-11-27 12:54:44",
-              "type": "search",
-              "detail": "Depo Sorgu: PSORCUTAN B %0.005+0.05 30 GR"
-            },
             {
               "t": "2026-11-27 13:46:55",
               "type": "search",
@@ -1478,6 +1473,11 @@
               "t": "2026-11-27 15:41:34",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-27 15:42:11",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ],
           "health": {}
