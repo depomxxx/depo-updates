@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 16:48:00",
+  "updated_at": "2026-11-27 16:50:37",
   "count": 7,
   "items": [
     {
@@ -1918,16 +1918,16 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.9.24",
-      "last_seen_at": "2026-11-27 16:50:15",
-      "last_action": "[DESKTOP-T4EAUS3] Canlı MF Sorgulama (30 Ürün)",
+      "last_seen_at": "2026-11-27 16:50:37",
+      "last_action": "[DESKTOP-T4EAUS3] Canlı MF Sorgulama (27 Ürün)",
       "today_date": "2026-11-27",
       "today_searches": 12,
-      "today_cart_adds": 7,
-      "today_smart_orders": 10,
+      "today_cart_adds": 9,
+      "today_smart_orders": 12,
       "total_searches": 273,
-      "total_cart_adds": 884,
+      "total_cart_adds": 886,
       "total_days_used": 19,
-      "total_smart_orders": 711,
+      "total_smart_orders": 713,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -2010,37 +2010,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.9.24",
-          "last_seen_at": "2026-11-27 16:50:15",
-          "last_action": "Canlı MF Sorgulama (30 Ürün)",
+          "last_seen_at": "2026-11-27 16:50:37",
+          "last_action": "Canlı MF Sorgulama (27 Ürün)",
           "today_date": "2026-11-27",
           "today_searches": 12,
-          "today_cart_adds": 7,
-          "today_smart_orders": 10,
+          "today_cart_adds": 9,
+          "today_smart_orders": 12,
           "total_searches": 171,
-          "total_cart_adds": 570,
-          "total_smart_orders": 510,
+          "total_cart_adds": 572,
+          "total_smart_orders": 512,
           "total_days_used": 19,
           "recent_actions": [
-            {
-              "t": "2026-11-27 11:54:59",
-              "type": "search",
-              "detail": "Depo Sorgu: GREENFOL FOLIK ASIT 30 TABLET"
-            },
-            {
-              "t": "2026-11-27 11:55:00",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (3 Ürün)"
-            },
-            {
-              "t": "2026-11-27 13:10:00",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-27 13:10:02",
-              "type": "search",
-              "detail": "Depo Sorgu: GREENFOL FOLIK ASIT 30 TABLET"
-            },
             {
               "t": "2026-11-27 13:10:05",
               "type": "search",
@@ -2095,6 +2075,26 @@
               "t": "2026-11-27 16:50:15",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (30 Ürün)"
+            },
+            {
+              "t": "2026-11-27 16:50:15",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-27 16:50:15",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-27 16:50:17",
+              "type": "cart",
+              "detail": "Sepete Ekle (ALLIANCE): MONOKET 20MG 20 TABLET x9"
+            },
+            {
+              "t": "2026-11-27 16:50:37",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (27 Ürün)"
             }
           ],
           "health": {}
