@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 12:56:52",
+  "updated_at": "2026-11-27 12:54:37",
   "count": 7,
   "items": [
     {
@@ -805,16 +805,16 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "5834-FAC9-B71F",
-      "last_pc_name": "DESKTOP-OTHNDUE",
+      "hwid": "D719-CEB2-1542",
+      "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.9.24",
-      "last_seen_at": "2026-11-27 12:54:01",
-      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları Yenileme (TRIA • 28 Kalem)",
+      "last_seen_at": "2026-11-27 12:54:37",
+      "last_action": "[DESKTOP-M530BBB] Depo Fiyat Sorgulama",
       "today_date": "2026-11-27",
-      "today_searches": 31,
+      "today_searches": 33,
       "today_cart_adds": 21,
       "today_smart_orders": 48,
-      "total_searches": 896,
+      "total_searches": 898,
       "total_cart_adds": 1550,
       "total_smart_orders": 2037,
       "total_days_used": 21,
@@ -1015,7 +1015,7 @@
           "desk_name": "Eda-Bilgin",
           "local_ip": "192.168.1.110",
           "app_version": "1.9.24",
-          "last_seen_at": "2026-11-27 12:53:50",
+          "last_seen_at": "2026-11-27 12:54:26",
           "last_action": "Canlı MF Sorgulama (5 Ürün)",
           "today_date": "2026-11-27",
           "today_searches": 0,
@@ -1393,27 +1393,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.106",
           "app_version": "1.9.24",
-          "last_seen_at": "2026-11-27 12:53:51",
+          "last_seen_at": "2026-11-27 12:54:37",
           "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-27",
-          "today_searches": 5,
+          "today_searches": 7,
           "today_cart_adds": 5,
           "today_smart_orders": 8,
-          "total_searches": 187,
+          "total_searches": 189,
           "total_cart_adds": 151,
           "total_smart_orders": 224,
           "total_days_used": 21,
           "recent_actions": [
-            {
-              "t": "2026-11-27 10:33:04",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (9 Ürün)"
-            },
-            {
-              "t": "2026-11-27 10:33:19",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-27 10:33:27",
               "type": "search",
@@ -1476,6 +1466,16 @@
             },
             {
               "t": "2026-11-27 12:53:51",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-27 12:53:58",
+              "type": "search",
+              "detail": "Depo Sorgu: PSORCUTAN %0.05 30 GR POM."
+            },
+            {
+              "t": "2026-11-27 12:54:37",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
             }
