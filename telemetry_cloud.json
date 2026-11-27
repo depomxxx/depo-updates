@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 13:36:35",
+  "updated_at": "2026-11-27 13:36:44",
   "count": 7,
   "items": [
     {
@@ -805,18 +805,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D719-CEB2-1542",
-      "last_pc_name": "DESKTOP-M530BBB",
+      "hwid": "D2E4-AA57-C021",
+      "last_pc_name": "DESKTOP-1N3LQF0",
       "app_version": "1.9.24",
-      "last_seen_at": "2026-11-27 13:36:35",
-      "last_action": "[DESKTOP-M530BBB] Depo Sorgu: PSORCUTAN B %0.005+0.05 30 GR",
+      "last_seen_at": "2026-11-27 13:36:44",
+      "last_action": "[DESKTOP-1N3LQF0] Canlı MF Sorgulama (30 Ürün)",
       "today_date": "2026-11-27",
       "today_searches": 42,
       "today_cart_adds": 25,
-      "today_smart_orders": 60,
+      "today_smart_orders": 61,
       "total_searches": 907,
       "total_cart_adds": 1554,
-      "total_smart_orders": 2049,
+      "total_smart_orders": 2050,
       "total_days_used": 21,
       "pc_count": 9,
       "devices": {
@@ -1393,7 +1393,7 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.106",
           "app_version": "1.9.24",
-          "last_seen_at": "2026-11-27 13:36:35",
+          "last_seen_at": "2026-11-27 13:36:42",
           "last_action": "Depo Sorgu: PSORCUTAN B %0.005+0.05 30 GR",
           "today_date": "2026-11-27",
           "today_searches": 8,
@@ -1488,22 +1488,17 @@
           "desk_name": "DESKTOP-1N3LQF0",
           "local_ip": "192.168.1.123",
           "app_version": "1.9.24",
-          "last_seen_at": "2026-11-27 13:36:14",
-          "last_action": "Canlı MF Taraması",
+          "last_seen_at": "2026-11-27 13:36:44",
+          "last_action": "Canlı MF Sorgulama (30 Ürün)",
           "today_date": "2026-11-27",
           "today_searches": 0,
           "today_cart_adds": 0,
-          "today_smart_orders": 4,
+          "today_smart_orders": 5,
           "total_searches": 92,
           "total_cart_adds": 48,
-          "total_smart_orders": 141,
+          "total_smart_orders": 142,
           "total_days_used": 14,
           "recent_actions": [
-            {
-              "t": "2026-11-25 16:11:27",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (21 Ürün)"
-            },
             {
               "t": "2026-11-25 16:32:52",
               "type": "critical_stock",
@@ -1573,6 +1568,11 @@
               "t": "2026-11-27 13:36:14",
               "type": "mf_resolve",
               "detail": "Canlı MF Taraması"
+            },
+            {
+              "t": "2026-11-27 13:36:44",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (30 Ürün)"
             }
           ],
           "health": {}
