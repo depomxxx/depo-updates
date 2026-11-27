@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 15:17:13",
+  "updated_at": "2026-11-27 15:17:42",
   "count": 7,
   "items": [
     {
@@ -808,14 +808,14 @@
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.24",
-      "last_seen_at": "2026-11-27 15:17:13",
-      "last_action": "[DESKTOP-OTHNDUE] Depo Fiyat Sorgulama",
+      "last_seen_at": "2026-11-27 15:17:42",
+      "last_action": "[DESKTOP-OTHNDUE] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-27",
-      "today_searches": 49,
-      "today_cart_adds": 29,
+      "today_searches": 52,
+      "today_cart_adds": 30,
       "today_smart_orders": 70,
-      "total_searches": 914,
-      "total_cart_adds": 1558,
+      "total_searches": 917,
+      "total_cart_adds": 1559,
       "total_smart_orders": 2059,
       "total_days_used": 21,
       "pc_count": 9,
@@ -920,37 +920,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.24",
-          "last_seen_at": "2026-11-27 15:17:13",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-27 15:17:42",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-27",
-          "today_searches": 33,
-          "today_cart_adds": 20,
+          "today_searches": 36,
+          "today_cart_adds": 21,
           "today_smart_orders": 43,
-          "total_searches": 286,
-          "total_cart_adds": 681,
+          "total_searches": 289,
+          "total_cart_adds": 682,
           "total_smart_orders": 1045,
           "total_days_used": 20,
           "recent_actions": [
-            {
-              "t": "2026-11-27 13:12:59",
-              "type": "search",
-              "detail": "Depo Sorgu: CIPRO 500 MG 14 FTB."
-            },
-            {
-              "t": "2026-11-27 13:34:01",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-27 13:34:01",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 27 Kalem)"
-            },
-            {
-              "t": "2026-11-27 13:34:08",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-27 13:34:11",
               "type": "cart",
@@ -1005,6 +985,26 @@
               "t": "2026-11-27 15:17:13",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-27 15:17:15",
+              "type": "search",
+              "detail": "Depo Sorgu: KETORAL %2 100 ML SAMP."
+            },
+            {
+              "t": "2026-11-27 15:17:26",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-27 15:17:29",
+              "type": "search",
+              "detail": "Depo Sorgu: CEDRINA 50 MG 30 FTB."
+            },
+            {
+              "t": "2026-11-27 15:17:42",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ],
           "health": {}
