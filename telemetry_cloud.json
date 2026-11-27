@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 17:05:32",
+  "updated_at": "2026-11-27 17:03:52",
   "count": 7,
   "items": [
     {
@@ -805,17 +805,17 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D2E4-AA57-C021",
-      "last_pc_name": "DESKTOP-1N3LQF0",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.24",
-      "last_seen_at": "2026-11-27 17:03:11",
-      "last_action": "[DESKTOP-1N3LQF0] Canlı MF Sorgulama (12 Ürün)",
+      "last_seen_at": "2026-11-27 17:03:52",
+      "last_action": "[DESKTOP-OTHNDUE] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-27",
       "today_searches": 74,
-      "today_cart_adds": 56,
+      "today_cart_adds": 59,
       "today_smart_orders": 76,
       "total_searches": 939,
-      "total_cart_adds": 1585,
+      "total_cart_adds": 1588,
       "total_smart_orders": 2065,
       "total_days_used": 21,
       "pc_count": 9,
@@ -920,27 +920,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.24",
-          "last_seen_at": "2026-11-27 17:02:15",
+          "last_seen_at": "2026-11-27 17:03:52",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-27",
           "today_searches": 44,
-          "today_cart_adds": 36,
+          "today_cart_adds": 39,
           "today_smart_orders": 49,
           "total_searches": 297,
-          "total_cart_adds": 697,
+          "total_cart_adds": 700,
           "total_smart_orders": 1051,
           "total_days_used": 20,
           "recent_actions": [
-            {
-              "t": "2026-11-27 15:19:03",
-              "type": "search",
-              "detail": "Depo Sorgu: PAXERA 40 MG 28 FTB"
-            },
-            {
-              "t": "2026-11-27 15:19:10",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-27 15:19:13",
               "type": "search",
@@ -1003,6 +993,16 @@
             },
             {
               "t": "2026-11-27 17:02:15",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-27 17:02:23",
+              "type": "cart",
+              "detail": "Toplu Sepet (ALLIANCE): 3 Kalem"
+            },
+            {
+              "t": "2026-11-27 17:02:24",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
