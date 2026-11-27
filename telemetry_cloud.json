@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 13:07:53",
+  "updated_at": "2026-11-27 13:10:22",
   "count": 7,
   "items": [
     {
@@ -1917,13 +1917,13 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.9.24",
-      "last_seen_at": "2026-11-27 13:10:00",
+      "last_seen_at": "2026-11-27 13:10:22",
       "last_action": "[DESKTOP-T4EAUS3] Depo Fiyat Sorgulama",
       "today_date": "2026-11-27",
-      "today_searches": 5,
+      "today_searches": 9,
       "today_cart_adds": 5,
       "today_smart_orders": 6,
-      "total_searches": 266,
+      "total_searches": 270,
       "total_cart_adds": 882,
       "total_days_used": 19,
       "total_smart_orders": 707,
@@ -2009,37 +2009,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.9.24",
-          "last_seen_at": "2026-11-27 13:10:00",
+          "last_seen_at": "2026-11-27 13:10:22",
           "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-27",
-          "today_searches": 5,
+          "today_searches": 9,
           "today_cart_adds": 5,
           "today_smart_orders": 6,
-          "total_searches": 164,
+          "total_searches": 168,
           "total_cart_adds": 568,
           "total_smart_orders": 506,
           "total_days_used": 19,
           "recent_actions": [
-            {
-              "t": "2026-11-26 17:10:37",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-26 17:10:38",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-26 17:10:51",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (20 Ürün)"
-            },
-            {
-              "t": "2026-11-27 11:45:11",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-27 11:45:11",
               "type": "mf_resolve",
@@ -2092,6 +2072,26 @@
             },
             {
               "t": "2026-11-27 13:10:00",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-27 13:10:02",
+              "type": "search",
+              "detail": "Depo Sorgu: GREENFOL FOLIK ASIT 30 TABLET"
+            },
+            {
+              "t": "2026-11-27 13:10:05",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-27 13:10:07",
+              "type": "search",
+              "detail": "Depo Sorgu: GREENFOL FOLIK ASIT 30 TABLET"
+            },
+            {
+              "t": "2026-11-27 13:10:22",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
             }
