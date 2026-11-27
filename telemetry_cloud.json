@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 13:49:56",
+  "updated_at": "2026-11-27 13:48:09",
   "count": 7,
   "items": [
     {
@@ -808,14 +808,14 @@
       "hwid": "D719-CEB2-1542",
       "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.9.24",
-      "last_seen_at": "2026-11-27 13:47:38",
-      "last_action": "[DESKTOP-M530BBB] Depo Fiyat Sorgulama",
+      "last_seen_at": "2026-11-27 13:48:09",
+      "last_action": "[DESKTOP-M530BBB] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-27",
-      "today_searches": 45,
-      "today_cart_adds": 27,
+      "today_searches": 46,
+      "today_cart_adds": 28,
       "today_smart_orders": 66,
-      "total_searches": 910,
-      "total_cart_adds": 1556,
+      "total_searches": 911,
+      "total_cart_adds": 1557,
       "total_smart_orders": 2055,
       "total_days_used": 21,
       "pc_count": 9,
@@ -1110,7 +1110,7 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.9.24",
-          "last_seen_at": "2026-11-27 13:47:10",
+          "last_seen_at": "2026-11-27 13:47:50",
           "last_action": "Canlı MF Sorgulama (13 Ürün)",
           "today_date": "2026-11-27",
           "today_searches": 4,
@@ -1393,27 +1393,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.106",
           "app_version": "1.9.24",
-          "last_seen_at": "2026-11-27 13:47:38",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-27 13:48:09",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-27",
-          "today_searches": 11,
-          "today_cart_adds": 7,
+          "today_searches": 12,
+          "today_cart_adds": 8,
           "today_smart_orders": 8,
-          "total_searches": 193,
-          "total_cart_adds": 153,
+          "total_searches": 194,
+          "total_cart_adds": 154,
           "total_smart_orders": 224,
           "total_days_used": 21,
           "recent_actions": [
-            {
-              "t": "2026-11-27 11:04:23",
-              "type": "cart",
-              "detail": "Eczatrend Katılım: AIRCOMB 5/10 MG 30 FTB. x4"
-            },
-            {
-              "t": "2026-11-27 11:05:36",
-              "type": "smart_order",
-              "detail": "Toplu Sipariş Planlama"
-            },
             {
               "t": "2026-11-27 11:05:36",
               "type": "smart_order",
@@ -1478,6 +1468,16 @@
               "t": "2026-11-27 13:47:38",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-27 13:47:45",
+              "type": "search",
+              "detail": "Depo Sorgu: SNOXX-MET 2.5/1000 MG 60 FTB."
+            },
+            {
+              "t": "2026-11-27 13:48:09",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ],
           "health": {}
@@ -1488,7 +1488,7 @@
           "desk_name": "DESKTOP-1N3LQF0",
           "local_ip": "192.168.1.123",
           "app_version": "1.9.24",
-          "last_seen_at": "2026-11-27 13:47:21",
+          "last_seen_at": "2026-11-27 13:48:00",
           "last_action": "Canlı MF Sorgulama (12 Ürün)",
           "today_date": "2026-11-27",
           "today_searches": 0,
