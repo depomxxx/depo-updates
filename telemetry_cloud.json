@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 12:37:01",
+  "updated_at": "2026-11-27 12:35:53",
   "count": 7,
   "items": [
     {
@@ -808,7 +808,7 @@
       "hwid": "D719-CEB2-1542",
       "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.9.24",
-      "last_seen_at": "2026-11-27 12:34:33",
+      "last_seen_at": "2026-11-27 12:35:53",
       "last_action": "[DESKTOP-M530BBB] Depo Sorgu: RUDISTA 85/500 MG 6 TB.",
       "today_date": "2026-11-27",
       "today_searches": 30,
@@ -1392,7 +1392,7 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.106",
           "app_version": "1.9.24",
-          "last_seen_at": "2026-11-27 12:34:33",
+          "last_seen_at": "2026-11-27 12:35:53",
           "last_action": "Depo Sorgu: RUDISTA 85/500 MG 6 TB.",
           "today_date": "2026-11-27",
           "today_searches": 4,
