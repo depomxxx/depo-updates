@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 12:46:15",
+  "updated_at": "2026-11-27 12:44:14",
   "count": 7,
   "items": [
     {
@@ -807,16 +807,16 @@
       "status": "AKTIF",
       "hwid": "8FD3-5823-91F4",
       "last_pc_name": "Eda-Bilgin",
-      "app_version": "1.9.23",
-      "last_seen_at": "2026-11-27 12:43:54",
-      "last_action": "[DESKTOP-M530BBB] Depo Sorgu: RUDISTA 85/500 MG 6 TB.",
+      "app_version": "1.9.24",
+      "last_seen_at": "2026-11-27 12:44:14",
+      "last_action": "[Eda-Bilgin] Canlı MF Taraması",
       "today_date": "2026-11-27",
       "today_searches": 30,
       "today_cart_adds": 21,
-      "today_smart_orders": 41,
+      "today_smart_orders": 43,
       "total_searches": 895,
       "total_cart_adds": 1550,
-      "total_smart_orders": 2030,
+      "total_smart_orders": 2032,
       "total_days_used": 21,
       "pc_count": 9,
       "devices": {
@@ -1014,28 +1014,18 @@
           "pc_name": "Eda-Bilgin",
           "desk_name": "Eda-Bilgin",
           "local_ip": "192.168.1.110",
-          "app_version": "1.9.23",
-          "last_seen_at": "2026-11-27 12:43:54",
-          "last_action": "Program Açık (Canlı)",
+          "app_version": "1.9.24",
+          "last_seen_at": "2026-11-27 12:44:14",
+          "last_action": "Canlı MF Taraması",
           "today_date": "2026-11-27",
           "today_searches": 0,
           "today_cart_adds": 0,
-          "today_smart_orders": 0,
+          "today_smart_orders": 2,
           "total_searches": 82,
           "total_cart_adds": 39,
-          "total_smart_orders": 90,
+          "total_smart_orders": 92,
           "total_days_used": 15,
           "recent_actions": [
-            {
-              "t": "2026-11-24 12:29:32",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-24 12:29:37",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (4 Ürün)"
-            },
             {
               "t": "2026-11-24 13:45:40",
               "type": "critical_stock",
@@ -1100,8 +1090,19 @@
               "t": "2026-11-24 13:47:16",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-27 12:44:00",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-27 12:44:00",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
             }
-          ]
+          ],
+          "health": {}
         },
         "B446-9737-94C4": {
           "hwid": "B446-9737-94C4",
