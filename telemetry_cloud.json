@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 11:38:55",
+  "updated_at": "2026-11-27 11:39:14",
   "count": 7,
   "items": [
     {
@@ -808,13 +808,13 @@
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.24",
-      "last_seen_at": "2026-11-27 11:38:55",
+      "last_seen_at": "2026-11-27 11:39:14",
       "last_action": "[DESKTOP-OTHNDUE] Depo Fiyat Sorgulama",
       "today_date": "2026-11-27",
-      "today_searches": 17,
+      "today_searches": 19,
       "today_cart_adds": 9,
       "today_smart_orders": 15,
-      "total_searches": 882,
+      "total_searches": 884,
       "total_cart_adds": 1538,
       "total_smart_orders": 2004,
       "total_days_used": 21,
@@ -920,27 +920,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.24",
-          "last_seen_at": "2026-11-27 11:38:55",
+          "last_seen_at": "2026-11-27 11:39:14",
           "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-27",
-          "today_searches": 13,
+          "today_searches": 15,
           "today_cart_adds": 4,
           "today_smart_orders": 7,
-          "total_searches": 266,
+          "total_searches": 268,
           "total_cart_adds": 665,
           "total_smart_orders": 1009,
           "total_days_used": 20,
           "recent_actions": [
-            {
-              "t": "2026-11-27 09:33:21",
-              "type": "search",
-              "detail": "Depo Sorgu: AVELOX 400 MG 7 FTB."
-            },
-            {
-              "t": "2026-11-27 10:39:33",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-27 10:39:33",
               "type": "critical_stock",
@@ -1003,6 +993,16 @@
             },
             {
               "t": "2026-11-27 11:38:55",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-27 11:38:58",
+              "type": "search",
+              "detail": "Depo Sorgu: SELECTRA 50 MG 28 FTB"
+            },
+            {
+              "t": "2026-11-27 11:39:14",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
             }
