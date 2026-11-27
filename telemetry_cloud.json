@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 15:18:21",
+  "updated_at": "2026-11-27 15:18:38",
   "count": 7,
   "items": [
     {
@@ -805,17 +805,17 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D2E4-AA57-C021",
-      "last_pc_name": "DESKTOP-1N3LQF0",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.24",
-      "last_seen_at": "2026-11-27 15:18:21",
-      "last_action": "[DESKTOP-1N3LQF0] Canlı MF Sorgulama (12 Ürün)",
+      "last_seen_at": "2026-11-27 15:18:38",
+      "last_action": "[DESKTOP-OTHNDUE] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-27",
       "today_searches": 52,
-      "today_cart_adds": 33,
+      "today_cart_adds": 39,
       "today_smart_orders": 70,
       "total_searches": 917,
-      "total_cart_adds": 1562,
+      "total_cart_adds": 1568,
       "total_smart_orders": 2059,
       "total_days_used": 21,
       "pc_count": 9,
@@ -920,32 +920,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.24",
-          "last_seen_at": "2026-11-27 15:18:00",
-          "last_action": "Toplu Sepet (ALLIANCE): 5 Kalem",
+          "last_seen_at": "2026-11-27 15:18:38",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-27",
           "today_searches": 36,
-          "today_cart_adds": 24,
+          "today_cart_adds": 30,
           "today_smart_orders": 43,
           "total_searches": 289,
-          "total_cart_adds": 685,
+          "total_cart_adds": 691,
           "total_smart_orders": 1045,
           "total_days_used": 20,
           "recent_actions": [
-            {
-              "t": "2026-11-27 13:35:05",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 27 Kalem)"
-            },
-            {
-              "t": "2026-11-27 14:23:04",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
-            {
-              "t": "2026-11-27 14:23:04",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 29 Kalem)"
-            },
             {
               "t": "2026-11-27 15:16:32",
               "type": "critical_stock",
@@ -1005,6 +990,21 @@
               "t": "2026-11-27 15:18:00",
               "type": "cart",
               "detail": "Toplu Sepet (ALLIANCE): 5 Kalem"
+            },
+            {
+              "t": "2026-11-27 15:18:03",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-27 15:18:08",
+              "type": "cart",
+              "detail": "Toplu Sepet (ISKOOP): 1 Kalem"
+            },
+            {
+              "t": "2026-11-27 15:18:12",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ],
           "health": {}
