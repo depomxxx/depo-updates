@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 15:39:01",
+  "updated_at": "2026-11-27 15:37:00",
   "count": 7,
   "items": [
     {
@@ -805,17 +805,17 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D2E4-AA57-C021",
-      "last_pc_name": "DESKTOP-1N3LQF0",
+      "hwid": "D719-CEB2-1542",
+      "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.9.24",
-      "last_seen_at": "2026-11-27 15:36:38",
-      "last_action": "[DESKTOP-1N3LQF0] Canlı MF Sorgulama (12 Ürün)",
+      "last_seen_at": "2026-11-27 15:37:00",
+      "last_action": "[DESKTOP-M530BBB] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-27",
       "today_searches": 60,
-      "today_cart_adds": 44,
+      "today_cart_adds": 45,
       "today_smart_orders": 74,
       "total_searches": 925,
-      "total_cart_adds": 1573,
+      "total_cart_adds": 1574,
       "total_smart_orders": 2063,
       "total_days_used": 21,
       "pc_count": 9,
@@ -1393,22 +1393,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.106",
           "app_version": "1.9.24",
-          "last_seen_at": "2026-11-27 15:36:35",
-          "last_action": "Depo Sorgu: ZANIPRESS 20/10 MG 90 FTB.",
+          "last_seen_at": "2026-11-27 15:37:00",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-27",
           "today_searches": 16,
-          "today_cart_adds": 9,
+          "today_cart_adds": 10,
           "today_smart_orders": 8,
           "total_searches": 198,
-          "total_cart_adds": 155,
+          "total_cart_adds": 156,
           "total_smart_orders": 224,
           "total_days_used": 21,
           "recent_actions": [
-            {
-              "t": "2026-11-27 11:06:05",
-              "type": "search",
-              "detail": "Depo Sorgu: RUDISTA 85/500 MG 6 TB."
-            },
             {
               "t": "2026-11-27 12:53:51",
               "type": "search",
@@ -1478,6 +1473,11 @@
               "t": "2026-11-27 15:36:17",
               "type": "search",
               "detail": "Depo Sorgu: ZANIPRESS 20/10 MG 90 FTB."
+            },
+            {
+              "t": "2026-11-27 15:37:00",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ],
           "health": {}
