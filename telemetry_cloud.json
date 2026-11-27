@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 17:19:02",
+  "updated_at": "2026-11-27 17:21:35",
   "count": 7,
   "items": [
     {
@@ -1918,16 +1918,16 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.9.24",
-      "last_seen_at": "2026-11-27 17:20:10",
+      "last_seen_at": "2026-11-27 17:21:35",
       "last_action": "[DESKTOP-T4EAUS3] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-27",
       "today_searches": 12,
-      "today_cart_adds": 18,
-      "today_smart_orders": 15,
+      "today_cart_adds": 21,
+      "today_smart_orders": 16,
       "total_searches": 273,
-      "total_cart_adds": 895,
+      "total_cart_adds": 898,
       "total_days_used": 19,
-      "total_smart_orders": 716,
+      "total_smart_orders": 717,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -2010,32 +2010,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.9.24",
-          "last_seen_at": "2026-11-27 17:20:10",
+          "last_seen_at": "2026-11-27 17:21:35",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-27",
           "today_searches": 12,
-          "today_cart_adds": 18,
-          "today_smart_orders": 15,
+          "today_cart_adds": 21,
+          "today_smart_orders": 16,
           "total_searches": 171,
-          "total_cart_adds": 581,
-          "total_smart_orders": 515,
+          "total_cart_adds": 584,
+          "total_smart_orders": 516,
           "total_days_used": 19,
           "recent_actions": [
-            {
-              "t": "2026-11-27 16:50:15",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-27 16:50:15",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-27 16:50:17",
-              "type": "cart",
-              "detail": "Sepete Ekle (ALLIANCE): MONOKET 20MG 20 TABLET x9"
-            },
             {
               "t": "2026-11-27 16:50:37",
               "type": "mf_resolve",
@@ -2093,6 +2078,21 @@
             },
             {
               "t": "2026-11-27 17:20:10",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-27 17:20:15",
+              "type": "cart",
+              "detail": "Toplu Sepet (ISKOOP): 1 Kalem"
+            },
+            {
+              "t": "2026-11-27 17:20:18",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (20 Ürün)"
+            },
+            {
+              "t": "2026-11-27 17:20:21",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
