@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 13:07:28",
+  "updated_at": "2026-11-27 13:10:00",
   "count": 7,
   "items": [
     {
@@ -1917,13 +1917,13 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.9.24",
-      "last_seen_at": "2026-11-27 13:09:00",
-      "last_action": "[DESKTOP-T4EAUS3] Canlı MF Sorgulama (3 Ürün)",
+      "last_seen_at": "2026-11-27 13:10:00",
+      "last_action": "[DESKTOP-T4EAUS3] Depo Fiyat Sorgulama",
       "today_date": "2026-11-27",
-      "today_searches": 4,
+      "today_searches": 5,
       "today_cart_adds": 5,
       "today_smart_orders": 6,
-      "total_searches": 265,
+      "total_searches": 266,
       "total_cart_adds": 882,
       "total_days_used": 19,
       "total_smart_orders": 707,
@@ -2009,22 +2009,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.9.24",
-          "last_seen_at": "2026-11-27 13:09:00",
-          "last_action": "Canlı MF Sorgulama (3 Ürün)",
+          "last_seen_at": "2026-11-27 13:10:00",
+          "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-27",
-          "today_searches": 4,
+          "today_searches": 5,
           "today_cart_adds": 5,
           "today_smart_orders": 6,
-          "total_searches": 163,
+          "total_searches": 164,
           "total_cart_adds": 568,
           "total_smart_orders": 506,
           "total_days_used": 19,
           "recent_actions": [
-            {
-              "t": "2026-11-26 17:10:36",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (30 Ürün)"
-            },
             {
               "t": "2026-11-26 17:10:37",
               "type": "mf_resolve",
@@ -2094,6 +2089,11 @@
               "t": "2026-11-27 11:55:00",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (3 Ürün)"
+            },
+            {
+              "t": "2026-11-27 13:10:00",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ],
           "health": {}
