@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 12:22:00",
+  "updated_at": "2026-11-27 12:20:01",
   "count": 7,
   "items": [
     {
@@ -805,18 +805,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D719-CEB2-1542",
-      "last_pc_name": "DESKTOP-M530BBB",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.24",
-      "last_seen_at": "2026-11-27 12:19:24",
-      "last_action": "[DESKTOP-M530BBB] Depo Sorgu: RUDISTA 85/500 MG 6 TB.",
+      "last_seen_at": "2026-11-27 12:20:01",
+      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları Yenileme (TRIA • 28 Kalem)",
       "today_date": "2026-11-27",
       "today_searches": 30,
       "today_cart_adds": 21,
-      "today_smart_orders": 38,
+      "today_smart_orders": 41,
       "total_searches": 895,
       "total_cart_adds": 1550,
-      "total_smart_orders": 2027,
+      "total_smart_orders": 2030,
       "total_days_used": 21,
       "pc_count": 9,
       "devices": {
@@ -920,22 +920,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.24",
-          "last_seen_at": "2026-11-27 12:18:13",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-27 12:20:01",
+          "last_action": "Günün Çıkışları Yenileme (TRIA • 28 Kalem)",
           "today_date": "2026-11-27",
           "today_searches": 26,
           "today_cart_adds": 16,
-          "today_smart_orders": 30,
+          "today_smart_orders": 33,
           "total_searches": 279,
           "total_cart_adds": 677,
-          "total_smart_orders": 1032,
+          "total_smart_orders": 1035,
           "total_days_used": 20,
           "recent_actions": [
-            {
-              "t": "2026-11-27 12:02:49",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-27 12:02:49",
               "type": "critical_stock",
@@ -1005,6 +1000,11 @@
               "t": "2026-11-27 12:18:13",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-27 12:18:13",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 28 Kalem)"
             }
           ],
           "health": {}
