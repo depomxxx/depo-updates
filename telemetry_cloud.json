@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 11:04:23",
+  "updated_at": "2026-11-27 11:05:01",
   "count": 7,
   "items": [
     {
@@ -805,11 +805,11 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D719-CEB2-1542",
-      "last_pc_name": "DESKTOP-M530BBB",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.24",
-      "last_seen_at": "2026-11-27 11:04:23",
-      "last_action": "[DESKTOP-M530BBB] Eczatrend Katılım: AIRCOMB 5/10 MG 30 FTB. x4",
+      "last_seen_at": "2026-11-27 11:05:01",
+      "last_action": "[DESKTOP-OTHNDUE] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-27",
       "today_searches": 8,
       "today_cart_adds": 9,
@@ -920,7 +920,7 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.24",
-          "last_seen_at": "2026-11-27 11:03:31",
+          "last_seen_at": "2026-11-27 11:05:01",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-27",
           "today_searches": 6,
