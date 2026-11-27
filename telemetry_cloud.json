@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 11:52:07",
+  "updated_at": "2026-11-27 11:54:30",
   "count": 7,
   "items": [
     {
@@ -1916,16 +1916,16 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.9.24",
-      "last_seen_at": "2026-11-27 11:53:12",
-      "last_action": "[DESKTOP-T4EAUS3] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-27 11:54:30",
+      "last_action": "[DESKTOP-T4EAUS3] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-27",
       "today_searches": 0,
       "today_cart_adds": 5,
-      "today_smart_orders": 3,
+      "today_smart_orders": 4,
       "total_searches": 261,
       "total_cart_adds": 882,
       "total_days_used": 19,
-      "total_smart_orders": 704,
+      "total_smart_orders": 705,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -2008,22 +2008,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.9.24",
-          "last_seen_at": "2026-11-27 11:53:12",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-27 11:54:30",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-27",
           "today_searches": 0,
           "today_cart_adds": 5,
-          "today_smart_orders": 3,
+          "today_smart_orders": 4,
           "total_searches": 159,
           "total_cart_adds": 568,
-          "total_smart_orders": 503,
+          "total_smart_orders": 504,
           "total_days_used": 19,
           "recent_actions": [
-            {
-              "t": "2026-11-26 17:10:11",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (BOTANIK • 70 Kalem)"
-            },
             {
               "t": "2026-11-26 17:10:11",
               "type": "mf_resolve",
@@ -2093,6 +2088,11 @@
               "t": "2026-11-27 11:46:28",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-27 11:54:30",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ],
           "health": {}
