@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 11:39:14",
+  "updated_at": "2026-11-27 11:39:46",
   "count": 7,
   "items": [
     {
@@ -808,13 +808,13 @@
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.24",
-      "last_seen_at": "2026-11-27 11:39:14",
+      "last_seen_at": "2026-11-27 11:39:46",
       "last_action": "[DESKTOP-OTHNDUE] Depo Fiyat Sorgulama",
       "today_date": "2026-11-27",
-      "today_searches": 19,
+      "today_searches": 21,
       "today_cart_adds": 9,
       "today_smart_orders": 15,
-      "total_searches": 884,
+      "total_searches": 886,
       "total_cart_adds": 1538,
       "total_smart_orders": 2004,
       "total_days_used": 21,
@@ -920,27 +920,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.24",
-          "last_seen_at": "2026-11-27 11:39:14",
+          "last_seen_at": "2026-11-27 11:39:46",
           "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-27",
-          "today_searches": 15,
+          "today_searches": 17,
           "today_cart_adds": 4,
           "today_smart_orders": 7,
-          "total_searches": 268,
+          "total_searches": 270,
           "total_cart_adds": 665,
           "total_smart_orders": 1009,
           "total_days_used": 20,
           "recent_actions": [
-            {
-              "t": "2026-11-27 10:39:33",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 21 Kalem)"
-            },
-            {
-              "t": "2026-11-27 10:39:44",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-27 10:39:59",
               "type": "cart",
@@ -1003,6 +993,16 @@
             },
             {
               "t": "2026-11-27 11:39:14",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-27 11:39:17",
+              "type": "search",
+              "detail": "Depo Sorgu: REDEPRA 15 MG 28 FTB"
+            },
+            {
+              "t": "2026-11-27 11:39:46",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
             }
