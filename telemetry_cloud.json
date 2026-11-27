@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 16:48:43",
+  "updated_at": "2026-11-27 16:51:09",
   "count": 7,
   "items": [
     {
@@ -1918,14 +1918,14 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.9.24",
-      "last_seen_at": "2026-11-27 16:50:37",
-      "last_action": "[DESKTOP-T4EAUS3] Canlı MF Sorgulama (27 Ürün)",
+      "last_seen_at": "2026-11-27 16:51:09",
+      "last_action": "[DESKTOP-T4EAUS3] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-27",
       "today_searches": 12,
-      "today_cart_adds": 9,
+      "today_cart_adds": 10,
       "today_smart_orders": 12,
       "total_searches": 273,
-      "total_cart_adds": 886,
+      "total_cart_adds": 887,
       "total_days_used": 19,
       "total_smart_orders": 713,
       "pc_count": 3,
@@ -2010,22 +2010,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.9.24",
-          "last_seen_at": "2026-11-27 16:50:37",
-          "last_action": "Canlı MF Sorgulama (27 Ürün)",
+          "last_seen_at": "2026-11-27 16:51:09",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-27",
           "today_searches": 12,
-          "today_cart_adds": 9,
+          "today_cart_adds": 10,
           "today_smart_orders": 12,
           "total_searches": 171,
-          "total_cart_adds": 572,
+          "total_cart_adds": 573,
           "total_smart_orders": 512,
           "total_days_used": 19,
           "recent_actions": [
-            {
-              "t": "2026-11-27 13:10:05",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-27 13:10:07",
               "type": "search",
@@ -2095,6 +2090,11 @@
               "t": "2026-11-27 16:50:37",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (27 Ürün)"
+            },
+            {
+              "t": "2026-11-27 16:51:09",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ],
           "health": {}
