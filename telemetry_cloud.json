@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 13:35:45",
+  "updated_at": "2026-11-27 13:36:01",
   "count": 7,
   "items": [
     {
@@ -805,18 +805,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D2E4-AA57-C021",
-      "last_pc_name": "DESKTOP-1N3LQF0",
-      "app_version": "1.9.23",
-      "last_seen_at": "2026-11-27 13:35:45",
-      "last_action": "[DESKTOP-M530BBB] Depo Sorgu: PSORCUTAN B %0.005+0.05 30 GR",
+      "hwid": "B446-9737-94C4",
+      "last_pc_name": "DESKTOP-5PFFU5S",
+      "app_version": "1.9.24",
+      "last_seen_at": "2026-11-27 13:36:01",
+      "last_action": "[DESKTOP-1N3LQF0] Canlı MF Taraması",
       "today_date": "2026-11-27",
       "today_searches": 38,
       "today_cart_adds": 25,
-      "today_smart_orders": 53,
+      "today_smart_orders": 55,
       "total_searches": 903,
       "total_cart_adds": 1554,
-      "total_smart_orders": 2042,
+      "total_smart_orders": 2044,
       "total_days_used": 21,
       "pc_count": 9,
       "devices": {
@@ -1110,16 +1110,16 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.9.24",
-          "last_seen_at": "2026-11-26 18:28:16",
-          "last_action": "Sepete Ekle (ALLIANCE): OTRIVINE MENTOL %O.1 10 ML D x30",
-          "today_date": "2026-11-26",
-          "today_searches": 2,
-          "today_cart_adds": 58,
-          "today_smart_orders": 37,
+          "last_seen_at": "2026-11-27 13:36:01",
+          "last_action": "Program Açık (Canlı)",
+          "today_date": "2026-11-27",
+          "today_searches": 0,
+          "today_cart_adds": 0,
+          "today_smart_orders": 0,
           "total_searches": 109,
           "total_cart_adds": 444,
           "total_smart_orders": 221,
-          "total_days_used": 11,
+          "total_days_used": 12,
           "recent_actions": [
             {
               "t": "2026-11-26 16:04:33",
@@ -1488,27 +1488,17 @@
           "desk_name": "DESKTOP-1N3LQF0",
           "local_ip": "192.168.1.123",
           "app_version": "1.9.23",
-          "last_seen_at": "2026-11-27 13:35:45",
-          "last_action": "Program Açık (Canlı)",
+          "last_seen_at": "2026-11-27 13:35:52",
+          "last_action": "Canlı MF Taraması",
           "today_date": "2026-11-27",
           "today_searches": 0,
           "today_cart_adds": 0,
-          "today_smart_orders": 0,
+          "today_smart_orders": 2,
           "total_searches": 92,
           "total_cart_adds": 48,
-          "total_smart_orders": 137,
+          "total_smart_orders": 139,
           "total_days_used": 14,
           "recent_actions": [
-            {
-              "t": "2026-11-25 16:10:54",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (30 Ürün)"
-            },
-            {
-              "t": "2026-11-25 16:10:54",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
             {
               "t": "2026-11-25 16:11:15",
               "type": "mf_resolve",
@@ -1573,6 +1563,16 @@
               "t": "2026-11-25 16:34:01",
               "type": "mf_resolve",
               "detail": "Canlı MF Sorgulama (6 Ürün)"
+            },
+            {
+              "t": "2026-11-27 13:35:52",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-27 13:35:52",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Taraması"
             }
           ]
         },
