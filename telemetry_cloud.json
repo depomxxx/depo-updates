@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 17:16:51",
+  "updated_at": "2026-11-27 17:19:46",
   "count": 7,
   "items": [
     {
@@ -1918,14 +1918,14 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.9.24",
-      "last_seen_at": "2026-11-27 17:19:01",
+      "last_seen_at": "2026-11-27 17:19:46",
       "last_action": "[DESKTOP-T4EAUS3] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-27",
       "today_searches": 12,
-      "today_cart_adds": 16,
+      "today_cart_adds": 17,
       "today_smart_orders": 12,
       "total_searches": 273,
-      "total_cart_adds": 893,
+      "total_cart_adds": 894,
       "total_days_used": 19,
       "total_smart_orders": 713,
       "pc_count": 3,
@@ -2010,22 +2010,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.9.24",
-          "last_seen_at": "2026-11-27 17:19:01",
+          "last_seen_at": "2026-11-27 17:19:46",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-27",
           "today_searches": 12,
-          "today_cart_adds": 16,
+          "today_cart_adds": 17,
           "today_smart_orders": 12,
           "total_searches": 171,
-          "total_cart_adds": 579,
+          "total_cart_adds": 580,
           "total_smart_orders": 512,
           "total_days_used": 19,
           "recent_actions": [
-            {
-              "t": "2026-11-27 13:28:14",
-              "type": "search",
-              "detail": "Depo Sorgu: CALIRA-MET XR 5/1000 MG 56 FTB"
-            },
             {
               "t": "2026-11-27 16:49:44",
               "type": "critical_stock",
@@ -2093,6 +2088,11 @@
             },
             {
               "t": "2026-11-27 16:52:19",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-27 17:19:46",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
