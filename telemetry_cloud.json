@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 16:51:02",
+  "updated_at": "2026-11-27 16:51:17",
   "count": 7,
   "items": [
     {
@@ -805,16 +805,16 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D2E4-AA57-C021",
-      "last_pc_name": "DESKTOP-1N3LQF0",
+      "hwid": "D719-CEB2-1542",
+      "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.9.24",
-      "last_seen_at": "2026-11-27 16:51:02",
-      "last_action": "[DESKTOP-1N3LQF0] Canlı MF Sorgulama (12 Ürün)",
+      "last_seen_at": "2026-11-27 16:51:17",
+      "last_action": "[DESKTOP-M530BBB] Depo Fiyat Sorgulama",
       "today_date": "2026-11-27",
-      "today_searches": 64,
+      "today_searches": 65,
       "today_cart_adds": 51,
       "today_smart_orders": 74,
-      "total_searches": 929,
+      "total_searches": 930,
       "total_cart_adds": 1580,
       "total_smart_orders": 2063,
       "total_days_used": 21,
@@ -1393,22 +1393,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.106",
           "app_version": "1.9.24",
-          "last_seen_at": "2026-11-27 16:50:53",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-27 16:51:17",
+          "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-27",
-          "today_searches": 20,
+          "today_searches": 21,
           "today_cart_adds": 16,
           "today_smart_orders": 8,
-          "total_searches": 202,
+          "total_searches": 203,
           "total_cart_adds": 162,
           "total_smart_orders": 224,
           "total_days_used": 21,
           "recent_actions": [
-            {
-              "t": "2026-11-27 13:47:10",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-27 13:47:38",
               "type": "search",
@@ -1478,6 +1473,11 @@
               "t": "2026-11-27 15:42:29",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-27 16:51:17",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ],
           "health": {}
