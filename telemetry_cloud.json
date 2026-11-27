@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 15:16:17",
+  "updated_at": "2026-11-27 15:16:32",
   "count": 7,
   "items": [
     {
@@ -800,23 +800,23 @@
       "pharmacist_name": "EDA BİLGİN",
       "phone": "05077034200",
       "city": "SAMSUN/İLKADIM",
-      "gln_no": "8680001112258",
+      "gln_no": "8680001000000",
       "otomasyon": "TRIA",
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "8FD3-5823-91F4",
-      "last_pc_name": "Eda-Bilgin",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.24",
-      "last_seen_at": "2026-11-27 15:16:17",
-      "last_action": "[Eda-Bilgin] Canlı MF Sorgulama (5 Ürün)",
+      "last_seen_at": "2026-11-27 15:16:32",
+      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-27",
       "today_searches": 46,
       "today_cart_adds": 29,
-      "today_smart_orders": 68,
+      "today_smart_orders": 69,
       "total_searches": 911,
       "total_cart_adds": 1558,
-      "total_smart_orders": 2057,
+      "total_smart_orders": 2058,
       "total_days_used": 21,
       "pc_count": 9,
       "devices": {
@@ -920,22 +920,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.24",
-          "last_seen_at": "2026-11-27 15:15:06",
-          "last_action": "Günün Çıkışları Yenileme (TRIA • 29 Kalem)",
+          "last_seen_at": "2026-11-27 15:16:32",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-27",
           "today_searches": 30,
           "today_cart_adds": 20,
-          "today_smart_orders": 41,
+          "today_smart_orders": 42,
           "total_searches": 283,
           "total_cart_adds": 681,
-          "total_smart_orders": 1043,
+          "total_smart_orders": 1044,
           "total_days_used": 20,
           "recent_actions": [
-            {
-              "t": "2026-11-27 13:12:16",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları / Kritik Stok"
-            },
             {
               "t": "2026-11-27 13:12:16",
               "type": "critical_stock",
@@ -1005,6 +1000,11 @@
               "t": "2026-11-27 14:23:04",
               "type": "critical_stock",
               "detail": "Günün Çıkışları Yenileme (TRIA • 29 Kalem)"
+            },
+            {
+              "t": "2026-11-27 15:16:32",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ],
           "health": {}
