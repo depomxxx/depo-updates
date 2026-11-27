@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 13:25:39",
+  "updated_at": "2026-11-27 13:28:11",
   "count": 7,
   "items": [
     {
@@ -1917,13 +1917,13 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.9.24",
-      "last_seen_at": "2026-11-27 13:27:01",
-      "last_action": "[DESKTOP-T4EAUS3] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-27 13:28:11",
+      "last_action": "[DESKTOP-T4EAUS3] Depo Fiyat Sorgulama",
       "today_date": "2026-11-27",
-      "today_searches": 10,
+      "today_searches": 11,
       "today_cart_adds": 7,
       "today_smart_orders": 6,
-      "total_searches": 271,
+      "total_searches": 272,
       "total_cart_adds": 884,
       "total_days_used": 19,
       "total_smart_orders": 707,
@@ -2009,22 +2009,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.9.24",
-          "last_seen_at": "2026-11-27 13:27:01",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-27 13:28:11",
+          "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-27",
-          "today_searches": 10,
+          "today_searches": 11,
           "today_cart_adds": 7,
           "today_smart_orders": 6,
-          "total_searches": 169,
+          "total_searches": 170,
           "total_cart_adds": 570,
           "total_smart_orders": 506,
           "total_days_used": 19,
           "recent_actions": [
-            {
-              "t": "2026-11-27 11:46:07",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (27 Ürün)"
-            },
             {
               "t": "2026-11-27 11:46:26",
               "type": "cart",
@@ -2094,6 +2089,11 @@
               "t": "2026-11-27 13:10:41",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-27 13:28:11",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ],
           "health": {}
