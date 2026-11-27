@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 11:44:32",
+  "updated_at": "2026-11-27 11:45:32",
   "count": 7,
   "items": [
     {
@@ -805,17 +805,17 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D719-CEB2-1542",
-      "last_pc_name": "DESKTOP-M530BBB",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.24",
-      "last_seen_at": "2026-11-27 11:44:32",
-      "last_action": "[DESKTOP-M530BBB] Depo Sorgu: RUDISTA 85/500 MG 6 TB.",
+      "last_seen_at": "2026-11-27 11:45:32",
+      "last_action": "[DESKTOP-OTHNDUE] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-27",
       "today_searches": 30,
-      "today_cart_adds": 18,
+      "today_cart_adds": 21,
       "today_smart_orders": 17,
       "total_searches": 895,
-      "total_cart_adds": 1547,
+      "total_cart_adds": 1550,
       "total_smart_orders": 2006,
       "total_days_used": 21,
       "pc_count": 9,
@@ -920,27 +920,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.24",
-          "last_seen_at": "2026-11-27 11:44:09",
+          "last_seen_at": "2026-11-27 11:45:32",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-27",
           "today_searches": 26,
-          "today_cart_adds": 13,
+          "today_cart_adds": 16,
           "today_smart_orders": 9,
           "total_searches": 279,
-          "total_cart_adds": 674,
+          "total_cart_adds": 677,
           "total_smart_orders": 1011,
           "total_days_used": 20,
           "recent_actions": [
-            {
-              "t": "2026-11-27 11:40:17",
-              "type": "search",
-              "detail": "Depo Sorgu: ATARAX FİLM KAPLI TABLET 25 MG 30 TABL"
-            },
-            {
-              "t": "2026-11-27 11:40:27",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-27 11:40:32",
               "type": "search",
@@ -1003,6 +993,16 @@
             },
             {
               "t": "2026-11-27 11:44:09",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-27 11:44:12",
+              "type": "cart",
+              "detail": "Toplu Sepet (ALLIANCE): 2 Kalem"
+            },
+            {
+              "t": "2026-11-27 11:44:24",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
