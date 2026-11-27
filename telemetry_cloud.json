@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 11:40:32",
+  "updated_at": "2026-11-27 11:40:57",
   "count": 7,
   "items": [
     {
@@ -808,14 +808,14 @@
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.24",
-      "last_seen_at": "2026-11-27 11:40:32",
-      "last_action": "[DESKTOP-OTHNDUE] Depo Sorgu: ULTRACEF 500 MG 20 FTB.",
+      "last_seen_at": "2026-11-27 11:40:57",
+      "last_action": "[DESKTOP-OTHNDUE] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-27",
       "today_searches": 26,
-      "today_cart_adds": 9,
+      "today_cart_adds": 10,
       "today_smart_orders": 15,
       "total_searches": 891,
-      "total_cart_adds": 1538,
+      "total_cart_adds": 1539,
       "total_smart_orders": 2004,
       "total_days_used": 21,
       "pc_count": 9,
@@ -920,22 +920,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.24",
-          "last_seen_at": "2026-11-27 11:40:32",
-          "last_action": "Depo Sorgu: ULTRACEF 500 MG 20 FTB.",
+          "last_seen_at": "2026-11-27 11:40:57",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-27",
           "today_searches": 22,
-          "today_cart_adds": 4,
+          "today_cart_adds": 5,
           "today_smart_orders": 7,
           "total_searches": 275,
-          "total_cart_adds": 665,
+          "total_cart_adds": 666,
           "total_smart_orders": 1009,
           "total_days_used": 20,
           "recent_actions": [
-            {
-              "t": "2026-11-27 11:38:07",
-              "type": "search",
-              "detail": "Depo Sorgu: SECITA 5 MG 28 FTB"
-            },
             {
               "t": "2026-11-27 11:38:35",
               "type": "search",
@@ -1005,6 +1000,11 @@
               "t": "2026-11-27 11:40:32",
               "type": "search",
               "detail": "Depo Sorgu: ULTRACEF 500 MG 20 FTB."
+            },
+            {
+              "t": "2026-11-27 11:40:57",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ],
           "health": {}
