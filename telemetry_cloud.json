@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 16:47:12",
+  "updated_at": "2026-11-27 16:49:44",
   "count": 7,
   "items": [
     {
@@ -1918,16 +1918,16 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.9.24",
-      "last_seen_at": "2026-11-27 16:48:52",
-      "last_action": "[DESKTOP-T4EAUS3] Depo Sorgu: CALIRA-MET XR 5/1000 MG 56 FTB",
+      "last_seen_at": "2026-11-27 16:49:44",
+      "last_action": "[DESKTOP-T4EAUS3] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-27",
       "today_searches": 12,
       "today_cart_adds": 7,
-      "today_smart_orders": 6,
+      "today_smart_orders": 7,
       "total_searches": 273,
       "total_cart_adds": 884,
       "total_days_used": 19,
-      "total_smart_orders": 707,
+      "total_smart_orders": 708,
       "pc_count": 3,
       "devices": {
         "9985-0025-3852": {
@@ -2010,22 +2010,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.9.24",
-          "last_seen_at": "2026-11-27 16:48:52",
-          "last_action": "Depo Sorgu: CALIRA-MET XR 5/1000 MG 56 FTB",
+          "last_seen_at": "2026-11-27 16:49:44",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-27",
           "today_searches": 12,
           "today_cart_adds": 7,
-          "today_smart_orders": 6,
+          "today_smart_orders": 7,
           "total_searches": 171,
           "total_cart_adds": 570,
-          "total_smart_orders": 506,
+          "total_smart_orders": 507,
           "total_days_used": 19,
           "recent_actions": [
-            {
-              "t": "2026-11-27 11:46:28",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-27 11:54:30",
               "type": "critical_stock",
@@ -2095,6 +2090,11 @@
               "t": "2026-11-27 13:28:14",
               "type": "search",
               "detail": "Depo Sorgu: CALIRA-MET XR 5/1000 MG 56 FTB"
+            },
+            {
+              "t": "2026-11-27 16:49:44",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ],
           "health": {}
