@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 15:36:19",
+  "updated_at": "2026-11-27 15:36:28",
   "count": 7,
   "items": [
     {
@@ -805,16 +805,16 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "5834-FAC9-B71F",
-      "last_pc_name": "DESKTOP-OTHNDUE",
+      "hwid": "B446-9737-94C4",
+      "last_pc_name": "DESKTOP-5PFFU5S",
       "app_version": "1.9.24",
-      "last_seen_at": "2026-11-27 15:36:19",
-      "last_action": "[DESKTOP-OTHNDUE] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-27 15:36:28",
+      "last_action": "[DESKTOP-5PFFU5S] Canlı MF Sorgulama (13 Ürün)",
       "today_date": "2026-11-27",
-      "today_searches": 57,
+      "today_searches": 60,
       "today_cart_adds": 44,
       "today_smart_orders": 74,
-      "total_searches": 922,
+      "total_searches": 925,
       "total_cart_adds": 1573,
       "total_smart_orders": 2063,
       "total_days_used": 21,
@@ -1015,7 +1015,7 @@
           "desk_name": "Eda-Bilgin",
           "local_ip": "192.168.1.110",
           "app_version": "1.9.24",
-          "last_seen_at": "2026-11-27 15:35:59",
+          "last_seen_at": "2026-11-27 15:36:17",
           "last_action": "Canlı MF Sorgulama (5 Ürün)",
           "today_date": "2026-11-27",
           "today_searches": 0,
@@ -1110,7 +1110,7 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.9.24",
-          "last_seen_at": "2026-11-27 15:36:08",
+          "last_seen_at": "2026-11-27 15:36:28",
           "last_action": "Canlı MF Sorgulama (13 Ürün)",
           "today_date": "2026-11-27",
           "today_searches": 4,
@@ -1393,32 +1393,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.106",
           "app_version": "1.9.24",
-          "last_seen_at": "2026-11-27 15:36:09",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-27 15:36:26",
+          "last_action": "Depo Sorgu: ZANIPRESS 20/10 MG 90 FTB.",
           "today_date": "2026-11-27",
-          "today_searches": 13,
+          "today_searches": 16,
           "today_cart_adds": 9,
           "today_smart_orders": 8,
-          "total_searches": 195,
+          "total_searches": 198,
           "total_cart_adds": 155,
           "total_smart_orders": 224,
           "total_days_used": 21,
           "recent_actions": [
-            {
-              "t": "2026-11-27 11:05:37",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Taraması"
-            },
-            {
-              "t": "2026-11-27 11:05:44",
-              "type": "mf_resolve",
-              "detail": "Canlı MF Sorgulama (10 Ürün)"
-            },
-            {
-              "t": "2026-11-27 11:05:58",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-27 11:06:05",
               "type": "search",
@@ -1478,6 +1463,21 @@
               "t": "2026-11-27 15:36:09",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-27 15:36:16",
+              "type": "search",
+              "detail": "Depo Sorgu: ZANIPRESS 20/10 MG 90 FTB."
+            },
+            {
+              "t": "2026-11-27 15:36:16",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-27 15:36:17",
+              "type": "search",
+              "detail": "Depo Sorgu: ZANIPRESS 20/10 MG 90 FTB."
             }
           ],
           "health": {}
@@ -1488,7 +1488,7 @@
           "desk_name": "DESKTOP-1N3LQF0",
           "local_ip": "192.168.1.123",
           "app_version": "1.9.24",
-          "last_seen_at": "2026-11-27 15:35:21",
+          "last_seen_at": "2026-11-27 15:36:21",
           "last_action": "Canlı MF Sorgulama (12 Ürün)",
           "today_date": "2026-11-27",
           "today_searches": 0,
