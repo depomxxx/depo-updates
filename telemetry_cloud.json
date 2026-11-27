@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 16:49:13",
+  "updated_at": "2026-11-27 16:51:37",
   "count": 7,
   "items": [
     {
@@ -1918,14 +1918,14 @@
       "hwid": "4F8E-903D-4844",
       "last_pc_name": "DESKTOP-T4EAUS3",
       "app_version": "1.9.24",
-      "last_seen_at": "2026-11-27 16:51:09",
-      "last_action": "[DESKTOP-T4EAUS3] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-27 16:51:37",
+      "last_action": "[DESKTOP-T4EAUS3] Toplu Sepet (ISKOOP): 6 Kalem",
       "today_date": "2026-11-27",
       "today_searches": 12,
-      "today_cart_adds": 10,
+      "today_cart_adds": 13,
       "today_smart_orders": 12,
       "total_searches": 273,
-      "total_cart_adds": 887,
+      "total_cart_adds": 890,
       "total_days_used": 19,
       "total_smart_orders": 713,
       "pc_count": 3,
@@ -2010,32 +2010,17 @@
           "desk_name": "DESKTOP-T4EAUS3",
           "local_ip": "192.168.1.41",
           "app_version": "1.9.24",
-          "last_seen_at": "2026-11-27 16:51:09",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-27 16:51:37",
+          "last_action": "Toplu Sepet (ISKOOP): 6 Kalem",
           "today_date": "2026-11-27",
           "today_searches": 12,
-          "today_cart_adds": 10,
+          "today_cart_adds": 13,
           "today_smart_orders": 12,
           "total_searches": 171,
-          "total_cart_adds": 573,
+          "total_cart_adds": 576,
           "total_smart_orders": 512,
           "total_days_used": 19,
           "recent_actions": [
-            {
-              "t": "2026-11-27 13:10:07",
-              "type": "search",
-              "detail": "Depo Sorgu: GREENFOL FOLIK ASIT 30 TABLET"
-            },
-            {
-              "t": "2026-11-27 13:10:22",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-27 13:10:24",
-              "type": "search",
-              "detail": "Depo Sorgu: SOLIQUA 100 U/50 MCG 3 ML 3 PE"
-            },
             {
               "t": "2026-11-27 13:10:41",
               "type": "cart",
@@ -2095,6 +2080,21 @@
               "t": "2026-11-27 16:51:09",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-27 16:51:21",
+              "type": "cart",
+              "detail": "Toplu Sepet (ALLIANCE): 7 Kalem"
+            },
+            {
+              "t": "2026-11-27 16:51:21",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-27 16:51:37",
+              "type": "cart",
+              "detail": "Toplu Sepet (ISKOOP): 6 Kalem"
             }
           ],
           "health": {}
