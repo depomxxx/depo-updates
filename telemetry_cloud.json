@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 16:58:05",
+  "updated_at": "2026-11-27 16:58:27",
   "count": 7,
   "items": [
     {
@@ -805,17 +805,17 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D719-CEB2-1542",
-      "last_pc_name": "DESKTOP-M530BBB",
+      "hwid": "B446-9737-94C4",
+      "last_pc_name": "DESKTOP-5PFFU5S",
       "app_version": "1.9.24",
-      "last_seen_at": "2026-11-27 16:58:05",
-      "last_action": "[DESKTOP-M530BBB] Depo Fiyat Sorgulama",
+      "last_seen_at": "2026-11-27 16:58:27",
+      "last_action": "[DESKTOP-5PFFU5S] Canlı MF Sorgulama (13 Ürün)",
       "today_date": "2026-11-27",
-      "today_searches": 69,
-      "today_cart_adds": 53,
+      "today_searches": 70,
+      "today_cart_adds": 55,
       "today_smart_orders": 74,
-      "total_searches": 934,
-      "total_cart_adds": 1582,
+      "total_searches": 935,
+      "total_cart_adds": 1584,
       "total_smart_orders": 2063,
       "total_days_used": 21,
       "pc_count": 9,
@@ -1015,7 +1015,7 @@
           "desk_name": "Eda-Bilgin",
           "local_ip": "192.168.1.110",
           "app_version": "1.9.24",
-          "last_seen_at": "2026-11-27 16:57:49",
+          "last_seen_at": "2026-11-27 16:58:17",
           "last_action": "Canlı MF Sorgulama (5 Ürün)",
           "today_date": "2026-11-27",
           "today_searches": 0,
@@ -1110,7 +1110,7 @@
           "desk_name": "DESKTOP-5PFFU5S",
           "local_ip": "192.168.1.124",
           "app_version": "1.9.24",
-          "last_seen_at": "2026-11-27 16:57:50",
+          "last_seen_at": "2026-11-27 16:58:27",
           "last_action": "Canlı MF Sorgulama (13 Ürün)",
           "today_date": "2026-11-27",
           "today_searches": 4,
@@ -1393,27 +1393,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.106",
           "app_version": "1.9.24",
-          "last_seen_at": "2026-11-27 16:58:05",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-27 16:58:22",
+          "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-27",
-          "today_searches": 25,
-          "today_cart_adds": 18,
+          "today_searches": 26,
+          "today_cart_adds": 20,
           "today_smart_orders": 8,
-          "total_searches": 207,
-          "total_cart_adds": 164,
+          "total_searches": 208,
+          "total_cart_adds": 166,
           "total_smart_orders": 224,
           "total_days_used": 21,
           "recent_actions": [
-            {
-              "t": "2026-11-27 15:36:16",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-27 15:36:17",
-              "type": "search",
-              "detail": "Depo Sorgu: ZANIPRESS 20/10 MG 90 FTB."
-            },
             {
               "t": "2026-11-27 15:37:00",
               "type": "cart",
@@ -1478,6 +1468,16 @@
               "t": "2026-11-27 16:58:05",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-27 16:58:12",
+              "type": "search",
+              "detail": "Depo Sorgu: FEVERE 25 MG 50 ML ORAL"
+            },
+            {
+              "t": "2026-11-27 16:58:21",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
           ],
           "health": {}
@@ -1488,7 +1488,7 @@
           "desk_name": "DESKTOP-1N3LQF0",
           "local_ip": "192.168.1.123",
           "app_version": "1.9.24",
-          "last_seen_at": "2026-11-27 16:57:21",
+          "last_seen_at": "2026-11-27 16:58:21",
           "last_action": "Canlı MF Sorgulama (12 Ürün)",
           "today_date": "2026-11-27",
           "today_searches": 0,
