@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 11:03:36",
+  "updated_at": "2026-11-27 11:04:23",
   "count": 7,
   "items": [
     {
@@ -808,14 +808,14 @@
       "hwid": "D719-CEB2-1542",
       "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.9.24",
-      "last_seen_at": "2026-11-27 11:03:36",
-      "last_action": "[DESKTOP-M530BBB] Eczatrend Katılım: B.T ENEMA 135 ML x3",
+      "last_seen_at": "2026-11-27 11:04:23",
+      "last_action": "[DESKTOP-M530BBB] Eczatrend Katılım: AIRCOMB 5/10 MG 30 FTB. x4",
       "today_date": "2026-11-27",
       "today_searches": 8,
-      "today_cart_adds": 8,
+      "today_cart_adds": 9,
       "today_smart_orders": 9,
       "total_searches": 873,
-      "total_cart_adds": 1537,
+      "total_cart_adds": 1538,
       "total_smart_orders": 1998,
       "total_days_used": 21,
       "pc_count": 9,
@@ -1392,22 +1392,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.106",
           "app_version": "1.9.24",
-          "last_seen_at": "2026-11-27 11:03:36",
-          "last_action": "Eczatrend Katılım: B.T ENEMA 135 ML x3",
+          "last_seen_at": "2026-11-27 11:04:23",
+          "last_action": "Eczatrend Katılım: AIRCOMB 5/10 MG 30 FTB. x4",
           "today_date": "2026-11-27",
           "today_searches": 2,
-          "today_cart_adds": 4,
+          "today_cart_adds": 5,
           "today_smart_orders": 4,
           "total_searches": 184,
-          "total_cart_adds": 150,
+          "total_cart_adds": 151,
           "total_smart_orders": 220,
           "total_days_used": 21,
           "recent_actions": [
-            {
-              "t": "2026-11-26 16:36:18",
-              "type": "cart",
-              "detail": "Sepete Ekle (NEVZAT): D-COLEFOR 5.000IU 50KAP. x5"
-            },
             {
               "t": "2026-11-26 16:36:42",
               "type": "cart",
@@ -1477,6 +1472,11 @@
               "t": "2026-11-27 11:00:47",
               "type": "cart",
               "detail": "Eczatrend Katılım: B.T ENEMA 135 ML x3"
+            },
+            {
+              "t": "2026-11-27 11:04:23",
+              "type": "cart",
+              "detail": "Eczatrend Katılım: AIRCOMB 5/10 MG 30 FTB. x4"
             }
           ],
           "health": {}
