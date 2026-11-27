@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 15:19:23",
+  "updated_at": "2026-11-27 15:17:13",
   "count": 7,
   "items": [
     {
@@ -805,18 +805,18 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "D2E4-AA57-C021",
-      "last_pc_name": "DESKTOP-1N3LQF0",
+      "hwid": "5834-FAC9-B71F",
+      "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.24",
-      "last_seen_at": "2026-11-27 15:16:52",
-      "last_action": "[DESKTOP-1N3LQF0] Canlı MF Sorgulama (12 Ürün)",
+      "last_seen_at": "2026-11-27 15:17:13",
+      "last_action": "[DESKTOP-OTHNDUE] Depo Fiyat Sorgulama",
       "today_date": "2026-11-27",
-      "today_searches": 46,
+      "today_searches": 49,
       "today_cart_adds": 29,
-      "today_smart_orders": 69,
-      "total_searches": 911,
+      "today_smart_orders": 70,
+      "total_searches": 914,
       "total_cart_adds": 1558,
-      "total_smart_orders": 2058,
+      "total_smart_orders": 2059,
       "total_days_used": 21,
       "pc_count": 9,
       "devices": {
@@ -920,37 +920,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.24",
-          "last_seen_at": "2026-11-27 15:16:32",
-          "last_action": "Günün Çıkışları / Kritik Stok",
+          "last_seen_at": "2026-11-27 15:17:13",
+          "last_action": "Depo Fiyat Sorgulama",
           "today_date": "2026-11-27",
-          "today_searches": 30,
+          "today_searches": 33,
           "today_cart_adds": 20,
-          "today_smart_orders": 42,
-          "total_searches": 283,
+          "today_smart_orders": 43,
+          "total_searches": 286,
           "total_cart_adds": 681,
-          "total_smart_orders": 1044,
+          "total_smart_orders": 1045,
           "total_days_used": 20,
           "recent_actions": [
-            {
-              "t": "2026-11-27 13:12:16",
-              "type": "critical_stock",
-              "detail": "Günün Çıkışları Yenileme (TRIA • 27 Kalem)"
-            },
-            {
-              "t": "2026-11-27 13:12:31",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-27 13:12:34",
-              "type": "search",
-              "detail": "Depo Sorgu: FERROSANOL DUO 100 MG 20 CAP."
-            },
-            {
-              "t": "2026-11-27 13:12:56",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-27 13:12:59",
               "type": "search",
@@ -1005,6 +985,26 @@
               "t": "2026-11-27 15:16:32",
               "type": "critical_stock",
               "detail": "Günün Çıkışları / Kritik Stok"
+            },
+            {
+              "t": "2026-11-27 15:16:32",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları Yenileme (TRIA • 43 Kalem)"
+            },
+            {
+              "t": "2026-11-27 15:16:41",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-27 15:16:44",
+              "type": "search",
+              "detail": "Depo Sorgu: ZADITEN 1 MG 100 ML SRP."
+            },
+            {
+              "t": "2026-11-27 15:17:13",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
             }
           ],
           "health": {}
