@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28 14:32:56",
+  "updated_at": "2026-11-28 14:33:24",
   "count": 7,
   "items": [
     {
@@ -808,15 +808,15 @@
       "hwid": "5834-FAC9-B71F",
       "last_pc_name": "DESKTOP-OTHNDUE",
       "app_version": "1.9.24",
-      "last_seen_at": "2026-11-28 14:32:56",
-      "last_action": "[DESKTOP-M530BBB] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-28 14:33:24",
+      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları / Kritik Stok",
       "today_date": "2026-11-28",
       "today_searches": 2,
       "today_cart_adds": 2,
-      "today_smart_orders": 3,
+      "today_smart_orders": 5,
       "total_searches": 943,
       "total_cart_adds": 1592,
-      "total_smart_orders": 2068,
+      "total_smart_orders": 2070,
       "total_days_used": 22,
       "pc_count": 9,
       "devices": {
@@ -920,22 +920,17 @@
           "desk_name": "DESKTOP-OTHNDUE",
           "local_ip": "192.168.1.107",
           "app_version": "1.9.24",
-          "last_seen_at": "2026-11-28 14:32:56",
-          "last_action": "Program Açık (Canlı)",
+          "last_seen_at": "2026-11-28 14:33:24",
+          "last_action": "Günün Çıkışları / Kritik Stok",
           "today_date": "2026-11-28",
           "today_searches": 0,
           "today_cart_adds": 0,
-          "today_smart_orders": 0,
+          "today_smart_orders": 2,
           "total_searches": 297,
           "total_cart_adds": 700,
-          "total_smart_orders": 1051,
+          "total_smart_orders": 1053,
           "total_days_used": 21,
           "recent_actions": [
-            {
-              "t": "2026-11-27 15:19:13",
-              "type": "search",
-              "detail": "Depo Sorgu: ABIZOL 5 MG 28 TB."
-            },
             {
               "t": "2026-11-27 15:19:40",
               "type": "cart",
@@ -1005,6 +1000,11 @@
               "t": "2026-11-27 17:02:24",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-28 14:33:02",
+              "type": "critical_stock",
+              "detail": "Günün Çıkışları / Kritik Stok"
             }
           ],
           "health": {}
