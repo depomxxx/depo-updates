@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28 15:41:40",
+  "updated_at": "2026-11-28 15:42:31",
   "count": 7,
   "items": [
     {
@@ -805,17 +805,17 @@
       "plan": "KURUMSAL_SINIRSIZ",
       "expires_at": "2031-10-26",
       "status": "AKTIF",
-      "hwid": "5834-FAC9-B71F",
-      "last_pc_name": "DESKTOP-OTHNDUE",
+      "hwid": "D719-CEB2-1542",
+      "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.9.24",
-      "last_seen_at": "2026-11-28 15:41:40",
-      "last_action": "[DESKTOP-OTHNDUE] Günün Çıkışları Yenileme (TRIA • 11 Kalem)",
+      "last_seen_at": "2026-11-28 15:42:31",
+      "last_action": "[DESKTOP-M530BBB] Eczatrend Katılım: ZALAIN KREM %2 20g tüp/kutu x4",
       "today_date": "2026-11-28",
-      "today_searches": 5,
-      "today_cart_adds": 5,
+      "today_searches": 6,
+      "today_cart_adds": 6,
       "today_smart_orders": 10,
-      "total_searches": 946,
-      "total_cart_adds": 1595,
+      "total_searches": 947,
+      "total_cart_adds": 1596,
       "total_smart_orders": 2075,
       "total_days_used": 22,
       "pc_count": 9,
@@ -1393,27 +1393,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.112",
           "app_version": "1.9.24",
-          "last_seen_at": "2026-11-28 15:41:09",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-28 15:42:31",
+          "last_action": "Eczatrend Katılım: ZALAIN KREM %2 20g tüp/kutu x4",
           "today_date": "2026-11-28",
-          "today_searches": 5,
-          "today_cart_adds": 5,
+          "today_searches": 6,
+          "today_cart_adds": 6,
           "today_smart_orders": 3,
-          "total_searches": 215,
-          "total_cart_adds": 173,
+          "total_searches": 216,
+          "total_cart_adds": 174,
           "total_smart_orders": 227,
           "total_days_used": 22,
           "recent_actions": [
-            {
-              "t": "2026-11-27 16:58:21",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-27 17:06:30",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-27 17:06:37",
               "type": "search",
@@ -1478,6 +1468,16 @@
               "t": "2026-11-28 15:41:09",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-28 15:41:15",
+              "type": "search",
+              "detail": "Depo Sorgu: ZALAIN %2 20 GR KR."
+            },
+            {
+              "t": "2026-11-28 15:41:18",
+              "type": "cart",
+              "detail": "Eczatrend Katılım: ZALAIN KREM %2 20g tüp/kutu x4"
             }
           ],
           "health": {}
