@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28 14:15:14",
+  "updated_at": "2026-11-28 14:15:42",
   "count": 7,
   "items": [
     {
@@ -808,15 +808,15 @@
       "hwid": "D719-CEB2-1542",
       "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.9.24",
-      "last_seen_at": "2026-11-28 14:15:14",
-      "last_action": "[DESKTOP-M530BBB] Depo Fiyat Sorgulama",
+      "last_seen_at": "2026-11-28 14:15:42",
+      "last_action": "[DESKTOP-M530BBB] Canlı MF Sorgulama (28 Ürün)",
       "today_date": "2026-11-28",
-      "today_searches": 1,
+      "today_searches": 2,
       "today_cart_adds": 0,
-      "today_smart_orders": 2,
-      "total_searches": 942,
+      "today_smart_orders": 3,
+      "total_searches": 943,
       "total_cart_adds": 1590,
-      "total_smart_orders": 2067,
+      "total_smart_orders": 2068,
       "total_days_used": 22,
       "pc_count": 9,
       "devices": {
@@ -1393,27 +1393,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.112",
           "app_version": "1.9.24",
-          "last_seen_at": "2026-11-28 14:15:14",
-          "last_action": "Depo Fiyat Sorgulama",
+          "last_seen_at": "2026-11-28 14:15:42",
+          "last_action": "Canlı MF Sorgulama (28 Ürün)",
           "today_date": "2026-11-28",
-          "today_searches": 1,
+          "today_searches": 2,
           "today_cart_adds": 0,
-          "today_smart_orders": 2,
-          "total_searches": 211,
+          "today_smart_orders": 3,
+          "total_searches": 212,
           "total_cart_adds": 168,
-          "total_smart_orders": 226,
+          "total_smart_orders": 227,
           "total_days_used": 22,
           "recent_actions": [
-            {
-              "t": "2026-11-27 15:42:29",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
-            {
-              "t": "2026-11-27 16:51:17",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-27 16:51:24",
               "type": "search",
@@ -1478,6 +1468,16 @@
               "t": "2026-11-28 14:15:14",
               "type": "search",
               "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-28 14:15:22",
+              "type": "search",
+              "detail": "Depo Sorgu: TERAPAS İZLANDA YOSUNU KARA MÜRVER EKS"
+            },
+            {
+              "t": "2026-11-28 14:15:42",
+              "type": "mf_resolve",
+              "detail": "Canlı MF Sorgulama (28 Ürün)"
             }
           ],
           "health": {}
