@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28 15:39:02",
+  "updated_at": "2026-11-28 15:39:56",
   "count": 7,
   "items": [
     {
@@ -808,14 +808,14 @@
       "hwid": "D719-CEB2-1542",
       "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.9.24",
-      "last_seen_at": "2026-11-28 15:39:02",
-      "last_action": "[DESKTOP-M530BBB] Sepete Ürün / Sipariş Aktarımı",
+      "last_seen_at": "2026-11-28 15:39:56",
+      "last_action": "[DESKTOP-M530BBB] Eczatrend Katılım: CANDEXIL PLUS 16/12.5 MG 28 TB x5",
       "today_date": "2026-11-28",
       "today_searches": 4,
-      "today_cart_adds": 4,
+      "today_cart_adds": 5,
       "today_smart_orders": 10,
       "total_searches": 945,
-      "total_cart_adds": 1594,
+      "total_cart_adds": 1595,
       "total_smart_orders": 2075,
       "total_days_used": 22,
       "pc_count": 9,
@@ -1393,22 +1393,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.112",
           "app_version": "1.9.24",
-          "last_seen_at": "2026-11-28 15:39:02",
-          "last_action": "Sepete Ürün / Sipariş Aktarımı",
+          "last_seen_at": "2026-11-28 15:39:56",
+          "last_action": "Eczatrend Katılım: CANDEXIL PLUS 16/12.5 MG 28 TB x5",
           "today_date": "2026-11-28",
           "today_searches": 4,
-          "today_cart_adds": 4,
+          "today_cart_adds": 5,
           "today_smart_orders": 3,
           "total_searches": 214,
-          "total_cart_adds": 172,
+          "total_cart_adds": 173,
           "total_smart_orders": 227,
           "total_days_used": 22,
           "recent_actions": [
-            {
-              "t": "2026-11-27 16:58:05",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
             {
               "t": "2026-11-27 16:58:12",
               "type": "search",
@@ -1478,6 +1473,11 @@
               "t": "2026-11-28 14:55:16",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-28 15:39:56",
+              "type": "cart",
+              "detail": "Eczatrend Katılım: CANDEXIL PLUS 16/12.5 MG 28 TB x5"
             }
           ],
           "health": {}
