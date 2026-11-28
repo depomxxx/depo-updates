@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28 14:54:57",
+  "updated_at": "2026-11-28 14:55:16",
   "count": 7,
   "items": [
     {
@@ -808,14 +808,14 @@
       "hwid": "D719-CEB2-1542",
       "last_pc_name": "DESKTOP-M530BBB",
       "app_version": "1.9.24",
-      "last_seen_at": "2026-11-28 14:54:57",
+      "last_seen_at": "2026-11-28 14:55:16",
       "last_action": "[DESKTOP-M530BBB] Sepete Ürün / Sipariş Aktarımı",
       "today_date": "2026-11-28",
-      "today_searches": 2,
-      "today_cart_adds": 2,
+      "today_searches": 4,
+      "today_cart_adds": 3,
       "today_smart_orders": 6,
-      "total_searches": 943,
-      "total_cart_adds": 1592,
+      "total_searches": 945,
+      "total_cart_adds": 1593,
       "total_smart_orders": 2071,
       "total_days_used": 22,
       "pc_count": 9,
@@ -1393,32 +1393,17 @@
           "desk_name": "DESKTOP-M530BBB",
           "local_ip": "192.168.1.112",
           "app_version": "1.9.24",
-          "last_seen_at": "2026-11-28 14:54:57",
+          "last_seen_at": "2026-11-28 14:55:16",
           "last_action": "Sepete Ürün / Sipariş Aktarımı",
           "today_date": "2026-11-28",
-          "today_searches": 2,
-          "today_cart_adds": 2,
+          "today_searches": 4,
+          "today_cart_adds": 3,
           "today_smart_orders": 3,
-          "total_searches": 212,
-          "total_cart_adds": 170,
+          "total_searches": 214,
+          "total_cart_adds": 171,
           "total_smart_orders": 227,
           "total_days_used": 22,
           "recent_actions": [
-            {
-              "t": "2026-11-27 16:57:06",
-              "type": "search",
-              "detail": "Depo Fiyat Sorgulama"
-            },
-            {
-              "t": "2026-11-27 16:57:12",
-              "type": "search",
-              "detail": "Depo Sorgu: LOCOJEL %0.5 50 GR JEL."
-            },
-            {
-              "t": "2026-11-27 16:57:22",
-              "type": "cart",
-              "detail": "Sepete Ürün / Sipariş Aktarımı"
-            },
             {
               "t": "2026-11-27 16:58:05",
               "type": "search",
@@ -1476,6 +1461,21 @@
             },
             {
               "t": "2026-11-28 14:15:52",
+              "type": "cart",
+              "detail": "Sepete Ürün / Sipariş Aktarımı"
+            },
+            {
+              "t": "2026-11-28 14:55:03",
+              "type": "search",
+              "detail": "Depo Fiyat Sorgulama"
+            },
+            {
+              "t": "2026-11-28 14:55:10",
+              "type": "search",
+              "detail": "Depo Sorgu: DIDOGERON 10 MG 20 FTB."
+            },
+            {
+              "t": "2026-11-28 14:55:16",
               "type": "cart",
               "detail": "Sepete Ürün / Sipariş Aktarımı"
             }
